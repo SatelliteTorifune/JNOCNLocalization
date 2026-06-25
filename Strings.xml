@@ -194,7 +194,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.Orbit.PlusMinusFormat"> (±{0})</s>
    <!-- Rec:10 Max:14 Font:Primary ; orbit property -->
-   <s id="Career.Orbit.Property.Apoapsis">远点</s>
+   <s id="Career.Orbit.Property.Apoapsis">轨道远点</s>
    <!-- Rec:14 Max:20 Font:Primary ; orbit property -->
    <s id="Career.Orbit.Property.Eccentricity">离心率</s>
    <!-- Rec:14 Max:20 Font:Primary ; orbit property -->
@@ -4913,7 +4913,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.Requirements.AltitudeBelow">高度 &lt; {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.Requirements.Apoapsis">远点</s>
+   <s id="Levels.Requirements.Apoapsis">轨道远点</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.Requirements.ApsisEqualFormat">{0} = {1}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5843,7 +5843,7 @@
    <!-- Rec:6 Max:7 Font:Primary ; tool panel spinner value -->
    <s id="Design.ToolPanel.Transform.Direction.World">全局坐标</s>
    <!-- Rec:6 Max:7 Font:Primary ; tool panel spinner value -->
-   <s id="Design.ToolPanel.Transform.Mode.Connected">所有连接部件</s>
+   <s id="Design.ToolPanel.Transform.Mode.Connected">连接部件</s>
    <!-- Rec:6 Max:7 Font:Primary ; tool panel spinner value -->
    <s id="Design.ToolPanel.Transform.Mode.Self">仅自身</s>
    <!-- Rec:6 Max:8 Font:Primary ; tool panel spinner label -->
@@ -6201,7 +6201,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Angular">角加速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Apoapsis">远点</s>
+   <s id="Flight.Inspector.Apoapsis">轨道远点</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.Inspector.AutoPilot">自动导航</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
