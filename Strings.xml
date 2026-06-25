@@ -7938,11 +7938,11 @@
    <!-- Font:Primary -->
    <s id="Modifier.CubemapData.TextureChannel.Alpha">Alpha</s>
    <!-- Font:Primary -->
-   <s id="Modifier.CubemapData.TextureChannel.Blue">Blue</s>
+   <s id="Modifier.CubemapData.TextureChannel.Blue">蓝</s>
    <!-- Font:Primary -->
-   <s id="Modifier.CubemapData.TextureChannel.Green">Green</s>
+   <s id="Modifier.CubemapData.TextureChannel.Green">绿</s>
    <!-- Font:Primary -->
-   <s id="Modifier.CubemapData.TextureChannel.Red">Red</s>
+   <s id="Modifier.CubemapData.TextureChannel.Red">红</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Modifier.CubemapData.TextureChannelBitsPerPixel._32">32 Bits Per Pixel</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -14993,17 +14993,17 @@
    <!-- Rec:1 Max:3 Font:Primary ; currency symbol -->
    <s id="Units.Money.Symbol">$</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.Day">d</s>
+   <s id="Units.Time.Abbrev.Day">天</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.Hour">h</s>
+   <s id="Units.Time.Abbrev.Hour">小时</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.Minute">min</s>
+   <s id="Units.Time.Abbrev.Minute">分钟</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.MinuteCompact">m</s>
+   <s id="Units.Time.Abbrev.MinuteCompact">分钟</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.Second">s</s>
+   <s id="Units.Time.Abbrev.Second">秒</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
-   <s id="Units.Time.Abbrev.Year">y</s>
+   <s id="Units.Time.Abbrev.Year">年</s>
    <!-- Rec:6 Max:8 Font:Primary ; time unit -->
    <s id="Units.Time.Days">天</s>
    <!-- Rec:6 Max:8 Font:Primary ; time unit -->
@@ -15037,9 +15037,9 @@
    <!-- Font:Primary -->
    <s id="Upload.Craft.DescriptionPlaceholder">飞行器描述</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
-   <s id="Upload.Craft.Screenshots.Title">SCREENSHOTS</s>
+   <s id="Upload.Craft.Screenshots.Title">截图</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
-   <s id="Upload.Craft.Title">UPLOAD CRAFT</s>
+   <s id="Upload.Craft.Title">上传作品</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Upload.Craft.UploadButton">上传</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -15218,7 +15218,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Craft.Eccentricity">轨道离心率</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Craft.Grounded">已接地</s>
+   <s id="Vizzy.CraftProperty.Craft.Grounded"></s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Craft.IDToName">名称</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15486,7 +15486,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Misc.CameraUp">用户相机上方向</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Misc.Grounded">已接地</s>
+   <s id="Vizzy.CraftProperty.Misc.Grounded">接地</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Misc.NumStages">分级级数</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16954,7 +16954,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.list-get">获取列表中指定索引处的项目。索引1是列表中的第一项。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.list-index">Gets the item&apos;s index in the list. Index 1 is the first item. If the item isn&apos;t in the list, 0 is returned.</s>
+   <s id="Vizzy.Toolbox.Tooltip.list-index">获取列表中项目的索引。索引1为第一个项目,如果项目不在列表中，则返回0.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.list-init">使用一组逗号分隔的值初始化列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->

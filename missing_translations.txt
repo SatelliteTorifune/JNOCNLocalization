@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 05:06:43
+  missing_translations.txt - 2026-06-26 06:46:21
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -1046,10 +1046,6 @@
   EN: Top
   ZH: (未翻译)
 
-[Crew.State.Unassigned]
-  EN: Unassigned
-  ZH: (未翻译)
-
 [CurveEditor.TangentsLinked]
   EN: Tangents Linked
   ZH: (未翻译)
@@ -1078,48 +1074,16 @@
   EN: OK
   ZH: (未翻译)
 
-[Design.Paint.Detail.Text]
-  EN: Detail
-  ZH: (未翻译)
-
 [Design.PartConnections.ShellSuffix]
   EN: (Shell)
-  ZH: (未翻译)
-
-[Design.PartProperties.Color.Label]
-  EN: Color
-  ZH: (未翻译)
-
-[Design.PartProperties.Mass.Label]
-  EN: Mass
   ZH: (未翻译)
 
 [Design.Performance.DeltaV]
   EN: Delta V
   ZH: (未翻译)
 
-[Design.Staging.Reset]
-  EN: Staging Reset
-  ZH: (未翻译)
-
 [Design.Staging.ThrustToWeightFormat]
   EN: {0}:1
-  ZH: (未翻译)
-
-[Design.StylePart.PartStyle]
-  EN: Part Style
-  ZH: (未翻译)
-
-[Design.StylePart.Style]
-  EN: Style
-  ZH: (未翻译)
-
-[Design.StylePart.StyleSuffix]
-  EN:  Style
-  ZH: (未翻译)
-
-[Design.StylePart.Texture]
-  EN: Texture
   ZH: (未翻译)
 
 [Design.Symmetry.HighSymmetryOkay]
@@ -1230,26 +1194,6 @@
   EN: Auto Rotate Parts
   ZH: (未翻译)
 
-[Design.WingPartProperties.AddControlSurface]
-  EN: Add Control Surface
-  ZH: (未翻译)
-
-[Design.WingPartProperties.SurfaceAdded]
-  EN: Control surface added
-  ZH: (未翻译)
-
-[Design.WingPartProperties.SurfaceDeleted]
-  EN: Deleted Control Surface
-  ZH: (未翻译)
-
-[Design.XmlEdit.NewModifier.InputPlaceholder]
-  EN: MODIFIER NAME
-  ZH: (未翻译)
-
-[Design.XmlEdit.NewModifier.OkayButton]
-  EN: ADD
-  ZH: (未翻译)
-
 [DesignerParts.Eva.Drood.Name]
   EN: Drood
   ZH: (未翻译)
@@ -1276,10 +1220,6 @@
 
 [Flight.Inspector.PIDs]
   EN: PIDs
-  ZH: (未翻译)
-
-[Flight.NavSphere.IndicatorType.South]
-  EN: South
   ZH: (未翻译)
 
 [Flight.NextBurn.DeltaV]
@@ -1354,10 +1294,6 @@
   EN: alpha
   ZH: (未翻译)
 
-[Inspector.Undo.AddedFormat]
-  EN: Added {0}
-  ZH: (未翻译)
-
 [Inspector.Undo.RemovedFormat]
   EN: Removed {0}
   ZH: (未翻译)
@@ -1370,76 +1306,12 @@
   EN: {0} > {1}
   ZH: (未翻译)
 
-[Menu.Contracts.ContextMenu.RefreshContracts]
-  EN: Refresh Contracts
-  ZH: (未翻译)
-
-[Menu.Contracts.ContextMenu.ResetContract]
-  EN: Reset Contract
-  ZH: (未翻译)
-
-[Menu.Contracts.Details.CrewBonusFormat]
-  EN:  + {0} if crewed
-  ZH: (未翻译)
-
-[Menu.Contracts.Details.DescriptionHeader]
-  EN: Description
-  ZH: (未翻译)
-
-[Menu.Contracts.Details.DetailsHeader]
-  EN: DETAILS
-  ZH: (未翻译)
-
 [Menu.Contracts.Details.RequirementsHeader]
   EN: REQUIREMENTS
   ZH: (未翻译)
 
-[Menu.Contracts.Details.TutorialStartButton]
-  EN: START TUTORIAL
-  ZH: (未翻译)
-
-[Menu.Contracts.Flair.Rejected]
-  EN: Rejected
-  ZH: (未翻译)
-
-[Menu.Contracts.Title]
-  EN: CONTRACTS
-  ZH: (未翻译)
-
-[Menu.Education.MoreInfoButton]
-  EN: MORE INFO
-  ZH: (未翻译)
-
-[Menu.Exploration.LandmarksHeader]
-  EN: LANDMARKS
-  ZH: (未翻译)
-
-[Menu.InProgressFlightDialog.KeepButton]
-  EN: Keep Flight
-  ZH: (未翻译)
-
-[Menu.ListView.Loading]
-  EN: LOADING
-  ZH: (未翻译)
-
-[Menu.ListView.NoItemsFound]
-  EN: No items found
-  ZH: (未翻译)
-
-[Menu.LoadGame.LoadButton]
-  EN: LOAD
-  ZH: (未翻译)
-
-[Menu.LoadGame.Title]
-  EN: Load Game
-  ZH: (未翻译)
-
 [Menu.Milestones.DescriptionPlaceholder]
   EN: Description
-  ZH: (未翻译)
-
-[Menu.Milestones.Title]
-  EN: MILESTONES
   ZH: (未翻译)
 
 [Modifier.AddBiome.DataIndexInputDataSlotTooltip]
@@ -1938,14 +1810,6 @@
   EN: The blend type used for the source color (specified in this modifier). This is essentially selecting the value by which the source color will be multiplied.
   ZH: (未翻译)
 
-[Modifier.Common.MaxInputValue]
-  EN: Max Input Value
-  ZH: (未翻译)
-
-[Modifier.Common.MinInputValue]
-  EN: Min Input Value
-  ZH: (未翻译)
-
 [Modifier.Config.AdjustmentValueInnerAngleLabel]
   EN: Inner Angle
   ZH: (未翻译)
@@ -2328,18 +2192,6 @@
 
 [Modifier.CubemapData.TextureChannel.Alpha]
   EN: Alpha
-  ZH: (未翻译)
-
-[Modifier.CubemapData.TextureChannel.Blue]
-  EN: Blue
-  ZH: (未翻译)
-
-[Modifier.CubemapData.TextureChannel.Green]
-  EN: Green
-  ZH: (未翻译)
-
-[Modifier.CubemapData.TextureChannel.Red]
-  EN: Red
   ZH: (未翻译)
 
 [Modifier.CubemapData.TextureChannelBitsPerPixel._32]
@@ -4382,44 +4234,12 @@
   EN: $
   ZH: (未翻译)
 
-[Units.Time.Abbrev.Day]
-  EN: d
-  ZH: (未翻译)
-
-[Units.Time.Abbrev.Hour]
-  EN: h
-  ZH: (未翻译)
-
-[Units.Time.Abbrev.Minute]
-  EN: min
-  ZH: (未翻译)
-
-[Units.Time.Abbrev.MinuteCompact]
-  EN: m
-  ZH: (未翻译)
-
-[Units.Time.Abbrev.Second]
-  EN: s
-  ZH: (未翻译)
-
-[Units.Time.Abbrev.Year]
-  EN: y
-  ZH: (未翻译)
-
 [Units.Velocity.Abbrev.MetersPerSecond]
   EN: m/s
   ZH: (未翻译)
 
 [Units.Velocity.Abbrev.MilesPerHour]
   EN: mph
-  ZH: (未翻译)
-
-[Upload.Craft.Screenshots.Title]
-  EN: SCREENSHOTS
-  ZH: (未翻译)
-
-[Upload.Craft.Title]
-  EN: UPLOAD CRAFT
   ZH: (未翻译)
 
 [Vizzy.CraftProperty.Altitude.AGL]
@@ -4508,9 +4328,5 @@
 
 [Vizzy.Toolbox.Format.op-lte]
   EN: (0:Number) <= (1:Number)
-  ZH: (未翻译)
-
-[Vizzy.Toolbox.Tooltip.list-index]
-  EN: Gets the item's index in the list. Index 1 is the first item. If the item isn't in the list, 0 is returned.
   ZH: (未翻译)
 
