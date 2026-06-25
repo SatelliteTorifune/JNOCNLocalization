@@ -6971,9 +6971,9 @@
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Jetpack.Name">喷气背包</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
-   <s id="Fuel.LH2.Name">液氢</s>
+   <s id="Fuel.LH2.Name">氢</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
-   <s id="Fuel.LOX.Name">液氧</s>
+   <s id="Fuel.LOX.Name">氧</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/CH4.Name">液氧甲烷</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
