@@ -5629,7 +5629,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.MirrorTool.Tooltip">使用镜像工具镜像所选部件。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Symmetry.Mode.Text">Mode</s>
+   <s id="Design.Symmetry.Mode.Text">对称模式</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.OptionDisabled.Description">该部件当前已禁用对称</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5653,7 +5653,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.OptionRadial5.Description">部件以其根为中心径向复制 5 次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Symmetry.OptionRadial5.Name">Radial x 5</s>
+   <s id="Design.Symmetry.OptionRadial5.Name">对称 x 5</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.OptionRadial6.Description">部件以其根为中心径向复制 6 次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5999,9 +5999,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Camera.ImageEffectsNightVision">必须在设置 -> 画质中启用图像效果才能在此摄像机上使用夜视模式。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Camera.LookZoomSwapped">摄像机上下看与缩放已互换。</s>
+   <s id="Flight.Camera.LookZoomSwapped">摄像机上下与缩放已互换。</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
-   <s id="Flight.Camera.Mode.ChaseView">跟踪视图</s>
+   <s id="Flight.Camera.Mode.ChaseView">跟随视图</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
    <s id="Flight.Camera.Mode.DualTargetView">目标取景视图</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
@@ -6021,7 +6021,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
    <s id="Flight.Camera.NoCameraParts">无摄像机部件</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
-   <s id="Flight.Camera.NoCrew">船上无航天员</s>
+   <s id="Flight.Camera.NoCrew">无可用航天员视角</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
    <s id="Flight.Camera.SpaceAligned">空间对齐</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
@@ -6053,7 +6053,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Controls.RollYawSwapped">滚转和偏航输入已交换。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Controls.StageDuringTimeWarp">时间跳跃期间无法激活分级</s>
+   <s id="Flight.Controls.StageDuringTimeWarp">时间加速期间无法激活分级</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.AddedToMoveFormat">已将 {0} 添加到航天员移动</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -6075,7 +6075,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.RemovedFromMoveFormat">已将 {0} 从航天员移动中移除</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Crew.TooFarToEnterFormat">你距离太远（{0:0.0}m）无法进入航天员舱。你必须在 {1}m 以内。</s>
+   <s id="Flight.Crew.TooFarToEnterFormat">距离太远（{0:0.0}m）无法进入航天员舱。必须在 {1}m 以内。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.EndFlight.DistanceTraveled">飞行距离</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
