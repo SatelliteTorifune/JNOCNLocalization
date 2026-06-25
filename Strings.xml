@@ -46,7 +46,8 @@
       budget roughly equal to the length of the English source.
       ============================================================
    -->
-
+   <s id="Ui.PrimaryFontPath">Sans-SC</s>
+   <s id="Ui.HeaderFontStyle">Bold,UpperCase</s>
    <!-- Rec:15 Max:25 Font:Primary ; credits column header on the About screen -->
    <s id="About.Assets">资源</s>
    <!-- Rec:18 Max:30 Font:Primary ; credits column header on the About screen -->
@@ -9629,9 +9630,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.FlightProgramData.MaxInstructionsPerFrame.Tooltip">提高此值可让程序每帧运行更多指令。提高滑块将大幅增加功耗。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.FlightProgramData.OutputToDevConsole.Label">输出至开发控制台</s>
+   <s id="Parts.FlightProgramData.OutputToDevConsole.Label">输出至控制台</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.FlightProgramData.OutputToDevConsole.Tooltip">若启用,此程序生成的日志消息将重定向至开发控制台。</s>
+   <s id="Parts.FlightProgramData.OutputToDevConsole.Tooltip">若启用,此程序生成的日志消息将重定向至开发者控制台。</s>
    <!-- Rec:10 Max:14 Font:Primary ; button label -->
    <s id="Parts.FlightProgramScript.ClearLog">清空日志</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -9647,7 +9648,7 @@
    <!-- Rec:14 Max:18 Font:Primary ; status label -->
    <s id="Parts.FlightProgramScript.OutOfBatteryShort">电量耗尽。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.FlightProgramScript.OutputDevConsole">输出开发控制台</s>
+   <s id="Parts.FlightProgramScript.OutputDevConsole">输出至控制台</s>
    <!-- Rec:14 Max:18 Font:Primary ; status label -->
    <s id="Parts.FlightProgramScript.Paused">已暂停。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10007,7 +10008,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.Slip">滑移</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.InspectorModel.SpoolTime">加速时间</s>
+   <s id="Parts.InspectorModel.SpoolTime">响应时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.InspectorModel.SpoolTime.Tooltip">发动机从0%油门加速到100%油门所需的时间。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
