@@ -46,8 +46,6 @@
       budget roughly equal to the length of the English source.
       ============================================================
    -->
-   <s id="Ui.PrimaryFontPath">Sans-SC</s>
-   <s id="Ui.HeaderFontStyle">Bold,UpperCase</s>
    <!-- Rec:15 Max:25 Font:Primary ; credits column header on the About screen -->
    <s id="About.Assets">资源</s>
    <!-- Rec:18 Max:30 Font:Primary ; credits column header on the About screen -->
@@ -4867,7 +4865,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Teleport.UpDistanceFormat">向上传送了 {0}m</s>
    <!-- Rec:6 Max:10 Font:Primary ; legacy time-warp button label -->
-   <s id="Flight.TimeManager.Warp">WARP</s>
+   <s id="Flight.TimeManager.Warp">时间加速</s>
    <!-- Rec:2 Max:4 Font:Primary ; day abbrev shown in >365 days format -->
    <s id="Flight.TimePanel.MissionTime.DayAbbrLong">日</s>
    <!-- Rec:2 Max:4 Font:Primary ; year abbrev shown in >365 days format -->
@@ -5602,7 +5600,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.BreakSymmetry.Tooltip">打破所选部件的对称。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Symmetry.HighSymmetryOkay">Sure</s>
+   <s id="Design.Symmetry.HighSymmetryOkay">好啊</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.HighSymmetryWarning">你正尝试使用 x{0} 的对称。&lt;br&gt;你确定这是一个好主意吗?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5688,13 +5686,13 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.VeryHighSymmetryWarning">百分百确定吗?{0} 听起来有点多。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToggleFingerAid.Tooltip">Toggle Finger Aid Tool</s>
+   <s id="Design.ToggleFingerAid.Tooltip">开关触控辅助工具</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.AddSection.Text">Add Section</s>
+   <s id="Design.ToolPanel.FuselageShape.AddSection.Text">增加段</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToolPanel.FuselageShape.ChangePartSelection.Tooltip">Change part selection</s>
+   <s id="Design.ToolPanel.FuselageShape.ChangePartSelection.Tooltip">更换所选零件</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToolPanel.FuselageShape.ChangeSelection.Tooltip">Change selection</s>
+   <s id="Design.ToolPanel.FuselageShape.ChangeSelection.Tooltip">更换所选</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.FuselageShape.Clamp1.Text">Clamp 1</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
@@ -5718,17 +5716,17 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.FuselageShape.CurveOverride.Text">Curve Override</s>
    <!-- Rec:5 Max:7 Font:Primary ; tool panel spinner label -->
-   <s id="Design.ToolPanel.FuselageShape.Depth.Text">Depth</s>
+   <s id="Design.ToolPanel.FuselageShape.Depth.Text">深度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.Depth.Tooltip">部件横截面的深度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.GridSize.Tooltip">每次步进移动的距离</s>
    <!-- Rec:5 Max:7 Font:Primary ; tool panel spinner label -->
-   <s id="Design.ToolPanel.FuselageShape.Length.Text">Length</s>
+   <s id="Design.ToolPanel.FuselageShape.Length.Text">长度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.Length.Tooltip">部件的长度</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.NoShapePartSelected.Text">No shapable part selected</s>
+   <s id="Design.ToolPanel.FuselageShape.NoShapePartSelected.Text">未选中可塑性部件</s>
    <!-- Rec:5 Max:7 Font:Primary ; tool panel spinner label -->
    <s id="Design.ToolPanel.FuselageShape.Offset.X.Text">Run</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5748,11 +5746,11 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.FuselageShape.Title">Part Shape Tool</s>
    <!-- Rec:5 Max:7 Font:Primary ; tool panel spinner label -->
-   <s id="Design.ToolPanel.FuselageShape.Width.Text">Width</s>
+   <s id="Design.ToolPanel.FuselageShape.Width.Text">宽度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.Width.Tooltip">部件横截面的宽度</s>
    <!-- Rec:6 Max:8 Font:Primary ; tool panel slider label -->
-   <s id="Design.ToolPanel.MovePart.AngleSnap.Text">Angle Snap</s>
+   <s id="Design.ToolPanel.MovePart.AngleSnap.Text">吸附角度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.MovePart.AngleSnap.Tooltip">按离散角度将部件附加到机身</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
@@ -5760,11 +5758,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.MovePart.AttachToSurfaces.Tooltip">允许将部分部件直接附加到表面。</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.MovePart.AutoResizeParts.Text">Auto Resize Parts</s>
+   <s id="Design.ToolPanel.MovePart.AutoResizeParts.Text">自动调整尺寸</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.MovePart.AutoResizeParts.Tooltip">在部件相互连接时自动调整它们的大小以匹配。</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.MovePart.AutoRotateParts.Text">Auto Rotate Parts</s>
+   <s id="Design.ToolPanel.MovePart.AutoRotateParts.Text">自动旋转部件</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.MovePart.AutoRotateParts.Tooltip">在建议部件连接时,允许部件旋转到位。</s>
    <!-- Rec:6 Max:8 Font:Primary ; tool panel spinner label -->
@@ -6301,6 +6299,10 @@
    <s id="Flight.Inspector.Options">选项</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Orbital">轨道</s>
+   <!--  -->
+   <s id="Flight.Inspector.OverrideHeading.Tooltip">将此部件的方向作为飞行器的前进控制方向。</s>
+   <!--  -->
+   <s id="Flight.Inspector.OverrideHeading.Message">控制方向已更新</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.Inspector.Performance">性能</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7707,6 +7709,10 @@
    <s id="Modifier.Clouds.RotationSpeedLabel">Rotation Speed (rad/s)</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.Clouds.RotationSpeedTooltip">The rotation speed of the layer in radians per second, applied in addition to the planet's own rotation.</s>
+   <!--  -->
+   <s id="Modifier.Clouds.TerrainDisplacementTooltip">How strongly this layer follows the terrain height, lifting it over high ground so low clouds do not clip into elevated terrain (0 = flat shell, 1 = fully follows the terrain).</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Modifier.Clouds.TerrainDisplacementLabel">Terrain Follow</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Modifier.Clouds.TintLabel">Tint</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9545,6 +9551,10 @@
    <s id="Parts.EvaChairData.LeftHandTarget.Label">左手</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.EvaChairData.LeftHandTarget.Tooltip">用于定位左手位置和旋转的零件ID</s>
+   <!--  -->
+   <s id="Parts.EvaChairData.LimbOnPart.Format">{0} on Part {1}</s>
+   <!-- Rec:16 Max:20 Font:Primary ; large button label -->
+   <s id="Parts.EvaChairData.LeftKnee.Label">Left Knee</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Parts.EvaChairData.RightElbow.Label">右肘</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -14958,11 +14968,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Ui.AxisCalibrator.ZeroPrompt">将{0}居中或归零,然后按下任意按钮或等待计时器结束。</s>
    <!-- Font:Primary -->
-   <s id="Ui.HeaderFontPath">Ui/Fonts/Pirulen/pirulen rg SDF</s>
+   <s id="Ui.HeaderFontPath">Sans-SC</s>
    <!-- Font:Primary -->
    <s id="Ui.HeaderFontStyle">Normal</s>
    <!-- Font:Primary -->
-   <s id="Ui.PrimaryFontPath">Ui/Fonts/Roboto/Roboto-Regular SDF</s>
+   <s id="Ui.PrimaryFontPath">Sans-SC</s>
    <!-- Rec:20 Max:22 ; property label -->
    <!-- Rec:5 Max:7 Font:Primary ; acceleration unit abbreviation -->
    <s id="Units.Acceleration.Abbrev.FeetPerSecondSquared">ft/s2</s>
@@ -15194,11 +15204,19 @@
    <!-- Font:Primary -->
    <s id="Utilities.RelativeDate.Yesterday">昨天</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Altitude.AGL">AGL</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Altitude.ASF">海床高度</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Altitude.ASL">ASL</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Atmosphere.AirDensity">空气密度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Atmosphere.AirPressure">大气压</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Atmosphere.Elements">元素</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Atmosphere.Composition">组分</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Atmosphere.SpeedOfSound">音速</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15322,7 +15340,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.DisplayToLocal">显示坐标转局部</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Event.Drag">Drag</s>
+   <s id="Vizzy.CraftProperty.Mfd.Event.Drag">拖动</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Event.PointerClick">点击</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->

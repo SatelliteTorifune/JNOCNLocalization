@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 06:46:21
+  missing_translations.txt - 2026-06-26 06:57:00
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -1086,26 +1086,6 @@
   EN: {0}:1
   ZH: (未翻译)
 
-[Design.Symmetry.HighSymmetryOkay]
-  EN: Sure
-  ZH: (未翻译)
-
-[Design.ToggleFingerAid.Tooltip]
-  EN: Toggle Finger Aid Tool
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.AddSection.Text]
-  EN: Add Section
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.ChangePartSelection.Tooltip]
-  EN: Change part selection
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.ChangeSelection.Tooltip]
-  EN: Change selection
-  ZH: (未翻译)
-
 [Design.ToolPanel.FuselageShape.Clamp1.Text]
   EN: Clamp 1
   ZH: (未翻译)
@@ -1146,18 +1126,6 @@
   EN: Curve Override
   ZH: (未翻译)
 
-[Design.ToolPanel.FuselageShape.Depth.Text]
-  EN: Depth
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.Length.Text]
-  EN: Length
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.NoShapePartSelected.Text]
-  EN: No shapable part selected
-  ZH: (未翻译)
-
 [Design.ToolPanel.FuselageShape.Offset.X.Text]
   EN: Run
   ZH: (未翻译)
@@ -1178,22 +1146,6 @@
   EN: Part Shape Tool
   ZH: (未翻译)
 
-[Design.ToolPanel.FuselageShape.Width.Text]
-  EN: Width
-  ZH: (未翻译)
-
-[Design.ToolPanel.MovePart.AngleSnap.Text]
-  EN: Angle Snap
-  ZH: (未翻译)
-
-[Design.ToolPanel.MovePart.AutoResizeParts.Text]
-  EN: Auto Resize Parts
-  ZH: (未翻译)
-
-[Design.ToolPanel.MovePart.AutoRotateParts.Text]
-  EN: Auto Rotate Parts
-  ZH: (未翻译)
-
 [DesignerParts.Eva.Drood.Name]
   EN: Drood
   ZH: (未翻译)
@@ -1208,14 +1160,6 @@
 
 [Flight.CrewCompartment.MoveCannotFormat]
   EN: Cannot move crew from {0}#{1}, because {2}
-  ZH: (未翻译)
-
-[Flight.Inspector.OverrideHeading.Message]
-  EN: Control direction updated.
-  ZH: (未翻译)
-
-[Flight.Inspector.OverrideHeading.Tooltip]
-  EN: Use this part's direction as the craft's forward (control) direction.
   ZH: (未翻译)
 
 [Flight.Inspector.PIDs]
@@ -1236,10 +1180,6 @@
 
 [Flight.RunBenchmarkButton.Text]
   EN: RUN BENCHMARK
-  ZH: (未翻译)
-
-[Flight.TimeManager.Warp]
-  EN: WARP
   ZH: (未翻译)
 
 [Flight.TimePanel.Reverse]
@@ -4166,16 +4106,8 @@
   EN: MSAA x8
   ZH: (未翻译)
 
-[Ui.HeaderFontPath]
-  EN: Ui/Fonts/Pirulen/pirulen rg SDF
-  ZH: (未翻译)
-
 [Ui.HeaderFontStyle]
   EN: Normal
-  ZH: (未翻译)
-
-[Ui.PrimaryFontPath]
-  EN: Ui/Fonts/Roboto/Roboto-Regular SDF
   ZH: (未翻译)
 
 [Units.Acceleration.Abbrev.FeetPerSecondSquared]
@@ -4250,14 +4182,6 @@
   EN: ASL
   ZH: (未翻译)
 
-[Vizzy.CraftProperty.Atmosphere.Composition]
-  EN: Composition
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Atmosphere.Elements]
-  EN: Elements
-  ZH: (未翻译)
-
 [Vizzy.CraftProperty.Craft.NameToID]
   EN: ID
   ZH: (未翻译)
@@ -4272,10 +4196,6 @@
 
 [Vizzy.CraftProperty.Mfd.Create.Map]
   EN: Map
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Mfd.Event.Drag]
-  EN: Drag
   ZH: (未翻译)
 
 [Vizzy.CraftProperty.Mfd.Event.PointerUp]
