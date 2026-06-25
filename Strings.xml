@@ -1911,7 +1911,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.recovery.Name">一网打尽</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Nodes.staging.Name">检查你的分级</s>
+   <s id="Career.TechTree.Nodes.staging.Name">检查分级</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.liquidengine1.Name">化学大师</s>
    <!-- Font:Primary -->
@@ -1983,7 +1983,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.motor.Name">推动空气</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Nodes.jets2.Name">超级乘飞机</s>
+   <s id="Career.TechTree.Nodes.jets2.Name">超级电风扇</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.landgear2.Name">外小内大之轮</s>
    <!-- Font:Primary -->
@@ -2045,7 +2045,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.hybrid.Name">单级入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Nodes.jets4.Name">引爆</s>
+   <s id="Career.TechTree.Nodes.jets4.Name">音爆</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.jets5.Name">商业飞行</s>
    <!-- Font:Primary -->
@@ -2951,7 +2951,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#0.StepText.StepText">等助推器燃料耗尽。下一步会在大约 6 公里 AGL 时发生,所以放松一点,但也别太放松。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#1.Text">%ActivateInstruction% 激活你的第二级。记得把油门拉满,这可不是固体发动机了。</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#1.Text">%ActivateInstruction% 激活你的第二级。记得把节流阀拉满,这可不是固体发动机了。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#3.StepText.StepText">你的火箭现在会开始倾斜,这很重要——要进入轨道,你需要向侧面飞得非常快。</s>
    <!-- Font:Primary -->
@@ -2995,7 +2995,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-TheJump.SurfaceDistance.Controls#3.StepText">果然滚转没用,现在看看前轮——我们用偏航试试。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-TheJump.SurfaceDistance.Controls#4.Button.StepText">有时你会发现车轮输入被设成了油门,但那没法倒车。我们用俯仰代替。</s>
+   <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-TheJump.SurfaceDistance.Controls#4.Button.StepText">有时你会发现车轮输入被设成了节流阀,但那没法倒车。我们用俯仰代替。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-TheJump.SurfaceDistance.Controls#7.StepText">如果你想要更精细的控制,或者把某个输入固定在某个值,可以使用输入滑块。</s>
    <!-- Font:Primary -->
@@ -3023,7 +3023,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#3.StepText">滚转输入让你把飞机向一侧倾斜。和俯仰配合使用,就可以转弯。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#4.StepText">把油门推到最大以加速,尽量保持直线,因为起飞后你就没有推进来源了。</s>
+   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#4.StepText">把节流阀推到最大以加速,尽量保持直线,因为起飞后你就没有推进来源了。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Location-Droo.Village.RunwayEnd.Description">滚到跑道尽头</s>
    <!-- Font:Primary -->
@@ -4167,7 +4167,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.MaxStagesReachedFormat">你已达到最大级数。{0}</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Staging.Reset">Staging Reset</s>
+   <s id="Design.Staging.Reset">重置分级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.ResetConfirm">这将重置你对分级所做的所有更改。请确认要重置你的分级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4175,13 +4175,13 @@
    <!-- Format Font:Primary ; thrust-to-weight ratio shown in the staging panel; {0} is the formatted ratio number -->
    <s id="Design.Staging.ThrustToWeightFormat">{0}:1</s>
    <!-- Rec:14 Max:20 Font:Primary ; spinner label -->
-   <s id="Design.StylePart.PartStyle">Part Style</s>
+   <s id="Design.StylePart.PartStyle">部件风格</s>
    <!-- Rec:14 Max:20 Font:Primary ; spinner label -->
-   <s id="Design.StylePart.Style">Style</s>
+   <s id="Design.StylePart.Style">风格</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.StylePart.StyleSuffix"> Style</s>
+   <s id="Design.StylePart.StyleSuffix"> 风格</s>
    <!-- Rec:14 Max:20 Font:Primary ; label -->
-   <s id="Design.StylePart.Texture">Texture</s>
+   <s id="Design.StylePart.Texture">材质</s>
    <!-- Rec:20 Max:28 ; button label -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Symmetry.MultipleAttachpoints">所选部件通过多于一个连接点连接到飞行器,请确保只通过一个连接点连接才能应用对称。</s>
@@ -4190,22 +4190,22 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Symmetry.NotOnRootPart">主指令舱不能使用对称。</s>
    <!-- Font:Primary -->
-   <s id="Design.WingPartProperties.AddControlSurface">Add Control Surface</s>
+   <s id="Design.WingPartProperties.AddControlSurface">添加控制舵面</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.WingPartProperties.LimitReached">你已达到控制舵面数量上限,可以在科技树中解锁更多</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.WingPartProperties.NoRoom">没有空间添加更多控制舵面</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.WingPartProperties.SurfaceAdded">Control surface added</s>
+   <s id="Design.WingPartProperties.SurfaceAdded">已增加控制舵面</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.WingPartProperties.SurfaceDeleted">Deleted Control Surface</s>
+   <s id="Design.WingPartProperties.SurfaceDeleted">删除控制舵面</s>
    <!-- Tooltip ; no length limit -->
    <!-- Rec:14 Max:20 Font:Primary ; input placeholder -->
-   <s id="Design.XmlEdit.NewModifier.InputPlaceholder">MODIFIER NAME</s>
+   <s id="Design.XmlEdit.NewModifier.InputPlaceholder">属性名</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.XmlEdit.NewModifier.Message">为 MODIFIER 命名\n\n你所有未保存的更改都将丢失</s>
+   <s id="Design.XmlEdit.NewModifier.Message">为属性命名\n\n你所有未保存的更改都将丢失</s>
    <!-- Rec:4 Max:8 Font:Primary ; modifier dialog OK button -->
-   <s id="Design.XmlEdit.NewModifier.OkayButton">ADD</s>
+   <s id="Design.XmlEdit.NewModifier.OkayButton">增加</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.XmlEdit.RemoveModifier.Message">移除一个必要的 modifier 可能让你的载具无法使用。确定要移除吗?</s>
    <!-- Toast ; no length limit -->
@@ -4255,11 +4255,11 @@
   <!-- Font:Primary -->
   <s id="DesignerParts.CommandPod1.CommandPod.Description">控制飞行器。每个火箭必须至少有一个指令舱。此指令舱内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod2.xml -->
-  <s id="DesignerParts.CommandPod2.KomodoCommandPod.Name">科莫多指令舱</s>
+  <s id="DesignerParts.CommandPod2.KomodoCommandPod.Name">科莫多 指令舱</s>
   <!-- Font:Primary -->
   <s id="DesignerParts.CommandPod2.KomodoCommandPod.Description">包含少量燃料和内置发动机的太空舱。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod3.xml -->
-   <s id="DesignerParts.CommandPod3.PatriotCapsule.Name">爱国者号太空舱</s>
+   <s id="DesignerParts.CommandPod3.PatriotCapsule.Name">爱国者 太空舱</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.CommandPod3.PatriotCapsule.Description">比其他替代品有更多空间的太空舱。如果你热爱你的国家,而且有钱的话,这是个不错的选择。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod4.xml -->
@@ -4267,11 +4267,11 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.CommandPod4.SpaceCapsule.Description">控制飞行器。每个火箭必须至少有一个太空舱或指令芯片。内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod5.xml -->
-  <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Name">弗洛兹太空舱</s>
+  <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Name">弗洛兹 太空舱</s>
   <!-- Font:Primary -->
   <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Description">控制飞行器。每个火箭必须至少有一个太空舱或指令芯片。此太空舱内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod6.xml -->
-   <s id="DesignerParts.CommandPod6.VrozOrbitalModule.Name">弗洛兹轨道舱</s>
+   <s id="DesignerParts.CommandPod6.VrozOrbitalModule.Name">弗洛兹 轨道舱</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.CommandPod6.VrozOrbitalModule.Description">球形太空舱,非常适合安装在弗洛兹着陆舱上方,如果你想带更多人进入太空的话。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CrewCompartment.xml -->
@@ -4303,15 +4303,15 @@
   <!-- Font:Primary -->
   <s id="DesignerParts.ElectricMotor2.ElectricMotor.Description">可以连续旋转部件的电机。使用电力。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Engine1.xml -->
-   <s id="DesignerParts.Engine1.MageIEngine.Name">法师I型发动机</s>
+   <s id="DesignerParts.Engine1.MageIEngine.Name">法师I 型发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.Engine1.MageIEngine.Description">可用于起飞和轨道的强力发动机。用于在卫星上着陆不是好选择。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Engine2.xml -->
-   <s id="DesignerParts.Engine2.PixieIEngine.Name">小精灵I型发动机</s>
+   <s id="DesignerParts.Engine2.PixieIEngine.Name">小精灵I 型发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.Engine2.PixieIEngine.Description">功率较低的发动机,适合用于上面级和在小型天体上着陆。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Engine3.xml -->
-  <s id="DesignerParts.Engine3.ApexIEngine.Name">顶点I型发动机</s>
+  <s id="DesignerParts.Engine3.ApexIEngine.Name">顶点I 型发动机</s>
   <!-- Font:Primary -->
   <s id="DesignerParts.Engine3.ApexIEngine.Description">它又重又贵,跟不要命一样消耗RP-1,但它有足够的动力把你那些设计糟糕的玩意儿送入太空。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Eva-Tourist.xml -->
@@ -4392,31 +4392,31 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.Inlet1.Inlet.Description">进气口为喷气发动机吸入空气。确保进气口前端没有被其他部件挡住,因为这会阻碍气流。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from IonEngine1.xml -->
-   <s id="DesignerParts.IonEngine1.IonEngine.Name">离子发动机</s>
+   <s id="DesignerParts.IonEngine1.IonEngine.Name">离子 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.IonEngine1.IonEngine.Description">极低功率、高效率的发动机,以近50km/s的速度喷射离子。需要电力。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from JetEngine1.xml -->
-   <s id="DesignerParts.JetEngine1.PegasusEngine.Name">天马座发动机</s>
+   <s id="DesignerParts.JetEngine1.PegasusEngine.Name">天马座 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.JetEngine1.PegasusEngine.Description">高涵道比涡扇发动机是燃油效率最高的喷气发动机类型,更常见于注重成本的客机上。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.JetEngine1.GriffinEngine.Name">狮鹫发动机</s>
+   <s id="DesignerParts.JetEngine1.GriffinEngine.Name">狮鹫 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.JetEngine1.GriffinEngine.Description">低涵道比涡扇发动机,以燃油效率换取更多推力。它还包含加力燃烧室,能显著提升推力,让它变得超级酷炫。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.JetEngine1.CerberusEngine.Name">地狱犬发动机</s>
+   <s id="DesignerParts.JetEngine1.CerberusEngine.Name">地狱犬 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.JetEngine1.CerberusEngine.Description">不知道该去哪里？不用怕！这款喷气发动机融合了两种方式的优点,向加力燃烧室提供额外的氧化剂,使其即使在太空中也能工作。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.JetEngine1.MinotaurEngine.Name">米诺陶发动机</s>
+   <s id="DesignerParts.JetEngine1.MinotaurEngine.Name">米诺陶 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.JetEngine1.MinotaurEngine.Description">中涵道比涡扇发动机在功率和效率之间取得了很好的平衡,是中型飞机和小型豪华私人飞机的完美选择。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.JetEngine1.CentaurEngine.Name">半人马发动机</s>
+   <s id="DesignerParts.JetEngine1.CentaurEngine.Name">半人马 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.JetEngine1.CentaurEngine.Description">涡喷发动机是最古老、效率最低的喷气发动机。这些是在工程师们认识到绕过核心重新导向一些空气会更省油并产生更多推力之前设计的。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from KomodoBundle.xml -->
-   <s id="DesignerParts.KomodoBundle.KomodoCapsule.Name">科莫多太空舱</s>
+   <s id="DesignerParts.KomodoBundle.KomodoCapsule.Name">科莫多 太空舱</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.KomodoBundle.KomodoCapsule.Description">包含少量燃料、内置发动机和可旋转鼻锥的指令舱。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Label1.xml -->
@@ -4436,11 +4436,11 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.LandingLeg1.LandingLeg.Description">用于着陆而不会把发动机撞到地面。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from LandingLeg2.xml -->
-   <s id="DesignerParts.LandingLeg2.MerlinLeg.Name">梅林着陆腿</s>
+   <s id="DesignerParts.LandingLeg2.MerlinLeg.Name">梅林 着陆腿</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.LandingLeg2.MerlinLeg.Description">一套坚固的着陆腿,可用于着陆而不会把发动机撞到地面,具有出色的气动性能,展开距离很远</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from LandingLeg3.xml -->
-   <s id="DesignerParts.LandingLeg3.KISLeg.Name">KIS着陆腿</s>
+   <s id="DesignerParts.LandingLeg3.KISLeg.Name">KIS 着陆腿</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.LandingLeg3.KISLeg.Description">非常先进和现代的着陆腿,将让你能够降下未来的火箭</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from LandingLeg4.xml -->
@@ -4462,7 +4462,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.NoseCone1.Hemisphere.Name">半球</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.NoseCone1.Hemisphere.Description">半个球体。两个这样的半球可以组成一个球体。不过别指望它们滚动得很好,因为碰撞体只是一个锥体,遗憾的是。</s>
+   <s id="DesignerParts.NoseCone1.Hemisphere.Description">半个球体。两个这样的半球可以组成一个球体。很遗憾,但是你别指望它们能丝滑滚动,因为碰撞体只是一个锥体不是球体</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Package.xml -->
    <s id="DesignerParts.Package.Package.Name">包裹</s>
    <!-- Font:Primary -->
@@ -4480,31 +4480,31 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.Piston1.Piston.Description">使用可定制的液压活塞将部件彼此推开。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from PropellerAssembly1.xml -->
-   <s id="DesignerParts.PropellerAssembly1.SkylineProp.Name">天际线螺旋桨</s>
+   <s id="DesignerParts.PropellerAssembly1.SkylineProp.Name">天际线 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerAssembly1.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期飞行器。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from PropellerBundles.xml -->
-   <s id="DesignerParts.PropellerBundles.SkylineProp.Name">天际线螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.SkylineProp.Name">天际线 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期飞行器。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.PropellerBundles.InterceptorProp.Name">拦截者螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.InterceptorProp.Name">拦截者 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.InterceptorProp.Description">大型螺旋桨,非常适合大型飞机,装上几个这样的螺旋桨就能提供你所需的推力,让飞机顺利起飞。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.PropellerBundles.ExplorerProp.Name">探索者螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.ExplorerProp.Name">探索者 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.ExplorerProp.Description">一套强劲的轻量化桨叶,非常适合垂直起降。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.PropellerBundles.StriderProp.Name">行者螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.StriderProp.Name">行者 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.StriderProp.Description">现代高效桨叶,理想的长途飞行选择,不过记得让它离你的手指远点。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.PropellerBundles.VortexProp.Name">涡流螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.VortexProp.Name">涡流 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.VortexProp.Description">小型船用螺旋桨。海洋现在属于你了！好吧其实是湖泊,但道理是一样的。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.PropellerBundles.RiptideProp.Name">激流螺旋桨</s>
+   <s id="DesignerParts.PropellerBundles.RiptideProp.Name">激流 螺旋桨</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.PropellerBundles.RiptideProp.Description">大型船用螺旋桨,适合长途旅行和巨型船舶,由重型钢制成,所以需要一台强力的电机来驱动它。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from RCSNozzle1.xml -->
@@ -4516,51 +4516,51 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.RCSNozzle2.MultiDirectionalRCS.Description">一种可以摆动的反作用控制喷嘴,比标准RCS喷嘴提供更大的控制范围。有人说它能顶五个普通RCS喷嘴。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from RocketEngine1.xml -->
-   <s id="DesignerParts.RocketEngine1.SpiritEngine.Name">精灵发动机</s>
+   <s id="DesignerParts.RocketEngine1.SpiritEngine.Name">精灵 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.SpiritEngine.Description">这款发动机的卖点不是推力,而是关于精度。能够进行小规模的轨道和姿态调整,是任何深空任务的必备。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.GnomeEngine.Name">侏儒发动机</s>
+   <s id="DesignerParts.RocketEngine1.GnomeEngine.Name">侏儒 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.GnomeEngine.Description">在复杂性和推力方面,它就像一个正在漏气的气球。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.PixieEngine.Name">小精灵发动机</s>
+   <s id="DesignerParts.RocketEngine1.PixieEngine.Name">小精灵 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.PixieEngine.Description">低功率发动机,适合用于上面级和在小型天体上着陆。其电动泵可以快速启动和极低推力节流,但需要一些电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.DragonEngine.Name">巨龙发动机</s>
+   <s id="DesignerParts.RocketEngine1.DragonEngine.Name">巨龙 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.DragonEngine.Description">高效核热发动机。警告：别舔。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.MageEngine.Name">法师发动机</s>
+   <s id="DesignerParts.RocketEngine1.MageEngine.Name">法师 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.MageEngine.Description">可用于起飞和轨道的强力发动机。用于在卫星上着陆不是好选择。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.WyvernEngine.Name">飞龙发动机</s>
+   <s id="DesignerParts.RocketEngine1.WyvernEngine.Name">飞龙 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.WyvernEngine.Description">一种精密的甲烷液氧发动机,由于使用了最先进的泵系统之一,具有出色的效率。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.TitanEngine.Name">泰坦发动机</s>
+   <s id="DesignerParts.RocketEngine1.TitanEngine.Name">泰坦 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.TitanEngine.Description">使用液氢液氧和分级补燃循环的强力高效发动机。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.ApexEngine.Name">顶点发动机</s>
+   <s id="DesignerParts.RocketEngine1.ApexEngine.Name">顶点 发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.ApexEngine.Description">它又重又贵,像不要命一样喝RP-1,但它有足够的动力把你那些设计糟糕的玩意儿送入太空。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Name">哥布林固体火箭发动机</s>
+   <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Name">哥布林 小型固体火箭发动机</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Description">糖、香料和一切美好的东西。任何火箭迷的最爱。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.IfritSolidBooster.Name">伊芙利特固体助推器</s>
+   <s id="DesignerParts.RocketEngine1.IfritSolidBooster.Name">伊芙利特 固体助推器</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.IfritSolidBooster.Description">强力且便宜,但效率低。一旦点燃就无法关闭。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.PhoenixSolidBooster.Name">凤凰固体助推器</s>
+   <s id="DesignerParts.RocketEngine1.PhoenixSolidBooster.Name">凤凰 固体助推器</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.PhoenixSolidBooster.Description">一种极其强大的固体火箭发动机。以纯粹的力量强行发挥作用,完全不考虑效率。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
-   <s id="DesignerParts.RocketEngine1.ChimeraSolidBooster.Name">奇美拉固体助推器</s>
+   <s id="DesignerParts.RocketEngine1.ChimeraSolidBooster.Name">奇美拉 固体助推器</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.ChimeraSolidBooster.Description">带有摇摆机构的极其强大的固体火箭发动机。这头野兽在必要时可以展示它的肌肉。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from RotatingNoseCone1.xml -->
@@ -4814,7 +4814,7 @@
    <!-- Rec:12 Max:18 Font:Primary ; nav sphere indicator name -->
    <s id="Flight.NavSphere.IndicatorType.RadialOut">径向外</s>
    <!-- Rec:8 Max:12 Font:Primary ; nav sphere indicator name -->
-   <s id="Flight.NavSphere.IndicatorType.South">South</s>
+   <s id="Flight.NavSphere.IndicatorType.South">南</s>
    <!-- Rec:8 Max:12 Font:Primary ; nav sphere indicator name -->
    <s id="Flight.NavSphere.IndicatorType.Target">目标</s>
    <!-- Rec:4 Max:8 Font:Primary ; nav sphere indicator name -->
@@ -4878,7 +4878,7 @@
    <s id="Game.SaveNotFound">游戏尝试加载一个不存在的存档。检查日志以获取更多信息。</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Inspector.Undo.AddedFormat">Added {0}</s>
+   <s id="Inspector.Undo.AddedFormat">增加了 {0}</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Inspector.Undo.DeletedItemInFormat">已删除 {0} 中的项目</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4988,11 +4988,11 @@
    <!-- Rec:18 Max:24 Font:Primary ; context menu item -->
    <s id="Menu.Contracts.ContextMenu.CompleteSelected">完成所选项</s>
    <!-- Rec:18 Max:24 Font:Primary ; context menu item -->
-   <s id="Menu.Contracts.ContextMenu.RefreshContracts">Refresh Contracts</s>
+   <s id="Menu.Contracts.ContextMenu.RefreshContracts">刷新合同</s>
    <!-- Rec:20 Max:26 Font:Primary ; context menu item -->
    <s id="Menu.Contracts.ContextMenu.RegenerateSelected">重新生成所选项</s>
    <!-- Rec:14 Max:20 Font:Primary ; context menu item -->
-   <s id="Menu.Contracts.ContextMenu.ResetContract">Reset Contract</s>
+   <s id="Menu.Contracts.ContextMenu.ResetContract">重置合同</s>
    <!-- Rec:20 Max:26 Font:Primary ; context menu item -->
    <s id="Menu.Contracts.ContextMenu.UncompleteSelected">取消完成所选项</s>
    <!-- Rec:23 Max:32 Font:Primary ; list item title -->
@@ -5002,7 +5002,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.ContractNumberFormat">• 合同 #{0}</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Menu.Contracts.Details.CrewBonusFormat"> + {0} if crewed</s>
+   <s id="Menu.Contracts.Details.CrewBonusFormat"> +{0}若载人</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.CrewTechPointsBonusFormat"> + {0}TP 如有乘员</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5012,9 +5012,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.DeadlineFormat">• 必须在 {0:n1} 天内完成</s>
    <!-- Rec:14 Max:20 Font:Primary ; details section header -->
-   <s id="Menu.Contracts.Details.DescriptionHeader">Description</s>
+   <s id="Menu.Contracts.Details.DescriptionHeader">描述</s>
    <!-- Rec:8 Max:12 Font:Primary ; details group header -->
-   <s id="Menu.Contracts.Details.DetailsHeader">DETAILS</s>
+   <s id="Menu.Contracts.Details.DetailsHeader">详细信息</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.ExpirationFormat">• 在 {0:n1} 天后将无法接受</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5034,7 +5034,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.TutorialMustAccept">你必须先接受此合同才能开始教程。</s>
    <!-- Rec:14 Max:20 Font:Primary ; button label -->
-   <s id="Menu.Contracts.Details.TutorialStartButton">START TUTORIAL</s>
+   <s id="Menu.Contracts.Details.TutorialStartButton">开始教程</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.UnlockLocationFormat">• 解锁新位置:{0}</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5050,10 +5050,10 @@
    <!-- Rec:8 Max:12 Font:Primary ; flair label -->
    <s id="Menu.Contracts.Flair.Location">地点</s>
    <!-- Rec:8 Max:12 Font:Primary ; flair label -->
-   <s id="Menu.Contracts.Flair.Rejected">Rejected</s>
+   <s id="Menu.Contracts.Flair.Rejected">拒绝</s>
    <!-- Rec:14 Max:20 ; section header -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 “新手管理员” 以增加可同时拥有的合同数上限。</s>
+   <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 “新人经理” 以增加可同时拥有的合同数上限。</s>
    <!-- Toast Font:Header ; no length limit -->
    <s id="Menu.Contracts.NoItemsFound">目前没有可用的合同。\n检查科技树看看有什么可以解锁的。</s>
    <!-- Rec:6 Max:10 Font:Primary ; primary button -->
@@ -5071,7 +5071,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.ResetDialog.Message">确定要重置此合同吗？你将失去所有进度。\n\n你通常不需要重置合同,但这可以帮助解决合同绑定到错误飞行器的情况。</s>
    <!-- Rec:14 Max:20 Font:Header ; list view title -->
-   <s id="Menu.Contracts.Title">CONTRACTS</s>
+   <s id="Menu.Contracts.Title">合同</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.UnlockCustomerFeature">解锁该客户及其合同。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5079,13 +5079,13 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Education.Message">这是 {0} 的教育版本。\n\n点击确定以确认你不是在一台个人拥有的设备上运行该游戏。</s>
    <!-- Rec:10 Max:16 Font:Primary ; education dialog cancel button -->
-   <s id="Menu.Education.MoreInfoButton">MORE INFO</s>
+   <s id="Menu.Education.MoreInfoButton">更多信息</s>
    <!-- Font:Primary -->
-   <s id="Menu.Exploration.LandmarksHeader">LANDMARKS</s>
+   <s id="Menu.Exploration.LandmarksHeader">地表</s>
    <!-- Rec:14 Max:20 Font:Header ; list view title -->
    <s id="Menu.Exploration.Title">探索</s>
    <!-- Rec:12 Max:16 Font:Primary ; button label -->
-   <s id="Menu.InProgressFlightDialog.KeepButton">Keep Flight</s>
+   <s id="Menu.InProgressFlightDialog.KeepButton">保留飞行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.InProgressFlightDialog.Message">检测到上一次未完成的飞行。你想保留它,还是将游戏恢复到此次飞行发射前的状态?</s>
    <!-- Rec:12 Max:16 Font:Primary ; button label -->
@@ -5105,19 +5105,19 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.LaunchLocations.UpgradeRequiredTooltip">需要升级到 {0}</s>
    <!-- Rec:10 Max:14 Font:Header ; loading label -->
-   <s id="Menu.ListView.Loading">LOADING</s>
+   <s id="Menu.ListView.Loading">加载中</s>
    <!-- Tooltip Font:Header ; no length limit -->
-   <s id="Menu.ListView.NoItemsFound">No items found</s>
+   <s id="Menu.ListView.NoItemsFound">未找到项目</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.ListView.PreviewLoadFailed">加载项目预览失败。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LoadGame.CannotDeleteCurrent">由于该游戏当前已加载,无法删除。</s>
+   <s id="Menu.LoadGame.CannotDeleteCurrent">由于该存档当前已加载,无法删除。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LoadGame.DeleteConfirmFormat">确认要删除游戏 ‘{0}’</s>
+   <s id="Menu.LoadGame.DeleteConfirmFormat">确认要删除存档 ‘{0}’</s>
    <!-- Rec:8 Max:12 Font:Primary ; primary button -->
-   <s id="Menu.LoadGame.LoadButton">LOAD</s>
+   <s id="Menu.LoadGame.LoadButton">加载</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
-   <s id="Menu.LoadGame.Title">Load Game</s>
+   <s id="Menu.LoadGame.Title">加载存档</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.LoadSaveFailedError">加载存档失败!&#10;检查日志以获取更多信息</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5125,7 +5125,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; placeholder -->
    <s id="Menu.Milestones.DescriptionPlaceholder">Description</s>
    <!-- Rec:14 Max:20 Font:Header ; list view title -->
-   <s id="Menu.Milestones.Title">MILESTONES</s>
+   <s id="Menu.Milestones.Title">里程碑</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.NewGame.CompanyNameRequired">请在上方输入公司名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5144,9 +5144,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.WhatsNew.ErrorTwo">无法获取最新动态文本。请稍后重试。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
-   <s id="Modifier.Common.MaxInputValue">Max Input Value</s>
+   <s id="Modifier.Common.MaxInputValue">最大输入</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
-   <s id="Modifier.Common.MinInputValue">Min Input Value</s>
+   <s id="Modifier.Common.MinInputValue">最小输入</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.CameraVantage.NightVisionLocked">你尚未解锁夜视功能。可以在科技树中解锁。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5180,7 +5180,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Crew.State.InFlight">飞行中:{0}</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Crew.State.Unassigned">Unassigned</s>
+   <s id="Crew.State.Unassigned">未指定</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CurveEditor.After">前</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5342,7 +5342,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Paint.Customize.Tooltip">自定义所选部件的涂装。</s>
    <!-- Rec:16 Max:18 Font:Primary ; paint property label -->
-   <s id="Design.Paint.Detail.Text">Detail</s>
+   <s id="Design.Paint.Detail.Text">细节</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Paint.Detail.Tooltip">调整表面材质的细节纹理。</s>
    <!-- Rec:16 Max:18 Font:Primary ; paint property label -->
@@ -5422,13 +5422,13 @@
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
    <s id="Design.PartProperties.ActivationGroup.Label">激活组</s>
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
-   <s id="Design.PartProperties.Color.Label">Color</s>
+   <s id="Design.PartProperties.Color.Label">颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.PartProperties.EmptyPanelText">选择一个部件以查看其可定制属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.PartProperties.HintText">点击 “部件属性” 以自定义该部件。</s>
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
-   <s id="Design.PartProperties.Mass.Label">Mass</s>
+   <s id="Design.PartProperties.Mass.Label">质量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.PartProperties.NoPropertiesText">所选部件没有可定制的属性。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9932,7 +9932,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.EngineThrottle">发动机节流阀</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.EngineThrottle.Tooltip">发动机的当前油门。某些发动机对油门变化的响应较慢。</s>
+   <s id="Parts.InspectorModel.EngineThrottle.Tooltip">发动机的当前节流阀。某些发动机对节流阀变化的响应较慢。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.ExhaustVelocity">排气速度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9946,7 +9946,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.FuelConsumption">燃料消耗</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.FuelConsumption.Tooltip">全油门时每秒燃烧的燃料升数。</s>
+   <s id="Parts.InspectorModel.FuelConsumption.Tooltip">全节流阀时每秒燃烧的燃料升数。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.FuelUsage">燃料用量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9992,7 +9992,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.NozzleTemperature">喷管温度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.NozzleTemperature.Tooltip">发动机喷管的温度,随油门增加而升高,降低油门后缓慢冷却。</s>
+   <s id="Parts.InspectorModel.NozzleTemperature.Tooltip">发动机喷管的温度,随节流阀增加而升高,降低节流阀后缓慢冷却。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.InspectorModel.Performance">性能</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10010,7 +10010,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.SpoolTime">响应时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.SpoolTime.Tooltip">发动机从0%油门加速到100%油门所需的时间。</s>
+   <s id="Parts.InspectorModel.SpoolTime.Tooltip">发动机从0%节流阀加速到100%节流阀所需的时间。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.TheoreticalMaxSpeed">理论最高速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10020,7 +10020,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.InspectorModel.Thrust.RocketTooltip">发动机在当前海拔高度的推力。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.Thrust.Tooltip">发动机在全油门时产生的推力</s>
+   <s id="Parts.InspectorModel.Thrust.Tooltip">发动机在全节流阀时产生的推力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.ThrustPerMotorTorque">推力/电机扭矩</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10034,9 +10034,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.JetEngine.ReverseThrustLocked">你尚未解锁反推装置。可在科技树中解锁。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.JetEngineData.AfterburnerThrottleStart.Label">加力油门</s>
+   <s id="Parts.JetEngineData.AfterburnerThrottleStart.Label">加力节流阀</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.JetEngineData.AfterburnerThrottleStart.Tooltip">加力燃烧室启动时的油门阈值。</s>
+   <s id="Parts.JetEngineData.AfterburnerThrottleStart.Tooltip">加力燃烧室启动时的节流阀阈值。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.JetEngineData.BypassRatio.Label">涵道比</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10594,7 +10594,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; perf label -->
    <s id="Parts.ReactionControlNozzle.FuelConsumption">燃料消耗</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ReactionControlNozzle.FuelConsumptionTooltip">全油门时每秒燃烧的燃料质量。</s>
+   <s id="Parts.ReactionControlNozzle.FuelConsumptionTooltip">全节流阀时每秒燃烧的燃料质量。</s>
    <!-- Rec:14 Max:20 Font:Primary ; perf label -->
    <s id="Parts.ReactionControlNozzle.Isp">比冲</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10604,7 +10604,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; perf label -->
    <s id="Parts.ReactionControlNozzle.Thrust">推力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ReactionControlNozzle.ThrustTooltip">发动机在全油门时产生的推力大小。</s>
+   <s id="Parts.ReactionControlNozzle.ThrustTooltip">发动机在全节流阀时产生的推力大小。</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.ReactionControlNozzleData.FuelType.Label">燃料类型</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -12995,7 +12995,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.FlightOpenMenu">打开菜单</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.FullThrottle">全油门</s>
+   <s id="Settings.Controls.Action.FullThrottle">全节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.GroupParts">组合部件</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13003,7 +13003,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.IncreaseSpeed">提高速度</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.KillThrottle">切断油门</s>
+   <s id="Settings.Controls.Action.KillThrottle">切断节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.LoadContentFromClipboardUrl">从剪贴板URL加载载具/沙盒</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13167,11 +13167,11 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.SymmetryModePrevious">上一对称模式</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.Throttle">油门</s>
+   <s id="Settings.Controls.Action.Throttle">节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.Throttle.Negative">降低油门</s>
+   <s id="Settings.Controls.Action.Throttle.Negative">降低节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.Throttle.Positive">提高油门</s>
+   <s id="Settings.Controls.Action.Throttle.Positive">提高节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.TiltSunDown">向下倾斜太阳</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -14586,7 +14586,7 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 9: rudder control surface -->
    <s id="Tutorial.FirstFlight.Step9">方向舵的控制面应该响应偏航输入。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 10: configure motor input on wheels -->
-   <s id="Tutorial.FirstFlight.Step10">由于升降舵使用俯仰输入,我们将车轮的电机输入更改为油门。否则,向后拉杆以抬头俯仰也会降低电机输入。</s>
+   <s id="Tutorial.FirstFlight.Step10">由于升降舵使用俯仰输入,我们将车轮的电机输入更改为节流阀。否则,向后拉杆以抬头俯仰也会降低电机输入。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 11: center indicators intro -->
    <s id="Tutorial.FirstFlight.Step11">设计飞机时,质心（CoM）与升力中心（CoL）之间的关系非常重要。我们可以使用视图面板来可视化它们的位置。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 12: CoM/CoL explanation -->
@@ -14688,7 +14688,7 @@
    <!-- Toast Font:Primary ; TheJumpTutorial step 9: rear wheel torque/gear ratio config -->
    <s id="Tutorial.TheJump.Step9">提高那些后轮的扭矩并调整它们的齿轮比。较低的齿轮比有利于最高速度；较高的齿轮比有利于加速。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 10: motor input config -->
-   <s id="Tutorial.TheJump.Step10">将电机输入从油门改为俯仰。这将允许你在卡住时倒车。</s>
+   <s id="Tutorial.TheJump.Step10">将电机输入从节流阀改为俯仰。这将允许你在卡住时倒车。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 11: launch step main -->
    <s id="Tutorial.TheJump.Step11">太棒了！我从没见过更好的车！我真为我们骄傲！</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 11 instruction text -->
@@ -14768,9 +14768,9 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureFastForward -->
    <s id="Tutorial.FlightTutorial.SelectFastForward">选择快进（在右上角）以加速进程</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureGravityTurn when not reducing throttle -->
-   <s id="Tutorial.FlightTutorial.GravityTurnThrottleUp">在这个高度大气更稀薄,所以我们可以将油门调回100%</s>
+   <s id="Tutorial.FlightTutorial.GravityTurnThrottleUp">在这个高度大气更稀薄,所以我们可以将节流阀调回100%</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureGravityTurn when reducing throttle -->
-   <s id="Tutorial.FlightTutorial.GravityTurnThrottleDown">降低油门,以免因高阻力损失太多速度</s>
+   <s id="Tutorial.FlightTutorial.GravityTurnThrottleDown">降低节流阀,以免因高阻力损失太多速度</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureHeadingLock -->
    <s id="Tutorial.FlightTutorial.EnableHeadingLock">点击锁定航向按钮以启用航向锁定。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureHeadingLock -->
@@ -14836,17 +14836,17 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureTargetLock -->
    <s id="Tutorial.FlightTutorial.LockOnTarget">点击锁定目标按钮以将航向锁定到目标对接端口。</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle mobile; {0}=percentage -->
-   <s id="Tutorial.FlightTutorial.IncreaseThrottleMobileFormat">使用左侧的油门滑块将油门增加到{0}</s>
+   <s id="Tutorial.FlightTutorial.IncreaseThrottleMobileFormat">使用左侧的节流阀滑块将节流阀增加到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle mobile; {0}=percentage -->
-   <s id="Tutorial.FlightTutorial.DecreaseThrottleMobileFormat">使用左侧的油门滑块将油门降低到{0}</s>
+   <s id="Tutorial.FlightTutorial.DecreaseThrottleMobileFormat">使用左侧的节流阀滑块将节流阀降低到{0}</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureThrottle controller; |Throttle;-| is an input binding marker -->
-   <s id="Tutorial.FlightTutorial.KillThrottleController">按住"|Throttle;-|"以完全关闭油门</s>
+   <s id="Tutorial.FlightTutorial.KillThrottleController">按住"|Throttle;-|"以完全关闭节流阀</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureThrottle; |KillThrottle| is an input binding marker -->
-   <s id="Tutorial.FlightTutorial.KillThrottle">按"|KillThrottle|"键立即关闭油门</s>
+   <s id="Tutorial.FlightTutorial.KillThrottle">按"|KillThrottle|"键立即关闭节流阀</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle; {0}=percentage; |Throttle;+| is an input binding marker -->
-   <s id="Tutorial.FlightTutorial.IncreaseThrottleFormat">按住"|Throttle;+|"将油门增加到{0}</s>
+   <s id="Tutorial.FlightTutorial.IncreaseThrottleFormat">按住"|Throttle;+|"将节流阀增加到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle; {0}=percentage; |Throttle;-| is an input binding marker -->
-   <s id="Tutorial.FlightTutorial.DecreaseThrottleFormat">按住"|Throttle;-|"将油门降低到{0}</s>
+   <s id="Tutorial.FlightTutorial.DecreaseThrottleFormat">按住"|Throttle;-|"将节流阀降低到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureTimeToApoapsis; {0}=time in seconds (numeric) -->
    <s id="Tutorial.FlightTutorial.TimeToApoapsisFormat">距离远拱点：{0:n0}秒</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureTranslationModeEnabled -->
@@ -15280,7 +15280,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Input.Slider4">滑块 4</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Input.Throttle">油门</s>
+   <s id="Vizzy.CraftProperty.Input.Throttle">节流阀</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Input.TranslateForward">前进位移</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15718,7 +15718,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Input.Slider4">当前的滑块4输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Input.Throttle">当前的油门输入。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Input.Throttle">当前的节流阀输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Input.TranslateForward">当前的前向平移输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16032,7 +16032,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.Mass">飞行器的当前质量,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.MaxActiveEngineThrust">如果所有活动引擎都处于100%油门时所能产生的推力,单位为牛顿。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.MaxActiveEngineThrust">如果所有活动引擎都处于100%节流阀时所能产生的推力,单位为牛顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.StageDeltaV">当前级段剩余的速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16229,7 +16229,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.velocity">速度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.year">一年的长度</s>
+   <s id="Vizzy.Expression.Planet.year">公转一周的时长</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CameraProperty.CameraIndex">相机编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16273,7 +16273,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CraftInput.Slider4">滑块4</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Instruction.CraftInput.Throttle">油门</s>
+   <s id="Vizzy.Instruction.CraftInput.Throttle">节流阀</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CraftInput.Tooltip.brake">设置飞行器的制动输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16289,7 +16289,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CraftInput.Tooltip.slider4">设置飞行器的滑块4输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.throttle">设置飞行器的油门输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.throttle">设置飞行器的节流阀输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CraftInput.Tooltip.translateForward">设置飞行器的前向平移输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17090,7 +17090,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-heading">设置飞行器应瞄准的俯仰角或航向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-input">将选定的飞行器输入设为指定数值。数值必须在-1到1之间。例如,要将油门设为65%,请将其设为0.65。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-input">将选定的飞行器输入设为指定数值。数值必须在-1到1之间。例如,要将节流阀设为65%,请将其设为0.65。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-mfd-alignment">设置label文字的对齐方式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
