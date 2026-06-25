@@ -1,0 +1,5 @@
+<Fonts>
+   <Font id="Sans-SC" file="SansSC-Regular.otf" atlasResolution="2048,2048" samplingPointSize="90" padding="6">
+      <Characters mode="Custom">作室发坊射工建星模理管组行言语造退出游戏设置</Characters>
+   </Font>
+</Fonts>
