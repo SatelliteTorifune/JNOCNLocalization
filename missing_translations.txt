@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 06:57:00
+  missing_translations.txt - 2026-06-26 10:28:53
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -24,10 +24,6 @@
 
 [Career.ContractLocations.taurus-estuaries.Name]
   EN: Ezaro Estuary
-  ZH: (未翻译)
-
-[Career.Contracts.Ali-delivery.FlairText]
-  EN: Progression
   ZH: (未翻译)
 
 [Career.Contracts.Ali-delivery.Name]
@@ -62,14 +58,6 @@
   EN: @Planet Orbit
   ZH: (未翻译)
 
-[Career.Contracts.Celestial-orbit.Short]
-  EN: Orbit @Planet
-  ZH: (未翻译)
-
-[Career.Contracts.Climbing-hike.FlairText]
-  EN: Progression
-  ZH: (未翻译)
-
 [Career.Contracts.Delivery-gs.Name]
   EN: Ground Support
   ZH: (未翻译)
@@ -78,28 +66,8 @@
   EN: @GroundStation:coords
   ZH: (未翻译)
 
-[Career.Contracts.Delivery-ocean.Name]
-  EN: Ocean Delivery
-  ZH: (未翻译)
-
 [Career.Contracts.Delivery-ocean.Subtitle]
   EN: @Origin:coords
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Orbit-Rescue-1.Name]
-  EN: Droo Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Orbit-Rescue-2.Name]
-  EN: Droo Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Orbit-Rescue-3.Name]
-  EN: Droo Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-orbit.Name]
-  EN: Droo Orbit
   ZH: (未翻译)
 
 [Career.Contracts.Droo-orbit.Subtitle]
@@ -118,72 +86,12 @@
   EN: @SatCount @SatCount:plural(sat|sats) to @Apoapsis:distance - @Periapsis:distance
   ZH: (未翻译)
 
-[Career.Contracts.Droo-Surface-Rescue-1.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-1.Short]
-  EN: SimpleCub Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-2.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-2.Short]
-  EN: SimpleOffroad Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-3.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-3.Short]
-  EN: Private Jet Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-4.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-4.Short]
-  EN: Inflatable Motorboat Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-4.Subtitle]
-  EN: 1 Drood at sea
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-5.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-5.Short]
-  EN: Polar Exploration Vehicle Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-6.Name]
-  EN: Droo Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-6.Short]
-  EN: SimpleRCV Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Droo-Surface-Rescue-6.Subtitle]
-  EN: 6 Droods at sea
-  ZH: (未翻译)
-
 [Career.Contracts.Explorer.Name]
   EN: Sample Collection
   ZH: (未翻译)
 
 [Career.Contracts.Explorer.Subtitle]
   EN: @Origin:coords
-  ZH: (未翻译)
-
-[Career.Contracts.First-flyby.FlairText]
-  EN: Progression
   ZH: (未翻译)
 
 [Career.Contracts.First-flyby.Name]
@@ -194,16 +102,8 @@
   EN: Fly-by Luna
   ZH: (未翻译)
 
-[Career.Contracts.First-hike.FlairText]
-  EN: Progression
-  ZH: (未翻译)
-
 [Career.Contracts.First-hike.Name]
   EN: Juno Peak
-  ZH: (未翻译)
-
-[Career.Contracts.First-lunar-orbit.FlairText]
-  EN: Progression
   ZH: (未翻译)
 
 [Career.Contracts.First-lunar-orbit.Name]
@@ -214,44 +114,12 @@
   EN: Orbit Brigo
   ZH: (未翻译)
 
-[Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Description]
-  EN: Getting fancy now
-  ZH: (未翻译)
-
 [Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Expression.Description]
   EN: Reach 80km ASL
   ZH: (未翻译)
 
-[Career.Contracts.First-Sample.FlairText]
-  EN: Progression
-  ZH: (未翻译)
-
-[Career.Contracts.First-Sample.Name]
-  EN: Testing Your Skills
-  ZH: (未翻译)
-
-[Career.Contracts.First-sat.FlairText]
-  EN: Progression
-  ZH: (未翻译)
-
-[Career.Contracts.First-sat.Name]
-  EN: Satellite Mission
-  ZH: (未翻译)
-
-[Career.Contracts.Flight-Termination.Req.Expression.Description]
-  EN: Reach 30km AGL (above ground level)
-  ZH: (未翻译)
-
-[Career.Contracts.GrandTour.Name]
-  EN: The Grand Tour
-  ZH: (未翻译)
-
 [Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Any.Description]
   EN: Fly by at least 3 different planets
-  ZH: (未翻译)
-
-[Career.Contracts.Heliosynch-orbit.FlairText]
-  EN: Progression
   ZH: (未翻译)
 
 [Career.Contracts.Heliosynch-orbit.Name]
@@ -278,76 +146,8 @@
   EN: Quick Deployment
   ZH: (未翻译)
 
-[Career.Contracts.Location-DSC Large runway.Name]
-  EN: A Precision Job
-  ZH: (未翻译)
-
-[Career.Contracts.Location-DSC Short runway.Name]
-  EN: Pilot License
-  ZH: (未翻译)
-
-[Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Description]
-  EN: Bring two droods aboard
-  ZH: (未翻译)
-
-[Career.Contracts.Location-Large-Pad.Name]
-  EN: Speedy Pollution
-  ZH: (未翻译)
-
-[Career.Contracts.Location-Launchpad.Name]
-  EN: Raining Rockets
-  ZH: (未翻译)
-
-[Career.Contracts.Location-Lunapad.Name]
-  EN: Lunar Driver
-  ZH: (未翻译)
-
 [Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Expression.Description]
   EN: Stay grounded
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Orbit-Rescue-1.Name]
-  EN: Luna Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Orbit-Rescue-2.Name]
-  EN: Luna Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Orbit-Rescue-3.Name]
-  EN: Luna Orbit Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-1.Name]
-  EN: Luna Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-1.Short]
-  EN: Luna Module Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-1.Subtitle]
-  EN: 1 Drood at Luna's maria
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-2.Name]
-  EN: Luna Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-2.Short]
-  EN: LunaTown Base Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-2.Subtitle]
-  EN: 2 Droods at maria edge
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-3.Name]
-  EN: Luna Surface Rescue
-  ZH: (未翻译)
-
-[Career.Contracts.Luna-Surface-Rescue-3.Short]
-  EN: Drood Landing System Rescue
   ZH: (未翻译)
 
 [Career.Contracts.Lunar-flyby.FlairText]
@@ -422,10 +222,6 @@
   EN: The Eye in the Sky
   ZH: (未翻译)
 
-[Career.Contracts.Packages-launchpad.Name]
-  EN: Launchpad Supplies
-  ZH: (未翻译)
-
 [Career.Contracts.Packages-launchpad.Subtitle]
   EN: @Count @Count:plural(payload|payloads)
   ZH: (未翻译)
@@ -434,16 +230,8 @@
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Packages-mountain.Name]
-  EN: Mountain Camp Supplies
-  ZH: (未翻译)
-
 [Career.Contracts.Packages-mountain.Subtitle]
   EN: @Count @Count:plural(payload|payloads)
-  ZH: (未翻译)
-
-[Career.Contracts.Packages-outpost.Name]
-  EN: Outpost Supplies
   ZH: (未翻译)
 
 [Career.Contracts.Packages-outpost.Subtitle]
@@ -452,10 +240,6 @@
 
 [Career.Contracts.Packages-research.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Packages-research.Name]
-  EN: Research Station Supplies
   ZH: (未翻译)
 
 [Career.Contracts.Packages-research.Subtitle]
@@ -478,20 +262,12 @@
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Race-Air-1.Name]
-  EN: Valley Air Race
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Air-1.Subtitle]
   EN: Round @TitleNumber
   ZH: (未翻译)
 
 [Career.Contracts.Race-Air-2.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Air-2.Name]
-  EN: Cutting Corners Air Race
   ZH: (未翻译)
 
 [Career.Contracts.Race-Air-2.Subtitle]
@@ -502,16 +278,8 @@
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Race-Air-3.Name]
-  EN: Ali Air Race
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Air-3.Subtitle]
   EN: Round @TitleNumber
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Air-4.Name]
-  EN: DSC Air Race
   ZH: (未翻译)
 
 [Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Any.Location-Dark_Backdoor.Description]
@@ -626,20 +394,8 @@
   EN: @SpeedTarget:velocity
   ZH: (未翻译)
 
-[Career.Contracts.Removal.Name]
-  EN: Classified
-  ZH: (未翻译)
-
-[Career.Contracts.Second-hike.FlairText]
-  EN: Progression
-  ZH: (未翻译)
-
 [Career.Contracts.Second-hike.Name]
   EN: Short Route
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Cupola.FlairText]
-  EN: Station
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Cupola.Name]
@@ -650,20 +406,12 @@
   EN: Cupola Module
   ZH: (未翻译)
 
-[Career.Contracts.SPE-Docking.FlairText]
-  EN: Station
-  ZH: (未翻译)
-
 [Career.Contracts.SPE-Docking.Name]
   EN: Space Port Esperanza
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Docking.Subtitle]
   EN: Nexus Cross
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Expansion.FlairText]
-  EN: Station
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Expansion.Name]
@@ -674,16 +422,8 @@
   EN: Expansion Module
   ZH: (未翻译)
 
-[Career.Contracts.SPE-Fuel-Ballz.FlairText]
-  EN: Station
-  ZH: (未翻译)
-
 [Career.Contracts.SPE-Fuel-Ballz.Name]
   EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Fuel-Core.FlairText]
-  EN: Station
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Fuel-Core.Name]
@@ -694,20 +434,12 @@
   EN: Fuel Depot Core
   ZH: (未翻译)
 
-[Career.Contracts.SPE-Habitation.FlairText]
-  EN: Station
-  ZH: (未翻译)
-
 [Career.Contracts.SPE-Habitation.Name]
   EN: Space Port Esperanza
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Habitation.Subtitle]
   EN: Habitation Module
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Radix.FlairText]
-  EN: Station
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Radix.Name]
@@ -718,20 +450,12 @@
   EN: Radix Module
   ZH: (未翻译)
 
-[Career.Contracts.SPE-Solar.FlairText]
-  EN: Station
-  ZH: (未翻译)
-
 [Career.Contracts.SPE-Solar.Name]
   EN: Space Port Esperanza
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Solar.Subtitle]
   EN: Solar Array
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Structure.FlairText]
-  EN: Station
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Structure.Name]
@@ -752,10 +476,6 @@
 
 [Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#1.Description]
   EN: Reach 30km AGL
-  ZH: (未翻译)
-
-[Career.Contracts.Taxi-Driver.FlairText]
-  EN: Progression
   ZH: (未翻译)
 
 [Career.Contracts.TouristTest.FlairText]
@@ -1166,10 +886,6 @@
   EN: PIDs
   ZH: (未翻译)
 
-[Flight.NextBurn.DeltaV]
-  EN: Delta-V
-  ZH: (未翻译)
-
 [Flight.NextBurn.DeltaVProgressBar]
   EN: Delta V
   ZH: (未翻译)
@@ -1180,10 +896,6 @@
 
 [Flight.RunBenchmarkButton.Text]
   EN: RUN BENCHMARK
-  ZH: (未翻译)
-
-[Flight.TimePanel.Reverse]
-  EN: Reverse
   ZH: (未翻译)
 
 [Flight.ViewPanel.ContractFeedback.HowDifficult]

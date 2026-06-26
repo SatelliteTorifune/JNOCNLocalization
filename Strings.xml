@@ -101,7 +101,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; subtitle line under list entries pinned to the top by the Recently Used filter -->
    <s id="AddNoiseViewModel.RecentlyUsedSubtitle">最近使用</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
-   <s id="AddNoiseViewModel.Title">添加噪声修饰器</s>
+   <s id="AddNoiseViewModel.Title">添加噪声属性</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Any.DescriptionFormat">至少完成 {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -348,9 +348,9 @@
    <!-- Rec:16 Max:22 Font:Primary ; validation error key -->
    <s id="Career.Validation.MissingPartsKey">缺失部件</s>
    <!-- Font:Primary -->
-   <s id="Career.Validation.ModifierNewerVersion">{0} 修饰器有新版本保留它可能会错过一些功能或修复。</s>
+   <s id="Career.Validation.ModifierNewerVersion">{0} 属性有新版本保留它可能会错过一些功能或修复。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.ModifierOutdated">{0} 修饰器Deprecated,需要替换为新版本。</s>
+   <s id="Career.Validation.ModifierOutdated">{0} 属性Deprecated,需要替换为新版本。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.MotorBrakeTorqueTooHigh">电机制动扭矩过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -486,11 +486,11 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-grassland.Name">Bliss地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.droo-gs-grassland.Description">新鲜的草地、旋涡状的山脉和明亮的Juno,是任何想要迷失的徒步旅行者的完美去处。</s>
+   <s id="Career.ContractLocations.droo-gs-grassland.Description">新鲜的草地,旋涡状的山脉和明亮的Juno,是任何想要迷失的徒步旅行者的完美去处。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-archipelago.Name">Brigo地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.droo-gs-archipelago.Description">海洋的气息、海浪的咆哮、轻拂你脸庞的冷风,在Droo最大群岛中最小的岛屿上。</s>
+   <s id="Career.ContractLocations.droo-gs-archipelago.Description">海洋的气息,海浪的咆哮,轻拂你脸庞的冷风,在Droo最大群岛中最小的岛屿上。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-polar.Name">Amundsen地面站</s>
    <!-- Font:Primary -->
@@ -931,7 +931,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-distance-walk.Name">步行距离</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-distance-walk.Description">你与 Drood 一起步行的累计距离。</s>
+   <s id="Career.Milestones.Oord.Oord-distance-walk.Description">你与Drood 一起步行的累计距离。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-distance-swim.Name">游泳距离</s>
    <!-- Font:Primary -->
@@ -983,7 +983,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-distance-walk.Name">步行距离</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-distance-walk.Description">你与 Drood 一起步行的累计距离。</s>
+   <s id="Career.Milestones.Droo.Droo-distance-walk.Description">你与Drood 一起步行的累计距离。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-distance-walk.Tier3.RewardMessage">但我愿意走500英里</s>
    <!-- Font:Primary -->
@@ -1475,7 +1475,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.FlightCheats.Name">飞行作弊</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Cheats.FlightCheats.Description">一个包含多种工具的菜单,可以让你传送、改变重力、拥有无限燃料……你的愿望成真了！</s>
+   <s id="Career.TechTree.Items.Cheats.FlightCheats.Description">一个包含多种工具的菜单,可以让你传送,改变重力,拥有无限燃料……你的愿望成真了！</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.CareerCheats.Name">生涯作弊</s>
    <!-- Font:Primary -->
@@ -1507,7 +1507,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Docking.Name">对接口尺寸</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.Docking.Description">对接端口的最大尺寸。</s>
+   <s id="Career.TechTree.Items.MaxSize.Docking.Description">对接口的最大尺寸。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.ElectricMotor.Name">电动机尺寸</s>
    <!-- Font:Primary -->
@@ -1679,7 +1679,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Name">Star Grain</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Description">一种固体推进剂药柱,产生典型的爬升、保持、再下降的推力曲线。</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Description">一种固体推进剂药柱,产生典型的爬升,保持,再下降的推力曲线。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.Tubular.Name">Tubular Grain</s>
    <!-- Font:Primary -->
@@ -1767,7 +1767,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Power.Model.Name">模型固推</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Power.Model.Description">一款体积小、效率低的小型发动机,适合爱好者或用于级间分离。</s>
+   <s id="Career.TechTree.Items.RocketEngine.Power.Model.Description">一款体积小,效率低的小型发动机,适合爱好者或用于级间分离。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Power.Booster.Name">固体助推</s>
    <!-- Font:Primary -->
@@ -1839,7 +1839,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Jetpack.Name">喷气背包推进剂</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.FuelType.Jetpack.Description">紧凑封装在 Drood 宇航服背部的燃料,用于在太空中移动。</s>
+   <s id="Career.TechTree.Items.FuelType.Jetpack.Description">紧凑封装在Drood 宇航服背部的燃料,用于在太空中移动。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Xenon.Name">氙气</s>
    <!-- Font:Primary -->
@@ -1847,11 +1847,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.None.Name">无</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.FuelType.None.Description">零、无、空、没有、啥都没有。</s>
+   <s id="Career.TechTree.Items.FuelType.None.Description">零,无,空,没有,啥都没有。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Crew.Name">乘组数量上限</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可雇佣的 Drood 数量上限。</s>
+   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可雇佣的Drood 数量上限。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Craft.Stages.Name">最多分级数量</s>
    <!-- Font:Primary -->
@@ -2129,7 +2129,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Taxi-Driver.Name">出租车司机</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Taxi-Driver.FlairText">Progression</s>
+   <s id="Career.Contracts.Taxi-Driver.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Taxi-Driver.Short">在 Juno 村子里逛几个地方。</s>
    <!-- Font:Primary -->
@@ -2137,7 +2137,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Name">Juno Peak</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-hike.FlairText">Progression</s>
+   <s id="Career.Contracts.First-hike.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Short">登上村子附近的山峰。</s>
    <!-- Font:Primary -->
@@ -2145,7 +2145,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Second-hike.Name">Short Route</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Second-hike.FlairText">Progression</s>
+   <s id="Career.Contracts.Second-hike.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Second-hike.Short">沿指定路线前进。</s>
    <!-- Font:Primary -->
@@ -2153,13 +2153,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Climbing-hike.Name">登山者</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Climbing-hike.FlairText">Progression</s>
+   <s id="Career.Contracts.Climbing-hike.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Climbing-hike.Short">沿路线登上山顶。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Climbing-hike.Long">我最近在看一些视频,极限运动似乎很流行。为了看看我们是否能吸引一些运动型游客,你能爬一下村庄旁边的山吗？这很艰难,但我们有一条通往山顶的规划路线。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Name">Mountain Camp Supplies</s>
+   <s id="Career.Contracts.Packages-mountain.Name">Mountain Camp 补给</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Subtitle">@Count @Count:plural(payload|payloads)</s>
    <!-- Font:Primary -->
@@ -2167,7 +2167,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Short">把一些补给送到营地。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Long">我们需要把补给送到山顶的营地。开车也好、飞过去也好,我们不在乎方式,送到就行。小心别撞到帐篷,如今它们做得跟石头一样结实。&lt;br&gt;&lt;br&gt;这些货物可以放到你的载具上,但它们不会粘在上面,所以你得自己想办法既不让它们掉下来,又能在到达地点后放下。你可以凭白色的连接点来识别这些非粘性货物。</s>
+   <s id="Career.Contracts.Packages-mountain.Long">我们需要把补给送到山顶的营地。开车也好,飞过去也好,我们不在乎方式,送到就行。小心别撞到帐篷,如今它们做得跟石头一样结实。&lt;br&gt;&lt;br&gt;这些货物可以放到你的载具上,但它们不会粘在上面,所以你得自己想办法既不让它们掉下来,又能在到达地点后放下。你可以凭白色的连接点来识别这些非粘性货物。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Name">惊人的速度</s>
    <!-- Font:Primary -->
@@ -2205,7 +2205,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Short">创造水面速度纪录。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-waterspeed.Long">是时候试试水了。找到最近的池塘、湖泊或海洋,试试看你能不能浮起来。</s>
+   <s id="Career.Contracts.Record-waterspeed.Long">是时候试试水了。找到最近的池塘,湖泊或海洋,试试看你能不能浮起来。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Completions1.Long">达到65节是只有最好的快艇才能做到的,他们会追上你吗？</s>
    <!-- Font:Primary -->
@@ -2233,7 +2233,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Short">创造太空速度纪录。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-spacespeed.Long">一旦离开大气层、摆脱了空气阻力,就没有任何东西能阻止你想到多快就有多快。</s>
+   <s id="Career.Contracts.Record-spacespeed.Long">一旦离开大气层,摆脱了空气阻力,就没有任何东西能阻止你想到多快就有多快。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Completions1.Long">2000 米/秒听起来好像没什么,但换算一下就是 7200 公里/小时。这速度相当可以。</s>
    <!-- Font:Primary -->
@@ -2305,7 +2305,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-0.Long">这是一场飞机的计时赛,戴好手套准备起飞!在时间耗尽之前按顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-1.Name">Valley Air Race</s>
+   <s id="Career.Contracts.Race-Air-1.Name">Valley 空中竞赛</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-1.Subtitle">Round @TitleNumber</s>
    <!-- Font:Primary -->
@@ -2315,7 +2315,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-1.Long">这是一场飞机的计时赛,戴好手套准备起飞!在时间耗尽之前按顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-3.Name">Ali Air Race</s>
+   <s id="Career.Contracts.Race-Air-3.Name">Ali 空中竞赛</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-3.Subtitle">Round @TitleNumber</s>
    <!-- Font:Primary -->
@@ -2325,7 +2325,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-3.Long">这是一场飞机的计时赛,戴好手套准备起飞!在时间耗尽之前按顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-4.Name">DSC Air Race</s>
+   <s id="Career.Contracts.Race-Air-4.Name">DSC 空中竞赛</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-4.Subtitle">第 @TitleNumber 轮</s>
    <!-- Font:Primary -->
@@ -2333,31 +2333,31 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-4.Long">我在 DSC 周围看到一些有趣的机库和挑檐,你能穿针引线吗?这是一场飞机的计时赛,戴好手套!在时间耗尽之前按顺序击中所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Subtitle">1 个 Drood,位于山区</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Subtitle">1 个Drood,位于山区</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Short">SimpleCub Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Short">SimpleCub 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Long">一名 Drood 在 Juno 村附近的飞行比赛中,驾驶 SimpleCub 时坠毁了。你能把他们安全带回 Juno 村吗?时间紧迫!</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Long">一名Drood 在 Juno 村附近的飞行比赛中,驾驶 SimpleCub 时坠毁了。你能把他们安全带回 Juno 村吗?时间紧迫!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Subtitle">2 个 Drood,位于丘陵地带</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Subtitle">2个Drood,位于丘陵地带</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Short">SimpleOffroad Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Short">SimpleOffroad 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Long">两个鲁莽的 Drood 把一辆 SimpleOffroad 越野车推到了极限,甚至突破了极限。你能把他们安全带回 Juno 村吗?</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Long">两个鲁莽的Drood 把一辆 SimpleOffroad 越野车推到了极限,甚至突破了极限。你能把他们安全带回 Juno 村吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Name">A.LI</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Short">在沙漠基地周围低空飞行。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Ali.Long">我们的系统侦测到你在行星附近飞行,看起来你就是执行我们某项任务的完美人选。我们正在验证新的 ALI 基地雷达:在基地附近以不低于 1 马赫的速度、距地 150 米以下低空飞行 10 公里。</s>
+   <s id="Career.Contracts.Location-Ali.Long">我们的系统侦测到你在行星附近飞行,看起来你就是执行我们某项任务的完美人选。我们正在验证新的 ALI 基地雷达:在基地附近以不低于 1 马赫的速度,距地 150 米以下低空飞行 10 公里。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-AliPad.Name">Quick Deployment</s>
    <!-- Font:Primary -->
@@ -2367,13 +2367,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Name">Explosives Delivery</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Ali-delivery.FlairText">Progression</s>
+   <s id="Career.Contracts.Ali-delivery.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Short">把一些货物运到前哨基地。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Ali-delivery.Long">我们需要把几个装满 PETN 的板条箱送到沙漠基地前哨。这些东西非常易碎,所以请小心对待——这次任务不需要玩什么花活。</s>
+   <s id="Career.Contracts.Ali-delivery.Long">我们需要把几个装满 PETN 的板条箱送到沙漠基地前哨。这些东西非常易碎易爆,所以请小心对待——这次任务不需要玩什么花活。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-outpost.Name">Outpost Supplies</s>
+   <s id="Career.Contracts.Packages-outpost.Name">Outpost 补给</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-outpost.Subtitle">@Count @Count:plural(payload|payloads)</s>
    <!-- Font:Primary -->
@@ -2381,7 +2381,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-outpost.Long">我们需要把一些补给送到前哨基地,开车或飞过去都行,只要送到就好。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Name">Launchpad Supplies</s>
+   <s id="Career.Contracts.Packages-launchpad.Name">Launchpad 补给</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Subtitle">@Count @Count:plural(payload|payloads)</s>
    <!-- Font:Primary -->
@@ -2389,137 +2389,137 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Long">我们需要把一些补给送到 Ali 发射台,开车或飞过去都行,只要送到就好。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Subtitle">4 个 Drood,位于丘陵地带</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Subtitle">4 个Drood,位于丘陵地带</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Short">Private Jet Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Short">私人飞机救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.Long">Algernon 的私人飞机在崎岖地形上紧急迫降。幸运的是,他本人不在机上,只有机组人员。赶紧把他们带回 Ali 前哨基地,刻不容缓。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Subtitle">1 Drood at sea</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Subtitle">1Drood at sea</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Short">Inflatable Motorboat Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Short">摩托艇救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Long">不知怎么的,一名 Drood 的摩托艇坏了,被困在海上。他向我们求助,但我相信你完全有能力独自处理这种情况。</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Long">不知怎么的,一名Drood 的摩托艇坏了,被困在海上。他向我们求助,但我相信你完全有能力独自处理这种情况。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Subtitle">5 个 Drood,位于北极</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Subtitle">5 个Drood,位于北极</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Short">Polar Exploration Vehicle Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Short">极地科考车救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Long">Pricklespac 派了一队 Drood 去极地,但他们的极地探险车掉进了冰缝,无法开动。赶紧把他们带回 Ali 基地,免得冻坏了。</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Long">Pricklespac 派了一队Drood 去极地,但他们的极地探险车掉进了冰缝,无法开动。赶紧把他们带回 Ali 基地,免得冻坏了。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Name">Droo Surface Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Subtitle">6 Droods at sea</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Subtitle">6Droods at sea</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Short">SimpleRCV Rescue</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Short">SimpleRCV 救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Long">Shotwell 呼叫支援:一辆 SimpleRCV 困在了荒郊野外。你能安全地把它运到 DSC 港口吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Name">Droo Orbit Rescue</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Name">Droo 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Subtitle">1 名 Drood,乘坐一艘 SimpleCrew 飞船</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Subtitle">1 名Drood,乘坐一艘 SimpleCrew 飞船</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-1.Short">在 Droo 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Long">又是那种还在用 100% 对接尺寸的廉价 SimpleCrew 又漏气了,这次还载着人。你能想办法把那名 Drood 带回来吗?</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Long">又是那种还在用 100% 对接尺寸的廉价 SimpleCrew 又漏气了,这次还载着人。你能想办法把那名Drood 带回来吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Name">Droo Orbit Rescue</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Name">Droo 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Subtitle">2 名 Drood,乘坐 Rapture 飞船</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Subtitle">2 名Drood,乘坐 Rapture 飞船</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Short">在 Droo 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Long">Algernon 把几名 Drood 用他那浮夸的 Rapture 飞船送上了太空,现在他们困在太空里了。他不打算救他们,所以这次看你的了。他们的对接端口是 200% 尺寸——动动脑筋吧。</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Long">Algernon 把几名Drood 用他那浮夸的 Rapture 飞船送上了太空,现在他们困在太空里了。他不打算救他们,所以这次看你的了。他们的对接口是 200% 尺寸——动动脑筋吧。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Name">Droo Orbit Rescue</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Name">Droo 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Subtitle">3 名 Drood,乘坐 Thermos 空天飞机</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Subtitle">3 名Drood,乘坐 Thermos 空天飞机</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Short">在 Droo 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Long">一个 3 人机组被困在我们几周前发射的实验性航天飞机里,当时为了某项研究把它送入了极轨道。它有 400% 尺寸的对接端口;如果你有办法,你可以试着搭乘它回来。</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Long">一个 3 人机组被困在我们几周前发射的实验性航天飞机里,当时为了某项研究把它送入了极轨道。它有 400% 尺寸的对接口;如果你有办法,你可以试着搭乘它回来。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Name">Luna Orbit Rescue</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Subtitle">1 名 Drood,乘坐 Bruno 飞船</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Subtitle">1 名Drood,乘坐 Bruno 飞船</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.Short">在 Luna 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Long">Shotwell 需要帮助把一名被困在 Luna 轨道上的 Drood 带回来,他坐的是一艘带 100% 尺寸对接端口的 Bruno 舱。这次可别搞砸了,否则公关会很糟糕。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Long">Shotwell 需要帮助把一名被困在 Luna 轨道上的Drood 带回来,他坐的是一艘带 100% 尺寸对接口的 Bruno 舱。这次可别搞砸了,否则公关会很糟糕。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Name">Luna Orbit Rescue</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Subtitle">2 名 Drood,乘坐 LM 上升段</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Subtitle">2 名Drood,乘坐 LM 上升段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Short">在 Luna 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Long">不知怎么的,Shotwell 又向 Luna 派了一次任务,结果又困住了。这次是他们 Luna 模块的上升段,所以轨道非常低。它有 100% 尺寸的对接端口;把他们带回来,别撞上 Luna。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Long">不知怎么的,Shotwell 又向 Luna 派了一次任务,结果又困住了。这次是他们 Luna 登月舱的上升段,所以轨道非常低。它有 100% 尺寸的对接口;把他们带回来,别撞上 Luna。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Name">Luna Orbit Rescue</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Subtitle">3 名 Drood,乘坐 Nebula 飞船</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Subtitle">3 名Drood,乘坐 Nebula 飞船</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Short">在 Luna 轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕 Luna 飞行的飞行器,这次是一艘带 200% 尺寸对接端口的崭新 Nebula 舱。它的轨道非常极端,接近它可要小心。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕 Luna 飞行的飞行器,这次是一艘带 200% 尺寸对接口的崭新飞船。它的轨道非常极端,接近它可要小心。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Name">Luna Surface Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1 Drood at Luna's maria</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1Drood at Luna's maria</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Short">Luna Module Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Short">Luna Module 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Long">又有一艘 Luna 模块出了故障,这次是在 Luna 表面,而且无法运作。试着把那些 Drood 带回家。</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Long">又有一艘 Luna 模块出了故障,这次是在 Luna 表面,而且无法运作。试着把那些Drood 带回家。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Name">Luna Surface Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Subtitle">2 Droods at maria edge</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Subtitle">2Droods at maria edge</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Short">LunaTown Base Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Short">LunaTown Base 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Long">LunaTown 基地的窗户不知怎的被人戳穿了,你得赶紧过去,把在那次事故中幸存的两个 Drood 救出来。</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Long">LunaTown 基地的窗户不知怎的被人戳穿了,你得赶紧过去,把在那次事故中幸存的两个Drood 救出来。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Name">Luna Surface Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Subtitle">3 名 Drood,位于南极</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Subtitle">3 名Drood,位于南极</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Short">Drood Landing System Rescue</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Short">Drood Landing System 救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-3.Long">Algernon 的玩具又坏了,这次是一艘月球着陆器的电力系统。现在机组成员既无法起飞,他们的电梯也用不了,所以想办法把他们先放到月面上,再带回家。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Removal.Name">Classified</s>
+   <s id="Career.Contracts.Removal.Name">机密</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Removal.Short">清除轨道碎片。</s>
    <!-- Font:Primary -->
@@ -2527,41 +2527,41 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Port.Name">溅落!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Port.Short">把一个有效载荷送到 DSC 港口。</s>
+   <s id="Career.Contracts.Location-Port.Short">把一个载荷送到 DSC 港口。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Port.Long">如果你能证明自己的载具可以安全开到水里,以后就允许你使用我们的港口。这会让水上回收的成本大幅下降。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Short runway.Name">Pilot License</s>
+   <s id="Career.Contracts.Location-DSC Short runway.Name">飞行执照</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Short">在村里安全着陆一架载具。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Long">我们航天中心的跑道是宝贵的资产,不容有失,所以首先需要确认你能在恶劣情况下安全着陆。造一架能飞到 3 马赫的载人载具,然后在村里的跑道上安全降落。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Large runway.Name">A Precision Job</s>
+   <s id="Career.Contracts.Location-DSC Large runway.Name">精细飞行</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Large runway.Short">把一个大型载荷送到 Hippolyta 地面站。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Large runway.Long">我们正在找能把超大载荷一路运到 Hippolyta 地面站的人。该站没有跑道,所以我们自己送不了。你能办成这事,我们就允许你使用 DSC 最好的跑道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Launchpad.Name">Raining Rockets</s>
+   <s id="Career.Contracts.Location-Launchpad.Name">箭如雨下</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Launchpad.Short">在无人船上降落一枚助推器。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Launchpad.Long">在你从我们的最佳发射台发射之前,我们需要先确认你知道自己在做什么。先进入亚轨道,然后降落到驳船上,即可解锁高架发射台。</s>
+   <s id="Career.Contracts.Location-Launchpad.Long">在你从我们的最佳发射台发射之前,我们需要先确认你知道自己在做什么。先进入亚轨道,然后降落到驳船上,即可解锁DSC发射台。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Large-Pad.Name">Speedy Pollution</s>
+   <s id="Career.Contracts.Location-Large-Pad.Name">快速部署</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Large-Pad.Short">把一个大型载荷送入太空。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Large-Pad.Long">我们想看看你能不能把一架 @Mass:mass 的载具送入轨道。如果你能,我们就允许你使用我们的大型发射台。它只是一块水泥地,但它能让你发射真正的巨无霸。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Name">Lunar Driver</s>
+   <s id="Career.Contracts.Location-Lunapad.Name">月面司机</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Short">把一辆漫游车送上 Luna,在南极基地周围开一开。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Long">在使用 Luna 上的基础设施之前,我们需要确认你自己能到达那里并生存下来。所以,把一辆漫游车送到基地,开着它直到驶出陨石坑,不许飞过去。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Name">The Grand Tour</s>
+   <s id="Career.Contracts.GrandTour.Name">伟大旅程</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Short">带一颗探测器在星系里转一圈再飞出去。</s>
    <!-- Font:Primary -->
@@ -2571,7 +2571,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Subtitle">Radix Module</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Radix.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Short">把 Radix 送入轨道。</s>
    <!-- Font:Primary -->
@@ -2581,7 +2581,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Subtitle">Expansion Module</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Expansion.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2591,7 +2591,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Subtitle">Nexus Cross</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Docking.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2601,7 +2601,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Subtitle">Habitation Module</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Habitation.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2611,7 +2611,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Subtitle">Cupola Module</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Cupola.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2621,7 +2621,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Subtitle">Solar Array</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Solar.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2629,7 +2629,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Structure.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2639,7 +2639,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Subtitle">Fuel Depot Core</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
@@ -2647,13 +2647,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.FlairText">Station</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.FlairText">空间站</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-2.Name">Cutting Corners Air Race</s>
+   <s id="Career.Contracts.Race-Air-2.Name">Cutting Corners 空中竞赛</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.Subtitle">Round @TitleNumber</s>
    <!-- Font:Primary -->
@@ -2663,7 +2663,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.Long">Buck 告诉我你是个很棒的飞行员。我准备了一场飞行比赛,看你从我窗前呼啸而过,是不是真那么厉害。准备迎接真正的挑战吧。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-research.Name">Research Station Supplies</s>
+   <s id="Career.Contracts.Packages-research.Name">Research Station 补给</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.Subtitle">@Count @Count:plural(payload|payloads)</s>
    <!-- Font:Primary -->
@@ -2673,9 +2673,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.Long">把一些补给送到 Juno 村附近我的研究站。你可以开车或飞过去,只要别打烂东西就行。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-Sample.Name">Testing Your Skills</s>
+   <s id="Career.Contracts.First-Sample.Name">看看你的能耐</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-Sample.FlairText">Progression</s>
+   <s id="Career.Contracts.First-Sample.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Sample.Short">按顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
@@ -2689,7 +2689,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Explorer.Long">我需要从 Droo 的某个生态区采集一些样本。去那里采集 @Samples 个样本。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Delivery-ocean.Name">Ocean Delivery</s>
+   <s id="Career.Contracts.Delivery-ocean.Name">大洋特递</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-ocean.Subtitle">@Origin:coords</s>
    <!-- Font:Primary -->
@@ -2705,7 +2705,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-gs.Long">我需要一些工具和资源来维持地面站的运转,但它离研究站很远。能帮我送一个集装箱过去吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-orbit.Name">Droo Orbit</s>
+   <s id="Career.Contracts.Droo-orbit.Name">Droo轨道</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Subtitle">@Apoapsis:distance - @Periapsis:distance</s>
    <!-- Font:Primary -->
@@ -2713,13 +2713,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Long">你能进入轨道吗?我需要你非常接近一条特定轨道,你能到吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-sat.Name">Satellite Mission</s>
+   <s id="Career.Contracts.First-sat.Name">卫星任务</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-sat.FlairText">Progression</s>
+   <s id="Career.Contracts.First-sat.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-sat.Short">把一个有效载荷送到指定轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-sat.Long">我需要帮忙把一些卫星送入轨道。我们从简单的开始:你能把这颗 CubeSat 送入任意轨道吗?我已经加了一个部署器方便集成,至于放火箭哪里你自己定。它可以放在发动机旁边、整流罩里(如果你解锁了),甚至你可以用级间段把头锥连同有效载荷一起弹出去。</s>
+   <s id="Career.Contracts.First-sat.Long">我需要帮忙把一些卫星送入轨道。我们从简单的开始:你能把这颗 CubeSat 送入任意轨道吗?我已经加了一个部署器方便集成,至于放火箭哪里你自己定。它可以放在发动机旁边,整流罩里(如果你解锁了),甚至你可以用级间段把头锥连同有效载荷一起弹出去。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-sat.Name">@SatName Mission</s>
    <!-- Font:Primary -->
@@ -2733,7 +2733,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Heliosynch-orbit.Name">Heliosynchronous Orbit</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Heliosynch-orbit.FlairText">Progression</s>
+   <s id="Career.Contracts.Heliosynch-orbit.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Heliosynch-orbit.Short">进入 Juno 同步轨道。</s>
    <!-- Font:Primary -->
@@ -2747,7 +2747,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Name">Luna Fly-by</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-flyby.FlairText">Progression</s>
+   <s id="Career.Contracts.First-flyby.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Short">Fly-by Luna</s>
    <!-- Font:Primary -->
@@ -2763,7 +2763,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Name">Brigo Orbit</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-lunar-orbit.FlairText">Progression</s>
+   <s id="Career.Contracts.First-lunar-orbit.FlairText">进度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Short">Orbit Brigo</s>
    <!-- Font:Primary -->
@@ -2835,7 +2835,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.FlairText">@Progression</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Celestial-orbit.Short">Orbit @Planet</s>
+   <s id="Career.Contracts.Celestial-orbit.Short">环绕 @Planet</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Long">我需要你进入 @Planet 的轨道,远点低于 @Apoapsis:distance</s>
    <!-- Font:Primary -->
@@ -2867,13 +2867,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Button.StepText">屏幕底部就是主仪表盘。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#0.Button.StepText">你可以在 AGL 和 ASL 高度之间切换。AGL 是你距地面(或海面以上)的距离;ASL 是你距海平面的距离,在飞得够高、不必在意地形时很有用,因为它能更准确地告诉你离太空还有多远。</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#0.Button.StepText">你可以在 AGL 和 ASL 高度之间切换。AGL 是你距地面(或海面以上)的距离;ASL 是你距海平面的距离,在飞得够高,不必在意地形时很有用,因为它能更准确地告诉你离太空还有多远。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#0.StepText">你也可以在 Surface 和 Orbit 速度之间切换。Surface 考虑了行星自转,Orbit 则没有。一旦你锁定了另一艘载具,会出现第三种模式,显示相对速度。</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#0.StepText">你也可以在 地面速度 和 轨道速度之间切换。地面速度考虑了行星自转,轨道速度则没有。一旦你锁定了另一艘载具,会出现第三种模式,显示相对速度。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#1.StepText">当你切换模式时,导航球里的绿色箭头会移动。它会适配你的速度模式,指明 “前进” 的方向。同理,锁定目标时,它会显示相对速度的方向。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#2.Button.StepText">用导航球来改变火箭的航向。它会自动利用发动机万向节、机翼、陀螺仪等,试图把载具指向你想要的方向。</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#2.Button.StepText">用导航球来改变火箭的航向。它会自动利用发动机万向节,机翼,陀螺仪等,试图把载具指向你想要的方向。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#3.Button.StepText">对任何飞行员来说,姿态球都是非常有用的工具。这个由线条和数字组成的球体显示了你的朝向。它的两个色半区由地平线分割。如果一切顺利,你现在应该看不到它,因为你的载具正指着上方。</s>
    <!-- Font:Primary -->
@@ -2909,7 +2909,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Expression.PartCount-Payload-Sat-0.Description">暴露探测器。</s>
    <!-- Contract 'Flight-Termination' requirements Font:Primary -->
-   <s id="Career.Contracts.Flight-Termination.Req.Expression.Description">Reach 30km AGL (above ground level)</s>
+   <s id="Career.Contracts.Flight-Termination.Req.Expression.Description">达到30km高度</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Flight-Termination.Req.Expression.Tutorial.Description">选择一个部件把它炸掉</s>
    <!-- Font:Primary -->
@@ -2969,7 +2969,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#9.StepText#1.StepText">在这个高度你需要超过 3300 米/秒才能达到入轨速度,你快到了!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Description">Getting fancy now</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Description">花哨起来了</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Button#0.StepText">你已经成功入轨,接下来会被要求进入精确轨道,让我们看看怎么做。</s>
    <!-- Font:Primary -->
@@ -3133,25 +3133,25 @@
    <!-- Contract 'Droo-Surface-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近坠毁的 SimpleCub</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名 Drood 从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从损坏的飞行器里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Description">把那名 Drood 带回到村子</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Description">把那名Drood 带回到村子</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的 SimpleOffroad</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把 2 名 Drood 带回 Juno 村</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把 2 名Drood 带回 Juno 村</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的飞行器里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Description">把那名 Drood 带回到村子</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Description">把那名Drood 带回到村子</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Location-Ali' requirements Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3187,157 +3187,157 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count @Count:plural(payload|payloads) 送到 Ali 发射台并放在那里</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的私人飞机</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把 4 名 Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把 4 名Drood 运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名 Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood 运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-4' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的充气摩托艇</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Description">把那名 Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Description">把那名 Drood 运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Description">把那名Drood 运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-5' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的极地探险车</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把 5 名 Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把 5 名Drood 运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名 Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood 运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-6' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 SimpleRCV</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把 6 名 Drood 安全地从被困载具运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把 6 名Drood 安全地从被困载具运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Description">把那名 Drood 运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Description">把那名Drood 运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把 2 名 Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood 从被困的载具运回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把 3 名 Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood 从被困的载具运回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把 2 名 Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood 从被困的载具运回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把 3 名 Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood 从被困的载具运回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 Luna 模块</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名 Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 LunaTown 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把 2 名 Drood 安全地从被困的载具运回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把 2 名Drood 安全地从被困的载具运回 Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 送回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 送回 Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-3' requirements Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 Drood 着陆系统</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的Drood 着陆系统</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把 3 名 Drood 安全地从被困的载具运回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把 3 名Drood 安全地从被困的载具运回 Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名 Drood 送回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 送回 Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名 Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名 Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
    <!-- Contract 'Removal' requirements Font:Primary -->
    <s id="Career.Contracts.Removal.Req.TrackSpawnedCraft.CraftEvent-Destroyed.Description">用任何手段摧毁碎片</s>
    <!-- Contract 'Location-Port' requirements Font:Primary -->
@@ -3351,7 +3351,7 @@
    <!-- Contract 'Location-DSC Short runway' requirements Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Description">Bring two droods aboard</s>
+   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Description">Bring twoDroods aboard</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Expression.Description">飞到 Mach 3</s>
    <!-- Font:Primary -->
@@ -3407,7 +3407,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Tutorial.Description">一路顺风,星辰中的旅行者!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Tutorial.Button.StepText">这是来自一个遥远小世界的礼物——它代表着我们的声音、科学、影像、音乐、思想和情感。我们努力在自己的时代生存下去,以便能在你们的时代延续下去。我们希望有朝一日,在解决了我们面对的问题之后,能够加入银河文明的共同体。这张唱片承载着我们在浩瀚而令人敬畏的宇宙中的希望、决心与善意。</s>
+   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Tutorial.Button.StepText">这是来自一个遥远小世界的礼物——它代表着我们的声音,科学,影像,音乐,思想和情感。我们努力在自己的时代生存下去,以便能在你们的时代延续下去。我们希望有朝一日,在解决了我们面对的问题之后,能够加入银河文明的共同体。这张唱片承载着我们在浩瀚而令人敬畏的宇宙中的希望,决心与善意。</s>
    <!-- Contract 'SPE-Radix' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -4169,7 +4169,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.ResetConfirm">这将重置你对分级所做的所有更改。请确认要重置你的分级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Staging.TotalDeltaVFormat">总 Delta-V:{0}</s>
+   <s id="Design.Staging.TotalDeltaVFormat">总速度增量:{0}</s>
    <!-- Format Font:Primary ; thrust-to-weight ratio shown in the staging panel; {0} is the formatted ratio number -->
    <s id="Design.Staging.ThrustToWeightFormat">{0}:1</s>
    <!-- Rec:14 Max:20 Font:Primary ; spinner label -->
@@ -4205,17 +4205,16 @@
    <!-- Rec:4 Max:8 Font:Primary ; modifier dialog OK button -->
    <s id="Design.XmlEdit.NewModifier.OkayButton">增加</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.XmlEdit.RemoveModifier.Message">移除一个必要的 modifier 可能让你的载具无法使用。确定要移除吗?</s>
-   <!-- Toast ; no length limit -->
+   <s id="Design.XmlEdit.RemoveModifier.Message">移除一个必要的属性可能会破坏此载具,你确定要移除吗?</s>
    <!-- Toast ; no length limit -->
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Ball1.xml -->
-  <s id="DesignerParts.Ball1.Ball.Name">球体</s>
-  <!-- Font:Primary -->
-  <s id="DesignerParts.Ball1.Ball.Description">一个简单的球体。</s>
-   <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from BeaconLight1.xml -->
-  <s id="DesignerParts.BeaconLight1.BeaconLight.Name">信标灯</s>
-  <!-- Font:Primary -->
-  <s id="DesignerParts.BeaconLight1.BeaconLight.Description">小型闪烁灯。</s>
+    <s id="DesignerParts.Ball1.Ball.Name">球体</s>
+    <!-- Font:Primary -->
+    <s id="DesignerParts.Ball1.Ball.Description">一个简单的球体。</s>
+     <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from BeaconLight1.xml -->
+    <s id="DesignerParts.BeaconLight1.BeaconLight.Name">信标灯</s>
+    <!-- Font:Primary -->
+    <s id="DesignerParts.BeaconLight1.BeaconLight.Description">小型闪烁灯。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Block1.xml -->
    <s id="DesignerParts.Block1.Block.Name">方块</s>
    <!-- Font:Primary -->
@@ -4275,7 +4274,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CrewCompartment.xml -->
    <s id="DesignerParts.CrewCompartment.SpaceHabitat.Name">太空舱室</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.CrewCompartment.SpaceHabitat.Description">可容纳船员的机身,但密度非常低。非常适合大型飞行器,如宇宙飞船、空间站等。</s>
+   <s id="DesignerParts.CrewCompartment.SpaceHabitat.Description">可容纳船员的机身,但密度非常低。非常适合大型飞行器,如宇宙飞船,空间站等。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.CrewCompartment.CrewCompartment.Name">普通乘员舱</s>
    <!-- Font:Primary -->
@@ -4289,7 +4288,7 @@
   <!-- Font:Primary -->
   <s id="DesignerParts.DetacherSide1.SideInterstage.Description">设计用于连接到燃料箱侧面的级间段,但也可以连接到其他地方。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from DockingPort1.xml -->
-  <s id="DesignerParts.DockingPort1.DockingPort.Name">对接端口</s>
+  <s id="DesignerParts.DockingPort1.DockingPort.Name">对接口</s>
   <!-- Font:Primary -->
   <s id="DesignerParts.DockingPort1.DockingPort.Description">允许在飞行中连接两个飞行器,使它们成为朋友并转移燃料。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from ElectricMotor1.xml -->
@@ -4319,7 +4318,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Eva.xml -->
   <s id="DesignerParts.Eva.Drood.Name">Drood</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱,但在探索和驾驶方面很出色。把他们放进座舱、舱室或驾驶舱中,即使没有电力也能控制你的飞行器,在飞行中让他们出去散步。</s>
+  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱,但在探索和驾驶方面很出色。把他们放进座舱,舱室或驾驶舱中,即使没有电力也能控制你的飞行器,在飞行中让他们出去散步。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from EvaChair1.xml -->
    <s id="DesignerParts.EvaChair1.Chair.Name">椅子</s>
    <!-- Font:Primary -->
@@ -4367,7 +4366,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Generator1.xml -->
    <s id="DesignerParts.Generator1.FuelCell.Name">燃料电池</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Generator1.FuelCell.Description">将燃料转化为电力的发电机。虽然燃烧效率不高,但可以是大型电池的更轻便、更紧凑的替代品。</s>
+   <s id="DesignerParts.Generator1.FuelCell.Description">将燃料转化为电力的发电机。虽然燃烧效率不高,但可以是大型电池的更轻便,更紧凑的替代品。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Generator2.xml -->
    <s id="DesignerParts.Generator2.RTG.Name">放射性热核发电机</s>
    <!-- Font:Primary -->
@@ -4392,7 +4391,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from IonEngine1.xml -->
    <s id="DesignerParts.IonEngine1.IonEngine.Name">离子 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.IonEngine1.IonEngine.Description">极低功率、高效率的发动机,以近50km/s的速度喷射离子。需要电力。</s>
+   <s id="DesignerParts.IonEngine1.IonEngine.Description">极低功率,高效率的发动机,以近50km/s的速度喷射离子。需要电力。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from JetEngine1.xml -->
    <s id="DesignerParts.JetEngine1.PegasusEngine.Name">天马座 发动机</s>
    <!-- Font:Primary -->
@@ -4412,11 +4411,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.CentaurEngine.Name">半人马 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.JetEngine1.CentaurEngine.Description">涡喷发动机是最古老、效率最低的喷气发动机。这些是在工程师们认识到绕过核心重新导向一些空气会更省油并产生更多推力之前设计的。</s>
+   <s id="DesignerParts.JetEngine1.CentaurEngine.Description">涡喷发动机是最古老,效率最低的喷气发动机。这些是在工程师们认识到绕过核心重新导向一些空气会更省油并产生更多推力之前设计的。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from KomodoBundle.xml -->
    <s id="DesignerParts.KomodoBundle.KomodoCapsule.Name">科莫多 太空舱</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.KomodoBundle.KomodoCapsule.Description">包含少量燃料、内置发动机和可旋转鼻锥的指令舱。</s>
+   <s id="DesignerParts.KomodoBundle.KomodoCapsule.Description">包含少量燃料,内置发动机和可旋转鼻锥的指令舱。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Label1.xml -->
    <s id="DesignerParts.Label1.Label.Name">标签</s>
    <!-- Font:Primary -->
@@ -4548,7 +4547,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Name">哥布林 小型固体火箭发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Description">糖、香料和一切美好的东西。任何火箭迷的最爱。</s>
+   <s id="DesignerParts.RocketEngine1.GoblinSolidMotor.Description">糖,香料和一切美好的东西。任何火箭迷的最爱。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.RocketEngine1.IfritSolidBooster.Name">伊芙利特 固体助推器</s>
    <!-- Font:Primary -->
@@ -4694,17 +4693,17 @@
    <!-- Font:Primary -->
    <s id="Flight.Inspector.DeltaV.AntiNormal">反法向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.DeltaV.AntiNormalNormal">反法向/法向 Delta-V</s>
+   <s id="Flight.Inspector.DeltaV.AntiNormalNormal">反法向/法向速度增量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.DeltaV.Normal">法向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.DeltaV.Prograde">顺向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.DeltaV.ProgradeRetrograde">顺向/逆向 Delta-V</s>
+   <s id="Flight.Inspector.DeltaV.ProgradeRetrograde">顺向/逆向速度增量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.DeltaV.RadialIn">径向内</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.DeltaV.RadialInOut">径向内/径向外 Delta-V</s>
+   <s id="Flight.Inspector.DeltaV.RadialInOut">径向内/径向外速度增量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.DeltaV.RadialOut">径向外</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4725,7 +4724,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; slider label -->
    <s id="Flight.ManeuverNode.Sensitivity">灵敏度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.ManeuverNode.SensitivityTooltip">调整 Delta-V 调整控件的灵敏度。较低的灵敏度在与计划轨道机动控件交互时会产生较小的 Delta-V 变化。</s>
+   <s id="Flight.ManeuverNode.SensitivityTooltip">调整速度增量调整控件的灵敏度。较低的灵敏度在与计划轨道机动控件交互时会产生较小的速度增量 变化。</s>
    <!-- Font:Primary -->
    <s id="Flight.MapItem.PlayerCraftFallback">玩家飞行器</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4826,7 +4825,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; label -->
    <s id="Flight.NextBurn.BurnTime">轨道机动时间</s>
    <!-- Rec:14 Max:20 Font:Primary ; label -->
-   <s id="Flight.NextBurn.DeltaV">Delta-V</s>
+   <s id="Flight.NextBurn.DeltaV">速度增量</s>
    <!-- Rec:14 Max:20 Font:Primary ; progress bar label -->
    <s id="Flight.NextBurn.DeltaVProgressBar">Delta V</s>
    <!-- Rec:14 Max:20 Font:Primary ; section title -->
@@ -4857,7 +4856,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Teleport.NextToTarget">已传送到目标附近</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Teleport.TargetDockingPort">已传送到目标对接端口</s>
+   <s id="Flight.Teleport.TargetDockingPort">已传送到目标对接口</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Teleport.TargetLocation">已传送到目标位置</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4899,7 +4898,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.DockingPractice.GoalDockWithSatelliteTimed">与卫星对接 ({0})</s>
    <!-- Font:Primary -->
-   <s id="Levels.EsaJuice.DeltaVUsedFormat">Delta-V 使用量：{0:F2} m/s</s>
+   <s id="Levels.EsaJuice.DeltaVUsedFormat">速度增量使用量：{0:F2} m/s</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.LevelDesigner.TotalFuelFormat">&#10;&#10;总燃料：{0}</s>
    <!-- Tooltip ; no length limit -->
@@ -5134,7 +5133,7 @@
    <!-- Font:Primary -->
    <s id="Menu.OutdatedGameState">此游戏状态已过时,不再受支持。请从主菜单开始新游戏。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.PreviousCrashDialog.Message">检测到上次运行可能发生了崩溃,可能是你的设备在加载飞行器和/或星球时内存不足所致。&#10;&#10;为防止进一步崩溃,将跳过所选飞行器和发射位置的加载。建议在继续之前选择不同的飞行器或行星系统、清空飞行中的飞行器,或降低画质设置以减少内存占用。</s>
+   <s id="Menu.PreviousCrashDialog.Message">检测到上次运行可能发生了崩溃,可能是你的设备在加载飞行器和/或星球时内存不足所致。&#10;&#10;为防止进一步崩溃,将跳过所选飞行器和发射位置的加载。建议在继续之前选择不同的飞行器或行星系统,清空飞行中的飞行器,或降低画质设置以减少内存占用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.Tutorial.CloseConfirm">是否要关闭该教程?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5228,7 +5227,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.CommandPodPartProperties.AdjustPilotOrientation.Label">调整飞行员朝向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.CommandPodPartProperties.AdjustPilotOrientation.Tooltip">允许调整飞行员朝向。机翼、陀螺仪、RCS 和自动控制舵面均通过飞行员的朝向来配置。</s>
+   <s id="Design.CommandPodPartProperties.AdjustPilotOrientation.Tooltip">允许调整飞行员朝向。机翼,陀螺仪,RCS 和自动控制舵面均通过飞行员的朝向来配置。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.CommandPodPartProperties.UseDefaultPilotOrientation.Label">使用默认朝向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5578,15 +5577,15 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.BurnTime.Tooltip">该级的预计轨道机动时间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Staging.DeltaV.Tooltip">显示每一级的 Delta-V。</s>
+   <s id="Design.Staging.DeltaV.Tooltip">显示每一级的速度增量。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Staging.EmptyStage.Text">空分级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.Reset.Tooltip">将分级重置为默认。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Staging.StageDeltaV.Tooltip">该级的 Delta-V。</s>
+   <s id="Design.Staging.StageDeltaV.Tooltip">该级的速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Staging.TotalDeltaV.Tooltip">飞行器的总 Delta-V。</s>
+   <s id="Design.Staging.TotalDeltaV.Tooltip">飞行器的总速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.TWR.Tooltip">该级的推重比。</s>
    <!-- Rec:17 Max:22 Font:Header ; section header (preflight tab title) -->
@@ -5778,7 +5777,7 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Text">显示尺寸调整</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Tooltip">显示用于调整燃料箱、机翼等部件尺寸的小工具。</s>
+   <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Tooltip">显示用于调整燃料箱,机翼等部件尺寸的小工具。</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.MovePart.ShowFuelFlow.Text">显示燃料流路</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5970,7 +5969,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.AbortedNotAchievable">中止：自动轨道机动无法实现</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.AutoBurn.AbortedZeroDv">因零 Delta-V 中止自动轨道机动</s>
+   <s id="Flight.AutoBurn.AbortedZeroDv">因零速度增量 中止自动轨道机动</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.InterruptedFormat">自动轨道机动被 {0} 命令中断。请取消暂停并重新启用自动轨道机动以继续。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -6332,7 +6331,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.StageBurnTime">分级动力时长</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.StageDeltaV">分级 Delta-V</s>
+   <s id="Flight.Inspector.StageDeltaV">分级速度增量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.StageIsp">分级比冲</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6432,7 +6431,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Map.Label">地图</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Maneuver.DeltaVFormat">Delta V:{0}</s>
+   <s id="Flight.Maneuver.DeltaVFormat">速度增量:{0}</s>
    <!-- Tooltip Font:Primary ; nav-sphere mode toggle -->
    <s id="Flight.MapButton.SwitchToAttitude.Tooltip">切换到姿态模式。</s>
    <!-- Tooltip Font:Primary ; nav-sphere mode toggle -->
@@ -6462,7 +6461,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.MapView.Options.GizmoSensitivity">小工具调整全局敏感度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Options.GizmoSensitivity.Tooltip">调整计划轨道机动节点 Delta-V 调整小工具的全局灵敏度。除每个节点的灵敏度设置外,还会全局应用。灵敏度越低,使用计划轨道机动小工具时 Delta-V 的变化越小。</s>
+   <s id="Flight.MapView.Options.GizmoSensitivity.Tooltip">调整计划轨道机动节点速度增量 调整小工具的全局灵敏度。除每个节点的灵敏度设置外,还会全局应用。灵敏度越低,使用计划轨道机动小工具时速度增量 的变化越小。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.MapView.Options.Title">地图选项</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6900,7 +6899,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimePanel.NormalSpeed">正常速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.TimePanel.Reverse">Reverse</s>
+   <s id="Flight.TimePanel.Reverse">反向(这啥啊?)</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimePanel.SlowMotion">慢动作</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7060,7 +7059,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.DockingPractice.Name">对接练习</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.EsaJuice.Description">欧洲航天局首次使用木星冰卫星探测器访问木星。&#10;&#10;为了纪念这一时刻,你能将 JUICE 带到 Tydos 吗？燃料有限,所以你可能需要一些引力辅助,请尽量降低 Delta-V 的使用量！</s>
+   <s id="Levels.EsaJuice.Description">欧洲航天局首次使用木星冰卫星探测器访问木星。&#10;&#10;为了纪念这一时刻,你能将 JUICE 带到 Tydos 吗？燃料有限,所以你可能需要一些引力辅助,请尽量降低速度增量 的使用量！</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.EsaJuice.Name">ESA的JUICE</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7128,7 +7127,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.SatelliteRendezvous.Description">建造火箭,从 Droo 发射,与已经在轨道上的卫星会合。这是一项极具挑战性的任务,比 Luna 着陆难得多。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接端口才能与卫星对接！</s>
+   <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接口才能与卫星对接！</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.SatelliteRendezvous.Name">卫星会合</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9048,7 +9047,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CommandPodData.AutoPilot.Integral.Label">积分控制</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.AutoPilot.Pid.Tooltip">自动驾驶仪使用一个包含三个部分的&quot;PID&quot;控制器：比例、积分和微分。在飞行中调整它们以找到最优值（视图面板-&gt;自动驾驶仪）,然后在此处设置它们以与飞行器一起保存。&#10;PID调谐的难点在于当飞行器接近目标位置时,如何控制振荡。参数值应足够大,以便在各种空速范围内产生所需的响应速率,同时不引入振荡。任何过高的值都可能导致振荡。&#10;&#10;在飞行中开始调谐：将积分和微分设置为零。提高比例,直到达到所需的响应速率且振荡最小（可能无法完全消除振荡）。提高微分,直到过冲/振荡最小化。增加积分以修正任何持续存在的误差,同时保持振荡较低。提示：显示输入滑块以监控输入中的振荡。</s>
+   <s id="Parts.CommandPodData.AutoPilot.Pid.Tooltip">自动驾驶仪使用一个包含三个部分的&quot;PID&quot;控制器：比例,积分和微分。在飞行中调整它们以找到最优值（视图面板-&gt;自动驾驶仪）,然后在此处设置它们以与飞行器一起保存。&#10;PID调谐的难点在于当飞行器接近目标位置时,如何控制振荡。参数值应足够大,以便在各种空速范围内产生所需的响应速率,同时不引入振荡。任何过高的值都可能导致振荡。&#10;&#10;在飞行中开始调谐：将积分和微分设置为零。提高比例,直到达到所需的响应速率且振荡最小（可能无法完全消除振荡）。提高微分,直到过冲/振荡最小化。增加积分以修正任何持续存在的误差,同时保持振荡较低。提示：显示输入滑块以监控输入中的振荡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.CommandPodData.AutoPilot.PidDerivative.Tooltip">用于减少过冲/振荡,但过量使用会导致振荡。高度灵活的飞行器在无任何微分的情况下也无法承受过多,否则会引起振荡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9370,7 +9369,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CurveInputData.UseUnscaledTime.Label">采用实际时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CurveInputData.UseUnscaledTime.Tooltip">如果启用,则每帧更新曲线时将使用未缩放的时间。这是本帧与上一帧之间的时间差,不考虑快进、慢放和时间加速模式的影响。</s>
+   <s id="Parts.CurveInputData.UseUnscaledTime.Tooltip">如果启用,则每帧更新曲线时将使用未缩放的时间。这是本帧与上一帧之间的时间差,不考虑快进,慢放和时间加速模式的影响。</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.Common.WrapMode.Label">溢出处理模式</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9888,7 +9887,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InputControllerData.InputAxisRangeDesigner.Label">输入轴范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InputControllerData.InputAxisRangeDesigner.Tooltip">一组由一、二或三个逗号分隔的数字,定义输入轴的值范围及其如何映射到-1到1的范围。 &#10;&#10;{max} - 输入轴值小于等于0时映射为0,大于等于{max}时映射为1,0到{max}之间的值在0到1之间线性插值。 &#10;&#10;{min},{max} - 输入轴值小于等于{min}时映射为-1,大于等于{max}时映射为1,{min}到{max}之间的值在-1到1之间线性插值。 &#10;&#10;{min},{zero},{max} - 输入轴值小于等于{min}时映射为-1,大于等于{max}时映射为1,{min}到{zero}之间的值在-1到0之间线性插值,{zero}到{max}之间的值在0到1之间线性插值。若{min}与{zero}相等,小于等于{min}的输入映射为0；若{zero}与{max}相等,大于等于{max}的输入映射为0。</s>
+   <s id="Parts.InputControllerData.InputAxisRangeDesigner.Tooltip">一组由一,二或三个逗号分隔的数字,定义输入轴的值范围及其如何映射到-1到1的范围。 &#10;&#10;{max} - 输入轴值小于等于0时映射为0,大于等于{max}时映射为1,0到{max}之间的值在0到1之间线性插值。 &#10;&#10;{min},{max} - 输入轴值小于等于{min}时映射为-1,大于等于{max}时映射为1,{min}到{max}之间的值在-1到1之间线性插值。 &#10;&#10;{min},{zero},{max} - 输入轴值小于等于{min}时映射为-1,大于等于{max}时映射为1,{min}到{zero}之间的值在-1到0之间线性插值,{zero}到{max}之间的值在0到1之间线性插值。若{min}与{zero}相等,小于等于{min}的输入映射为0；若{zero}与{max}相等,大于等于{max}的输入映射为0。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InputControllerData.InputSuffix"> 输入</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10426,9 +10425,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ParachuteData.AslBased.Tooltip">决定降落伞触发条件是基于海拔高度（启用）还是大气密度（禁用）。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ParachuteData.AutocutDensity.Label">自动切断密度</s>
+   <s id="Parts.ParachuteData.AutocutDensity.Label">自动切伞密度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ParachuteData.AutocutDensity.Tooltip">改变降落伞自动切断的大气密度。</s>
+   <s id="Parts.ParachuteData.AutocutDensity.Tooltip">改变降落伞自动切伞的大气密度。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ParachuteData.BaseSize.Label">底座尺寸</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10464,7 +10463,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ParachuteData.MaxDeploymentSpeed.Tooltip">定义降落伞可展开的最大速度。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ParachuteScript.AutoCut">自动切断</s>
+   <s id="Parts.ParachuteScript.AutoCut">自动切伞</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ParachuteScript.Deployment">展开</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10490,7 +10489,7 @@
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Parts.ParachuteScript.Repack">重新打包</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ParachuteScript.SnappingForce">断裂力</s>
+   <s id="Parts.ParachuteScript.SnappingForce">断裂受力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ParachuteScript.SnappingForce.Tooltip">降落伞断裂时的受力大小。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10522,11 +10521,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.PayloadData.PayloadCount.Label">载荷数量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.PayloadData.PayloadCount.Tooltip">已明确分配给此合同的、连接到飞行器的载荷数量。</s>
+   <s id="Parts.PayloadData.PayloadCount.Tooltip">已明确分配给此合同的,连接到飞行器的载荷数量。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Parts.Piston.EditMessageExtending">当零件连接到活塞活动端时,无法改变方向和尺寸。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Parts.Piston.EditMessageRetracting">当零件连接到正在收缩的活塞活动端时,无法改变行程、方向和尺寸。</s>
+   <s id="Parts.Piston.EditMessageRetracting">当零件连接到正在收缩的活塞活动端时,无法改变行程,方向和尺寸。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PistonData.Cycle.Tooltip">启用后,活塞将在输入持续期间反复伸缩。</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
@@ -10634,7 +10633,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ReactionControlNozzleData.Scale.Label">尺寸</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ReactionControlNozzleData.Scale.Tooltip">改变RCS的整体尺寸,影响其最大推力、价格和重量。</s>
+   <s id="Parts.ReactionControlNozzleData.Scale.Tooltip">改变RCS的整体尺寸,影响其最大推力,价格和重量。</s>
    <!-- Rec:14 Max:20 Font:Primary ; inspector label -->
    <s id="Parts.ResizableWheel.ConcreteFriction">混凝土摩擦</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11226,7 +11225,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetBrush.VisualizationLabel">可视化</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetBrush.VisualizationTooltip">用于表示星球地图数值的颜色渐变。归根结底,星球地图就像单通道纹理；它的作用完全取决于当前天体的特定星球地图。有些地图代表大陆、生物群系、山脉或其他任何东西,有些渐变比简单的灰度更好地描绘结果。此渐变对地图数据没有实际影响；它只是可视化工具。</s>
+   <s id="PlanetBrush.VisualizationTooltip">用于表示星球地图数值的颜色渐变。归根结底,星球地图就像单通道纹理；它的作用完全取决于当前天体的特定星球地图。有些地图代表大陆,生物群系,山脉或其他任何东西,有些渐变比简单的灰度更好地描绘结果。此渐变对地图数据没有实际影响；它只是可视化工具。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="PlanetModifier.AddBiome.BiomeIndexLabel">生物群系索引</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11248,9 +11247,9 @@
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="PlanetModifier.ColorBands.BandColorLabel">颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetModifier.ColorBands.BandColorVarianceTooltip">此条目生成的每个随机色带允许的最大HSV（色相、饱和度、明度）颜色方差,相对于基础颜色。</s>
+   <s id="PlanetModifier.ColorBands.BandColorVarianceTooltip">此条目生成的每个随机色带允许的最大HSV（色相,饱和度,明度）颜色方差,相对于基础颜色。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetModifier.ColorBands.BandCoreTooltip">色带的核心权重。这是仅用于主颜色、无混合的权重值。</s>
+   <s id="PlanetModifier.ColorBands.BandCoreTooltip">色带的核心权重。这是仅用于主颜色,无混合的权重值。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="PlanetModifier.ColorBands.BandCoreWeightRangeLabel">核心权重范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11410,7 +11409,7 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="PlanetObjects.SubStructure.MassLabel">质量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetObjects.SubStructure.MassTooltip">要使此子建筑（及其子级）成为动态物体,请将此质量设置为非零值。子级贡献于总质量并可影响建筑的质心。如果为零（默认）,子建筑是静态、不可移动的物体。注意动态物体在玩家恢复飞行、快速加载或离开建筑的LOD距离后返回时会重置,因此请谨慎使用。</s>
+   <s id="PlanetObjects.SubStructure.MassTooltip">要使此子建筑（及其子级）成为动态物体,请将此质量设置为非零值。子级贡献于总质量并可影响建筑的质心。如果为零（默认）,子建筑是静态,不可移动的物体。注意动态物体在玩家恢复飞行,快速加载或离开建筑的LOD距离后返回时会重置,因此请谨慎使用。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="PlanetObjects.SubStructure.RequiredQualityLabel">所需画质</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11638,7 +11637,7 @@
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="PlanetStudio.Biomes.NoiseStrengthLabel">噪点强度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Biomes.NoiseStrengthTooltip">星球的资源分布对此子生态区资源的调节强度。0在整个生态区提供均匀覆盖（冰盖、盐滩）；1从星球的分布场提供完全斑块化。当星球的管道中没有资源分布修饰器时忽略。</s>
+   <s id="PlanetStudio.Biomes.NoiseStrengthTooltip">星球的资源分布对此子生态区资源的调节强度。0在整个生态区提供均匀覆盖（冰盖,盐滩）；1从星球的分布场提供完全斑块化。当星球的管道中没有资源分布属性时忽略。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Biomes.RemoveLastTextureConfirm">无法移除最后一个纹理槽。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -11800,7 +11799,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Biomes.Part3">有些星球通过数值而非高度来定义子生物群系,这要求每个生物群系使用"子生物群系（基于数值）"星球修改器。这可以更灵活,更容易在不改变子生物群系范围的情况下缩放星球地形特征,但设置更复杂,操作不够直观。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.CelestialBodyDesigner">天体设计器是您构建自定义天体（即星球）的地方。多个弹出面板让您自定义星球的不同部分。&#10;&#10;属性弹出面板包含一般信息,如半径、重力、大气设置等。设置有详细的工具提示,请阅读以了解特定设置的详情。&#10;&#10;某些设置会立即生效,但其他设置需要"重建星球",通过屏幕右上角天体检查器面板中的重建按钮完成。当需要重建时,按钮会变蓝,如下所示。</s>
+   <s id="PlanetStudio.Help.CelestialBodyDesigner">天体设计器是您构建自定义天体（即星球）的地方。多个弹出面板让您自定义星球的不同部分。&#10;&#10;属性弹出面板包含一般信息,如半径,重力,大气设置等。设置有详细的工具提示,请阅读以了解特定设置的详情。&#10;&#10;某些设置会立即生效,但其他设置需要"重建星球",通过屏幕右上角天体检查器面板中的重建按钮完成。当需要重建时,按钮会变蓝,如下所示。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.DataFlow">一个星球修改器可以通过将数据写入数据槽来传递给另一个修改器。只有10个槽位,写入一个会覆盖其中的任何内容。&#10;&#10;在高级视图中,切换数据流面板以查看修改器之间的数据流向。在下面的示例中,噪声修改器写入槽位3；下一个修改器,基础算术,从槽位3读取并将其输出写入槽位4。槽位3的数据保持不变,因为基础算术没有覆盖它。蓝色块是输出；U形块是输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11812,17 +11811,17 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Debugging.Part2">通过天体检查器面板的性能部分关注您星球的性能也是明智的,注意四边形构建时间,尤其是平均值。更快的平均构建时间可以改善下载您星球的玩家的体验。加载原版星球并注意它们在您设备上的平均四边形构建时间,然后进行比较。如果您的星球明显更慢,可能值得削减星球修改器的复杂性。您还可以调整属性 -> 地形质量模式来减少细分和每个四边形的地形顶点数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室！在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分：天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星、太阳、卫星、矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的系统上传到网站并与社区分享。通过菜单中的"加载系统"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意：我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
+   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室！在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分：天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星,太阳,卫星,矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的系统上传到网站并与社区分享。通过菜单中的"加载系统"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意：我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Noise">噪声修改器使用几种梯度噪声函数之一生成一个值。这个值可以设置顶点的高度、设置生物群系的强度,或作为另一个噪声修改器的遮罩输入。可能性是无限的。&#10;&#10;噪声函数是一个非常复杂的话题,超出了此帮助文本的范围。以下是基础知识,但最好的学习方法之一是尝试不同的噪声类型。&#10;&#10;大多数噪声函数使用五个基本属性：强度、频率、倍频数、空隙度和增益。&#10;&#10;强度&#10;强度是噪声的振幅,可能是最直观的设置。增加它使噪声更显著（即输出更大的值）。&#10;&#10;频率&#10;频率设置每单位长度的周期数。换句话说,小地形细节需要更高的频率,大细节需要更低的频率。&#10;&#10;倍频数&#10;可用于分形噪声,倍频数定义噪声函数运行的次数。每次运行时,强度乘以增益,频率乘以空隙度。常见的设置是增益0.5和空隙度2,因此每次运行将强度减半并将频率加倍,以更低的强度添加更精细的细节。增加倍频数可以让地形看起来更好,尤其是近距离,但也会影响性能,所以请谨慎使用。&#10;&#10;增益&#10;如上所述,增益为每个连续倍频数乘以强度。通常增益小于1,因为您希望每倍频数的强度下降,但使用噪声是一门艺术,有时必须打破规则才能创造真正独特的地形。实验并看看什么效果最好！&#10;&#10;空隙度&#10;Lack-You-Nare-Itty。至少我是这么读的。这会在每个倍频数中乘以频率。通常您希望它大于1,因此频率随倍频数增加,细节变得更小更精细。</s>
+   <s id="PlanetStudio.Help.Noise">噪声修改器使用几种梯度噪声函数之一生成一个值。这个值可以设置顶点的高度,设置生物群系的强度,或作为另一个噪声修改器的遮罩输入。可能性是无限的。&#10;&#10;噪声函数是一个非常复杂的话题,超出了此帮助文本的范围。以下是基础知识,但最好的学习方法之一是尝试不同的噪声类型。&#10;&#10;大多数噪声函数使用五个基本属性：强度,频率,倍频数,空隙度和增益。&#10;&#10;强度&#10;强度是噪声的振幅,可能是最直观的设置。增加它使噪声更显著（即输出更大的值）。&#10;&#10;频率&#10;频率设置每单位长度的周期数。换句话说,小地形细节需要更高的频率,大细节需要更低的频率。&#10;&#10;倍频数&#10;可用于分形噪声,倍频数定义噪声函数运行的次数。每次运行时,强度乘以增益,频率乘以空隙度。常见的设置是增益0.5和空隙度2,因此每次运行将强度减半并将频率加倍,以更低的强度添加更精细的细节。增加倍频数可以让地形看起来更好,尤其是近距离,但也会影响性能,所以请谨慎使用。&#10;&#10;增益&#10;如上所述,增益为每个连续倍频数乘以强度。通常增益小于1,因为您希望每倍频数的强度下降,但使用噪声是一门艺术,有时必须打破规则才能创造真正独特的地形。实验并看看什么效果最好！&#10;&#10;空隙度&#10;Lack-You-Nare-Itty。至少我是这么读的。这会在每个倍频数中乘以频率。通常您希望它大于1,因此频率随倍频数增加,细节变得更小更精细。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Passes">星球修改器被分组为通道。每个通道在下一个通道开始前逐个运行其修改器。通道有不同的用途和不同的可用输入数据。&#10;&#10;生物群系通道&#10;第一个运行的通道。它设置生物群系强度值,确定每个生物群系在星球上的位置。例如,一个类似地球的星球会在极地给极地生物群系高强度值,在赤道附近给沙漠和草原更高的强度值。&#10;&#10;高度通道&#10;接下来运行,主要负责设置顶点的高度值。&#10;&#10;高度生物群系通道&#10;接下来为生物群系通道中识别的每个生物群系运行。如果多个生物群系有强度值,它们会根据各自的强度自动混合。由于是生物群系特定的,此通道用于生物群系特定的修改器。&#10;&#10;高度最终通道&#10;接下来运行,适用于必须在生物群系特定修改器之后运行的通用修改器。是径向扁平修改器平滑建筑和发射位置地形的理想位置。不为单个生物群系运行。&#10;&#10;最终通道&#10;地形的最后一个通道,在所有其他地形通道之后运行。它设置任何剩余的未设置顶点数据,如颜色。这是唯一法向量可用的通道,不应修改高度。&#10;&#10;最终生物群系通道&#10;生物群系特定修改器的最终通道。值根据生物群系通道中的强度进行混合。&#10;&#10;水体通道&#10;最后运行。设置水体相关数据,如颜色、波浪强度等。&#10;&#10;水体生物群系通道&#10;生物群系特定修改器的水体通道,水体属性根据生物群系通道中的强度进行混合。这是最后运行的通道。</s>
+   <s id="PlanetStudio.Help.Passes">星球修改器被分组为通道。每个通道在下一个通道开始前逐个运行其修改器。通道有不同的用途和不同的可用输入数据。&#10;&#10;生物群系通道&#10;第一个运行的通道。它设置生物群系强度值,确定每个生物群系在星球上的位置。例如,一个类似地球的星球会在极地给极地生物群系高强度值,在赤道附近给沙漠和草原更高的强度值。&#10;&#10;高度通道&#10;接下来运行,主要负责设置顶点的高度值。&#10;&#10;高度生物群系通道&#10;接下来为生物群系通道中识别的每个生物群系运行。如果多个生物群系有强度值,它们会根据各自的强度自动混合。由于是生物群系特定的,此通道用于生物群系特定的修改器。&#10;&#10;高度最终通道&#10;接下来运行,适用于必须在生物群系特定修改器之后运行的通用修改器。是径向扁平修改器平滑建筑和发射位置地形的理想位置。不为单个生物群系运行。&#10;&#10;最终通道&#10;地形的最后一个通道,在所有其他地形通道之后运行。它设置任何剩余的未设置顶点数据,如颜色。这是唯一法向量可用的通道,不应修改高度。&#10;&#10;最终生物群系通道&#10;生物群系特定修改器的最终通道。值根据生物群系通道中的强度进行混合。&#10;&#10;水体通道&#10;最后运行。设置水体相关数据,如颜色,波浪强度等。&#10;&#10;水体生物群系通道&#10;生物群系特定修改器的水体通道,水体属性根据生物群系通道中的强度进行混合。这是最后运行的通道。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.PlanetarySystemDesigner">在这里您可以使用设备上保存的星球构建系统。选择一个星球以调整其轨道参数,调整轨道的形状和大小。您还可以添加一个围绕选定星球运行的子星球作为卫星。&#10;&#10;右上角的时间面板让您前进和倒退时间以查看星球在轨道中的移动。&#10;&#10;位置弹出面板显示添加到系统中的所有星球上的位置。但是,如果您在添加星球后编辑其发射位置,它们不会出现在系统的发射位置列表中。点击该面板底部的重置按钮以搜索系统中的所有星球并重建列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.PlanetBrushMaps">笔刷弹出面板允许您为星球添加自定义地图。这些地图可以与噪声修改器一起使用,或完全覆盖噪声输出。例如,这对于手绘大陆位置很有用。注意星球必须配置为使用星球笔刷地图。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.TerrainGeneration">要创造真正独特的星球,您可能需要地形生成弹出面板。它是星球工作室中最复杂的部分,但也是最强大的。&#10;&#10;地形生成会为每个地形顶点运行一系列星球修改器。这些修改器计算顶点的高度、颜色、纹理数据等。&#10;&#10;地形生成有两种视图：基础和高级。基础只显示部分修改器,选中时显示简化的检查器面板。高级显示所有修改器及其所有属性。您还可以查看数据流,显示数据如何在修改器之间传递；详情请参阅数据流部分。&#10;&#10;默认选择基础视图,但您可以点击弹出面板左上角的按钮切换模式。</s>
+   <s id="PlanetStudio.Help.TerrainGeneration">要创造真正独特的星球,您可能需要地形生成弹出面板。它是星球工作室中最复杂的部分,但也是最强大的。&#10;&#10;地形生成会为每个地形顶点运行一系列星球修改器。这些修改器计算顶点的高度,颜色,纹理数据等。&#10;&#10;地形生成有两种视图：基础和高级。基础只显示部分修改器,选中时显示简化的检查器面板。高级显示所有修改器及其所有属性。您还可以查看数据流,显示数据如何在修改器之间传递；详情请参阅数据流部分。&#10;&#10;默认选择基础视图,但您可以点击弹出面板左上角的按钮切换模式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Title">星球工作室帮助</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11927,23 +11926,23 @@
    <!-- Rec:16 Max:20 Font:Primary ; table column header -->
    <s id="PlanetStudio.Noise.Profiler.AverageTimeLabel">平均时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Profiler.AverageTimeTooltip">修饰器以纳秒为单位的平均执行时间。重建星球以刷新性能数据。</s>
+   <s id="PlanetStudio.Noise.Profiler.AverageTimeTooltip">属性以纳秒为单位的平均执行时间。重建星球以刷新性能数据。</s>
    <!-- Rec:16 Max:20 Font:Primary ; table column header -->
    <s id="PlanetStudio.Noise.Profiler.ExecutionCountLabel">执行次数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Profiler.ExecutionCountTooltip">此修饰器执行次数占所有修饰器总执行次数的百分比。重建星球以刷新性能数据。</s>
+   <s id="PlanetStudio.Noise.Profiler.ExecutionCountTooltip">此属性执行次数占所有属性总执行次数的百分比。重建星球以刷新性能数据。</s>
    <!-- Rec:16 Max:20 Font:Primary ; table column header -->
    <s id="PlanetStudio.Noise.Profiler.PercentOfTotalLabel">占总百分比</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Profiler.PercentOfTotalTooltip">此修饰器执行时间占所有修饰器总执行时间的百分比。重建星球以刷新性能数据。</s>
+   <s id="PlanetStudio.Noise.Profiler.PercentOfTotalTooltip">此属性执行时间占所有属性总执行时间的百分比。重建星球以刷新性能数据。</s>
    <!-- Rec:16 Max:20 Font:Primary ; table column header -->
    <s id="PlanetStudio.Noise.Profiler.TotalTimeLabel">总时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Profiler.TotalTimeTooltip">修饰器以微秒为单位的总执行时间。重建星球以刷新性能数据。</s>
+   <s id="PlanetStudio.Noise.Profiler.TotalTimeTooltip">属性以微秒为单位的总执行时间。重建星球以刷新性能数据。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="PlanetStudio.Noise.RandomizedFormat">{0} 个符合条件的元素已随机化。</s>
    <!-- Font:Primary -->
-   <s id="PlanetStudio.Noise.Tooltip.AddNoise">添加新噪波修饰器</s>
+   <s id="PlanetStudio.Noise.Tooltip.AddNoise">添加新噪波属性</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Noise.Tooltip.BiomePass">先前步骤的数据不会自动对生态区步骤可用。使用 GetCommonData 将先前公共步骤的数据拉入生态区步骤。此外,生态区的数据在每个步骤后重置,生态区之间不能共享数据。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11957,13 +11956,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Noise.Tooltip.HideEmpty">隐藏/显示空步骤。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Tooltip.Performance">切换额外列以显示上次重建星球时修饰器的性能。</s>
+   <s id="PlanetStudio.Noise.Tooltip.Performance">切换额外列以显示上次重建星球时属性的性能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Noise.Tooltip.Randomize">随机化所选元素的种子（及其所有子元素,如果有的话）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Tooltip.ViewAdvanced">当前正在查看高级地形生成修饰器。点击切换到查看基本地形特征。</s>
+   <s id="PlanetStudio.Noise.Tooltip.ViewAdvanced">当前正在查看高级地形生成属性。点击切换到查看基本地形特征。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Noise.Tooltip.ViewBasic">当前正在查看基本地形特征。点击切换到高级视图,查看所有地形生成修饰器。</s>
+   <s id="PlanetStudio.Noise.Tooltip.ViewBasic">当前正在查看基本地形特征。点击切换到高级视图,查看所有地形生成属性。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetStudio.PlanetarySystem.CloneCreated">已创建新行星系统。</s>
    <!-- Tooltip ; no length limit -->
@@ -12003,7 +12002,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.PlanetObjects.AddLaunchLocationTooltip">添加新发射位置</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="PlanetStudio.PlanetObjects.AddStructurePrompt">创建建筑后,您可以为其添加子建筑,以提供跑道、机库、发射台等。</s>
+   <s id="PlanetStudio.PlanetObjects.AddStructurePrompt">创建建筑后,您可以为其添加子建筑,以提供跑道,机库,发射台等。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.PlanetObjects.AddStructureTooltip">添加新建筑</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -12271,7 +12270,7 @@
    <!-- Rec:30 Max:45 Font:Primary ; list-row title for the spot light structure -->
    <s id="PlanetStudio.Structures.LightSpot.Name">聚光灯</s>
    <!-- Tooltip Font:Primary ; description for the Light Spot structure -->
-   <s id="PlanetStudio.Structures.LightSpot.Description">仅在夜间开启的不可见聚光灯。灯光方向跟随其z轴（蓝色箭头）。范围、强度和角度分别由本地缩放的x、y和z分量设置。</s>
+   <s id="PlanetStudio.Structures.LightSpot.Description">仅在夜间开启的不可见聚光灯。灯光方向跟随其z轴（蓝色箭头）。范围,强度和角度分别由本地缩放的x,y和z分量设置。</s>
    <!-- Rec:30 Max:45 Font:Primary ; list-row title for the portable light stand -->
    <s id="PlanetStudio.Structures.LightStand.Name">灯架</s>
    <!-- Rec:30 Max:45 Font:Primary ; list-row title for the large outpost building -->
@@ -12791,7 +12790,7 @@
    <!-- Rec:12 Max:16 Font:Primary ; medium button label -->
    <s id="Settings.Controls">控制</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.AccelerateMovementModifier">加速移动修饰键</s>
+   <s id="Settings.Controls.Action.AccelerateMovementModifier">加速移动属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ActivateCameraLook">切换相机视角</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -12851,7 +12850,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.CommandPodPrevious">上一个指令舱</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.DecelerateMovementModifier">减速移动修饰键</s>
+   <s id="Settings.Controls.Action.DecelerateMovementModifier">减速移动属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.DecreaseRotationalSpeed">降低旋转速度</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -12935,7 +12934,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.DeveloperConsole">开发者控制台</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.EvaEnableJetpackMovement">喷气背包输入修饰键</s>
+   <s id="Settings.Controls.Action.EvaEnableJetpackMovement">喷气背包输入属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaJump">跳跃</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -12945,7 +12944,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaMoveFwdAft.Positive">向前</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.EvaMoveUpDown">喷气背包上/下（带修饰键）</s>
+   <s id="Settings.Controls.Action.EvaMoveUpDown">喷气背包上/下（带属性）</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaMoveUpDown.Negative">喷气背包向下</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -12957,7 +12956,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaMoveUpDownNoModifier.Positive">喷气背包向上</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.EvaPitch">喷气背包俯仰（带修饰键）</s>
+   <s id="Settings.Controls.Action.EvaPitch">喷气背包俯仰（带属性）</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaPitch.Negative">喷气背包向后俯仰</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -12969,7 +12968,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaPitchNoModifier.Positive">喷气背包向前俯仰</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.EvaRoll">喷气背包滚转（带修饰键）</s>
+   <s id="Settings.Controls.Action.EvaRoll">喷气背包滚转（带属性）</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.EvaRoll.Negative">喷气背包向左滚转</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13025,7 +13024,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.LockTarget">锁定目标</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.MapSetTargetModifier">地图设置目标修饰键</s>
+   <s id="Settings.Controls.Action.MapSetTargetModifier">地图设置目标属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.MirrorSelectedPart">镜像选中部件</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13207,7 +13206,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ToggleTranslationMode">切换平移模式</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.ToolModifier">工具修饰键</s>
+   <s id="Settings.Controls.Action.ToolModifier">工具属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.TranslateForwardBackward">平移前/后</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13285,7 +13284,7 @@
    <!-- Format Font:Primary ; separator inserted between conflicting input action names when listing 3+ conflicts (Oxford-style); ends the chain with ", and " in English -->
    <s id="Settings.Controls.ConflictJoinFinal"> 和 </s>
    <!-- Format Font:Primary ; separator inserted between conflicting input action names when listing them in the conflict dialog -->
-   <s id="Settings.Controls.ConflictJoinSeparator">、</s>
+   <s id="Settings.Controls.ConflictJoinSeparator">,</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Controls.ControllerSensitivity">控制器灵敏度</s>
    <!-- Rec:9 Max:11 Font:Primary ; control settings category -->
@@ -13353,11 +13352,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Controls.PressButtonMessage">现在按下按钮或移动轴以将其分配给{0}。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
-   <s id="Settings.Controls.PressKeyMessage">按下按键以将其分配给{0}。\n也可以使用修饰键。要单独分配修饰键,请按住1秒。</s>
+   <s id="Settings.Controls.PressKeyMessage">按下按键以将其分配给{0}。\n也可以使用属性。要单独分配属性,请按住1秒。</s>
    <!-- Rec:8 Max:10 Font:Primary ; common short label -->
    <s id="Settings.Controls.Remove">移除</s>
    <!-- Rec:16 Max:20 Font:Primary ; control settings context menu -->
-   <s id="Settings.Controls.RemoveController">移除控制器</s>
+   <s id="Settings.Controls.RemoveController">移除</s>
    <!-- Rec:8 Max:10 Font:Primary ; common short label -->
    <s id="Settings.Controls.Replace">替换</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -13616,7 +13615,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.General.FileLogging">文件日志</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Settings.General.FileLogging.Description">决定游戏如何处理错误、警告和其他日志消息的文件日志记录。</s>
+   <s id="Settings.General.FileLogging.Description">决定游戏如何处理错误,警告和其他日志消息的文件日志记录。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.General.Language">语言</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -13971,7 +13970,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.MaxParticles">最大粒子数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Settings.Terrain.MaxParticles.Description">飞行场景中所有效果（引擎烟雾、地形尘埃、火花）同时存活的最大粒子数量。</s>
+   <s id="Settings.Terrain.MaxParticles.Description">飞行场景中所有效果（引擎烟雾,地形尘埃,火花）同时存活的最大粒子数量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.High">高</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
@@ -13989,7 +13988,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.PlanetCubemaps">星球立方体贴图</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Settings.Terrain.PlanetCubemaps.Description">调整星球立方体贴图的质量。这些贴图用于渲染远处的星球、地图视图中的星球以及主菜单上的星球。</s>
+   <s id="Settings.Terrain.PlanetCubemaps.Description">调整星球立方体贴图的质量。这些贴图用于渲染远处的星球,地图视图中的星球以及主菜单上的星球。</s>
    <!-- Font:Primary ; setting warning, no length limit -->
    <s id="Settings.Terrain.PlanetCubemaps.Warning.Crash">您当前的星球立方体贴图设置会导致数小时的加载时间,并可能使设备崩溃。如果您不清楚自己在做什么,请降低此设置。</s>
    <!-- Font:Primary ; setting warning, no length limit -->
@@ -13999,7 +13998,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.Particles">粒子效果</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Settings.Terrain.Particles.Description">飞行中粒子效果的质量级别：引擎烟雾、地形尘埃和火花。</s>
+   <s id="Settings.Terrain.Particles.Description">飞行中粒子效果的质量级别：引擎烟雾,地形尘埃和火花。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.StructureDetail">建筑细节</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14017,7 +14016,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.StructureNormalMaps">建筑法线贴图</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Settings.Terrain.StructureNormalMaps.Description">启用或禁用与地形相关的建筑（如发射台、跑道和建筑物）上的法线贴图。</s>
+   <s id="Settings.Terrain.StructureNormalMaps.Description">启用或禁用与地形相关的建筑（如发射台,跑道和建筑物）上的法线贴图。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.High">高</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
@@ -14268,17 +14267,17 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="SolarSystemProperties.ZeroTimeTooltip">将时间设为零</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
-   <s id="SubBiomeData.NameLabel">子生物群落名称</s>
+   <s id="SubBiomeData.NameLabel">子群系名称</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.NameTooltip">子生物群落的显示名称。这不是必需的。</s>
+   <s id="SubBiomeData.NameTooltip">子群系的显示名称。这不是必需的。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="SubBiomeData.NoiseStrengthLabel">噪声强度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.NoiseStrengthTooltip">行星的资源分布对该子生物群落资源的影响强度。0表示在整个生物群落中均匀覆盖（冰盖、盐滩）；1表示来自行星分布场的完整斑块性。当行星在其管线中没有资源分布修饰器时,此设置被忽略。</s>
+   <s id="SubBiomeData.NoiseStrengthTooltip">行星的资源分布对该子群系资源的影响强度。0表示在整个群系中均匀覆盖（冰盖,盐滩）；1表示来自行星分布场的完整斑块性。当行星在其管线中没有资源分布属性时,此设置被忽略。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="SubBiomeData.PrimaryDataLabel">主数据</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.PrimaryDataTooltip">当地形相对平坦时（由坡度范围设置定义）使用的子生物群落数据。</s>
+   <s id="SubBiomeData.PrimaryDataTooltip">当地形相对平坦时（由坡度范围设置定义）使用的子群系数据。</s>
    <!-- Rec:20 Max:23 Font:Primary ; biome resource row label -->
    <s id="SubBiomeData.Resource.ConcentrationLabel">浓度</s>
    <!-- Rec:12 Max:15 Font:Primary ; biome resource row label -->
@@ -14286,23 +14285,23 @@
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="SubBiomeData.ResourcesLabel">资源</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.ResourcesTooltip">该子生物群落中存在的可开采资源。每个条目将燃料编号与0到1之间的浓度配对,钻探收获率将乘以该浓度。多个条目形成混合物——浓度是独立的乘数,不是必须总和为1的分配。</s>
+   <s id="SubBiomeData.ResourcesTooltip">该子群系中存在的可开采资源。每个条目将燃料编号与0到1之间的浓度配对,钻探收获率将乘以该浓度。多个条目形成混合物——浓度是独立的乘数,不是必须总和为1的分配。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="SubBiomeData.SlopeDataLabel">坡度数据</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.SlopeDataTooltip">当地形相对倾斜时（由坡度范围设置定义）使用的子生物群落数据。</s>
+   <s id="SubBiomeData.SlopeDataTooltip">当地形相对倾斜时（由坡度范围设置定义）使用的子群系数据。</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="SubBiomeData.SlopeRangeLabel">坡度范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeData.SlopeRangeTooltip">地形从主生物群落数据混合到坡度生物群落数据的范围。最小值是坡度数据开始过渡进入、主数据开始过渡退出的位置。最大值是坡度数据达到100%强度、主数据不再使用的位置。这些值等于归一化行星位置（在单位球面上）与地形法向量之间的点积的一减。</s>
+   <s id="SubBiomeData.SlopeRangeTooltip">地形从主群系数据混合到坡度群系数据的范围。最小值是坡度数据开始过渡进入,主数据开始过渡退出的位置。最大值是坡度数据达到100%强度,主数据不再使用的位置。这些值等于归一化行星位置（在单位球面上）与地形法向量之间的点积的一减。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="SubBiomeTerrainData.ColorLabel">颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.ColorTooltip">该子生物群落的地形颜色。</s>
+   <s id="SubBiomeTerrainData.ColorTooltip">该子群系的地形颜色。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.EmissivenessTooltip">该子生物群落的地形自发光度。</s>
+   <s id="SubBiomeTerrainData.EmissivenessTooltip">该子群系的地形自发光度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.MetallicnessTooltip">该子生物群落的地形金属度。</s>
+   <s id="SubBiomeTerrainData.MetallicnessTooltip">该子群系的地形金属度。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="SubBiomeTerrainData.ModDataGroup">模组数据</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14310,19 +14309,19 @@
    <!-- Rec:20 Max:24 Font:Primary ; property label -->
    <s id="SubBiomeTerrainData.OverrideParticleColorLabel">覆盖粒子颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.OverrideParticleColorTooltip">是否使用自定义颜色而非该子生物群落的地形颜色来着色地形交互粒子（撞击和刮擦灰尘）。</s>
+   <s id="SubBiomeTerrainData.OverrideParticleColorTooltip">是否使用自定义颜色而非该子群系的地形颜色来着色地形交互粒子（撞击和刮擦灰尘）。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="SubBiomeTerrainData.ParticleColorLabel">粒子颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="SubBiomeTerrainData.ParticleColorTooltip">当启用覆盖粒子颜色时,用于着色地形交互粒子（撞击和刮擦灰尘）的颜色。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.SmoothnessTooltip">该子生物群落的地形平滑度。</s>
+   <s id="SubBiomeTerrainData.SmoothnessTooltip">该子群系的地形平滑度。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="SubBiomeTerrainData.TextureIndexLabel">纹理索引</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.TextureIndexTooltip">该子生物群落使用的地形细节纹理索引（在地形 splatmap 修饰器中定义）。</s>
+   <s id="SubBiomeTerrainData.TextureIndexTooltip">该子群系使用的地形细节纹理索引（在地形 splatmap 属性中定义）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SubBiomeTerrainData.TireTrackStrengthTooltip">该子生物群落的地形轮胎痕迹强度。</s>
+   <s id="SubBiomeTerrainData.TireTrackStrengthTooltip">该子群系的地形轮胎痕迹强度。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Tools.CraftPositioner.PauseFirst">在定位飞行器之前暂停游戏……飞行器可能会爆炸。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -14482,7 +14481,7 @@
    <!-- Toast Font:Primary ; StagingStep instruction prompting the user to open the preflight configuration flyout -->
    <s id="Tutorial.Staging.ClickPreflight">点击左侧的飞行前配置按钮。</s>
    <!-- Toast Font:Primary ; PerformanceStep instruction prompting the user to choose Droo environment -->
-   <s id="Tutorial.Performance.SelectDroo">在设计信息面板中选择德鲁</s>
+   <s id="Tutorial.Performance.SelectDroo">在设计信息面板中选择Drood</s>
    <!-- Format Font:Primary ; PerformanceStep instruction prompting the user to set altitude; {0} is formatted altitude (e.g. "10 km") -->
    <s id="Tutorial.Performance.ChangeAltitudeFormat">在设计信息面板中将高度更改为{0}</s>
    <!-- Format Font:Primary ; PerformanceStep instruction prompting the user to choose a stage; {0} is the stage name -->
@@ -14562,7 +14561,7 @@
    <!-- Toast Font:Primary ; MenuTutorial step 2 explanation shown after the user selects Droo in Exploration -->
    <s id="Tutorial.MenuTutorial.ExplorationLandmarks">这是你可以参观的地标和每个天体中可以完成的额外里程碑。你可以点击它们查看更多详情。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Droo entry in Exploration -->
-   <s id="Tutorial.MenuTutorial.ClickDroo">在这里你可以找到与探索相关的里程碑。点击德鲁。</s>
+   <s id="Tutorial.MenuTutorial.ClickDroo">在这里你可以找到与探索相关的里程碑。点击Drood。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Exploration tab -->
    <s id="Tutorial.MenuTutorial.ClickExplorationTab">点击探索标签。</s>
    <!-- Format Font:Primary ; MenuTutorial step 3 prompt asking user to select a specific contract; {0} is the contract name -->
@@ -14612,7 +14611,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2 DeltaV all-stages metric text -->
    <s id="Tutorial.FirstOrbit.Step2Metric">这是飞行器的总速度增量,即速度的变化量。理论上,它是在没有重力和阻力的完美环境中飞行器能达到的速度。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3: explanation about DeltaV requirement -->
-   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4,500米/秒才能进入德鲁周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
+   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4,500米/秒才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3 metric text after DeltaV at sea level -->
    <s id="Tutorial.FirstOrbit.Step3Metric">我们还有一些工作要做。我们将查看每个级段,看看能做些什么来提高性能。别担心,这只是火箭科学。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 4: stage 1 intro -->
@@ -14766,15 +14765,15 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureBrake; |Brake;+| is an input binding marker, do not translate -->
    <s id="Tutorial.FlightTutorial.DisengageBrakes">释放"|Brake;+|"以解除制动器。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked -->
-   <s id="Tutorial.FlightTutorial.WaitForDockingPorts">太好了！现在只需等待对接端口连接。</s>
+   <s id="Tutorial.FlightTutorial.WaitForDockingPorts">太好了！现在只需等待对接口连接。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked mobile -->
    <s id="Tutorial.FlightTutorial.DockingControlsMobile">使用左模拟摇杆前后移动。右摇杆使飞行器上下左右移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked controller, only Yaw is bound -->
-   <s id="Tutorial.FlightTutorial.DockingControlsYawBound">按"|Pitch;+|"、|Pitch;-|"、|Yaw;-|"、|Yaw;+|"使飞行器上下左右移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Yaw;+|"和"|Yaw;-|"使飞行器前后移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsYawBound">按"|Pitch;+|",|Pitch;-|",|Yaw;-|",|Yaw;+|"使飞行器上下左右移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Yaw;+|"和"|Yaw;-|"使飞行器前后移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked controller, only Roll is bound -->
    <s id="Tutorial.FlightTutorial.DockingControlsRollBound">按"|Roll;+|"和"|Roll;-|"使飞行器前后移动,"|Pitch;+|"和"|Pitch;-|"使其上下移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Roll;-|"和"|Roll;+|"使其左右移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked default controls -->
-   <s id="Tutorial.FlightTutorial.DockingControlsDefault">按"|Roll;+|"和"|Roll;-|"使飞行器前后移动。按"|Yaw;-|"、|Yaw;+|"、|Pitch;+|"和"|Pitch;-|"使飞行器左右上下移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsDefault">按"|Roll;+|"和"|Roll;-|"使飞行器前后移动。按"|Yaw;-|",|Yaw;+|",|Pitch;+|"和"|Pitch;-|"使飞行器左右上下移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureFastForward -->
    <s id="Tutorial.FlightTutorial.SelectFastForward">选择快进（在右上角）以加速进程</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureGravityTurn when not reducing throttle -->
@@ -14830,9 +14829,9 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureNotPaused; |Pause| is an input binding marker -->
    <s id="Tutorial.FlightTutorial.Unpause">按"|Pause|"键取消暂停游戏并继续</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsurePartIsSelected -->
-   <s id="Tutorial.FlightTutorial.SelectDockingPort">点击高亮显示的对接端口以选中它。</s>
+   <s id="Tutorial.FlightTutorial.SelectDockingPort">点击高亮显示的对接口以选中它。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsurePartIsTargeted -->
-   <s id="Tutorial.FlightTutorial.TargetDockingPort">点击目标部件按钮以将对接端口设为目标。</s>
+   <s id="Tutorial.FlightTutorial.TargetDockingPort">点击目标部件按钮以将对接口设为目标。</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsurePeriapsisAltitude; {0}=formatted distance -->
    <s id="Tutorial.FlightTutorial.WaitForPeriapsisFormat">等待直到轨道近点达到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureSliderVisible; {0}=slider name -->
@@ -14844,7 +14843,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureStage - substituted into %ActivateInstruction% placeholder; |ActivateStage| is an input binding marker -->
    <s id="Tutorial.FlightTutorial.ActivateStageInstruction">按"|ActivateStage|"</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureTargetLock -->
-   <s id="Tutorial.FlightTutorial.LockOnTarget">点击锁定目标按钮以将航向锁定到目标对接端口。</s>
+   <s id="Tutorial.FlightTutorial.LockOnTarget">点击锁定目标按钮以将航向锁定到目标对接口。</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle mobile; {0}=percentage -->
    <s id="Tutorial.FlightTutorial.IncreaseThrottleMobileFormat">使用左侧的节流阀滑块将节流阀增加到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle mobile; {0}=percentage -->
@@ -15616,7 +15615,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Performance.MaxActiveEngineThrust">最大发动机推力</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Performance.StageDeltaV">分级 Delta-V</s>
+   <s id="Vizzy.CraftProperty.Performance.StageDeltaV">分级速度增量</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Performance.TWR">推重比</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15754,7 +15753,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.AnchorMin">父控件中此控件左下角锚定到的归一化位置（0到1）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Color">多功能显示屏控件的颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Color">多功能显示屏控件的颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Create.Ellipse">在多功能显示屏上创建指定名称的椭圆精灵图。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15796,23 +15795,23 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Exists">若存在指定名称的控件则返回真。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.BackgroundColor">多功能显示屏仪表背景颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.BackgroundColor">多功能显示屏仪表背景颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.FillColor">多功能显示屏仪表填充颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.FillColor">多功能显示屏仪表填充颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetBackgroundColor">设置多功能显示屏仪表背景颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetBackgroundColor">设置多功能显示屏仪表背景颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetFillColor">设置多功能显示屏仪表填充颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetFillColor">设置多功能显示屏仪表填充颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetText">设置仪表控件的文本。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetTextColor">设置多功能显示屏仪表文本颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetTextColor">设置多功能显示屏仪表文本颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.SetValue">设置仪表的当前值,从0（最小值）到1（最大值）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.Text">仪表控件的文本。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.TextColor">多功能显示屏仪表文本颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.TextColor">多功能显示屏仪表文本颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Gauge.Value">仪表的当前值,从0（最小值）到1（最大值）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15882,7 +15881,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetAnchorMin">设置父控件中此控件左下角锚定到的归一化位置（0到1）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetColor">设置多功能显示屏控件的颜色,以（红、绿、蓝）分量组成的向量表示,每个分量范围为0到1。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetColor">设置多功能显示屏控件的颜色,以（红,绿,蓝）分量组成的向量表示,每个分量范围为0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetOpacity">设置多功能显示屏控件的透明度,从0（完全透明）到1（完全不透明）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15910,7 +15909,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Sprite.SetFillAmount">设置精灵图的填充量,从0到1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Sprite.SetFillMethod">设置用于填充控件的方法。选项包括：无、水平、垂直、径向90、径向180和径向360。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Sprite.SetFillMethod">设置用于填充控件的方法。选项包括：无,水平,垂直,径向90,径向180和径向360。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Sprite.SetIcon">设置精灵图控件使用的图标。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16070,9 +16069,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Target.Velocity">目标在当前行星惯性坐标系中的当前速度,单位为米/秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Terrain.Color">获取指定（纬度、经度、0）向量处地形表面的颜色。该向量的z分量不会被使用。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Terrain.Color">获取指定（纬度,经度,0）向量处地形表面的颜色。该向量的z分量不会被使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Terrain.Height">获取指定（纬度、经度、0）向量处地形高于行星半径的高度,单位为米。该向量的z分量不会被使用。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Terrain.Height">获取指定（纬度,经度,0）向量处地形高于行星半径的高度,单位为米。该向量的z分量不会被使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Time.FrameDeltaTime">自上一帧执行以来经过的时间（以秒为单位）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16086,7 +16085,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.Acceleration">飞行器的当前加速度,单位为米/秒²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.AngularVelocity">飞行器的当前角速度,单位为弧度/秒（俯仰速率、偏航速率、滚转速率）。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.AngularVelocity">飞行器的当前角速度,单位为弧度/秒（俯仰速率,偏航速率,滚转速率）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.Drag">当前行星惯性坐标系中的阻力,单位为米/秒²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16489,9 +16488,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Operator.String.Friendly.Tooltip.angularvelocity">以用户友好的文本格式显示的角速度,单位为度/秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Operator.String.Friendly.Tooltip.coordinate">根据给定的纬度、经度、海拔高度向量生成经纬度坐标。若海拔高度不为0,则会一并包含。</s>
+   <s id="Vizzy.Operator.String.Friendly.Tooltip.coordinate">根据给定的纬度,经度,海拔高度向量生成经纬度坐标。若海拔高度不为0,则会一并包含。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Operator.String.Friendly.Tooltip.date">以用户友好的文本格式显示的时间,将天数、小时、分钟和秒分开显示。</s>
+   <s id="Vizzy.Operator.String.Friendly.Tooltip.date">以用户友好的文本格式显示的时间,将天数,小时,分钟和秒分开显示。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Operator.String.Friendly.Tooltip.density">以用户友好的文本格式显示的密度,单位为千克/立方米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17018,7 +17017,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-lte">如果左数小于或等于右数，则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.op-math">返回对指定数字执行数学函数的结果。sin、cos、tan等数学函数要求角度以弧度为单位。</s>
+   <s id="Vizzy.Toolbox.Tooltip.op-math">返回对指定数字执行数学函数的结果。sin,cos,tan等数学函数要求角度以弧度为单位。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-max">返回两数中较大的那个。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17048,17 +17047,17 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.planet">获取指定行星的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.planet-to-lat-long-agl">将位置向量转换为（纬度、经度、AGL）向量。</s>
+   <s id="Vizzy.Toolbox.Tooltip.planet-to-lat-long-agl">将位置向量转换为（纬度,经度,AGL）向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.planet-to-lat-long-asl">将位置向量转换为（纬度、经度、海平面高度）向量。它比海拔高度版本快得多。</s>
+   <s id="Vizzy.Toolbox.Tooltip.planet-to-lat-long-asl">将位置向量转换为（纬度,经度,海平面高度）向量。它比海拔高度版本快得多。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.planet-to-position">将（纬度、经度、海拔高度）向量转换为位置向量。</s>
+   <s id="Vizzy.Toolbox.Tooltip.planet-to-position">将（纬度,经度,海拔高度）向量转换为位置向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.planet-to-position-asl">将（纬度、经度、ASL）向量转换为位置向量。比AGL版本快得多。</s>
+   <s id="Vizzy.Toolbox.Tooltip.planet-to-position-asl">将（纬度,经度,ASL）向量转换为位置向量。比AGL版本快得多。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.play-beep">用指定参数播放蜂鸣音。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.play-beep-waveform">用选定的波形、音高、音量和持续时间播放蜂鸣音。</s>
+   <s id="Vizzy.Toolbox.Tooltip.play-beep-waveform">用选定的波形,音高,音量和持续时间播放蜂鸣音。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-altitude">返回海拔高度（以米为单位）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17154,13 +17153,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.switch-craft">切换到具有指定ID的飞行器。如果飞行器距离较远,此程序可能会停止执行。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.terrain-query">获取指定（纬度、经度、0）向量处当前行星地形的信息。向量的z分量不使用。</s>
+   <s id="Vizzy.Toolbox.Tooltip.terrain-query">获取指定（纬度,经度,0）向量处当前行星地形的信息。向量的z分量不使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.true">true的常量值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.user-input">将变量的值设置为从用户显示的输入对话框中接收到的文本。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.vec">从x、y和z分量创建一个向量。</s>
+   <s id="Vizzy.Toolbox.Tooltip.vec">从x,y和z分量创建一个向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.vec-op-1">从向量中访问信息。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
