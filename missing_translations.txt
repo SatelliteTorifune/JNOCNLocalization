@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 10:40:02
+  missing_translations.txt - 2026-06-26 22:12:38
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -690,56 +690,8 @@
   EN: FPS
   ZH: (未翻译)
 
-[ColorPicker.Alpha]
-  EN: Alpha
-  ZH: (未翻译)
-
-[ColorPicker.Blue]
-  EN: Blue
-  ZH: (未翻译)
-
-[ColorPicker.Green]
-  EN: Green
-  ZH: (未翻译)
-
-[ColorPicker.Hex]
-  EN: Hex
-  ZH: (未翻译)
-
-[ColorPicker.HSV]
-  EN: HSV
-  ZH: (未翻译)
-
-[ColorPicker.Hue]
-  EN: Hue
-  ZH: (未翻译)
-
-[ColorPicker.Intensity]
-  EN: Intensity
-  ZH: (未翻译)
-
-[ColorPicker.NewColor]
-  EN: NEW
-  ZH: (未翻译)
-
-[ColorPicker.OldColor]
-  EN: OLD
-  ZH: (未翻译)
-
-[ColorPicker.Red]
-  EN: Red
-  ZH: (未翻译)
-
 [ColorPicker.RGB]
   EN: RGB
-  ZH: (未翻译)
-
-[ColorPicker.Saturation]
-  EN: Saturation
-  ZH: (未翻译)
-
-[ColorPicker.Value]
-  EN: Value
   ZH: (未翻译)
 
 [CommandPod.ActivationGroups.LandingGear]
@@ -754,24 +706,8 @@
   EN: Solar Panels
   ZH: (未翻译)
 
-[Common.Alignment.Horizontal.Center]
-  EN: Center
-  ZH: (未翻译)
-
-[Common.Alignment.Vertical.Middle]
-  EN: Middle
-  ZH: (未翻译)
-
-[Common.Alignment.Vertical.Top]
-  EN: Top
-  ZH: (未翻译)
-
 [CurveEditor.TangentsLinked]
   EN: Tangents Linked
-  ZH: (未翻译)
-
-[CurveEditor.WeightedTangents]
-  EN: Weighted Tangents
   ZH: (未翻译)
 
 [CurveEditor.WrapMode.Clamp]
@@ -784,18 +720,6 @@
 
 [CurveEditor.WrapMode.PingPong]
   EN: Ping Pong
-  ZH: (未翻译)
-
-[CurveEditor.WrappingMode]
-  EN: Wrapping Mode
-  ZH: (未翻译)
-
-[Design.CameraControls.OkayButton]
-  EN: OK
-  ZH: (未翻译)
-
-[Design.PartConnections.ShellSuffix]
-  EN: (Shell)
   ZH: (未翻译)
 
 [Design.Staging.ThrustToWeightFormat]

@@ -3935,19 +3935,19 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyProperties.WaterVerticesTooltip">水面四边形一条边上的顶点数取决于当前地形四边形的设置。它们可以使用相同的顶点数或一半的顶点数。完整看起来更好；减半性能更好。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Alpha">Alpha</s>
+   <s id="ColorPicker.Alpha">透明度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Blue">Blue</s>
+   <s id="ColorPicker.Blue">蓝</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Green">Green</s>
+   <s id="ColorPicker.Green">绿</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Hex">Hex</s>
+   <s id="ColorPicker.Hex">16进制颜色</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.HSV">HSV</s>
+   <s id="ColorPicker.HSV">色调-饱和度-明度</s>
    <!-- Rec:8 Max:12 Font:Primary ; HSV slider label -->
-   <s id="ColorPicker.Hue">Hue</s>
+   <s id="ColorPicker.Hue">色相</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Intensity">Intensity</s>
+   <s id="ColorPicker.Intensity">亮度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="ColorPicker.NewColor">新</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -4152,7 +4152,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.PartConnections.RemovedConnectionFormat">已移除到 {0} #{1} 的连接</s>
    <!-- Font:Primary -->
-   <s id="Design.PartConnections.ShellSuffix">(Shell)</s>
+   <s id="Design.PartConnections.ShellSuffix">(外壳)</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.PartConnections.UnavailableSuffix"> (不可用)</s>
    <!-- Toast ; no length limit -->
@@ -5203,7 +5203,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CurveEditor.Value">值</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="CurveEditor.WeightedTangents">Weighted Tangents</s>
+   <s id="CurveEditor.WeightedTangents">加权切线</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CurveEditor.WrapMode.Clamp">Clamp</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5211,7 +5211,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CurveEditor.WrapMode.PingPong">Ping Pong</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="CurveEditor.WrappingMode">Wrapping Mode</s>
+   <s id="CurveEditor.WrappingMode">环绕循环模式</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Desgin.ToolPanel.NudgePart.Position.X.Tooltip">部件当前位置的X值</s>
    <!-- Tooltip Font:Primary ; no length limit -->
