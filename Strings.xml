@@ -3949,17 +3949,17 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="ColorPicker.Intensity">Intensity</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.NewColor">NEW</s>
+   <s id="ColorPicker.NewColor">新</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.OldColor">OLD</s>
+   <s id="ColorPicker.OldColor">旧</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.Red">Red</s>
+   <s id="ColorPicker.Red">红</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="ColorPicker.RGB">RGB</s>
    <!-- Rec:10 Max:14 Font:Primary ; HSV slider label -->
-   <s id="ColorPicker.Saturation">Saturation</s>
+   <s id="ColorPicker.Saturation">饱和度</s>
    <!-- Rec:8 Max:12 Font:Primary ; HSV slider label -->
-   <s id="ColorPicker.Value">Value</s>
+   <s id="ColorPicker.Value">值</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CommandPod.ActivationGroups.LandingGear">Landing Gear</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -3967,7 +3967,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CommandPod.ActivationGroups.SolarPanels">Solar Panels</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Common.Alignment.Horizontal.Center">Center</s>
+   <s id="Common.Alignment.Horizontal.Center">中心</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Common.Alignment.Horizontal.Left">左</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -3975,9 +3975,9 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Common.Alignment.Vertical.Bottom">底部</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Common.Alignment.Vertical.Middle">Middle</s>
+   <s id="Common.Alignment.Vertical.Middle">居中</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Common.Alignment.Vertical.Top">Top</s>
+   <s id="Common.Alignment.Vertical.Top">顶部</s>
    <!-- Rec:8 Max:10 Font:Primary ; common short label -->
    <s id="Common.Add">增加</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
@@ -4028,7 +4028,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.CameraControls.Message">摄像机和鼠标控制可以在游戏设置中完全自定义。</s>
    <!-- Rec:4 Max:8 Font:Primary ; dialog OK button -->
-   <s id="Design.CameraControls.OkayButton">OK</s>
+   <s id="Design.CameraControls.OkayButton">好</s>
    <!-- Rec:8 Max:14 Font:Primary ; dialog cancel button -->
    <s id="Design.CameraControls.ShowMeButton">显示</s>
    <!-- Font:Primary -->
@@ -17294,4 +17294,85 @@
    <s id="Vizzy.UI.VariableExists.Error">已存在同名变量。请使用其他名称。</s>
    <!-- Font:Primary -->
    <s id="Vizzy.UI.VariableName.Placeholder">变量名称</s>
+    
+    <!--Volken-->
+    <s id="Volken.UI.CloudSettings">云层设置</s>
+    
+    <!-- Group Names -->
+    <s id="Volken.UI.ConfigManagement">配置管理</s>
+    <s id="Volken.UI.Clouds">云层</s>
+    <s id="Volken.UI.CloudContainer">云层容器</s>
+    <s id="Volken.UI.CloudQuality">云层质量</s>
+    
+    <!-- Config Management -->
+    <s id="Volken.UI.CurrentConfig">当前配置</s>
+    <s id="Volken.UI.SaveCurrentConfig">保存当前配置</s>
+    <s id="Volken.UI.SaveAsNewConfig">保存为新配置</s>
+    <s id="Volken.UI.EnterNewConfigName">输入配置名:</s>
+    <s id="Volken.UI.DefaultConfigName">Default</s>
+    <s id="Volken.UI.LoadConfig">加载配置</s>
+    <s id="Volken.UI.ResetCurrentToDefault">重置为默认配置</s>
+    <s id="Volken.UI.TryAnotherConfig">试试另一个配置</s>
+    
+    <!-- Cloud Settings -->
+    <s id="Volken.UI.MainToggle">启用</s>
+    <s id="Volken.UI.Density">密度</s>
+    <s id="Volken.UI.Absorption">光线吸收</s>
+    <s id="Volken.UI.AmbientLight">环境光</s>
+    <s id="Volken.UI.Coverage">范围</s>
+    <s id="Volken.UI.ShapeScale">形状大小</s>
+    <s id="Volken.UI.DetailScale">细节大小</s>
+    <s id="Volken.UI.DetailStrength">细节强度</s>
+    <s id="Volken.UI.CloudMovementSpeed">云层移速</s>
+    <s id="Volken.UI.WindDirection">风向</s>
+    <s id="Volken.UI.GlobalRotationAngular">全局角速度</s>
+    <s id="Volken.UI.CloudColorRed">云层颜色:红</s>
+    <s id="Volken.UI.CloudColorGreen">云层颜色:绿</s>
+    <s id="Volken.UI.CloudColorBlue">云层颜色:蓝</s>
+    <s id="Volken.UI.ScatterStrength">散射强度</s>
+    <s id="Volken.UI.AtmosphereBlendFactor">大气混合系数</s>
+    <s id="Volken.UI.NearThreshold">亚阈值</s>
+    <s id="Volken.UI.ScatterPower">散射力度</s>
+    <s id="Volken.UI.MultiScatterBlend">多次散射混合</s>
+    <s id="Volken.UI.AmbientScatter">环境散射</s>
+    <s id="Volken.UI.SilverLiningIntensity">光芒强度</s>
+    <s id="Volken.UI.ForwardScatterBias">前向散射偏差</s>
+    
+    <!-- Cloud Container -->
+    <s id="Volken.UI.Layer1Height">层级1 高度</s>
+    <s id="Volken.UI.Layer1Spread">层级1 分布</s>
+    <s id="Volken.UI.Layer1Strength">层级1 强度</s>
+    <s id="Volken.UI.Layer2Height">层级 2 高度</s>
+    <s id="Volken.UI.Layer2Spread">层级 2 分布</s>
+    <s id="Volken.UI.Layer2Strength">层级 2 强度</s>
+    <s id="Volken.UI.MaxCloudHeight">最大云层高度</s>
+    
+    <!-- Cloud Quality -->
+    <s id="Volken.UI.ResolutionScale">分辨率大小</s>
+    <s id="Volken.UI.StepSize">步长</s>
+    <s id="Volken.UI.StepSizeFalloff">步长衰减</s>
+    <s id="Volken.UI.NumberOfLightSamples">光源采样数</s>
+    <s id="Volken.UI.Threshold">阈值</s>
+    <s id="Volken.UI.RayOffsetStrength">光线偏移强度</s>
+    <s id="Volken.UI.HistoryBlend">运动残影</s>
+    
+    <!-- Messages -->
+    <s id="Volken.UI.ConfigSaved">配置 '{0}' 已保存!</s>
+    <s id="Volken.UI.ErrorSavingConfig">保存配置时出错!</s>
+    <s id="Volken.UI.ErrorSavingNewConfig">新建配置时出错!</s>
+    <s id="Volken.UI.ConfigSavedAs">{0}配置已保存为 '{1}'!</s>
+    <s id="Volken.UI.ConfigLoaded">配置 '{0}' 已加载!</s>
+    <s id="Volken.UI.ErrorLoadingConfig">加载配置时出错!</s>
+    <s id="Volken.UI.ConfigResetToDefaults">配置重置为默认!</s>
+    <s id="Volken.UI.ErrorResettingConfig">重置配置时出错!</s>
+    <s id="Volken.UI.ConfigSetToDefaultII">配置重置为默认 II!</s>
+    <s id="Volken.UI.ErrorGettingConfig">加载配置时出错!</s>
+    <s id="Volken.UI.ErrorCreatingSaveDialog">Error creating save dialog: {0}</s>
+    <s id="Volken.UI.ErrorBuildingFlightUI">Error building flight UI: {0}</s>
+    <s id="Volken.UI.ErrorTogglingUI">Error toggling UI: {0}</s>
+    <s id="Volken.UI.ErrorCreatingPanel">Error creating panel: {0}</s>
+    <s id="Volken.UI.ErrorInOnSceneLoaded">Volken: Error OnSceneLoaded: {0}</s>
+    <s id="Volken.UI.ErrorInOnPlayerChangedSoi">Volken: Error in OnPlayerChangedSoi: {0}</s>
+    <s id="Volken.UI.NoCloudsHere">°`_´°你觉得这里应该有云吗我请问了</s>
+    <s id="Volken.UI.NoStarClouds">你为什么要给恒星加云???</s>
 </Strings>
