@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 22:12:38
+  missing_translations.txt - 2026-06-26 22:26:47
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -102,10 +102,6 @@
   EN: Fly-by Luna
   ZH: (未翻译)
 
-[Career.Contracts.First-hike.Name]
-  EN: Juno Peak
-  ZH: (未翻译)
-
 [Career.Contracts.First-lunar-orbit.Name]
   EN: Brigo Orbit
   ZH: (未翻译)
@@ -148,6 +144,10 @@
 
 [Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Expression.Description]
   EN: Stay grounded
+  ZH: (未翻译)
+
+[Career.Contracts.Luna-Surface-Rescue-1.Subtitle]
+  EN: 1 Drood at Luna's maria
   ZH: (未翻译)
 
 [Career.Contracts.Lunar-flyby.FlairText]
@@ -222,64 +222,28 @@
   EN: The Eye in the Sky
   ZH: (未翻译)
 
-[Career.Contracts.Packages-launchpad.Subtitle]
-  EN: @Count @Count:plural(payload|payloads)
-  ZH: (未翻译)
-
 [Career.Contracts.Packages-mountain.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Packages-mountain.Subtitle]
-  EN: @Count @Count:plural(payload|payloads)
-  ZH: (未翻译)
-
-[Career.Contracts.Packages-outpost.Subtitle]
-  EN: @Count @Count:plural(payload|payloads)
   ZH: (未翻译)
 
 [Career.Contracts.Packages-research.FlairText]
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Packages-research.Subtitle]
-  EN: @Count @Count:plural(payload|payloads)
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Air-0.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Air-0.Name]
-  EN: Learning To Fly
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Air-0.Subtitle]
-  EN: Round @TitleNumber
   ZH: (未翻译)
 
 [Career.Contracts.Race-Air-1.FlairText]
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Race-Air-1.Subtitle]
-  EN: Round @TitleNumber
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Air-2.FlairText]
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Race-Air-2.Subtitle]
-  EN: Round @TitleNumber
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Air-3.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Air-3.Subtitle]
-  EN: Round @TitleNumber
   ZH: (未翻译)
 
 [Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Any.Location-Dark_Backdoor.Description]
@@ -314,16 +278,8 @@
   EN: Upper Patio
   ZH: (未翻译)
 
-[Career.Contracts.Race-Land-1.Subtitle]
-  EN: Round @TitleNumber
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Land-2.FlairText]
   EN: @Progression
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Land-2.Subtitle]
-  EN: Round @TitleNumber
   ZH: (未翻译)
 
 [Career.Contracts.Race-Land-3.Req.TrackedLaunch.Planet-Droo.Expression.Description]
@@ -334,20 +290,8 @@
   EN: @Progression
   ZH: (未翻译)
 
-[Career.Contracts.Race-Land-4.Subtitle]
-  EN: Round @TitleNumber
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Land-5.Subtitle]
-  EN: Round @TitleNumber
-  ZH: (未翻译)
-
 [Career.Contracts.Race-Land-6.Name]
   EN: DSC Sailor's Route
-  ZH: (未翻译)
-
-[Career.Contracts.Race-Land-6.Subtitle]
-  EN: Round @TitleNumber
   ZH: (未翻译)
 
 [Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Description]
@@ -392,10 +336,6 @@
 
 [Career.Contracts.Record-waterspeed.Subtitle]
   EN: @SpeedTarget:velocity
-  ZH: (未翻译)
-
-[Career.Contracts.Second-hike.Name]
-  EN: Short Route
   ZH: (未翻译)
 
 [Career.Contracts.SPE-Cupola.Name]
@@ -2030,14 +1970,6 @@
   EN: A planet modifier that evaluates a mathematical expression using data values as inputs.
   ZH: (未翻译)
 
-[Modifier.Expression.DisplayName]
-  EN: Expression
-  ZH: (未翻译)
-
-[Modifier.Expression.DisplayName.Header]
-  EN: Expression
-  ZH: (未翻译)
-
 [Modifier.Flatten.DataIndexInputDataSlotTooltip]
   EN: The data input values to act as a mask. At 1.0, the terrain is completely flattened, fading out to the original height at 0.0.
   ZH: (未翻译)
@@ -2322,22 +2254,6 @@
   EN: The value used to interpolate between the two inputs. Below the min input value, the output is input 'A'. Above the max input value, the output is input 'B'. In between, the output is interpolated based on where this value falls in the specified min/max range.
   ZH: (未翻译)
 
-[Modifier.Interpolate.DataIndexOutputDataSlotTooltip]
-  EN: The result of the interpolation.
-  ZH: (未翻译)
-
-[Modifier.Interpolate.Description]
-  EN: A planet modifier that interpolates between two values based on a factor.
-  ZH: (未翻译)
-
-[Modifier.Interpolate.DisplayName]
-  EN: Interpolate
-  ZH: (未翻译)
-
-[Modifier.Interpolate.DisplayName.Header]
-  EN: Interpolate
-  ZH: (未翻译)
-
 [Modifier.Interpolate.InputMaxValueTooltip]
   EN: The maximum input value used to create the range for the interpolation value input.
   ZH: (未翻译)
@@ -2358,24 +2274,8 @@
   EN: A planet modifier that defines biomes arranged in horizontal layers.
   ZH: (未翻译)
 
-[Modifier.LayeredBiomes.DisplayName]
-  EN: Biomes (Layered)
-  ZH: (未翻译)
-
-[Modifier.LayeredBiomes.DisplayName.Header]
-  EN: Biomes (Layered)
-  ZH: (未翻译)
-
-[Modifier.LayeredBiomes.InputTypeLabel]
-  EN: Type
-  ZH: (未翻译)
-
 [Modifier.LayeredBiomes.InputTypeTooltip]
   EN: Determines how the input is converted to biomes. Single Biome - The input value is the primary biome's strength, from 0% at 0 to 100% at 1. Dual Biome Negative And Positive - The input value represents two biomes. The primary biome's strength runs from 0 (0%) to 1 (100%); the other biome's from 0 (0%) to -1 (100%). Dual Biome Positive And Remainder - The input value represents two biomes. The primary biome's strength runs from 0 (0%) to 1 (100%); the other biome's strength is 100% minus the primary's.
-  ZH: (未翻译)
-
-[Modifier.LayeredBiomes.LayerInputDataSlotNameFormat]
-  EN: Layer {0} - Input {1}
   ZH: (未翻译)
 
 [Modifier.LinearInterpolate01.DataIndexInputADataSlotName]
@@ -2450,18 +2350,6 @@
   EN: The number of lines to be generated by this modifier.
   ZH: (未翻译)
 
-[Modifier.LongitudeLines.LineWidthLabel]
-  EN: Line Width
-  ZH: (未翻译)
-
-[Modifier.LongitudeLines.LineWidthTooltip]
-  EN: The width of the lines, in degrees, generated by this modifier.
-  ZH: (未翻译)
-
-[Modifier.LongitudeLines.RotationLabel]
-  EN: Rotation
-  ZH: (未翻译)
-
 [Modifier.LongitudeLines.RotationTooltip]
   EN: The rotation in degrees about the X, Y, and Z axis to be applied to the input position.
   ZH: (未翻译)
@@ -2484,10 +2372,6 @@
 
 [Modifier.LongitudeLines.WarpAmplitudeTooltip]
   EN: The amplitude of the domain warping noise applied to the input.
-  ZH: (未翻译)
-
-[Modifier.LongitudeLines.WarpFrequencyTooltip]
-  EN: The frequency of the domain warping noise applied to the input.
   ZH: (未翻译)
 
 [Modifier.LongitudeLines.WarpGainTooltip]

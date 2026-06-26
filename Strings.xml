@@ -636,7 +636,7 @@
    <!-- Font:Primary -->
    <s id="Career.Customers.pricklespac.Hello">日安</s>
    <!-- Font:Primary -->
-   <s id="Career.Customers.pricklespac.LongBio">Pricklespac 虽说是个古怪的科学家,但在 Droo 上也是最负盛名的研究者之一。他正在寻找帮手收集数据,以证明 Juno 系统中存在其他形式的生命。</s>
+   <s id="Career.Customers.pricklespac.LongBio">Pricklespac 虽说是个古怪的科学家,但在Droo上也是最负盛名的研究者之一。他正在寻找帮手收集数据,以证明 Juno 系统中存在其他形式的生命。</s>
    <!-- LaunchLocations.xml: stock launch location display names (game-object names left intact in-engine). -->
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.LunaBase.Name">Luna Base</s>
@@ -657,7 +657,7 @@
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.DSCEastwardRunway.Name">DSC东向跑道</s>
    <!-- Font:Primary -->
-   <s id="Career.LaunchLocations.DSCEastwardRunway.Description">一条大型跑道,需要滑行后起飞,方向为东西向,几乎正好位于 Droo 的赤道上。</s>
+   <s id="Career.LaunchLocations.DSCEastwardRunway.Description">一条大型跑道,需要滑行后起飞,方向为东西向,几乎正好位于Droo的赤道上。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.DSCSecondaryRunway.Name">DSC Secondary Runway</s>
    <!-- Font:Primary -->
@@ -931,7 +931,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-distance-walk.Name">步行距离</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-distance-walk.Description">你与Drood 一起步行的累计距离。</s>
+   <s id="Career.Milestones.Oord.Oord-distance-walk.Description">你与Drood一起步行的累计距离。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-distance-swim.Name">游泳距离</s>
    <!-- Font:Primary -->
@@ -983,7 +983,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-distance-walk.Name">步行距离</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-distance-walk.Description">你与Drood 一起步行的累计距离。</s>
+   <s id="Career.Milestones.Droo.Droo-distance-walk.Description">你与Drood一起步行的累计距离。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-distance-walk.Tier3.RewardMessage">但我愿意走500英里</s>
    <!-- Font:Primary -->
@@ -1839,7 +1839,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Jetpack.Name">喷气背包推进剂</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.FuelType.Jetpack.Description">紧凑封装在Drood 宇航服背部的燃料,用于在太空中移动。</s>
+   <s id="Career.TechTree.Items.FuelType.Jetpack.Description">紧凑封装在Drood宇航服背部的燃料,用于在太空中移动。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Xenon.Name">氙气</s>
    <!-- Font:Primary -->
@@ -1851,7 +1851,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Crew.Name">乘组数量上限</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可雇佣的Drood 数量上限。</s>
+   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可雇佣的Drood数量上限。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Craft.Stages.Name">最多分级数量</s>
    <!-- Font:Primary -->
@@ -2135,7 +2135,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Taxi-Driver.Long">我想确认你知道如何在不炸掉（太多）的情况下正确地四处移动。按任意顺序访问这4个地点。完成后,到镇政厅来。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-hike.Name">Juno Peak</s>
+   <s id="Career.Contracts.First-hike.Name">Juno峰顶</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.FlairText">进度</s>
    <!-- Font:Primary -->
@@ -2143,7 +2143,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Long">紧挨着我们村子的那座山峰,拥有我见过的最棒的景色。你能爬上去好好欣赏一下,顺便拍几张照片吗?如果你的载具打滑太厉害,可以通过把齿比拉满来增加扭矩。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Second-hike.Name">Short Route</s>
+   <s id="Career.Contracts.Second-hike.Name">短途路线e</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Second-hike.FlairText">进度</s>
    <!-- Font:Primary -->
@@ -2161,7 +2161,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Name">Mountain Camp 补给</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Subtitle">@Count @Count:plural(payload|payloads)</s>
+   <s id="Career.Contracts.Packages-mountain.Subtitle">@Count 个载荷</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2181,7 +2181,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Completions2.Long">突破音障很酷,但你要设定现实的目标。你能先达到马赫数0.5吗？</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-airspeed.Completions3.Long">他们称马赫1为音障,但对你来说它是一个障碍吗？</s>
+   <s id="Career.Contracts.Record-airspeed.Completions3.Long">他们称1马赫为音障,但对你来说它是一个障碍吗？</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Completions4.Long">超音速飞行很有趣,但真正的挑战是你达到超高速的时候。</s>
    <!-- Font:Primary -->
@@ -2197,7 +2197,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Completions2.Long">当你以200km/h越野时你就知道你入坑了...小心颠簸！</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-landspeed.Completions3.Long">急速狂暴（TM）。这已经进入了超级跑车的领域,你有那种炫酷吗？</s>
+   <s id="Career.Contracts.Record-landspeed.Completions3.Long">这已经进入了超级跑车的领域,你有那么炫酷吗？</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Name">鱼雷</s>
    <!-- Font:Primary -->
@@ -2207,7 +2207,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Long">是时候试试水了。找到最近的池塘,湖泊或海洋,试试看你能不能浮起来。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-waterspeed.Completions1.Long">达到65节是只有最好的快艇才能做到的,他们会追上你吗？</s>
+   <s id="Career.Contracts.Record-waterspeed.Completions1.Long">只有最好的快艇才能开到65节,他们会追上你吗？</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Completions2.Long">你看起来是个经验丰富的水手,但水下阻力很大,开快点,超过50 m/s。</s>
    <!-- Font:Primary -->
@@ -2219,7 +2219,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-distancedriven.Short">行驶@DistanceTarget:distance。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-distancedriven.Long">是时候让你的Wheel沾点灰尘了。造一辆车并行驶@DistanceTarget:distance。</s>
+   <s id="Career.Contracts.Record-distancedriven.Long">是时候让车轮沾点灰尘了。造一辆车并行驶@DistanceTarget:distance。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-distancedriven.Completions1.Long">如果你想向所有人展示你既是伟大的工程师又是熟练的飞行员,耐力很重要。来一次@DistanceTarget:distance的驾驶。</s>
    <!-- Font:Primary -->
@@ -2243,7 +2243,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-1.Name">村庄竞速</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-1.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Land-1.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-1.Short">按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
@@ -2251,7 +2251,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-2.Name">Ali竞速</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-2.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Land-2.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-2.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2269,7 +2269,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-4.Name">DSC竞速</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-4.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Land-4.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-4.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2281,7 +2281,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-5.Name">DSC耐力赛</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-5.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Land-5.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-5.Short">按任意顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
@@ -2289,15 +2289,15 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-6.Name">DSC Sailor's Route</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-6.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Land-6.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-6.Short">按任意顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-6.Long">这是一个计时赛,系好鞋带准备开跑!在时间耗尽之前按任意顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-0.Name">Learning To Fly</s>
+   <s id="Career.Contracts.Race-Air-0.Name">学会飞行</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-0.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Air-0.Subtitle">第 @TitleNumber 轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-0.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2307,7 +2307,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-1.Name">Valley 空中竞赛</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-1.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Air-1.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-1.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2317,7 +2317,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-3.Name">Ali 空中竞赛</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-3.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Air-3.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-3.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2341,7 +2341,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.Short">SimpleCub 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Long">一名Drood 在 Juno 村附近的飞行比赛中,驾驶 SimpleCub 时坠毁了。你能把他们安全带回 Juno 村吗?时间紧迫!</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Long">一名Drood在 Juno 村附近的飞行比赛中,驾驶 SimpleCub 时坠毁了。你能把他们安全带回 Juno 村吗?时间紧迫!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
@@ -2351,7 +2351,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Short">SimpleOffroad 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Long">两个鲁莽的Drood 把一辆 SimpleOffroad 越野车推到了极限,甚至突破了极限。你能把他们安全带回 Juno 村吗?</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Long">两个鲁莽的Drood把一辆 SimpleOffroad 越野车推到了极限,甚至突破了极限。你能把他们安全带回 Juno 村吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Name">A.LI</s>
    <!-- Font:Primary -->
@@ -2375,7 +2375,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-outpost.Name">Outpost 补给</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-outpost.Subtitle">@Count @Count:plural(payload|payloads)</s>
+   <s id="Career.Contracts.Packages-outpost.Subtitle">@Count 个载荷</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-outpost.Short">把一些补给送到前哨基地。</s>
    <!-- Font:Primary -->
@@ -2383,7 +2383,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Name">Launchpad 补给</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Subtitle">@Count @Count:plural(payload|payloads)</s>
+   <s id="Career.Contracts.Packages-launchpad.Subtitle">@Count 个载荷</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Short">把一些补给送到发射台。</s>
    <!-- Font:Primary -->
@@ -2401,27 +2401,27 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Subtitle">1Drood at sea</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Subtitle">1人位于海上</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.Short">摩托艇救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Long">不知怎么的,一名Drood 的摩托艇坏了,被困在海上。他向我们求助,但我相信你完全有能力独自处理这种情况。</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Long">不知怎么的,一名Drood的摩托艇坏了,被困在海上。他向我们求助,但我相信你完全有能力独自处理这种情况。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Subtitle">5 个Drood,位于北极</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Subtitle">5个Drood,位于北极</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Short">极地科考车救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Long">Pricklespac 派了一队Drood 去极地,但他们的极地探险车掉进了冰缝,无法开动。赶紧把他们带回 Ali 基地,免得冻坏了。</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Long">Pricklespac 派了一队Drood去极地,但他们的极地探险车掉进了冰缝,无法开动。赶紧把他们带回 Ali 基地,免得冻坏了。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Name">Droo 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Subtitle">6Droods at sea</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Subtitle">6人位于海上</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.FlairText">救援</s>
    <!-- Font:Primary -->
@@ -2435,9 +2435,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Short">在 Droo 轨道上救援</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Short">在Droo轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Long">又是那种还在用 100% 对接尺寸的廉价 SimpleCrew 又漏气了,这次还载着人。你能想办法把那名Drood 带回来吗?</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Long">又是那种还在用 100% 对接尺寸的廉价 SimpleCrew 又漏气了,这次还载着人。你能想办法把那名Drood带回来吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Name">Droo 轨道救援</s>
    <!-- Font:Primary -->
@@ -2445,9 +2445,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Short">在 Droo 轨道上救援</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Short">在Droo轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Long">Algernon 把几名Drood 用他那浮夸的 Rapture 飞船送上了太空,现在他们困在太空里了。他不打算救他们,所以这次看你的了。他们的对接口是 200% 尺寸——动动脑筋吧。</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Long">Algernon 把几名Drood用他那浮夸的 Rapture 飞船送上了太空,现在他们困在太空里了。他不打算救他们,所以这次看你的了。他们的对接口是 200% 尺寸——动动脑筋吧。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Name">Droo 轨道救援</s>
    <!-- Font:Primary -->
@@ -2455,7 +2455,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Short">在 Droo 轨道上救援</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Short">在Droo轨道上救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Long">一个 3 人机组被困在我们几周前发射的实验性航天飞机里,当时为了某项研究把它送入了极轨道。它有 400% 尺寸的对接口;如果你有办法,你可以试着搭乘它回来。</s>
    <!-- Font:Primary -->
@@ -2465,19 +2465,19 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Short">在 Luna 轨道上救援</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Short">在Luna轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Long">Shotwell 需要帮助把一名被困在 Luna 轨道上的Drood 带回来,他坐的是一艘带 100% 尺寸对接口的 Bruno 舱。这次可别搞砸了,否则公关会很糟糕。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Long">Shotwell 需要帮助把一名被困在Luna轨道上的Drood带回来,他坐的是一艘带 100% 尺寸对接口的 Bruno舱。这次可别搞砸了,否则公关会很糟糕。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Subtitle">2 名Drood,乘坐 LM 上升段</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Subtitle">2名Drood,乘坐登月舱上升级</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Short">在 Luna 轨道上救援</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Short">在Luna轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Long">不知怎么的,Shotwell 又向 Luna 派了一次任务,结果又困住了。这次是他们 Luna 登月舱的上升段,所以轨道非常低。它有 100% 尺寸的对接口;把他们带回来,别撞上 Luna。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Long">不知怎么的,Shotwell 又向Luna派了一次任务,结果又困住了。这次是他们Luna登月舱的上升段,所以轨道非常低。它有 100% 尺寸的对接口;把他们带回来,别撞上 Luna。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
@@ -2485,29 +2485,29 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Short">在 Luna 轨道上救援</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Short">在Luna轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕 Luna 飞行的飞行器,这次是一艘带 200% 尺寸对接口的崭新飞船。它的轨道非常极端,接近它可要小心。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕Luna飞行的飞行器,这次是一艘带 200% 尺寸对接口的崭新飞船。它的轨道非常极端,接近它可要小心。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1Drood at Luna's maria</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1 Drood at Luna's maria</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.Short">Luna Module 救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Long">又有一艘 Luna 模块出了故障,这次是在 Luna 表面,而且无法运作。试着把那些Drood 带回家。</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Long">又有一艘Luna登月舱出了故障,这次是在Luna表面,而且无法运作。试着把那些Drood带回家。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Subtitle">2Droods at maria edge</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Subtitle">2 个Drood,位于maria edge</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.FlairText">救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Short">LunaTown Base 救援</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Short">LunaTown 极地救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Long">LunaTown 基地的窗户不知怎的被人戳穿了,你得赶紧过去,把在那次事故中幸存的两个Drood 救出来。</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Long">LunaTown 基地的窗户不知怎的被人戳穿了,你得赶紧过去,把在那次事故中幸存的两个Drood救出来。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-3.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
@@ -2559,13 +2559,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Short">把一辆漫游车送上 Luna,在南极基地周围开一开。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Long">在使用 Luna 上的基础设施之前,我们需要确认你自己能到达那里并生存下来。所以,把一辆漫游车送到基地,开着它直到驶出陨石坑,不许飞过去。</s>
+   <s id="Career.Contracts.Location-Lunapad.Long">在使用Luna上的基础设施之前,我们需要确认你自己能到达那里并生存下来。所以,把一辆漫游车送到基地,开着它直到驶出陨石坑,不许飞过去。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Name">伟大旅程</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Short">带一颗探测器在星系里转一圈再飞出去。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Long">在 Luna 上把基础设施花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过 Droo 的 3 颗行星,然后再飞出 Juno 的引力影响范围。</s>
+   <s id="Career.Contracts.GrandTour.Long">在Luna上把基础设施花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过Droo的 3 颗行星,然后再飞出 Juno 的引力影响范围。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2575,7 +2575,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Short">把 Radix 送入轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在 Droo 低轨道建造 Esperanza 空间港(SPE)。先把 Radix 模块送上去。这是 DSC 在 Juno 系统殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在Droo低轨道建造 Esperanza 空间港(SPE)。先把 Radix 舱段送上去。这是 DSC 在 Juno 系统殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2585,7 +2585,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Long">Radix 已经入轨,我们要开始扩建 SPE 了。把扩展模块对接到 Radix 模块上;它会带来所需资源和更多对接口,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Expansion.Long">Radix 已经入轨,我们要开始扩建 SPE 了。把扩展舱段对接到 Radix 舱段上;它会带来所需资源和更多对接口,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2595,7 +2595,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Long">把 Nexus Cross 对接到 Esperanza 空间港。这些对接口会扩展 SPE 的对接容量,以后将容纳 DSC 模块乃至你自己的模块,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Docking.Long">把 Nexus Cross 对接到 Esperanza 空间港。这些对接口会扩展 SPE 的对接容量,以后将容纳 DSC 舱段乃至你自己的舱段,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2605,7 +2605,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Long">把居住模块对接到 Esperanza 空间港。这些模块为居住者提供舒适宽敞的居住空间,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Habitation.Long">把居住舱段对接到 Esperanza 空间港。这些舱段为居住者提供舒适宽敞的居住空间,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2615,7 +2615,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Long">把 Cupola 模块对接到 Esperanza 空间港。它会让里面的乘员和游客欣赏到 Droo 的绝佳景观,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Cupola.Long">把 Cupola 舱段对接到 Esperanza 空间港。它会让里面的乘员和游客欣赏到Droo的绝佳景观,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2625,7 +2625,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Long">把太阳能阵列对接到 Esperanza 空间港。一旦所有太阳能阵列都对接上 SPE,它们将为所有运行提供足够的电力,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Solar.Long">把太阳能阵列对接到 Esperanza 空间港。一旦所有太阳能阵列都对接上 SPE,它们将为所有运行提供足够的电力,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2633,7 +2633,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Long">把 @Name 对接到 Esperanza 空间港。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Structure.Long">把 @Name 对接到 Esperanza 空间港。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2643,7 +2643,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Long">把燃料库核心对接到 Esperanza 空间港。这一核心基础设施让我们能够扩展 SPE 上的资源,包括为任何需要额外油气的未来任务储备燃料。&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Long">把燃料库核心对接到 Esperanza 空间港。这一核心基础设施让我们能够扩展 SPE 上的资源,包括为任何需要额外油气的未来任务储备燃料。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Name">Space Port Esperanza</s>
    <!-- Font:Primary -->
@@ -2651,11 +2651,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Short">扩展 Esperanza 空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在 Droo 周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.Name">Cutting Corners 空中竞赛</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Air-2.Subtitle">Round @TitleNumber</s>
+   <s id="Career.Contracts.Race-Air-2.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2665,7 +2665,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.Name">Research Station 补给</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-research.Subtitle">@Count @Count:plural(payload|payloads)</s>
+   <s id="Career.Contracts.Packages-research.Subtitle">@Count 个载荷</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.FlairText">@Progression</s>
    <!-- Font:Primary -->
@@ -2687,7 +2687,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Explorer.Short">前往指定位置进行检查。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Explorer.Long">我需要从 Droo 的某个生态区采集一些样本。去那里采集 @Samples 个样本。</s>
+   <s id="Career.Contracts.Explorer.Long">我需要从Droo的某个生态区采集一些样本。去那里采集 @Samples 个样本。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-ocean.Name">大洋特递</s>
    <!-- Font:Primary -->
@@ -2743,7 +2743,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Short">把一架望远镜送到轨道上。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Observation.Long">我的卫星侦测到 Droo 表面有异常活动,你能把一架望远镜送到 Droo 静止轨道上来观测发生了什么吗?</s>
+   <s id="Career.Contracts.Observation.Long">我的卫星侦测到Droo表面有异常活动,你能把一架望远镜送到Droo静止轨道上来观测发生了什么吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Name">Luna Fly-by</s>
    <!-- Font:Primary -->
@@ -2855,7 +2855,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.TouristTest.Long">我们有 @Count @Count:plural(tourist|tourists),想感受一下与众不同,然后回去告诉朋友自己上过太空——但他们不想在狭小的舱里挤太久。&lt;br&gt;&lt;br&gt;把他们带出大气层几分钟,再安全送回来,全程尽量平稳。&lt;br&gt;&lt;br&gt;不要随便带游客,他们可没付钱!从有效载荷区拉人,他们在那里等你。</s>
    <!-- Contract 'Vertical-Shot' requirements Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Description">是时候飞了!你准备好了吗?</s>
    <!-- Font:Primary -->
@@ -2891,7 +2891,7 @@
    <!-- Contract 'First-payload' requirements Font:Primary -->
    <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Description">带着有效载荷一起发射。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Tutorial-Tutorial-FirstPayload.Description">小心那个有效载荷!</s>
    <!-- Font:Primary -->
@@ -2917,7 +2917,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Flight-Termination.Req.Expression.CraftEvent-Destroyed.Description">选中指令盘,在飞行器飞得太低之前把它炸掉!</s>
    <!-- Contract 'Suborbital-First' requirements Font:Primary -->
-   <s id="Career.Contracts.Suborbital-First.Req.TrackedLaunch-tracked-launch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Suborbital-First.Req.TrackedLaunch-tracked-launch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-First.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#0.Description">从村子里接地起飞</s>
    <!-- Font:Primary -->
@@ -2931,7 +2931,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Fireworks.Req.Expression.CraftEvent-Explosion.Description">确保单个燃料箱的爆炸威力超过 @Explosion。</s>
    <!-- Contract 'Suborbital-Water' requirements Font:Primary -->
-   <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#0.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -2939,7 +2939,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#2.Description">是时候落水了,落进水里。</s>
    <!-- Contract 'First-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Description">准备触摸星辰了吗?</s>
    <!-- Font:Primary -->
@@ -2979,7 +2979,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Controls#0.StepText.StepText">让我们等到飞行器接近近地点。</s>
    <!-- Contract 'The-Jump' requirements Font:Primary -->
-   <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-TheJump.Description">是时候飞了!你准备好了吗?</s>
    <!-- Font:Primary -->
@@ -3003,7 +3003,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Expression.SurfaceDistance.Description">在落地前至少离开 @Distance:distance</s>
    <!-- Contract 'First-Flight' requirements Font:Primary -->
-   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Description">是时候飞了!你准备好了吗?</s>
    <!-- Font:Primary -->
@@ -3031,27 +3031,27 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#1.Controls.StepText">干得漂亮!趁你还没失去速度,让我们来点乐趣,做几个筋斗!</s>
    <!-- Contract 'Taxi-Driver' requirements Font:Primary -->
-   <s id="Career.Contracts.Taxi-Driver.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Taxi-Driver.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'First-hike' requirements Font:Primary -->
-   <s id="Career.Contracts.First-hike.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-hike.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Req.Planet-Droo.PartCount.Description">记得至少带上一台相机。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Req.Planet-Droo.PartCount.Location-Juno_Peak.Description">到达山顶。</s>
    <!-- Contract 'Second-hike' requirements Font:Primary -->
-   <s id="Career.Contracts.Second-hike.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Second-hike.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Climbing-hike' requirements Font:Primary -->
-   <s id="Career.Contracts.Climbing-hike.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Climbing-hike.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Packages-mountain' requirements Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count @Count:plural(payload|payloads) 送到山上营地,并放在机库附近</s>
+   <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count 个载荷 送到山上营地,并放在机库附近</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Mountain_Camp.Description">前往山上营地放下货物。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Mountain_Camp.CraftExpression.Description">确保 @Name 已经接地。</s>
    <!-- Contract 'Record-airspeed' requirements Font:Primary -->
-   <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Description">Stay under 15km</s>
    <!-- Font:Primary -->
@@ -3061,7 +3061,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Expression.Expression.SurfaceDistance.Description">保持这个速度 1 公里</s>
    <!-- Contract 'Record-landspeed' requirements Font:Primary -->
-   <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Expression.Description">接地超过 10 秒</s>
    <!-- Font:Primary -->
@@ -3069,7 +3069,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少 5 秒</s>
    <!-- Contract 'Record-waterspeed' requirements Font:Primary -->
-   <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Expression.Description">接触水面超过 10 秒速度才会计入</s>
    <!-- Font:Primary -->
@@ -3077,19 +3077,19 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少 5 秒</s>
    <!-- Contract 'Record-distancedriven' requirements Font:Primary -->
-   <s id="Career.Contracts.Record-distancedriven.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Record-distancedriven.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-distancedriven.Req.TrackedLaunch.Planet-Droo.Expression.Expression.Description">Stay grounded</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-distancedriven.Req.TrackedLaunch.Planet-Droo.Expression.SurfaceDistance.Description">跑上 @DistanceTarget:distance</s>
    <!-- Contract 'Record-spacespeed' requirements Font:Primary -->
-   <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Expression.Description">Reach 80km ASL</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Expression.Expression.Description">跑得比 @SpeedTarget:velocity 还快</s>
    <!-- Contract 'Race-Land-1' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Any.Description">到达任意一个检查点计时开始。</s>
    <!-- Font:Primary -->
@@ -3111,49 +3111,49 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-1.Req.TrackedLaunch.Planet-Droo.Timer.Any.Location-Maintenance_Hangar.Description">Maintenance Hangar</s>
    <!-- Contract 'Race-Land-2' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-2.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-2.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Land-3' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-3.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-3.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-3.Req.TrackedLaunch.Planet-Droo.Expression.Description">Stay grounded</s>
    <!-- Contract 'Race-Land-4' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-4.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-4.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Land-5' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-5.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-5.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Land-6' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Land-6.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Land-6.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Air-0' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Air-0.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Air-0.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Air-1' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Air-1.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Air-1.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Air-3' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Air-3.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Air-3.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Race-Air-4' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Air-4.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Air-4.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Droo-Surface-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近坠毁的 SimpleCub</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从损坏的飞行器里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Description">把那名Drood 带回到村子</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Description">把那名Drood带回到村子</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的 SimpleOffroad</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把 2 名Drood 带回 Juno 村</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把 2 名Drood带回 Juno 村</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的飞行器里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Description">把那名Drood 带回到村子</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Description">把那名Drood带回到村子</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Location-Ali' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-Ali.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-Ali.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Req.TrackedLaunch.Planet-Droo.Location-Droo.Ali.Description">进入 Ali 基地的范围</s>
    <!-- Font:Primary -->
@@ -3163,185 +3163,185 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Req.TrackedLaunch.Planet-Droo.Location-Droo.Ali.Expression.Expression.SurfaceDistance.Description">Fly more than 10km</s>
    <!-- Contract 'Location-AliPad' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Expression.Description">升空即开始</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Timer.Description">你有 5 分钟</s>
    <!-- Contract 'Ali-delivery' requirements Font:Primary -->
-   <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Any.Description">把 4 个箱子送到 Ali 前哨,放在机库附近</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-Fragile.Location-Droo.Ali.Outpost.CraftExpression.Description">确保箱子已经接地,小心轻放!</s>
    <!-- Contract 'Packages-outpost' requirements Font:Primary -->
-   <s id="Career.Contracts.Packages-outpost.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Packages-outpost.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-outpost.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count @Count:plural(payload|payloads) 送到前哨基地并放在那里</s>
+   <s id="Career.Contracts.Packages-outpost.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count 个载荷 送到前哨基地并放在那里</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-outpost.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Outpost.CraftExpression.Description">确保 @Name 已经接地</s>
    <!-- Contract 'Packages-launchpad' requirements Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Location-Droo.Ali.Pad.Description">哈!真聪明!别从发射台开始</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count @Count:plural(payload|payloads) 送到 Ali 发射台并放在那里</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count 个载荷 送到 Ali 发射台并放在那里</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Droo.Ali.Pad.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的私人飞机</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把 4 名Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把 4 名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-4' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的充气摩托艇</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Description">把那名Drood 运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Description">把那名Drood运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-4.Req.Payload-@UniqueDroodId1.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-5' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的极地探险车</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把 5 名Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把 5 名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood 运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Description">把那名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Ali.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Surface-Rescue-6' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 SimpleRCV</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把 6 名Drood 安全地从被困载具运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把 6 名Drood安全地从被困载具运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从损坏的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Description">把那名Drood 运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Description">把那名Drood运到 DSC 港口</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.DSC.Port.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Droo-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood 从被困的载具运回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-1' requirements Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 Luna 模块</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的Luna登月舱</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood 从被困的载具里救出来</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-2' requirements Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 LunaTown 基地</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的LunaTown基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把 2 名Drood 安全地从被困的载具运回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把 2 名Drood安全地从被困的载具运回Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 送回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood送回Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Luna-Surface-Rescue-3' requirements Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的Drood 着陆系统</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的Drood着陆系统</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把 3 名Drood 安全地从被困的载具运回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把 3 名Drood安全地从被困的载具运回Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood 送回 Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood送回Droo</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood 送回 Droo 表面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo表面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood 送回地面</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Expression.Description">安全地把那名Drood送回地面</s>
    <!-- Contract 'Removal' requirements Font:Primary -->
    <s id="Career.Contracts.Removal.Req.TrackSpawnedCraft.CraftEvent-Destroyed.Description">用任何手段摧毁碎片</s>
    <!-- Contract 'Location-Port' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Description">前往港口前面的泊位</s>
    <!-- Font:Primary -->
@@ -3349,7 +3349,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Expression.Expression.Description">你刚才是不是超过了 20 米/秒?</s>
    <!-- Contract 'Location-DSC Short runway' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Description">Bring twoDroods aboard</s>
    <!-- Font:Primary -->
@@ -3361,7 +3361,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Any.Location-Droo.Village.RunwayTop.Description">开到跑道尽头</s>
    <!-- Contract 'Location-DSC Large runway' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Large runway.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-DSC Large runway.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Large runway.Req.TrackedLaunch.Planet-Droo.Payload-Payload-Package-Supplies.Location-Droo.GS.Rainforest.Description">前往 Hippolyta 地面站</s>
    <!-- Font:Primary -->
@@ -3369,7 +3369,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Large runway.Req.TrackedLaunch.Planet-Droo.Payload-Payload-Package-Supplies.Location-Droo.GS.Rainforest.CraftExpression.CraftExpression.Description">把集装箱上连接的东西全部断开</s>
    <!-- Contract 'Location-Launchpad' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Expression.Description">不要碰水</s>
    <!-- Font:Primary -->
@@ -3379,17 +3379,17 @@
    <!-- Contract 'Location-Large-Pad' requirements Font:Primary -->
    <s id="Career.Contracts.Location-Large-Pad.Req.TrackedLaunch.Expression.Description">载具质量始终高于 @Mass:mass</s>
    <!-- Contract 'Location-Lunapad' requirements Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Description">前往 Luna</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Location-Luna.Base.Description">到达 Luna 上的基地</s>
+   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Location-Luna.Base.Description">到达Luna上的基地</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#0.Description">保持接地 3 秒</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Description">这考的是驾驶,别作弊!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Location-Luna.Base.Description">返回 Luna 上的基地</s>
+   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Location-Luna.Base.Description">返回Luna上的基地</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Expression.Description">Stay grounded</s>
    <!-- Font:Primary -->
@@ -3409,27 +3409,27 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Tutorial.Button.StepText">这是来自一个遥远小世界的礼物——它代表着我们的声音,科学,影像,音乐,思想和情感。我们努力在自己的时代生存下去,以便能在你们的时代延续下去。我们希望有朝一日,在解决了我们面对的问题之后,能够加入银河文明的共同体。这张唱片承载着我们在浩瀚而令人敬畏的宇宙中的希望,决心与善意。</s>
    <!-- Contract 'SPE-Radix' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">带着 Radix 模块一起发射</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">带着 Radix 舱段一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix 模块</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix 舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Expansion' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.Description">带着扩展模块一起发射</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.Description">带着扩展舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.CraftEvent-Docked.Description">对接到 Radix 模块</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.CraftEvent-Docked.Description">对接到 Radix 舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.PartCount-Droo-Station-1.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.PartCount-Droo-Station-1.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Docking' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.Description">带着 Nexus Cross 一起发射</s>
    <!-- Font:Primary -->
@@ -3437,35 +3437,35 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.PartCount-Droo-Station-Module-1.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.PartCount-Droo-Station-Module-1.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Habitation' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.Description">带着居住模块一起发射</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.Description">带着居住舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.PartCount-Droo-Station-Module-2.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.PartCount-Droo-Station-Module-2.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Cupola' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.Description">带着 Cupola 模块一起发射</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.Description">带着 Cupola 舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.PartCount-Droo-Station-2.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.PartCount-Droo-Station-2.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Solar' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.Description">带着太阳能阵列一起发射</s>
    <!-- Font:Primary -->
@@ -3473,11 +3473,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.PartCount-Droo-Station-Module-4.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.PartCount-Droo-Station-Module-4.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Structure' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.Description">带着 @Name 一起发射</s>
    <!-- Font:Primary -->
@@ -3485,11 +3485,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.PartCount-@ID.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.PartCount-@ID.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Fuel-Core' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.Description">带着燃料库核心一起发射</s>
    <!-- Font:Primary -->
@@ -3497,11 +3497,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.PartCount-Droo-Station-Fuel-0.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.PartCount-Droo-Station-Fuel-0.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Fuel-Ballz' requirements Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.Description">带着 @Name 燃料球一起发射</s>
    <!-- Font:Primary -->
@@ -3509,27 +3509,27 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.PartCount-Droo-Station-Fuel-@Module.Description">分离模块</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.PartCount-Droo-Station-Fuel-@Module.Description">分离舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'Race-Air-2' requirements Font:Primary -->
-   <s id="Career.Contracts.Race-Air-2.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Race-Air-2.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Packages-research' requirements Font:Primary -->
-   <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count @Count:plural(payload|payloads) 送到研究站并放在那里</s>
+   <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count 个载荷 送到研究站并放在那里</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Research_Station.Description">前往研究站放下货物</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-research.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-@Version.Location-Research_Station.CraftExpression.Description">确保 @Name 已经接地</s>
    <!-- Contract 'First-Sample' requirements Font:Primary -->
-   <s id="Career.Contracts.First-Sample.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-Sample.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Explorer' requirements Font:Primary -->
-   <s id="Career.Contracts.Explorer.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Explorer.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Explorer.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Location-Sample-@Index.Description">前往指定位置进行检查</s>
    <!-- Contract 'Delivery-ocean' requirements Font:Primary -->
-   <s id="Career.Contracts.Delivery-ocean.Req.Payload-Payload-Package-Vehicle.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Delivery-ocean.Req.Payload-Payload-Package-Vehicle.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-ocean.Req.Payload-Payload-Package-Vehicle.Planet-Droo.Location-Delivery_Location.Description">前往指定位置放下集装箱</s>
    <!-- Font:Primary -->
@@ -3537,7 +3537,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-ocean.Req.Payload-Payload-Package-Vehicle.Planet-Droo.Location-Delivery_Location.CraftExpression.CraftExpression.Description">把集装箱上连接的东西全部断开</s>
    <!-- Contract 'Delivery-gs' requirements Font:Primary -->
-   <s id="Career.Contracts.Delivery-gs.Req.Payload-Payload-Package-Supplies.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Delivery-gs.Req.Payload-Payload-Package-Supplies.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-gs.Req.Payload-Payload-Package-Supplies.Planet-Droo.Location-Ground_Station.Description">前往地面站放下货物</s>
    <!-- Font:Primary -->
@@ -3547,29 +3547,29 @@
    <!-- Contract 'Droo-orbit' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持 5 秒</s>
    <!-- Contract 'First-sat' requirements Font:Primary -->
    <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Description">带着 CubeSat 一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Planet-Droo.Orbit.PartCount-Payload-Sat-1.Description">分离 CubeSat</s>
    <!-- Contract 'Droo-sat' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Description">带着 @SatCount 颗 @SatName一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Planet-Droo.Orbit.Orbit.Orbit.PartCount-Payload-Sat-@SatVersion.Description">分离 @SatName@SatCount:s</s>
    <!-- Contract 'Heliosynch-orbit' requirements Font:Primary -->
    <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持 5 秒</s>
    <!-- Contract 'Observation' requirements Font:Primary -->
-   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.Description">处于 Droo 的引力影响范围内</s>
+   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Description">带着望远镜一起发射</s>
    <!-- Font:Primary -->
@@ -3577,25 +3577,25 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.PartCount-Payload-Sat-4.Description">释放货物</s>
    <!-- Contract 'First-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Luna.Description">处于 Luna 的引力影响范围内</s>
+   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Luna.Description">处于Luna的引力影响范围内</s>
    <!-- Contract 'Lunar-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-@Moon.Description">处于 @Moon 的引力影响范围内</s>
    <!-- Contract 'First-lunar-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Brigo.Description">处于 Brigo 的引力影响范围内</s>
    <!-- Contract 'Lunar-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -3603,7 +3603,7 @@
    <!-- Contract 'Lunar-probe' requirements Font:Primary -->
    <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Description">带着一颗 @ProbeName 探测器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-@Moon.Description">处于 @Moon 的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3611,7 +3611,7 @@
    <!-- Contract 'Lunar-impactor' requirements Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Description">带着撞击器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3629,7 +3629,7 @@
    <!-- Contract 'Lunar-lander' requirements Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Description">带着着陆器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3645,7 +3645,7 @@
    <!-- Contract 'Lunar-rover' requirements Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Description">带着漫游车一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3659,7 +3659,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Any.Template.Repeat.Location-Sample-@Index.Description">前往目标样本点</s>
    <!-- Contract 'Lunar-landing' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -3669,19 +3669,19 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-@Moon.Expression.Expression.Description">保持 30 秒</s>
    <!-- Contract 'Celestial-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-@Planet.Description">处于 @Planet 的引力影响范围内</s>
    <!-- Contract 'Celestial-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-@Planet.Description">处于 @Planet 的引力影响范围内</s>
    <!-- Contract 'Celestial-landing' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-Droo.Description">从 Droo 的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -4903,9 +4903,9 @@
    <s id="Levels.LevelDesigner.TotalFuelFormat">&#10;&#10;总燃料：{0}</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.ParachuteLanding.GoalLandOnDroo">在 Droo 着陆 ({0})</s>
+   <s id="Levels.ParachuteLanding.GoalLandOnDroo">在Droo着陆 ({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.ParachuteLanding.LandedOnDroo">已在 Droo 着陆！({0})</s>
+   <s id="Levels.ParachuteLanding.LandedOnDroo">已在Droo着陆！({0})</s>
    <!-- Font:Primary -->
    <s id="Levels.Requirements.AltitudeAbove">高度 &gt; {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7063,15 +7063,15 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.EsaJuice.Name">ESA的JUICE</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.EscapeSoi.Description">从 Droo 发射并达到逃逸速度,使你的轨道变为逃逸轨道。一旦你离开 Droo 的引力影响范围(SOI),关卡结束。你必须使用少于60kL的燃料才能获胜。</s>
+   <s id="Levels.EscapeSoi.Description">从Droo发射并达到逃逸速度,使你的轨道变为逃逸轨道。一旦你离开Droo的引力影响范围(SOI),关卡结束。你必须使用少于60kL的燃料才能获胜。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Levels.EscapeSoi.Name">逃离 Droo</s>
+   <s id="Levels.EscapeSoi.Name">逃离Droo</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.FlightTutorial.Description">我可以教你如何驾驶设计器教程中的火箭。从发射到进入轨道。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.FlightTutorial.Name">飞行教程</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.LandingPractice.Description">练习在 Luna 着陆。这不是一件容易的事,所以这里是学习技术的好地方。</s>
+   <s id="Levels.LandingPractice.Description">练习在Luna着陆。这不是一件容易的事,所以这里是学习技术的好地方。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.LandingPractice.Name">着陆练习</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7079,7 +7079,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.LowFlyer.Name">低空飞行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.LowOrbit.Description">进入 Droo 的低轨道。近点必须至少为100km,且必须使用少于10kL的燃料。</s>
+   <s id="Levels.LowOrbit.Description">进入Droo的低轨道。近点必须至少为100km,且必须使用少于10kL的燃料。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.LowOrbit.Name">低轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7093,19 +7093,19 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MaximumThrust.Name">最大推力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MediumOrbit.Description">进入 Droo 的中等轨道。近点至少为5,000km。必须使用少于200kL的燃料。</s>
+   <s id="Levels.MediumOrbit.Description">进入Droo的中等轨道。近点至少为5,000km。必须使用少于200kL的燃料。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MediumOrbit.Name">中轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MoonLanding.Description">在 Luna 着陆,并尽可能少地使用燃料。阿波罗11号在1969年做到了这一点,当时它上面的计算机还没有你的手机强大,所以这应该很容易,对吧？&#10;&#10;你必须使用少于50kL的燃料才能获胜。</s>
+   <s id="Levels.MoonLanding.Description">在Luna着陆,并尽可能少地使用燃料。阿波罗11号在1969年做到了这一点,当时它上面的计算机还没有你的手机强大,所以这应该很容易,对吧？&#10;&#10;你必须使用少于50kL的燃料才能获胜。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MoonLanding.Name">Luna 着陆</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MoonOrbit.Description">希望你喜欢挑战。从 Droo 发射,前往 Luna,并使用少于50kL的燃料在其周围建立稳定轨道。你的近点必须至少为25km,轨道才能算有效。</s>
+   <s id="Levels.MoonOrbit.Description">希望你喜欢挑战。从Droo发射,前往 Luna,并使用少于50kL的燃料在其周围建立稳定轨道。你的近点必须至少为25km,轨道才能算有效。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MoonOrbit.Name">Luna 轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MoonPunch.Description">尽快到达 Luna。别担心着陆问题。只要你撞上 Luna 表面,计时器就会停止。你有10个小时完成任务。祝你好运！</s>
+   <s id="Levels.MoonPunch.Description">尽快到达 Luna。别担心着陆问题。只要你撞上Luna表面,计时器就会停止。你有10个小时完成任务。祝你好运！</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MoonPunch.Name">Luna 冲刺</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7113,11 +7113,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.OptimumTrajectory.Name">最优轨迹</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.ParachuteLanding.Description">从绕 Droo 的小火箭轨道开始,你必须返回 Droo 并用降落伞安全着陆到地面。&#10;&#10;进行逆行轨道机动让你的轨道进入大气层,然后安全着陆。&#10;&#10;注意再入时过度热量造成的部件损坏。</s>
+   <s id="Levels.ParachuteLanding.Description">从绕Droo的小火箭轨道开始,你必须返回Droo并用降落伞安全着陆到地面。&#10;&#10;进行逆行轨道机动让你的轨道进入大气层,然后安全着陆。&#10;&#10;注意再入时过度热量造成的部件损坏。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.ParachuteLanding.Name">降落伞着陆</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.PolarOrbit.Description">进入绕 Droo 的极轨道。近点必须至少为250km,轨道倾角在85到95度之间。必须使用少于50kL的燃料。</s>
+   <s id="Levels.PolarOrbit.Description">进入绕Droo的极轨道。近点必须至少为250km,轨道倾角在85到95度之间。必须使用少于50kL的燃料。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.PolarOrbit.Name">极轨道</s>
    <!-- Font:Primary -->
@@ -7125,7 +7125,7 @@
    <!-- Font:Primary -->
    <s id="Levels.Requirements.SurfaceVelocity.Format">地表速度 &gt; {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.SatelliteRendezvous.Description">建造火箭,从 Droo 发射,与已经在轨道上的卫星会合。这是一项极具挑战性的任务,比 Luna 着陆难得多。</s>
+   <s id="Levels.SatelliteRendezvous.Description">建造火箭,从Droo发射,与已经在轨道上的卫星会合。这是一项极具挑战性的任务,比Luna着陆难得多。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接口才能与卫星对接！</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7135,7 +7135,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.ShuttleLanding.Name">航天飞机着陆</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.TimedOrbit.Description">看看你能多快绕 Droo 一圈。近点必须至少为100km,轨道才能算有效。从发射起你有5分钟时间。</s>
+   <s id="Levels.TimedOrbit.Description">看看你能多快绕Droo一圈。近点必须至少为100km,轨道才能算有效。从发射起你有5分钟时间。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TimedOrbit.Name">限时入轨</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7143,7 +7143,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TutorialFirstFlight.Name">像鸟一样</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.TutorialFirstOrbit.Description">游玩生涯合同教程"Droo 轨道"。&#10;&#10;本教程涵盖在设计器中分析级数和调整火箭发动机性能的基础知识,然后是实现绕 Droo 轨道的引导教程。&#10;&#10;合同描述：&#10;你能进入轨道吗？我需要你在特定轨道附近,我知道你能到达那里。首先,进入任何轨道来证明自己。</s>
+   <s id="Levels.TutorialFirstOrbit.Description">游玩生涯合同教程"Droo 轨道"。&#10;&#10;本教程涵盖在设计器中分析级数和调整火箭发动机性能的基础知识,然后是实现绕Droo轨道的引导教程。&#10;&#10;合同描述：&#10;你能进入轨道吗？我需要你在特定轨道附近,我知道你能到达那里。首先,进入任何轨道来证明自己。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TutorialFirstOrbit.Name">Droo 轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8097,9 +8097,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.Expression.Description">A planet modifier that evaluates a mathematical expression using data values as inputs.</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.Expression.DisplayName">Expression</s>
+   <s id="Modifier.Expression.DisplayName">表达式</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
-   <s id="Modifier.Expression.DisplayName.Header">Expression</s>
+   <s id="Modifier.Expression.DisplayName.Header">表达式</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.Flatten.DataIndexInputDataSlotTooltip">The data input values to act as a mask. At 1.0, the terrain is completely flattened, fading out to the original height at 0.0.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8243,13 +8243,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.Interpolate.DataIndexInputCDataSlotTooltip">The value used to interpolate between the two inputs. Below the min input value, the output is input &apos;A&apos;. Above the max input value, the output is input &apos;B&apos;. In between, the output is interpolated based on where this value falls in the specified min/max range.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.Interpolate.DataIndexOutputDataSlotTooltip">The result of the interpolation.</s>
+   <s id="Modifier.Interpolate.DataIndexOutputDataSlotTooltip">插值的结果.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.Interpolate.Description">A planet modifier that interpolates between two values based on a factor.</s>
+   <s id="Modifier.Interpolate.Description">一个基于因子在两个值之间进行插值的属性。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.Interpolate.DisplayName">Interpolate</s>
+   <s id="Modifier.Interpolate.DisplayName">插值</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
-   <s id="Modifier.Interpolate.DisplayName.Header">Interpolate</s>
+   <s id="Modifier.Interpolate.DisplayName.Header">插值</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.Interpolate.InputMaxValueTooltip">The maximum input value used to create the range for the interpolation value input.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8261,15 +8261,15 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LayeredBiomes.Description">A planet modifier that defines biomes arranged in horizontal layers.</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.LayeredBiomes.DisplayName">Biomes (Layered)</s>
+   <s id="Modifier.LayeredBiomes.DisplayName">群系 (层级)</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
-   <s id="Modifier.LayeredBiomes.DisplayName.Header">Biomes (Layered)</s>
+   <s id="Modifier.LayeredBiomes.DisplayName.Header">群系 (层级)</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.LayeredBiomes.InputTypeLabel">Type</s>
+   <s id="Modifier.LayeredBiomes.InputTypeLabel">类型</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LayeredBiomes.InputTypeTooltip">Determines how the input is converted to biomes. Single Biome - The input value is the primary biome&apos;s strength, from 0% at 0 to 100% at 1. Dual Biome Negative And Positive - The input value represents two biomes. The primary biome&apos;s strength runs from 0 (0%) to 1 (100%); the other biome&apos;s from 0 (0%) to -1 (100%). Dual Biome Positive And Remainder - The input value represents two biomes. The primary biome&apos;s strength runs from 0 (0%) to 1 (100%); the other biome&apos;s strength is 100% minus the primary&apos;s.</s>
    <!-- Format Font:Primary ; LayeredBiomes data slot label; {0} is the layer number, {1} is the input number -->
-   <s id="Modifier.LayeredBiomes.LayerInputDataSlotNameFormat">Layer {0} - Input {1}</s>
+   <s id="Modifier.LayeredBiomes.LayerInputDataSlotNameFormat">层级 {0} - 输入 {1}</s>
    <!-- Font:Primary -->
    <s id="Modifier.LinearInterpolate01.DataIndexInputADataSlotName">Input A (From)</s>
    <!-- Font:Primary -->
@@ -8307,11 +8307,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LongitudeLines.LineCountTooltip">The number of lines to be generated by this modifier.</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.LongitudeLines.LineWidthLabel">Line Width</s>
+   <s id="Modifier.LongitudeLines.LineWidthLabel"></s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.LongitudeLines.LineWidthTooltip">The width of the lines, in degrees, generated by this modifier.</s>
+   <s id="Modifier.LongitudeLines.LineWidthTooltip">此属性生成的线条宽度（以度为单位）。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-   <s id="Modifier.LongitudeLines.RotationLabel">Rotation</s>
+   <s id="Modifier.LongitudeLines.RotationLabel">朝向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LongitudeLines.RotationTooltip">The rotation in degrees about the X, Y, and Z axis to be applied to the input position.</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8325,7 +8325,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LongitudeLines.WarpAmplitudeTooltip">The amplitude of the domain warping noise applied to the input.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.LongitudeLines.WarpFrequencyTooltip">The frequency of the domain warping noise applied to the input.</s>
+   <s id="Modifier.LongitudeLines.WarpFrequencyTooltip">输入中域扭曲噪声的频率。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.LongitudeLines.WarpGainTooltip">The gain applied to the amplitude at each octave of the domain warping noise applied to the input.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14480,7 +14480,7 @@
    <s id="Tutorial.Staging.ClickStagingEditor">点击左侧的级段编辑器按钮。</s>
    <!-- Toast Font:Primary ; StagingStep instruction prompting the user to open the preflight configuration flyout -->
    <s id="Tutorial.Staging.ClickPreflight">点击左侧的飞行前配置按钮。</s>
-   <!-- Toast Font:Primary ; PerformanceStep instruction prompting the user to choose Droo environment -->
+   <!-- Toast Font:Primary ; PerformanceStep instruction prompting the user to chooseDrooenvironment -->
    <s id="Tutorial.Performance.SelectDroo">在设计信息面板中选择Drood</s>
    <!-- Format Font:Primary ; PerformanceStep instruction prompting the user to set altitude; {0} is formatted altitude (e.g. "10 km") -->
    <s id="Tutorial.Performance.ChangeAltitudeFormat">在设计信息面板中将高度更改为{0}</s>
@@ -14558,9 +14558,9 @@
    <s id="Tutorial.MenuTutorial.MilestonesIntro">要使用我的专利,我需要你证明你值得它们。所以我设置了这些里程碑。达成它们可以赚取科技点,你可以用来在科技树中解锁新技术。你的科技点总数显示在屏幕顶部。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Milestones tab -->
    <s id="Tutorial.MenuTutorial.ClickMilestonesTab">点击里程碑标签。</s>
-   <!-- Toast Font:Primary ; MenuTutorial step 2 explanation shown after the user selects Droo in Exploration -->
+   <!-- Toast Font:Primary ; MenuTutorial step 2 explanation shown after the user selectsDrooin Exploration -->
    <s id="Tutorial.MenuTutorial.ExplorationLandmarks">这是你可以参观的地标和每个天体中可以完成的额外里程碑。你可以点击它们查看更多详情。</s>
-   <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Droo entry in Exploration -->
+   <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click theDrooentry in Exploration -->
    <s id="Tutorial.MenuTutorial.ClickDroo">在这里你可以找到与探索相关的里程碑。点击Drood。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Exploration tab -->
    <s id="Tutorial.MenuTutorial.ClickExplorationTab">点击探索标签。</s>
