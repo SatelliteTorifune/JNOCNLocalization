@@ -4827,7 +4827,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; label -->
    <s id="Flight.NextBurn.DeltaV">速度增量</s>
    <!-- Rec:14 Max:20 Font:Primary ; progress bar label -->
-   <s id="Flight.NextBurn.DeltaVProgressBar">Delta V</s>
+   <s id="Flight.NextBurn.DeltaVProgressBar">速度增量</s>
    <!-- Rec:14 Max:20 Font:Primary ; section title -->
    <s id="Flight.NextBurn.Title">下次轨道机动</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5503,7 +5503,7 @@
    <!-- Rec:20 Max:24 Font:Primary ; design info inspector header -->
    <s id="Design.Performance.CraftDetails">飞行器细节</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Performance.DeltaV">Delta V</s>
+   <s id="Design.Performance.DeltaV">速度增量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Performance.Depth">深度</s>
    <!-- Rec:20 Max:24 Font:Primary ; design info inspector header -->
@@ -5701,15 +5701,15 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.FuselageShape.Clamp4.Text">Clamp 4</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.Corner1.Text">Corner 1</s>
+   <s id="Design.ToolPanel.FuselageShape.Corner1.Text">角 1</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.Corner2.Text">Corner 2</s>
+   <s id="Design.ToolPanel.FuselageShape.Corner2.Text">角 2</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.Corner3.Text">Corner 3</s>
+   <s id="Design.ToolPanel.FuselageShape.Corner3.Text">>角 3</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.Corner4.Text">Corner 4</s>
+   <s id="Design.ToolPanel.FuselageShape.Corner4.Text">>角 4</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.CornerRadius.Text">Corner Radius</s>
+   <s id="Design.ToolPanel.FuselageShape.CornerRadius.Text">边缘圆度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.CornerRadius.Tooltip">数值越高,边缘越圆润;数值越低,边缘越锐利</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
@@ -5743,7 +5743,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ToolPanel.FuselageShape.Slant.Tooltip">将机身形状斜向一侧。</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
-   <s id="Design.ToolPanel.FuselageShape.Title">Part Shape Tool</s>
+   <s id="Design.ToolPanel.FuselageShape.Title">部件塑形工具</s>
    <!-- Rec:5 Max:7 Font:Primary ; tool panel spinner label -->
    <s id="Design.ToolPanel.FuselageShape.Width.Text">宽度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5863,7 +5863,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Validation.AutoFix.Confirm">自动修复可能会改变飞行器的行为,确定要执行吗?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Validation.AutoFix.Text">尝试自动修理</s>
+   <s id="Design.Validation.AutoFix.Text">尝试自动修复</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.ResumeFlight.Redirect">点击确定跳转到 “恢复飞行” 视图。在那里你可以选择一个飞行器并将其从飞行中移除。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -5889,7 +5889,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ViewOptions.CenterOfLift.Tooltip">显示升力中心指示器。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ViewOptions.CenterOfMass.Tooltip">显示重心指示器。</s>
+   <s id="Design.ViewOptions.CenterOfMass.Tooltip">显示质心指示器。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ViewOptions.CenterOfThrust.Tooltip">显示推力中心指示器。</s>
    <!-- Rec:17 Max:19 Font:Primary ; property label (tightened) -->
@@ -5973,7 +5973,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.InterruptedFormat">自动轨道机动被 {0} 命令中断。请取消暂停并重新启用自动轨道机动以继续。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.AutoBurn.NoControls">无法使用没有控制的飞行器执行自动轨道机动</s>
+   <s id="Flight.AutoBurn.NoControls">无控制的飞行器无法执行自动轨道机动</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.NoThrust">警告：飞行器当前分级无法产生推力。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -7235,7 +7235,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.CraftDesigns.Details.Stages">分级数</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
-   <s id="Menu.CraftDesigns.Details.TotalDeltaV">总Delta V</s>
+   <s id="Menu.CraftDesigns.Details.TotalDeltaV">总速度增量</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.CraftDesigns.Details.TotalThrust">总推力</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->

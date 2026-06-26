@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-26 10:28:53
+  missing_translations.txt - 2026-06-26 10:40:02
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -798,10 +798,6 @@
   EN: (Shell)
   ZH: (未翻译)
 
-[Design.Performance.DeltaV]
-  EN: Delta V
-  ZH: (未翻译)
-
 [Design.Staging.ThrustToWeightFormat]
   EN: {0}:1
   ZH: (未翻译)
@@ -820,26 +816,6 @@
 
 [Design.ToolPanel.FuselageShape.Clamp4.Text]
   EN: Clamp 4
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.Corner1.Text]
-  EN: Corner 1
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.Corner2.Text]
-  EN: Corner 2
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.Corner3.Text]
-  EN: Corner 3
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.Corner4.Text]
-  EN: Corner 4
-  ZH: (未翻译)
-
-[Design.ToolPanel.FuselageShape.CornerRadius.Text]
-  EN: Corner Radius
   ZH: (未翻译)
 
 [Design.ToolPanel.FuselageShape.CurveOverride.Text]
@@ -862,10 +838,6 @@
   EN: Slant
   ZH: (未翻译)
 
-[Design.ToolPanel.FuselageShape.Title]
-  EN: Part Shape Tool
-  ZH: (未翻译)
-
 [DesignerParts.Eva.Drood.Name]
   EN: Drood
   ZH: (未翻译)
@@ -884,10 +856,6 @@
 
 [Flight.Inspector.PIDs]
   EN: PIDs
-  ZH: (未翻译)
-
-[Flight.NextBurn.DeltaVProgressBar]
-  EN: Delta V
   ZH: (未翻译)
 
 [Flight.OrbitChain.NaN]
