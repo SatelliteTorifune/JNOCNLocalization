@@ -639,19 +639,19 @@
    <s id="Career.Customers.pricklespac.LongBio">Pricklespac 虽说是个古怪的科学家,但在Droo上也是最负盛名的研究者之一。他正在寻找帮手收集数据,以证明 Juno 系统中存在其他形式的生命。</s>
    <!-- LaunchLocations.xml: stock launch location display names (game-object names left intact in-engine). -->
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.LunaBase.Name">Luna Base</s>
+   <s id="Career.LaunchLocations.LunaBase.Name">Luna基地</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.LunaBase.Description">位于Luna南部陨石坑的发射台,无需担心穿过浓密大气层进入轨道。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.DSCLaunchPad.Name">DSC Launch Pad</s>
+   <s id="Career.LaunchLocations.DSCLaunchPad.Name">DSC 标准发射场</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCLaunchPad.Description">一个先进的高架发射台,带有将火箭尾气偏转至海面的格栅,完美地位于赤道,是最有效的赤道轨道的最佳位置。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.DSCLargePad.Name">DSC Large Pad</s>
+   <s id="Career.LaunchLocations.DSCLargePad.Name">DSC 大型发射场</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCLargePad.Description">一个周围有大量空间的混凝土发射台,允许发射你能想象的最大飞行器和宇宙飞船。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.DSCWestwardRunway.Name">DSC Westward Runway</s>
+   <s id="Career.LaunchLocations.DSCWestwardRunway.Name">DSC 西向</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCWestwardRunway.Description">一条大型跑道,靠近DSC的机库,指向东西向,几乎正好位于Droo的赤道上。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
@@ -659,19 +659,19 @@
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCEastwardRunway.Description">一条大型跑道,需要滑行后起飞,方向为东西向,几乎正好位于Droo的赤道上。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.DSCSecondaryRunway.Name">DSC Secondary Runway</s>
+   <s id="Career.LaunchLocations.DSCSecondaryRunway.Name">DSC次级跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCSecondaryRunway.Description">DSC上的一条中型跑道,终止于海崖,在紧急情况下给你最后一次拉起的机会。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.AliPad.Name">Ali Pad</s>
+   <s id="Career.LaunchLocations.AliPad.Name">Ali 发射场</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.AliPad.Description">一个秘密的火箭发射设施,四周被群山环绕,用于进行可能具有爆炸性的测试而不损害任何设备。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Ali10L.Name">Ali 10L</s>
+   <s id="Career.LaunchLocations.Ali10L.Name">Ali 10L跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Ali10L.Description">一条中型跑道,位于被高耸山脉环绕的盐湖中的秘密军事基地。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Ali28R.Name">Ali 28R</s>
+   <s id="Career.LaunchLocations.Ali28R.Name">Ali 28R跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Ali28R.Description">一条中型跑道,位于被高耸山脉环绕的盐湖中的秘密军事基地。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
@@ -679,7 +679,7 @@
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.JunoVillagePad.Description">一处远离村庄的小型发射台,可以让你发射并炸点什么而不必担心打扰邻居。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.JunoVillageRunway.Name">Juno Village Runway</s>
+   <s id="Career.LaunchLocations.JunoVillageRunway.Name">Juno 村跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.JunoVillageRunway.Description">位于山边缘的小型复杂跑道,带有斜坡以弥补其短长度。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
@@ -687,19 +687,19 @@
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCBay.Description">DSC港口前方水中的一个位置,非常适合从水上直接发射船和水上飞机。解锁此位置可降低水中飞行器的回收费用。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.LaunchPad.Name">Launch Pad</s>
+   <s id="Career.LaunchLocations.LaunchPad.Name">发射场</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.LaunchPad.Description">Droo航天中心的默认发射台,是进入轨道的可靠起点。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Runway.Name">Runway</s>
+   <s id="Career.LaunchLocations.Runway.Name">跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Runway.Description">Droo航天中心的默认跑道,非常适合飞机和空天飞机起飞。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Water.Name">Water</s>
+   <s id="Career.LaunchLocations.Water.Name">DSC海面</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Water.Description">Droo 航天中心外水面上的一处位置,适合发射水上飞机和浮筒飞机。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Luna.Name">Luna</s>
+   <s id="Career.LaunchLocations.Luna.Name">Luna极低</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Luna.Description">Luna表面的着陆点,前往轨道的途中没有厚重的大气层。</s>
    <!-- Career.xml descriptions shown on the Career Selector. Font:Primary -->
@@ -1485,11 +1485,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.SkipValidation.Description">厌倦了被告知无法发射？没问题！解锁后你可以做任何想做的事。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Config.FuelLine.Name">Fuel Lines</s>
+   <s id="Career.TechTree.Items.Config.FuelLine.Name">燃料管路</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Config.FuelLine.Description">燃料管路可以将燃料输送到火箭的任意部件,使其无论结构如何配置,都能送达发动机。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Config.HeatShield.Name">Heatshield Coating</s>
+   <s id="Career.TechTree.Items.Config.HeatShield.Name">隔热涂层</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Config.HeatShield.Description">隔热涂层为部件提供额外的防热保护,会逐渐剥落以带走多余的热量,随着时间推移会消耗殆尽。</s>
    <!-- Font:Primary -->
@@ -1521,11 +1521,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.JetEngine.Description">喷气发动机的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.JointRotator.Name">Joint Rotator Size</s>
+   <s id="Career.TechTree.Items.MaxSize.JointRotator.Name">转轴尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.JointRotator.Description">关节旋转器的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.LandingGear.Name">Landing Gear Size</s>
+   <s id="Career.TechTree.Items.MaxSize.LandingGear.Name">起落架尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.LandingGear.Description">起落架的最大尺寸。</s>
    <!-- Font:Primary -->
@@ -1533,7 +1533,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.LandingLeg.Description">着陆腿的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.Light.Name">Light Size</s>
+   <s id="Career.TechTree.Items.MaxSize.Light.Name">灯尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Light.Description">灯的最大尺寸。</s>
    <!-- Font:Primary -->
@@ -1549,11 +1549,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Prop.Description">螺旋桨组件的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.RCS.Name">RCS Size</s>
+   <s id="Career.TechTree.Items.MaxSize.RCS.Name">RCS尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.RCS.Description">姿态控制推进剂的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.RocketEngine.Name">Rocket Engine Size</s>
+   <s id="Career.TechTree.Items.MaxSize.RocketEngine.Name">发动机尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.RocketEngine.Description">火箭发动机的最大尺寸。</s>
    <!-- Font:Primary -->
@@ -1561,11 +1561,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Shock.Description">缓冲器的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.SolarPanelArray.Name">Solar Panel Array Size</s>
+   <s id="Career.TechTree.Items.MaxSize.SolarPanelArray.Name">太阳能电池板阵列尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.SolarPanelArray.Description">太阳能电池板阵列的最大尺寸。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxSize.Wheel.Name">Rover Wheel Size</s>
+   <s id="Career.TechTree.Items.MaxSize.Wheel.Name">车轮尺寸</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Wheel.Description">漫游车车轮的最大尺寸。</s>
    <!-- Font:Primary -->
@@ -1597,67 +1597,67 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.DeadWeight.Description">可以放入燃料箱中的铅粒,用于调整重心位置。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Fuselage.Pinch.Name">收口</s>
+   <s id="Career.TechTree.Items.Fuselage.Pinch.Name">收口捏边工具</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.Pinch.Description">捏边工具可以让你把机身压形,使一侧变窄。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Fuselage.Slant.Name">倾斜</s>
+   <s id="Career.TechTree.Items.Fuselage.Slant.Name">斜切工具</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.Slant.Description">斜切工具可以让你把机身的顶面切成斜面。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Fuselage.Clamp.Name">Clamp</s>
+   <s id="Career.TechTree.Items.Fuselage.Clamp.Name">夹切工具</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.Clamp.Description">夹切工具可以让你把机身切掉一段。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Fuselage.Curve.Name">Curve</s>
+   <s id="Career.TechTree.Items.Fuselage.Curve.Name">曲线工具</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.Curve.Description">曲线工具可以让你把头锥的截面改成任意曲线。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Columns.Name">Columns</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Columns.Name">列</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Columns.Description">阵列每行可以容纳的电池板数量。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Rows.Name">Rows</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Rows.Name">行</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Rows.Description">阵列可以容纳的行数。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Shape.Name">Shape</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Shape.Name">形状</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Shape.Description">电池板可拉伸以微调形状的程度。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.ElectricMotor.Brake.Name">Electric Motor Brakes</s>
+   <s id="Career.TechTree.Items.ElectricMotor.Brake.Name">电机在制动</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.Brake.Description">制动扭矩影响其刹停力度。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.ElectricMotor.RPM.Name">Electric Motor RPM</s>
+   <s id="Career.TechTree.Items.ElectricMotor.RPM.Name">电机转速</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.RPM.Description">在扭矩足够的情况下,电动机能够转到的最高转速。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.ElectricMotor.Torque.Name">Electric Motor Torque</s>
+   <s id="Career.TechTree.Items.ElectricMotor.Torque.Name">电机扭矩</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.Torque.Description">电机的扭矩决定它能输出多大的力。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Prop.BladeCount.Name">Propeller Blade Count</s>
+   <s id="Career.TechTree.Items.Prop.BladeCount.Name">桨叶数</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Prop.BladeCount.Description">螺旋桨组件中不同桨叶的数量。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Prop.VariablePitch.Name">Variable Pitch</s>
+   <s id="Career.TechTree.Items.Prop.VariablePitch.Name">可变浆距</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Prop.VariablePitch.Description">螺旋桨桨叶上的一组铰链,允许可变桨距以微调迎角。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Wheel.Brake.Name">Wheel Brakes</s>
+   <s id="Career.TechTree.Items.Wheel.Brake.Name">车轮制动</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Wheel.Brake.Description">制动扭矩影响其刹停车轮的力度。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Wheel.Suspension.Name">Wheel Suspension</s>
+   <s id="Career.TechTree.Items.Wheel.Suspension.Name">车轮减震</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Wheel.Suspension.Description">集成在车轮中的减震器有助于在崎岖地形上行驶。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Wheel.Torque.Name">Wheel Torque</s>
+   <s id="Career.TechTree.Items.Wheel.Torque.Name">车轮扭矩</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Wheel.Torque.Description">电机的扭矩决定它能输出多大的力。</s>
+   <s id="Career.TechTree.Items.Wheel.Torque.Description">车轮的扭矩决定它能输出多大的力。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.LandingGear.Retraction.Name">Gear Retraction</s>
+   <s id="Career.TechTree.Items.LandingGear.Retraction.Name">起落架收放</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.LandingGear.Retraction.Description">起落架的收放能力,收起后可减小阻力。</s>
    <!-- Font:Primary -->
@@ -1677,31 +1677,31 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Wing.Thickness.Description">机翼的最大厚度,加厚后可更耐折断,并提升其燃料储存能力。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Name">Star Grain</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Name">星形药柱</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.Star.Description">一种固体推进剂药柱,产生典型的爬升,保持,再下降的推力曲线。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.Tubular.Name">Tubular Grain</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.Tubular.Name">管状药柱</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.Tubular.Description">中心带孔的固体推进剂,推力曲线为逐渐上升型。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.DoubleAnchor.Name">Double Anchor Grain</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.DoubleAnchor.Name">双锚药柱</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.DoubleAnchor.Description">一种固体推进剂药柱,推力曲线为逐渐下降型。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.RodAndTube.Name">Rod And Tube Grain</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.RodAndTube.Name">杆状和管状药柱</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.RodAndTube.Description">一种在整个燃烧过程中能保持恒定推力的固体推进剂药柱。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Grain.MultiFin.Name">Multifin Grain</s>
+   <s id="Career.TechTree.Items.RocketEngine.Grain.MultiFin.Name">多鳍药柱</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Grain.MultiFin.Description">一种在起燃时烧尽大量燃料的固体推进剂药柱,先产生一个大的冲量,随后是较长的残余推力。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Bell.Name">Bell喷管</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Bell.Name">钟形喷管</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Bell.Description">钟形喷管的性能优于锥形喷管,且该喷管尺寸可调。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Cone.Name">Cone喷管</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Cone.Name">锥形喷管</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Cone.Description">锥形喷管是最基础的喷管形状,但这款尺寸可调。</s>
    <!-- Font:Primary -->
@@ -1729,7 +1729,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Echo.Description">为固体火箭助推器设计的大型喷管。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.EchoGimbal.Name">矢量 Echo喷管</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.EchoGimbal.Name">矢量Echo喷管</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.EchoGimbal.Description">Echo 喷管的万向可调版本。</s>
    <!-- Font:Primary -->
@@ -1827,7 +1827,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.H2O.Name">水</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.FuelType.H2O.Description">纯净的自来水,不仅可用作压舱物,也可用于核热发动机。</s>
+   <s id="Career.TechTree.Items.FuelType.H2O.Description">纯净的一氧化二氢,不仅可用作压舱物,也可用于核热发动机。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Monopropellant.Name">单组元推进剂</s>
    <!-- Font:Primary -->
@@ -1851,7 +1851,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Crew.Name">乘组数量上限</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可雇佣的Drood数量上限。</s>
+   <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可招募的Drood数量上限。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Craft.Stages.Name">最多分级数量</s>
    <!-- Font:Primary -->
@@ -2565,93 +2565,93 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Short">带一颗探测器在星系里转一圈再飞出去。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Long">在Luna上把基础设施花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过Droo的 3 颗行星,然后再飞出 Juno 的引力影响范围。</s>
+   <s id="Career.Contracts.GrandTour.Long">在Luna上的基地建造花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过Droo的 3 颗行星,然后再飞出 Juno 的引力影响范围。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Radix.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Subtitle">Radix Module</s>
+   <s id="Career.Contracts.SPE-Radix.Subtitle">Radix模块</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Short">把 Radix 送入轨道。</s>
+   <s id="Career.Contracts.SPE-Radix.Short">把 Radix送入轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在Droo低轨道建造 Esperanza 空间港(SPE)。先把 Radix 舱段送上去。这是 DSC 在 Juno 系统殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在Droo低轨道建造 Esperanza空间港(SPE)。先把 Radix舱段送上去。这是 DSC 在 Juno 系统殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Expansion.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Subtitle">Expansion Module</s>
+   <s id="Career.Contracts.SPE-Expansion.Subtitle">拓展对接舱</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Expansion.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Long">Radix 已经入轨,我们要开始扩建 SPE 了。把扩展舱段对接到 Radix 舱段上;它会带来所需资源和更多对接口,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Expansion.Long">Radix已经入轨,我们要开始扩建 SPE 了。把扩展舱段对接到 Radix舱段上;它会带来所需资源和更多对接口,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Docking.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Subtitle">Nexus Cross</s>
+   <s id="Career.Contracts.SPE-Docking.Subtitle">十字扩展舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Docking.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Long">把 Nexus Cross 对接到 Esperanza 空间港。这些对接口会扩展 SPE 的对接容量,以后将容纳 DSC 舱段乃至你自己的舱段,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Docking.Long">把 十字扩展舱段 对接到 Esperanza空间港。这些对接口会扩展 SPE 的对接容量,以后将容纳 DSC 舱段乃至你自己的舱段,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Habitation.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Subtitle">Habitation Module</s>
+   <s id="Career.Contracts.SPE-Habitation.Subtitle">居住舱</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Habitation.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Long">把居住舱段对接到 Esperanza 空间港。这些舱段为居住者提供舒适宽敞的居住空间,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Habitation.Long">把居住舱段对接到 Esperanza空间港。这些舱段为居住者提供舒适宽敞的居住空间,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Cupola.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Subtitle">Cupola Module</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Cupola.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Long">把 Cupola 舱段对接到 Esperanza 空间港。它会让里面的乘员和游客欣赏到Droo的绝佳景观,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Cupola.Long">把 Cupola 舱段对接到 Esperanza空间港。它会让里面的乘员和游客欣赏到Droo的绝佳景观,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Solar.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Subtitle">Solar Array</s>
+   <s id="Career.Contracts.SPE-Solar.Subtitle">太阳能舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Solar.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Long">把太阳能阵列对接到 Esperanza 空间港。一旦所有太阳能阵列都对接上 SPE,它们将为所有运行提供足够的电力,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Solar.Long">把太阳能阵列对接到 Esperanza空间港。一旦所有太阳能阵列都对接上 SPE,它们将为所有运行提供足够的电力,但你需要自带一些单元推进剂来机动它。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Structure.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Structure.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Long">把 @Name 对接到 Esperanza 空间港。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Structure.Long">把 @Name 对接到 Esperanza空间港。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Subtitle">Fuel Depot Core</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Subtitle">燃料库舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Long">把燃料库核心对接到 Esperanza 空间港。这一核心基础设施让我们能够扩展 SPE 上的资源,包括为任何需要额外油气的未来任务储备燃料。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Long">把燃料库核心对接到 Esperanza空间港。这一核心基础设施让我们能够扩展 SPE 上的资源,包括为任何需要额外油气的未来任务储备燃料。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Name">Space Port Esperanza</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.FlairText">空间站</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Short">扩展 Esperanza 空间港。</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Short">扩展 Esperanza空间港。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的级段离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.Name">Cutting Corners 空中竞赛</s>
    <!-- Font:Primary -->
@@ -2937,7 +2937,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#0.Description">从地面启动</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#1.Description">Reach 30km AGL</s>
+   <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#1.Description">离地30km</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#2.Description">是时候落水了,落进水里。</s>
    <!-- Contract 'First-orbit' requirements Font:Primary -->
@@ -3413,9 +3413,9 @@
    <!-- Contract 'SPE-Radix' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">带着 Radix 舱段一起发射</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">带着 Radix舱段一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix 舱段</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Expansion' requirements Font:Primary -->
@@ -3423,9 +3423,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.Description">带着扩展舱段一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.CraftEvent-Docked.Description">对接到 Radix 舱段</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.CraftEvent-Docked.Description">对接到 Radix舱段</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.PartCount-Droo-Station-1.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3433,11 +3433,11 @@
    <!-- Contract 'SPE-Docking' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.Description">带着 Nexus Cross 一起发射</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.Description">带着 十字扩展舱段 一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.PartCount-Droo-Station-Module-1.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3447,9 +3447,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.Description">带着居住舱段一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.PartCount-Droo-Station-Module-2.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3459,9 +3459,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.Description">带着 Cupola 舱段一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.PartCount-Droo-Station-2.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3471,9 +3471,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.Description">带着太阳能阵列一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.PartCount-Droo-Station-Module-4.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3483,9 +3483,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.Description">带着 @Name 一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.PartCount-@ID.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3495,9 +3495,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.Description">带着燃料库核心一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.PartCount-Droo-Station-Fuel-0.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -3507,9 +3507,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.Description">带着 @Name 燃料球一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近 Esperanza空间港</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.CraftEvent-Docked.Description">对接到 Esperanza 空间港</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.CraftEvent-Docked.Description">对接到 Esperanza空间港</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.PartCount-Droo-Station-Fuel-@Module.Description">分离舱段</s>
    <!-- Font:Primary -->
@@ -4883,7 +4883,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Inspector.Undo.RearrangedItemsInFormat">已重排 {0} 中的项目</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Inspector.Undo.RemovedFormat">Removed {0}</s>
+   <s id="Inspector.Undo.RemovedFormat">移除了 {0}</s>
    <!-- Font:Primary -->
    <s id="Levels.Common.DistanceTraveledFormat">飞行距离：{0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5019,7 +5019,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.MoneyFormat">• 资金：{0}</s>
    <!-- Rec:14 Max:20 Font:Primary ; details group header -->
-   <s id="Menu.Contracts.Details.RequirementsHeader">REQUIREMENTS</s>
+   <s id="Menu.Contracts.Details.RequirementsHeader">要求</s>
    <!-- Rec:8 Max:12 Font:Primary ; details group header -->
    <s id="Menu.Contracts.Details.RewardsHeader">奖励</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5122,7 +5122,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.Milestones.CompleteMessage">该里程碑已完成。恭喜!</s>
    <!-- Rec:14 Max:20 Font:Primary ; placeholder -->
-   <s id="Menu.Milestones.DescriptionPlaceholder">Description</s>
+   <s id="Menu.Milestones.DescriptionPlaceholder">描述</s>
    <!-- Rec:14 Max:20 Font:Header ; list view title -->
    <s id="Menu.Milestones.Title">里程碑</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5167,9 +5167,9 @@
    <!-- Rec:15 Max:17 Font:Primary ; primary panel button -->
    <s id="Crew.Assignment.HireAstronaut">招聘航天员</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Crew.Assignment.HireConfirm">是否要花 {0} 雇佣一名新的宇航员?</s>
+   <s id="Crew.Assignment.HireConfirm">是否要花 {0} 招募一名新的宇航员?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Crew.Assignment.InsufficientFunds">你没有足够的资金来雇佣新的宇航员。你目前有 {0},雇佣一名新宇航员需要 {1}。</s>
+   <s id="Crew.Assignment.InsufficientFunds">你没有足够的资金来招募新的宇航员。你目前有 {0},招募一名新宇航员需要 {1}。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Crew.Assignment.InThisCraft">此飞行器乘员</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8890,7 +8890,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Mods.Required.VersionFormat">版本 {0}.{1} - {2}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="NoiseFlyout.AddContainerPlaceholder">Container Name</s>
+   <s id="NoiseFlyout.AddContainerPlaceholder">容器名称</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="NoiseFlyout.AddContainerTitle">添加新容器</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -15320,9 +15320,9 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Create.Label">标签</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Create.Line">Line</s>
+   <s id="Vizzy.CraftProperty.Mfd.Create.Line">线条</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Create.Map">Map</s>
+   <s id="Vizzy.CraftProperty.Mfd.Create.Map">地图</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Create.Navball">姿态球</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15344,9 +15344,9 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Event.PointerDown">指针按下</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Event.PointerUp">Pointer Up</s>
+   <s id="Vizzy.CraftProperty.Mfd.Event.PointerUp">指针移出</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Event.SetDrag">Drag</s>
+   <s id="Vizzy.CraftProperty.Mfd.Event.SetDrag">拖动</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Event.SetPointerClick">设置点击</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15420,7 +15420,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Navball.TopColor">顶部颜色</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Opacity">Opacity</s>
+   <s id="Vizzy.CraftProperty.Mfd.Opacity">不透明度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Order.SendToBack">发送到底层</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16724,13 +16724,13 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.op-exp">(0:数字) ^ (1:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.op-gt">(0:Number) &gt; (1:Number)</s>
+   <s id="Vizzy.Toolbox.Format.op-gt">(0:数字) 大于 (1:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.op-gte">(0:Number) &gt;= (1:Number)</s>
+   <s id="Vizzy.Toolbox.Format.op-gte">(0:数字) 大于等于(1:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.op-lt">(0:Number) &lt; (1:Number)</s>
+   <s id="Vizzy.Toolbox.Format.op-lt">(0:数字) 小于(1:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.op-lte">(0:Number) &lt;= (1:Number)</s>
+   <s id="Vizzy.Toolbox.Format.op-lte">(0:数字) 小于等于 (1:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.op-math">[x] (0:数字)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->

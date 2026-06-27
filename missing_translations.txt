@@ -1,5 +1,5 @@
 =================================================
-  missing_translations.txt - 2026-06-27 18:15:19
+  missing_translations.txt - 2026-06-27 18:46:12
 =================================================
 
 [Career.ContractLocations.cylero-volcano.Name]
@@ -230,68 +230,8 @@
   EN: @SpeedTarget:velocity
   ZH: (未翻译)
 
-[Career.Contracts.SPE-Cupola.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
 [Career.Contracts.SPE-Cupola.Subtitle]
   EN: Cupola Module
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Docking.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Docking.Subtitle]
-  EN: Nexus Cross
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Expansion.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Expansion.Subtitle]
-  EN: Expansion Module
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Fuel-Ballz.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Fuel-Core.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Fuel-Core.Subtitle]
-  EN: Fuel Depot Core
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Habitation.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Habitation.Subtitle]
-  EN: Habitation Module
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Radix.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Radix.Subtitle]
-  EN: Radix Module
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Solar.Name]
-  EN: Space Port Esperanza
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Solar.Subtitle]
-  EN: Solar Array
-  ZH: (未翻译)
-
-[Career.Contracts.SPE-Structure.Name]
-  EN: Space Port Esperanza
   ZH: (未翻译)
 
 [Career.Contracts.Suborbital-Fireworks.Subtitle]
@@ -304,10 +244,6 @@
 
 [Career.Contracts.Suborbital-First.Subtitle]
   EN: @Distance:distance
-  ZH: (未翻译)
-
-[Career.Contracts.Suborbital-Water.Req.TrackedLaunch-tracked-launch.Planet-Droo.Expression#1.Description]
-  EN: Reach 30km AGL
   ZH: (未翻译)
 
 [Career.Customers.fizzlebottom.Name]
@@ -324,170 +260,6 @@
 
 [Career.Customers.shotwell.Name]
   EN: Evelyn Shotwell
-  ZH: (未翻译)
-
-[Career.LaunchLocations.Ali10L.Name]
-  EN: Ali 10L
-  ZH: (未翻译)
-
-[Career.LaunchLocations.Ali28R.Name]
-  EN: Ali 28R
-  ZH: (未翻译)
-
-[Career.LaunchLocations.AliPad.Name]
-  EN: Ali Pad
-  ZH: (未翻译)
-
-[Career.LaunchLocations.DSCLargePad.Name]
-  EN: DSC Large Pad
-  ZH: (未翻译)
-
-[Career.LaunchLocations.DSCLaunchPad.Name]
-  EN: DSC Launch Pad
-  ZH: (未翻译)
-
-[Career.LaunchLocations.DSCSecondaryRunway.Name]
-  EN: DSC Secondary Runway
-  ZH: (未翻译)
-
-[Career.LaunchLocations.DSCWestwardRunway.Name]
-  EN: DSC Westward Runway
-  ZH: (未翻译)
-
-[Career.LaunchLocations.JunoVillageRunway.Name]
-  EN: Juno Village Runway
-  ZH: (未翻译)
-
-[Career.LaunchLocations.LaunchPad.Name]
-  EN: Launch Pad
-  ZH: (未翻译)
-
-[Career.LaunchLocations.Luna.Name]
-  EN: Luna
-  ZH: (未翻译)
-
-[Career.LaunchLocations.LunaBase.Name]
-  EN: Luna Base
-  ZH: (未翻译)
-
-[Career.LaunchLocations.Runway.Name]
-  EN: Runway
-  ZH: (未翻译)
-
-[Career.LaunchLocations.Water.Name]
-  EN: Water
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Config.FuelLine.Name]
-  EN: Fuel Lines
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Config.HeatShield.Name]
-  EN: Heatshield Coating
-  ZH: (未翻译)
-
-[Career.TechTree.Items.ElectricMotor.Brake.Name]
-  EN: Electric Motor Brakes
-  ZH: (未翻译)
-
-[Career.TechTree.Items.ElectricMotor.RPM.Name]
-  EN: Electric Motor RPM
-  ZH: (未翻译)
-
-[Career.TechTree.Items.ElectricMotor.Torque.Name]
-  EN: Electric Motor Torque
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Fuselage.Clamp.Name]
-  EN: Clamp
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Fuselage.Curve.Name]
-  EN: Curve
-  ZH: (未翻译)
-
-[Career.TechTree.Items.LandingGear.Retraction.Name]
-  EN: Gear Retraction
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.JointRotator.Name]
-  EN: Joint Rotator Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.LandingGear.Name]
-  EN: Landing Gear Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.Light.Name]
-  EN: Light Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.RCS.Name]
-  EN: RCS Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.RocketEngine.Name]
-  EN: Rocket Engine Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.SolarPanelArray.Name]
-  EN: Solar Panel Array Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.MaxSize.Wheel.Name]
-  EN: Rover Wheel Size
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Prop.BladeCount.Name]
-  EN: Propeller Blade Count
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Prop.VariablePitch.Name]
-  EN: Variable Pitch
-  ZH: (未翻译)
-
-[Career.TechTree.Items.RocketEngine.Grain.DoubleAnchor.Name]
-  EN: Double Anchor Grain
-  ZH: (未翻译)
-
-[Career.TechTree.Items.RocketEngine.Grain.MultiFin.Name]
-  EN: Multifin Grain
-  ZH: (未翻译)
-
-[Career.TechTree.Items.RocketEngine.Grain.RodAndTube.Name]
-  EN: Rod And Tube Grain
-  ZH: (未翻译)
-
-[Career.TechTree.Items.RocketEngine.Grain.Star.Name]
-  EN: Star Grain
-  ZH: (未翻译)
-
-[Career.TechTree.Items.RocketEngine.Grain.Tubular.Name]
-  EN: Tubular Grain
-  ZH: (未翻译)
-
-[Career.TechTree.Items.SolarPanelArray.Columns.Name]
-  EN: Columns
-  ZH: (未翻译)
-
-[Career.TechTree.Items.SolarPanelArray.Rows.Name]
-  EN: Rows
-  ZH: (未翻译)
-
-[Career.TechTree.Items.SolarPanelArray.Shape.Name]
-  EN: Shape
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Wheel.Brake.Name]
-  EN: Wheel Brakes
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Wheel.Suspension.Name]
-  EN: Wheel Suspension
-  ZH: (未翻译)
-
-[Career.TechTree.Items.Wheel.Torque.Name]
-  EN: Wheel Torque
   ZH: (未翻译)
 
 [CelestialBodyDesigner.AGL]
@@ -628,18 +400,6 @@
 
 [GradientEditor.AlphaKeyType]
   EN: alpha
-  ZH: (未翻译)
-
-[Inspector.Undo.RemovedFormat]
-  EN: Removed {0}
-  ZH: (未翻译)
-
-[Menu.Contracts.Details.RequirementsHeader]
-  EN: REQUIREMENTS
-  ZH: (未翻译)
-
-[Menu.Milestones.DescriptionPlaceholder]
-  EN: Description
   ZH: (未翻译)
 
 [Modifier.BasicArithmetic.OperationType.Add_A_PLUS_B]
@@ -802,10 +562,6 @@
   EN: IQ Slope Erosion
   ZH: (未翻译)
 
-[NoiseFlyout.AddContainerPlaceholder]
-  EN: Container Name
-  ZH: (未翻译)
-
 [Parts.ElectricMotorOldData.Rpm.Label]
   EN: RPM
   ZH: (未翻译)
@@ -828,10 +584,6 @@
 
 [Parts.RocketEngineData.NozzleType.Omega]
   EN: Omega
-  ZH: (未翻译)
-
-[PlanetStudio.Menu.LoadPlanet]
-  EN: LOAD PLANET
   ZH: (未翻译)
 
 [Settings.Display.AntiAliasingType.FXAA]
@@ -926,26 +678,6 @@
   EN: Ellipse
   ZH: (未翻译)
 
-[Vizzy.CraftProperty.Mfd.Create.Line]
-  EN: Line
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Mfd.Create.Map]
-  EN: Map
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Mfd.Event.PointerUp]
-  EN: Pointer Up
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Mfd.Event.SetDrag]
-  EN: Drag
-  ZH: (未翻译)
-
-[Vizzy.CraftProperty.Mfd.Opacity]
-  EN: Opacity
-  ZH: (未翻译)
-
 [Vizzy.CraftProperty.Part.NameToID]
   EN: ID
   ZH: (未翻译)
@@ -964,21 +696,5 @@
 
 [Vizzy.Toolbox.Format.evaluate-expression]
   EN: <color=#0f0>f<color=#f0f>U<color=#ff0>N<color=#f00>k (0)
-  ZH: (未翻译)
-
-[Vizzy.Toolbox.Format.op-gt]
-  EN: (0:Number) > (1:Number)
-  ZH: (未翻译)
-
-[Vizzy.Toolbox.Format.op-gte]
-  EN: (0:Number) >= (1:Number)
-  ZH: (未翻译)
-
-[Vizzy.Toolbox.Format.op-lt]
-  EN: (0:Number) < (1:Number)
-  ZH: (未翻译)
-
-[Vizzy.Toolbox.Format.op-lte]
-  EN: (0:Number) <= (1:Number)
   ZH: (未翻译)
 
