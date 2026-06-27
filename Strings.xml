@@ -7127,11 +7127,11 @@
    <!-- Font:Primary -->
    <s id="Levels.Requirements.SurfaceVelocity.Format">地表速度 &gt; {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.SatelliteRendezvous.Description">建造火箭,从Droo发射,与已经在轨道上的卫星会合。这是一项极具挑战性的任务,比Luna着陆难得多。</s>
+   <s id="Levels.SatelliteRendezvous.Description">建造火箭,从Droo发射,与已经在轨道上的卫星交会。这是一项极具挑战性的任务,比Luna着陆难得多。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接口才能与卫星对接！</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Levels.SatelliteRendezvous.Name">卫星会合</s>
+   <s id="Levels.SatelliteRendezvous.Name">卫星交会</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.ShuttleLanding.Description">我们的航天飞机正在降落,这时我们想起来我们不知道怎么驾驶航天飞机...&#10;&#10;你能帮帮忙吗？</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
