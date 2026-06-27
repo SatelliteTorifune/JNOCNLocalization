@@ -651,7 +651,7 @@
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCLargePad.Description">一个周围有大量空间的混凝土发射台,允许发射你能想象的最大飞行器和宇宙飞船。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.DSCWestwardRunway.Name">DSC 西向</s>
+   <s id="Career.LaunchLocations.DSCWestwardRunway.Name">DSC 西向跑道</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.DSCWestwardRunway.Description">一条大型跑道,靠近DSC的机库,指向东西向,几乎正好位于Droo的赤道上。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
@@ -17525,6 +17525,7 @@
     <s id="Droodism.RadiationBeltDebugUI.ApplySolidIronPreset">应用SolidIron预设</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltSpinPhaseDeg">辐射带自转相位（度）</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltSpinSpeedDegPerSec">辐射带自转速度（度/秒）</s>
+     <s id="Droodism.RadiationBeltDebugUI.BeltTiltDeg">辐射带倾斜角</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisX">辐射带倾斜轴 X</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisY">辐射带倾斜轴 Y</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisZ">辐射带倾斜轴 Z</s>
@@ -17535,6 +17536,7 @@
     <s id="Droodism.RadiationBeltDebugUI.InnerBaseIntensity">内带基础强度</s>
     <s id="Droodism.RadiationBeltDebugUI.InnerBorderDeformXY">内带边界形变 XY</s>
     <s id="Droodism.RadiationBeltDebugUI.InnerBorderDist">内带边界距离</s>
+    <s id="Droodism.RadiationBeltDebugUI.InnerBorderRadius">内带边界半径</s>
     <s id="Droodism.RadiationBeltDebugUI.InnerDist">内带距离</s>
     <s id="Droodism.RadiationBeltDebugUI.InnerCompression">内带压缩</s>
     <s id="Droodism.RadiationBeltDebugUI.InnerDeform">内带形变</s>
@@ -17554,6 +17556,7 @@
     <s id="Droodism.RadiationBeltDebugUI.OuterBaseIntensity">外带基础强度</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterBorderDeformXY">外带边界形变 XY</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterBorderDist">外带边界距离</s>
+    <s id="Droodism.RadiationBeltDebugUI.OuterBorderRadius">外带边界半径</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterDist">外带距离</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterCompression">外带压缩</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterDeform">外带形变</s>
