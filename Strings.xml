@@ -779,7 +779,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-altitude.Name">纪录高度</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-altitude.Description">你到达了多高。在轨道上时,由远点定义。</s>
+   <s id="Career.Milestones.top-altitude.Description">你到达了多高。在轨道上时,由轨道远点定义。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-altitude.Tier0.Description">高于最高的山脉,你迈向星辰的第一步。</s>
    <!-- Font:Primary -->
@@ -2777,7 +2777,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-orbit.Short">环绕 @Moon</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-orbit.Long">我需要你进入 @Moon 的轨道,远点低于 @Apoapsis:distance</s>
+   <s id="Career.Contracts.Lunar-orbit.Long">我需要你进入 @Moon 的轨道,轨道远点低于 @Apoapsis:distance</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-probe.Name">@ProbeName 任务</s>
    <!-- Font:Primary -->
@@ -2837,7 +2837,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Short">环绕 @Planet</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Celestial-orbit.Long">我需要你进入 @Planet 的轨道,远点低于 @Apoapsis:distance</s>
+   <s id="Career.Contracts.Celestial-orbit.Long">我需要你进入 @Planet 的轨道,轨道远点低于 @Apoapsis:distance</s>
    <!--  -->
    <s id="Career.Contracts.Celestial-orbit.Name">@Planet Orbit</s>
    <!-- Font:Primary -->
@@ -4161,7 +4161,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.PartList.SubAssemblyLoadError">一个或多个子组件无法加载。</s>
    <!-- Font:Primary -->
-   <s id="Design.Staging.AddedNewStage">已添加新级</s>
+   <s id="Design.Staging.AddedNewStage">已添加新分级</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Staging.DeletedStage">删除分级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4733,7 +4733,7 @@
    <s id="Flight.MapItem.SelectFormat">选择 {0}</s>
    <!-- Tooltip ; no length limit -->
    <!-- Rec:23 Max:32 Font:Primary ; context menu item -->
-   <s id="Flight.MapView.ContextMenu.PlannedBurnApoapsis">在远点计划轨道机动</s>
+   <s id="Flight.MapView.ContextMenu.PlannedBurnApoapsis">在轨道远点计划轨道机动</s>
    <!-- Rec:30 Max:38 Font:Primary ; context menu item -->
    <s id="Flight.MapView.ContextMenu.PlannedBurnAscendingNode">在升交点计划轨道机动</s>
    <!-- Rec:38 Max:48 Font:Primary ; context menu item -->
@@ -4749,7 +4749,7 @@
    <!-- Rec:10 Max:16 Font:Primary ; context menu item -->
    <s id="Flight.MapView.ContextMenu.WarpHere">加速到此</s>
    <!-- Rec:18 Max:26 Font:Primary ; context menu item -->
-   <s id="Flight.MapView.ContextMenu.WarpToApoapsis">加速到远点</s>
+   <s id="Flight.MapView.ContextMenu.WarpToApoapsis">加速到轨道远点</s>
    <!-- Rec:24 Max:32 Font:Primary ; context menu item -->
    <s id="Flight.MapView.ContextMenu.WarpToAscendingNode">加速到升交点</s>
    <!-- Rec:32 Max:42 Font:Primary ; context menu item -->
@@ -6299,7 +6299,7 @@
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.Inspector.Options">选项</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Orbital">轨道</s>
+   <s id="Flight.Inspector.Orbital">轨道速度</s>
    <!--  -->
    <s id="Flight.Inspector.OverrideHeading.Tooltip">将此部件的方向作为飞行器的前进控制方向。</s>
    <!--  -->
@@ -6337,7 +6337,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.StageIsp">分级比冲</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Surface">相对地面速度</s>
+   <s id="Flight.Inspector.Surface">地面速度</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Flight.Inspector.Teleport">传送</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9236,7 +9236,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.ConfigData.StageActivationType.Engine">发动机</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Parts.ConfigData.StageActivationType.Fairing">指令组</s>
+   <s id="Parts.ConfigData.StageActivationType.Fairing">整流罩</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.ConfigData.StageActivationType.Label">分级激活类型</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -17376,23 +17376,22 @@
     <s id="Volken.UI.NoStarClouds">你为什么要给恒星加云???</s>
     <!-- Droodism -->
     <!-- ChemicalReactorScript -->
-    <!-- ChemicalReactorScript -->
     <s id="Droodism.ChemicalReactorScript.CO2MassFlow">二氧化碳流量</s>
-    <s id="Droodism.ChemicalReactorScript.CO2MassFlowTooltip">每秒参与反应的二氧化碳千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.CO2MassFlowTooltip">每秒参与反应的二氧化碳千克数</s>
     <s id="Droodism.ChemicalReactorScript.HydroloxMassFlow">液氢液氧流量</s>
-    <s id="Droodism.ChemicalReactorScript.HydroloxMassFlowTooltip">每秒参与反应的液氢液氧千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.HydroloxMassFlowTooltip">每秒参与反应的液氢液氧千克数</s>
     <s id="Droodism.ChemicalReactorScript.LH2MassFlow">液氢流量</s>
-    <s id="Droodism.ChemicalReactorScript.LH2MassFlowTooltip">每秒参与反应的液氢千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.LH2MassFlowTooltip">每秒参与反应的液氢千克数</s>
     <s id="Droodism.ChemicalReactorScript.MethaneloxMassFlow">甲烷液氧流量</s>
-    <s id="Droodism.ChemicalReactorScript.MethaneloxMassFlowTooltip">每秒生成的甲烷液氧千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.MethaneloxMassFlowTooltip">每秒生成的甲烷液氧千克数</s>
     <s id="Droodism.ChemicalReactorScript.MonopropellantMassFlow">单组元推进剂流量</s>
-    <s id="Droodism.ChemicalReactorScript.MonopropellantMassFlowTooltip">每秒生成的单元推进剂千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.MonopropellantMassFlowTooltip">每秒生成的单元推进剂千克数</s>
     <s id="Droodism.ChemicalReactorScript.NitrogenMassFlow">氮气流量</s>
-    <s id="Droodism.ChemicalReactorScript.NitrogenMassFlowTooltip">每秒参与反应的高压氮气千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.NitrogenMassFlowTooltip">每秒参与反应的高压氮气千克数</s>
     <s id="Droodism.ChemicalReactorScript.OxygenMassFlow">氧气流量</s>
-    <s id="Droodism.ChemicalReactorScript.OxygenMassFlowTooltip">每秒参与反应的液氧千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.OxygenMassFlowTooltip">每秒参与反应的液氧千克数</s>
     <s id="Droodism.ChemicalReactorScript.WaterMassFlow">水流量</s>
-    <s id="Droodism.ChemicalReactorScript.WaterMassFlowTooltip">每秒参与反应的水千克数。</s>
+    <s id="Droodism.ChemicalReactorScript.WaterMassFlowTooltip">每秒参与反应的水千克数</s>
 
     <!-- CraftPerformanceAnalysisPatch -->
     <s id="Droodism.CraftPerformanceAnalysisPatch.Amount">数量</s>
@@ -17411,8 +17410,8 @@
 
     <!-- DroodismUIManager -->
     <s id="Droodism.DroodismUIManager.AstronautCount">宇航员数量</s>
-    <s id="Droodism.DroodismUIManager.CannotSetFuelTransferSingleDrood">无法为单个 Drood 设置燃料传输模式。</s>
-    <s id="Droodism.DroodismUIManager.CO2Level">二氧化碳</s>
+    <s id="Droodism.DroodismUIManager.CannotSetFuelTransferSingleDrood">无法为单个 Drood 设置燃料传输模式</s>
+    <s id="Droodism.DroodismUIManager.CO2Level">二氧化碳浓度</s>
     <s id="Droodism.DroodismUIManager.CraftResourcesInspector">飞行器资源详情</s>
     <s id="Droodism.DroodismUIManager.CrewCount">乘员数量</s>
     <s id="Droodism.DroodismUIManager.CrewInspector">乘员详情</s>
@@ -17420,16 +17419,16 @@
     <s id="Droodism.DroodismUIManager.InspectorTitle">Droodism 资源详情</s>
     <s id="Droodism.DroodismUIManager.LifeSupportInspector">维生详情</s>
     <s id="Droodism.DroodismUIManager.MissionTime">任务时间</s>
-    <s id="Droodism.DroodismUIManager.MissionTimeTooltip">{0} 发射后的任务时间。</s>
+    <s id="Droodism.DroodismUIManager.MissionTimeTooltip">{0} 发射后的任务时间</s>
     <s id="Droodism.DroodismUIManager.NotAvailable">无</s>
     <s id="Droodism.DroodismUIManager.RadiationDose">辐射剂量</s>
-    <s id="Droodism.DroodismUIManager.RadiationDoseTooltip">{0} 当前的辐射剂量。</s>
+    <s id="Droodism.DroodismUIManager.RadiationDoseTooltip">{0} 当前的辐射剂量</s>
     <s id="Droodism.DroodismUIManager.RadiationRate">辐射率</s>
-    <s id="Droodism.DroodismUIManager.RadiationRateStats">辐射率统计</s>
+    <s id="Droodism.DroodismUIManager.RadiationRateStats">辐射率状态</s>
     <s id="Droodism.DroodismUIManager.RadiationRateStatsTooltip">{0} 当前的辐射率统计 - 如果变红色，小心！</s>
-    <s id="Droodism.DroodismUIManager.RadiationRateTooltip">{0} 每小时当前的辐射增加率。</s>
+    <s id="Droodism.DroodismUIManager.RadiationRateTooltip">{0} 每小时当前的辐射增加率</s>
     <s id="Droodism.DroodismUIManager.RadiationStats">辐射状态</s>
-    <s id="Droodism.DroodismUIManager.RadiationStatsTooltip">{0} 当前辐射累积剂量统计。</s>
+    <s id="Droodism.DroodismUIManager.RadiationStatsTooltip">{0} 当前辐射累积剂量统计</s>
     <s id="Droodism.DroodismUIManager.RemainFood">剩余食物</s>
     <s id="Droodism.DroodismUIManager.RemainOxygen">剩余氧气</s>
     <s id="Droodism.DroodismUIManager.RemainWater">剩余水</s>
@@ -17437,8 +17436,8 @@
     <s id="Droodism.DroodismUIManager.ResourcesDrainWasteFill">资源消耗，废物填充</s>
     <s id="Droodism.DroodismUIManager.ResourcesFillWasteDrain">资源填充，废物排出</s>
     <s id="Droodism.DroodismUIManager.SolidWasteLevel">固体废物浓度</s>
-    <s id="Droodism.DroodismUIManager.ToggleDroodismUI">切换 Droodism UI。</s>
-    <s id="Droodism.DroodismUIManager.ToggleSingleTypeTransferMode">切换单一类型传输模式</s>
+    <s id="Droodism.DroodismUIManager.ToggleDroodismUI">开启 Droodism UI</s>
+    <s id="Droodism.DroodismUIManager.ToggleSingleTypeTransferMode">切换单种资源传输模式</s>
     <s id="Droodism.DroodismUIManager.TouristCount">游客数量</s>
     <s id="Droodism.DroodismUIManager.UnknownRole">未知</s>
     <s id="Droodism.DroodismUIManager.UsingExternalOxygen">使用外部氧气</s>
@@ -17450,16 +17449,18 @@
     <s id="Droodism.ElectrolyticDeviceScript.WaterConsumptionRate">耗水率</s>
 
     <!-- FirstAddKitScript -->
-    <s id="Droodism.FirstAddKitScript.CrewHealthy">选定的乘员 {0} 非常健康。</s>
+    <s id="Droodism.FirstAddKitScript.CrewHealthy">选定的乘员 {0} 非常健康</s>
     <s id="Droodism.FirstAddKitScript.CrewTakingDamage">选定的乘员 {0} 正在受到伤害</s>
-    <s id="Droodism.FirstAddKitScript.CrewTooFarToHealing">选定的乘员 {0} 距离太远无法治疗。</s>
-    <s id="Droodism.FirstAddKitScript.HealingCompleted">{0} 的治疗过程已完成。</s>
-    <s id="Droodism.FirstAddKitScript.HealingInterruptedNoTools">治疗中断：{0} 的治疗工具不足</s>
+    <s id="Droodism.FirstAddKitScript.CrewTooFarToHealing">选定的乘员 {0} 距离太远无法治疗</s>
+    <s id="Droodism.FirstAddKitScript.HealingCompleted">{0} 的治疗过程已完成</s>
+    <s id="Droodism.FirstAddKitScript.HealingInterruptedNoTools">治疗中断：{0} 的治疗点不足</s>
     <s id="Droodism.FirstAddKitScript.HealingInterruptedTakingDamage">治疗中断：{0} 正在受到伤害</s>
     <s id="Droodism.FirstAddKitScript.HealingInterruptedTooFar">治疗中断：{0} 距离急救包太远</s>
     <s id="Droodism.FirstAddKitScript.HealingProgress">正在治疗 {0}：进度 {1}</s>
     <s id="Droodism.FirstAddKitScript.NoDroodSelected">未选择 Drood</s>
     <s id="Droodism.FirstAddKitScript.SelectNotDrood">选定的部件不是 Drood</s>
+    <s id="Droodism.FirstAddKitScript.RemainHealingPoints">剩余治疗点</s>
+    <s id="Droodism.FirstAddKitScript.HealDrood">治疗 Drood</s>
 
     <!-- FlagScript -->
     <s id="Droodism.FlagScript.LoadImage">加载图片</s>
@@ -17467,11 +17468,11 @@
     <!-- GasDealerScript -->
     <s id="Droodism.GasDealerScript.ActionIrreversible">此操作 &lt;color=red&gt;&lt;size=110%&gt;不可逆&lt;/size&gt;&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.Engage">启动</s>
-    <s id="Droodism.GasDealerScript.EngageTooltip">释放高压气罐和低压气罐中的所有气体，此操作不可逆并将禁用此部件的所有其他功能。请谨慎使用。</s>
+    <s id="Droodism.GasDealerScript.EngageTooltip">释放高压气罐和低压气罐中的所有气体，此操作不可逆,并将禁用此部件的所有其他功能,请谨慎使用</s>
     <s id="Droodism.GasDealerScript.EmergencyDepressurization">紧急泄压</s>
-    <s id="Droodism.GasDealerScript.GasReleasing">高压气罐和低压气罐中的所有 {0} 正在释放。</s>
+    <s id="Droodism.GasDealerScript.GasReleasing">高压气罐和低压气罐中的所有 {0} 正在释放</s>
     <s id="Droodism.GasDealerScript.Malfunction">&lt;color=red&gt;故障&lt;/color&gt;</s>
-    <s id="Droodism.GasDealerScript.MalfunctionTooltip">&lt;color=red&gt;紧急泄压程序已完成，此部件已故障，无法使用。&lt;/color&gt;</s>
+    <s id="Droodism.GasDealerScript.MalfunctionTooltip">&lt;color=red&gt;紧急泄压程序已完成，此部件已故障，无法使用&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.Malfunctioning">&lt;color=red&gt;已故障&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.SequenceInitiated">紧急泄压程序已启动</s>
 
@@ -17479,33 +17480,31 @@
     <s id="Droodism.Glider.HasLanded">已降落在地面</s>
 
     <!-- LifeSupportGeneratorScript -->
-    <s id="Droodism.LifeSupportGeneratorScript.ReleaseCO2Externally">外部排放二氧化碳</s>
-    <s id="Droodism.LifeSupportGeneratorScript.ReleaseCO2ExternallyTooltip">决定是将二氧化碳排放到外部还是内部飞行器。</s>
+    <s id="Droodism.LifeSupportGeneratorScript.ReleaseCO2Externally">向外部排放二氧化碳</s>
+    <s id="Droodism.LifeSupportGeneratorScript.ReleaseCO2ExternallyTooltip">决定是将二氧化碳排放到外部还是内部飞行器</s>
 
     <!-- ModSettings -->
     <s id="Droodism.ModSettings.ActiveUpdateRadiationBeltConfig">主动更新辐射带配置</s>
     <s id="Droodism.ModSettings.ActiveUpdateRadiationBeltConfigDesc">主动更新辐射带配置（会导致性能损失，但更适合调试）</s>
     <s id="Droodism.ModSettings.AltNavBallColor">备用导航球颜色</s>
     <s id="Droodism.ModSettings.AltNavBallColorDesc">使用备用导航球颜色</s>
-    <s id="Droodism.ModSettings.CategoryName">Droodism</s>
     <s id="Droodism.ModSettings.ConsumeResourceWhenUnloaded">不加载时时消耗资源</s>
-    <s id="Droodism.ModSettings.ConsumeResourceWhenUnloadedDesc">即使飞行器未被加载，Drood 仍会消耗资源。&lt;br&gt;已知 bug：时间计算有&lt;size=125%&gt;&lt;color=red&gt;一点点&lt;/color&gt;&lt;/size&gt;问题</s>
+    <s id="Droodism.ModSettings.ConsumeResourceWhenUnloadedDesc">即使飞行器未被加载，Drood 仍会消耗资源&lt;br&gt;已知 bug：时间计算有&lt;size=125%&gt;&lt;color=red&gt;一点点&lt;/color&gt;&lt;/size&gt;问题</s>
     <s id="Droodism.ModSettings.CriticalThreshold">临界阈值</s>
-    <s id="Droodism.ModSettings.CriticalThresholdDesc">当资源低于此百分比时将触发临界警报。在此级别将触发暂停。</s>
+    <s id="Droodism.ModSettings.CriticalThresholdDesc">当资源低于此百分比时将触发临界警报在此级别将触发暂停</s>
     <s id="Droodism.ModSettings.DisableDockingPortCamera">禁用对接口相机</s>
     <s id="Droodism.ModSettings.DisableDockingPortCameraDesc">从对接口移除相机&lt;br&gt;&lt;color=red&gt;警告&lt;/color&gt;：这将完全禁用&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;对接口的&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;相机属性(飞行界面的也一样)，如果你是真的讨厌它,那就用</s>
     <s id="Droodism.ModSettings.EnableResourceWarning">启用资源警告</s>
-    <s id="Droodism.ModSettings.EnableResourceWarningDesc">在时间加速期间，自动检测 Drood 资源何时低于阈值，暂停游戏并提醒玩家。</s>
+    <s id="Droodism.ModSettings.EnableResourceWarningDesc">在时间加速期间，自动检测 Drood 资源何时低于阈值，暂停游戏并提醒玩家</s>
     <s id="Droodism.ModSettings.ReceiveCraftRadiation">飞行器内部辐射</s>
     <s id="Droodism.ModSettings.ReceiveCraftRadiationDesc">如果开启，Drood 将收到当前飞行器中 RTG 和 NTR 引擎的辐射，可能不够真实，&lt;color=red&gt;&lt;size=150%&gt;仅为真正喜欢的硬核玩家时启用&lt;/size&gt;&lt;/color&gt;</s>
-    <s id="Droodism.ModSettings.ToggleDebugMode">切换调试模式</s>
+    <s id="Droodism.ModSettings.ToggleDebugMode">开启调试模式</s>
     <s id="Droodism.ModSettings.ToggleDebugModeDesc">在开发控制台中启用一些日志，并开启一些隐藏选项</s>
     <s id="Droodism.ModSettings.WarningThreshold">警告阈值</s>
-    <s id="Droodism.ModSettings.WarningThresholdDesc">当资源低于此百分比时将触发警告。</s>
+    <s id="Droodism.ModSettings.WarningThresholdDesc">当资源低于此百分比时将触发警告</s>
 
     <!-- OnHireButtonClickedPatch -->
     <s id="Droodism.OnHireButtonClickedPatch.ChooseDroodType">选择您想要招募的 Drood 类型：</s>
-    <s id="Droodism.OnHireButtonClickedPatch.CrewFull">您的乘员已经满员了。您可以在科技树中解锁更大的乘员。</s>
     <s id="Droodism.OnHireButtonClickedPatch.Engineer">工程师</s>
     <s id="Droodism.OnHireButtonClickedPatch.Pilot">飞行员</s>
     <s id="Droodism.OnHireButtonClickedPatch.Scientist">科学家</s>
@@ -17524,8 +17523,8 @@
     <s id="Droodism.RadiationBeltDebugUI.ApplyMetallicPreset">应用Metallic预设</s>
     <s id="Droodism.RadiationBeltDebugUI.ApplySolidIronPreset">应用SolidIron预设</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltSpinPhaseDeg">辐射带自转相位（度）</s>
+    <s id="Droodism.RadiationBeltDebugUI.BeltTiltDeg">辐射带倾斜角</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltSpinSpeedDegPerSec">辐射带自转速度（度/秒）</s>
-     <s id="Droodism.RadiationBeltDebugUI.BeltTiltDeg">辐射带倾斜角</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisX">辐射带倾斜轴 X</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisY">辐射带倾斜轴 Y</s>
     <s id="Droodism.RadiationBeltDebugUI.BeltTiltAxisZ">辐射带倾斜轴 Z</s>
@@ -17555,8 +17554,8 @@
     <s id="Droodism.RadiationBeltDebugUI.Outer">外带</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterBaseIntensity">外带基础强度</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterBorderDeformXY">外带边界形变 XY</s>
-    <s id="Droodism.RadiationBeltDebugUI.OuterBorderDist">外带边界距离</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterBorderRadius">外带边界半径</s>
+    <s id="Droodism.RadiationBeltDebugUI.OuterBorderDist">外带边界距离</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterDist">外带距离</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterCompression">外带压缩</s>
     <s id="Droodism.RadiationBeltDebugUI.OuterDeform">外带形变</s>
@@ -17600,8 +17599,8 @@
     <s id="Droodism.ResourceWarning.Critical">临界</s>
     <s id="Droodism.ResourceWarning.LevelAt">浓度于</s>
     <s id="Droodism.ResourceWarning.Remaining">剩余</s>
-    <s id="Droodism.ResourceWarning.ResourceCriticalTimePaused">资源临界！时间已暂停。</s>
-    <s id="Droodism.ResourceWarning.WarpSpeedReduced">资源警告！时间加速速度已降低。</s>
+    <s id="Droodism.ResourceWarning.ResourceCriticalTimePaused">资源临界！时间已暂停</s>
+    <s id="Droodism.ResourceWarning.WarpSpeedReduced">资源警告！时间加速速度已降低</s>
     <s id="Droodism.ResourceWarning.Warning">警告</s>
 
     <!-- Sodium_PeroxideScript -->
@@ -17615,24 +17614,22 @@
     <!-- SupportLifeScript -->
     <s id="Droodism.SupportLifeScript.AutoDeployHeight">自动展开高度</s>
     <s id="Droodism.SupportLifeScript.AutoDeployParachute">自动展开降落伞</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeployAirDensityThin">无法展开降落伞，空气密度太稀薄</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeployGrounded">无法展开降落伞，Drood 已落地</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeployHere">无法在此处展开降落伞</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeployInWater">无法展开降落伞，Drood 在水中</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeployNotEva">无法展开降落伞，未在出舱状态</s>
-    <s id="Droodism.SupportLifeScript.CanNotDeploySpeedHigh">无法展开降落伞，速度太快</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagAlreadyPlanted">无法插旗，此 Drood 已经插过旗了！</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteAirThin">无法展开降落伞，空气密度太稀薄</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteGrounded">无法展开降落伞，Drood 已落地</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteHere">无法在此处展开降落伞</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteInWater">无法展开降落伞，Drood 在水中</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteNotInEva">无法展开降落伞，未在出舱状态</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteSpeedHigh">无法展开降落伞，速度太快</s>
+    <s id="Droodism.SupportLifeScript.CanNotPlantFlagAlreadyPlanted">无法插旗，此 Drood 已经插过旗了</s>
     <s id="Droodism.SupportLifeScript.CanNotPlantFlagInWater">无法插旗，Drood 在水中</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagNotEva">无法插旗，未在出舱状态</s>
     <s id="Droodism.SupportLifeScript.CanNotPlantFlagNotGrounded">无法插旗，未落地</s>
     <s id="Droodism.SupportLifeScript.CanNotPlantFlagVelocityHigh">无法插旗，速度太快</s>
-    <s id="Droodism.SupportLifeScript.CantHealDrood">无法治疗 Drood</s>
-    <s id="Droodism.SupportLifeScript.CantRepairDrood">无法修复 Drood</s>
-    <s id="Droodism.SupportLifeScript.CO2Level">二氧化碳</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberDamage">乘员 {0} (id:{1}) 正在受到伤害因为 {2} 用尽，预计死亡时间 {3}</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberRadiationDamage">乘员 {0} (id:{1}) 正在受到伤害因为 {2}，预计死亡时间 {3}</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberStatusDamage">乘员 {0} (id:{1}) 正在受到伤害因为 {2} 太高，预计死亡时间 {3}</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberWasteDamage">乘员 {0} (id:{1}) 正在因{2} 浓度太高受到伤害，预计死亡时间 {3}</s>
+    <s id="Droodism.SupportLifeScript.CannotHealDrood">无法使用工具包治疗 Drood</s>
+    <s id="Droodism.SupportLifeScript.CannotRepairDrood">无法使用医疗箱修复 Drood</s>
+    <s id="Droodism.SupportLifeScript.CannotPlantFlagNotInEva">无法插旗，未在出舱状态</s>
+    <s id="Droodism.SupportLifeScript.CO2Level">二氧化碳浓度</s>
+    <s id="Droodism.SupportLifeScript.CrewMemberDamage">乘员 {0} (id:{1}) 正在因{2}用尽受到伤害 ，预计死亡时间 {3}</s>
+    <s id="Droodism.SupportLifeScript.CrewMemberWasteDamage">乘员 {0} (id:{1}) 正在因 {2} 浓度太高受到伤害，预计死亡时间 {3}</s>
     <s id="Droodism.SupportLifeScript.CrewRole">乘员类型</s>
     <s id="Droodism.SupportLifeScript.CurrentRadiationDose">当前辐射剂量</s>
     <s id="Droodism.SupportLifeScript.CurrentRadiationDoseRatePerHour">当前每小时辐射剂量率</s>
@@ -17641,35 +17638,27 @@
     <s id="Droodism.SupportLifeScript.EnableAutoDeployment">启用自动开伞</s>
     <s id="Droodism.SupportLifeScript.FoodSupplyTime">食物供应时间</s>
     <s id="Droodism.SupportLifeScript.FullyDeployHeight">完全展开高度</s>
-    <s id="Droodism.SupportLifeScript.HighRadiationRate">高辐射率暴露</s>
     <s id="Droodism.SupportLifeScript.Infinity">无限</s>
     <s id="Droodism.SupportLifeScript.LifeSupportInfo">维生信息</s>
     <s id="Droodism.SupportLifeScript.ManualDeployParachute">手动展开降落伞</s>
     <s id="Droodism.SupportLifeScript.ManualDeployParaGlider">手动展开滑翔伞</s>
-    <s id="Droodism.SupportLifeScript.MildCumulativeRadiation">轻度累积辐射</s>
     <s id="Droodism.SupportLifeScript.MissionTime">任务时间</s>
-    <s id="Droodism.SupportLifeScript.ModerateCumulativeRadiation">中度累积辐射</s>
     <s id="Droodism.SupportLifeScript.NoPartSelected">未选择部件</s>
     <s id="Droodism.SupportLifeScript.NotAvailable">无</s>
     <s id="Droodism.SupportLifeScript.OxygenSupplyTime">氧气供应时间</s>
-    <s id="Droodism.SupportLifeScript.PartDoesntNeedRepair">选定的 {0} 不需要修复。</s>
-    <s id="Droodism.SupportLifeScript.PartTooFarAway">选定的 {0} 距离太远无法修复。</s>
+    <s id="Droodism.SupportLifeScript.PartDoesNotNeedRepair">选定的 {0} 不需要修复</s>
+    <s id="Droodism.SupportLifeScript.PartTooFarToRepair">选定的 {0} 距离太远无法修复</s>
     <s id="Droodism.SupportLifeScript.PlantFlag">插旗</s>
-    <s id="Droodism.SupportLifeScript.RadiationCritical">临界</s>
     <s id="Droodism.SupportLifeScript.RadiationInspector">辐射详情</s>
-    <s id="Droodism.SupportLifeScript.RadiationMild">轻度</s>
-    <s id="Droodism.SupportLifeScript.RadiationNominal">正常</s>
-    <s id="Droodism.SupportLifeScript.RadiationSevere">严重</s>
     <s id="Droodism.SupportLifeScript.RemainFood">剩余食物</s>
     <s id="Droodism.SupportLifeScript.RemainOxygen">剩余氧气</s>
     <s id="Droodism.SupportLifeScript.RemainRepairingTools">剩余修复工具</s>
     <s id="Droodism.SupportLifeScript.RemainWater">剩余水</s>
     <s id="Droodism.SupportLifeScript.Repair">修复</s>
-    <s id="Droodism.SupportLifeScript.RepairCompleted">{0} 的修复过程已完成。</s>
-    <s id="Droodism.SupportLifeScript.RepairingProgress">正在修复 {0}：进度 {1}</s>
+    <s id="Droodism.SupportLifeScript.RepairCompleted">{0} 的修复过程已完成</s>
+    <s id="Droodism.SupportLifeScript.RepairProgress">正在修复 {0}：进度 {1}</s>
     <s id="Droodism.SupportLifeScript.RepairInterruptedTooFar">修复中断：{0} 距离工程师太远</s>
-    <s id="Droodism.SupportLifeScript.NotEnoughRepairingTools">修复中断：{0} 的修复工具不足</s>
-    <s id="Droodism.SupportLifeScript.SevereCumulativeRadiation">重度累积辐射</s>
+    <s id="Droodism.SupportLifeScript.RepairInterruptedNoTools">修复中断：{0} 的修复工具不足</s>
     <s id="Droodism.SupportLifeScript.SolidWasteLevel">固体废物浓度</s>
     <s id="Droodism.SupportLifeScript.Unknown">未知</s>
     <s id="Droodism.SupportLifeScript.UsingExternalOxygen">使用外部氧气</s>
@@ -17680,12 +17669,40 @@
 
     <!-- ToolBoxScript -->
     <s id="Droodism.ToolBox.CrewNotEngineer">选定的乘员 {0} 不是工程师</s>
-    <s id="Droodism.ToolBox.CrewTooFarToResupply">选定的乘员 {0} 距离太远无法补给。</s>
-    <s id="Droodism.ToolBox.EngineerHasFullTools">选定的工程师 {0} 工具已满。</s>
+    <s id="Droodism.ToolBox.CrewTooFarToResupply">选定的乘员 {0} 距离太远无法补给</s>
+    <s id="Droodism.ToolBox.EngineerHasFullTools">选定的工程师 {0} 工具已满</s>
     <s id="Droodism.ToolBox.NoDroodSelected">未选择 Drood</s>
-    <s id="Droodism.ToolBox.ResupplyCompleted">{0} 的补给过程已完成。</s>
+    <s id="Droodism.ToolBox.ResupplyCompleted">{0} 的补给过程已完成</s>
     <s id="Droodism.ToolBox.ResupplyInterruptedNoTools">补给中断：{0} 的治疗工具不足</s>
     <s id="Droodism.ToolBox.ResupplyInterruptedTooFar">补给中断：{0} 距离此工具箱太远</s>
     <s id="Droodism.ToolBox.ResupplyProgress">正在补给 {0}：进度 {1}</s>
+    <s id="Droodism.ToolBox.RemainToolKits">剩余工具包</s>
+    <s id="Droodism.ToolBox.RefillToolKits">补充工程师工具包</s>
     <s id="Droodism.ToolBox.SelectNotDrood">选定的部件不是 Drood</s>
+
+    <!-- FlagScript -->
+    <s id="Droodism.FlagScript.LoadImage">加载图片</s>
+    <s id="Droodism.Glider.HasLanded">已降落</s>
+
+    <!-- GasDealerScript -->
+    <s id="Droodism.GasDealerScript.ActionIrreversible">此操作不可逆</s>
+    <s id="Droodism.GasDealerScript.EmergencyDepressurization">紧急减压</s>
+    <s id="Droodism.GasDealerScript.Engage">启动</s>
+    <s id="Droodism.GasDealerScript.EngageTooltip">启动紧急减压</s>
+    <s id="Droodism.GasDealerScript.GasReleasing">正在释放 {0}</s>
+    <s id="Droodism.GasDealerScript.Malfunction">故障</s>
+    <s id="Droodism.GasDealerScript.MalfunctionTooltip">减压阀故障，无法启动</s>
+    <s id="Droodism.GasDealerScript.Malfunctioning">减压阀故障！</s>
+    <s id="Droodism.GasDealerScript.SequenceInitiated">减压序列已启动</s>
+
+    <!-- RagdollModifierScript -->
+    <s id="Droodism.RagdollModifier.Ragdoll">布娃娃物理</s>
+    <s id="Droodism.RagdollModifier.Enable">启用</s>
+    <s id="Droodism.RagdollModifier.Disable">禁用</s>
+    <s id="Droodism.RagdollModifier.Status">状态</s>
+    <s id="Droodism.RagdollModifier.Active">激活</s>
+    <s id="Droodism.RagdollModifier.Inactive">未激活</s>
+
+    <!-- ModUlti -->
+    <s id="Droodism.ModUlti.FlagPlanted">已在 {0} 地表插旗，坐标 {1}° , {2}°</s>
 </Strings>
