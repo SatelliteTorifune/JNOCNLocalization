@@ -6907,7 +6907,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimePanel.WarpSpeed">时间加速</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Flight.ToggleFPSButton.Text">切换第一人称显示</s>
+   <s id="Flight.ToggleFPSButton.Text">显示FPS</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Tutorial.AutoActivatedStage">我替你提前激活了那个分级。不用客气</s>
    <!-- Tutorial panel Font:Primary ; no length limit -->
