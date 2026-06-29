@@ -103,11 +103,11 @@
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
    <s id="AddNoiseViewModel.Title">添加噪声属性</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Any.DescriptionFormat">至少完成 {0}</s>
+   <s id="Career.Contracts.Any.DescriptionFormat">至少完成 {0}项</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Any.DisplayValueFormat">已完成 {0}</s>
+   <s id="Career.Contracts.Any.DisplayValueFormat">已完成 {0}项</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Contracts.CompletedFormat">合同 "{0}" 已完成！</s>
+   <s id="Career.Contracts.CompletedFormat">"{0}" 已完成</s>
    <!-- Toast Font:Primary ; reward message shown when a contract is completed; {0} is the contract name -->
    <s id="Career.Contracts.CompletedReward">你已完成合同 [highlight]{0}[/highlight]</s>
    <!-- Tooltip Font:Primary ; default description for a CraftEventRequirement whose author left the description blank: craft destroyed -->
@@ -5415,9 +5415,9 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.PartConnections.Title">部件连接点</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.PartConnections.ToggleAttachPoints.Tooltip">切换该部件的所有连接点。</s>
+   <s id="Design.PartConnections.ToggleAttachPoints.Tooltip">开关该部件的所有连接点。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.PartConnections.ToggleConnectedAttachPoints.Tooltip">切换该部件及其所有已连接部件的连接点。</s>
+   <s id="Design.PartConnections.ToggleConnectedAttachPoints.Tooltip">开关该部件及其所有已连接部件的连接点。</s>
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
    <s id="Design.PartProperties.ActivationGroup.Label">激活组</s>
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
@@ -5511,11 +5511,11 @@
    <!-- Rec:20 Max:24 Font:Primary ; design info inspector header -->
    <s id="Design.Performance.DesignInfo">设计细节</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.NavigationCube.Tooltip">切换导航立方体视图</s>
+   <s id="Design.NavigationCube.Tooltip">开关导航立方体视图</s>
    <!-- Tooltip Font:Primary ; shown beneath the cube on hover; keep concise so it fits in the cube footprint -->
    <s id="Design.NavigationCube.ProjectionToggle.Tooltip">启用正交视角</s>
    <!-- Tooltip Font:Primary ; shown beneath the cube on hover; keep concise so it fits in the cube footprint -->
-   <s id="Design.NavigationCube.CenterIndicators.Tooltip">切换重心 / 升力中心 / 推力中心</s>
+   <s id="Design.NavigationCube.CenterIndicators.Tooltip">显示重心 / 升力中心 / 推力中心</s>
    <!-- Toast Font:Primary ; no length limit ; easter egg shown after spinning the navigation cube a lot ; {0} = zero or more repetitions of the DizzyIntensifier word -->
    <s id="Design.NavigationCube.DizzyFormat">你快把我转晕了{0}!</s>
    <!-- Word with trailing space Font:Primary ; repeated into the DizzyFormat message's {0} to escalate it ("very very ...") ; keep the trailing space -->
@@ -6767,7 +6767,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.Recover">回收</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.RecoverableParts">可回收部件</s>
+   <s id="Flight.RecoverCraft.RecoverableParts">可回收部件数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.RecoverCraft.RecoverCraft.Tooltip">回收这架飞行器部件的资金。除非会亏钱,否则推荐使用;但如果飞行器上有宇航员,始终推荐。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6907,7 +6907,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimePanel.WarpSpeed">时间加速</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Flight.ToggleFPSButton.Text">切换FPS显示</s>
+   <s id="Flight.ToggleFPSButton.Text">切换第一人称显示</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Tutorial.AutoActivatedStage">我替你提前激活了那个分级。不用客气</s>
    <!-- Tutorial panel Font:Primary ; no length limit -->
@@ -12751,7 +12751,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Screenshot.Square">方形</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Screenshot.ToggleUi">切换UI</s>
+   <s id="Screenshot.ToggleUi">显示UI</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Audio.MasterVolume">主音量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -12929,9 +12929,9 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.DesignerManipulatePartPreviousMode">部件操作上一模式</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.DesignerToggleMenu">切换菜单</s>
+   <s id="Settings.Controls.Action.DesignerToggleMenu">打开菜单</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.DesignerTogglePartProperties">切换部件属性</s>
+   <s id="Settings.Controls.Action.DesignerTogglePartProperties">打开部件属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.DeveloperConsole">开发者控制台</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13191,21 +13191,21 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.TimeWarpIncrease">提高时间加速</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.ToggleHideUI">切换隐藏UI</s>
+   <s id="Settings.Controls.Action.ToggleHideUI">隐藏UI</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ToggleMapView">切换地图视图</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ToggleMouseJoystick">切换鼠标摇杆</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.ToggleMusic">切换音乐</s>
+   <s id="Settings.Controls.Action.ToggleMusic">开关音乐</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.ToggleNavSphere">切换导航球</s>
+   <s id="Settings.Controls.Action.ToggleNavSphere">打开导航球</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.TogglePartConnectionsPanel">切换部件连接面板</s>
+   <s id="Settings.Controls.Action.TogglePartConnectionsPanel">显示部件连接面板</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.TogglePerformanceAnalyzer">切换性能分析器</s>
+   <s id="Settings.Controls.Action.TogglePerformanceAnalyzer">显示性能分析器</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.ToggleTranslationMode">切换平移模式</s>
+   <s id="Settings.Controls.Action.ToggleTranslationMode">打开平移模式</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ToolModifier">工具属性</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -13333,7 +13333,7 @@
    <!-- Rec:8 Max:12 Font:Primary ; keyboard key name -->
    <s id="Settings.Controls.Key.End">End键</s>
    <!-- Rec:8 Max:12 Font:Primary ; keyboard key name -->
-   <s id="Settings.Controls.Key.DownArrow">下</s>
+   <s id="Settings.Controls.Key.DownArrow">下箭头</s>
    <!-- Rec:8 Max:12 Font:Primary ; keyboard key name -->
    <s id="Settings.Controls.Key.Delete">Delete键</s>
    <!-- Rec:8 Max:12 Font:Primary ; keyboard key name -->
@@ -13644,7 +13644,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.General.UIPreferences">UI偏好设置</s>
    <!-- Rec:8 Max:10 Font:Primary ; settings small button -->
-   <s id="Settings.General.UIPreferences.Reset">重置</s>
+   <s id="Settings.General.UIPreferences.Reset">恢复默认</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.General.UIPreferences.ResetMessage">UI偏好设置已重置。重新加载当前场景以使更改生效。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -17400,6 +17400,10 @@
     <s id="Droodism.CraftPerformanceAnalysisPatch.DroodCount">Drood 数量</s>
     <s id="Droodism.CraftPerformanceAnalysisPatch.LifeSupportResourcesInfo">维生资源信息</s>
     <s id="Droodism.CraftPerformanceAnalysisPatch.Water">水</s>
+    <s id="Droodism.CraftPerformanceAnalysisPatch.Oxygen">氧气</s>
+    <s id="Droodism.CraftPerformanceAnalysisPatch.WastedWater">废水</s>
+    <s id="Droodism.CraftPerformanceAnalysisPatch.Food">食物</s>
+    <s id="Droodism.CraftPerformanceAnalysisPatch.SolidWaste">固体废物</s>
 
     <!-- CrewCabinScript -->
     <s id="Droodism.CrewCabinScript.RadiationDuration">辐射屏蔽层耐久</s>
@@ -17436,6 +17440,7 @@
     <s id="Droodism.DroodismUIManager.ResourcesDrainWasteFill">资源消耗，废物填充</s>
     <s id="Droodism.DroodismUIManager.ResourcesFillWasteDrain">资源填充，废物排出</s>
     <s id="Droodism.DroodismUIManager.SolidWasteLevel">固体废物浓度</s>
+    <s id="Droodism.DroodismUIManager.SelectDrood">选中此航天员</s>
     <s id="Droodism.DroodismUIManager.ToggleDroodismUI">开启 Droodism UI</s>
     <s id="Droodism.DroodismUIManager.ToggleSingleTypeTransferMode">切换单种资源传输模式</s>
     <s id="Droodism.DroodismUIManager.TouristCount">游客数量</s>
