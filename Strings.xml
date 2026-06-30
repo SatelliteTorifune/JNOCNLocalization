@@ -266,7 +266,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.ChuteRadiusTooLarge">半径太大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.ClampingNotAvailable">夹持机身功能尚未开放。</s>
+   <s id="Career.Validation.ClampingNotAvailable">夹持机身功能尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.CommandBatteryTooLarge">指令舱电池占用空间过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -286,9 +286,9 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.CraftTooWideForLocation">此飞行器对所选发射位置太宽。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CrewCompartmentNotAvailable">乘员舱尚未开放。</s>
+   <s id="Career.Validation.CrewCompartmentNotAvailable">乘员舱尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CustomCurvesNotAvailable">自定义鼻锥曲线尚未开放。</s>
+   <s id="Career.Validation.CustomCurvesNotAvailable">自定义鼻锥曲线尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.DragDisabled">此部件已禁用阻力,使用未改装的部件。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -296,13 +296,13 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.DuplicateContractReference">引用同一合同的部件过多 {0}#{1}。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.EngineTypeNotAvailable">{0} 发动机类型尚未开放。</s>
+   <s id="Career.Validation.EngineTypeNotAvailable">{0} 发动机类型尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.FuelGrainNotAvailable">{0} 燃料配方尚未开放。</s>
+   <s id="Career.Validation.FuelGrainNotAvailable">{0} 燃料配方尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.FuelLineNotAvailable">向部件添加燃料管线尚未开放。</s>
+   <s id="Career.Validation.FuelLineNotAvailable">向部件添加燃料管线尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.FuelTypeNotAvailable">{0} 燃料类型尚未开放。</s>
+   <s id="Career.Validation.FuelTypeNotAvailable">{0} 燃料类型尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.FuselageAsymPinch">机身两端的收口必须相同。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -320,7 +320,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.HeatshieldTooMuch">隔热罩处理量尚未达到此水平。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.HybridJetEngineNotAvailable">混合喷气发动机尚未开放。</s>
+   <s id="Career.Validation.HybridJetEngineNotAvailable">混合喷气发动机尚不可用。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.Validation.InsufficientFunds">此飞行器从 {1} 发射需花费 {0},但贵公司仅有 {2} 可用。负债期间,里程碑和探索不会进行评估,因此你无法获得它们的奖励。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -331,13 +331,13 @@
    <!-- Rec:16 Max:22 Font:Primary ; validation error key -->
    <s id="Career.Validation.InvalidPartsKey">无效部件</s>
    <!-- Font:Primary -->
-   <s id="Career.Validation.JetEngineAfterburnerNotAvailable">喷气发动机加力燃烧室尚未开放。</s>
+   <s id="Career.Validation.JetEngineAfterburnerNotAvailable">喷气发动机加力燃烧室尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.JetEngineBypassRatioTooHigh">喷气发动机涵道比过高。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.JetEngineCompressionRatioTooHigh">喷气发动机压缩比过高。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.JetEngineReverseThrustNotAvailable">喷气发动机反推尚未开放。</s>
+   <s id="Career.Validation.JetEngineReverseThrustNotAvailable">喷气发动机反推尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.MassScaleModified">此部件已修改质量比例,使用未改装的部件。</s>
    <!-- Rec:40 Max:80 ; validation message -->
@@ -360,19 +360,19 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.MotorTorqueTooHigh">电机扭矩过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.NightVisionNotAvailable">夜视功能尚未开放。</s>
+   <s id="Career.Validation.NightVisionNotAvailable">夜视功能尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.NozzleExtensionOutOfRange">改装后的喷管延伸超出范围。</s>
+   <s id="Career.Validation.NozzleExtensionOutOfRange">喷管延伸段长度超出范围。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.NozzleTypeNotAvailable">{0} 喷管尚未开放。</s>
+   <s id="Career.Validation.NozzleTypeNotAvailable">{0} 喷管尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.PartDisconnected">部件 "{0}" 未连接到飞行器。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.PartStyleNotAvailable">"{0}" 款式尚未开放。</s>
+   <s id="Career.Validation.PartStyleNotAvailable">"{0}" 款式尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.PartTooLarge">部件太大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.PartTypeNotAvailable">部件 "{0}" 尚未开放。</s>
+   <s id="Career.Validation.PartTypeNotAvailable">部件 "{0}" 尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.PriceScaleModified">此部件已修改价格比例,使用未改装的部件。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -386,7 +386,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.ProgramInvalidThreadLimit">程序没有有效的线程限制。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.PropPitchNotAvailable">变距螺旋桨尚未开放。</s>
+   <s id="Career.Validation.PropPitchNotAvailable">变距螺旋桨尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.PropTooManyBlades">螺旋桨叶片过多。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -404,7 +404,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.WheelBrakeTorqueTooHigh">轮胎制动扭矩过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.WheelSuspensionNotAvailable">集成悬挂尚未开放。</s>
+   <s id="Career.Validation.WheelSuspensionNotAvailable">集成悬挂尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.WheelTorqueTooHigh">轮胎扭矩过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -837,7 +837,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-flyby.Description">有多少独特的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Vulco.Vulco-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Vulco.Vulco-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -865,7 +865,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-flyby.Description">有多少独特的飞行器成功飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -889,7 +889,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-distance-walk.Description">你和Drood一起走了多远。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Sergeaa.Sergeaa-speed-land.Name">陆速</s>
+   <s id="Career.Milestones.Sergeaa.Sergeaa-speed-land.Name">陆地速度</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-speed-land.Description">在不离开地面的情况下尽可能快地驾驶,在接地超过10秒后记录将生效。</s>
    <!-- Font:Primary -->
@@ -901,7 +901,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-flyby.Description">有多少独特的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Oord.Oord-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -949,7 +949,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-speed-air.Description">在30公里以下尽可能快地飞行,同时保持轨迹基本水平。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Droo.Droo-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-orbit.Description">有多少艘独特的飞行器曾进入过稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1009,7 +1009,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Brigo.Brigo-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Brigo.Brigo-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1037,7 +1037,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Luna.Luna-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Luna.Luna-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1061,7 +1061,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.T.T..TT-orbit.Name">轨道</s>
+   <s id="Career.Milestones.T.T..TT-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1081,7 +1081,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Cylero.Cylero-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Cylero.Cylero-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1117,7 +1117,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Niobe.Niobe-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Niobe.Niobe-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1137,7 +1137,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Herma.Herma-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Herma.Herma-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1157,7 +1157,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1177,7 +1177,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Tydos.Tydos-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Tydos.Tydos-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Tydos.Tydos-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Tydos.Tydos-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1193,7 +1193,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Nebra.Nebra-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Nebra.Nebra-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1245,7 +1245,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Miros.Miros-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Miros.Miros-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-orbit.Description">有多少艘独特的飞行器曾进入过稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1269,7 +1269,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Orcus.Orcus-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Orcus.Orcus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1293,7 +1293,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Urados.Urados-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Urados.Urados-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Urados.Urados-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Urados.Urados-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1309,7 +1309,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Jastrus.Jastrus-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Jastrus.Jastrus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1333,7 +1333,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Boreas.Boreas-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Boreas.Boreas-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1361,7 +1361,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Taurus.Taurus-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Taurus.Taurus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1413,7 +1413,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Name">轨道</s>
+   <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
@@ -1435,7 +1435,7 @@
    <!-- TechTree.xml: Tech Tree node names + tech item names + tech item descriptions. Keys auto-derived from node/item ids. Default and Hybrid TechTree.xml share these keys (Hybrid differs only in researched flags). Font:Primary -->
    <s id="Career.TechTree.Items.Map.Enable.Name">启用地图视图</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Map.Enable.Description">地图视图是用于从太空检查飞行器的好工具,还可以提前查看其他行星和卫星。</s>
+   <s id="Career.TechTree.Items.Map.Enable.Description">地图视图是用于从太空查看于追踪飞行器的使用工具,还可以提前查看其他行星和卫星。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Map.Lines.Name">显示轨道线</s>
    <!-- Font:Primary -->
@@ -1443,11 +1443,11 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Map.Maneuver.Name">规划变轨</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Map.Maneuver.Description">复杂的太空任务需要高级规划工具。变轨节点可以让你轻松规划轨道机动以按计划改变轨道。</s>
+   <s id="Career.TechTree.Items.Map.Maneuver.Description">复杂的太空任务需要高级规划工具。机动节点可以让你轻松规划轨道机动以按计划改变轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxActiveCrafts.Name">最大活动飞行器数量</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxActiveCrafts.Description">管理轨道上的多个飞行器是复杂的,这是有限制的以确保你不会无缘无故地污染系统。</s>
+   <s id="Career.TechTree.Items.MaxActiveCrafts.Description">管理轨道上的多个飞行器是个复杂的工程问题,这个限制的意义在于确保你不会无缘无故地制造太空垃圾</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxContractsOffered.Name">最大可用合同数量</s>
    <!-- Font:Primary -->
@@ -1465,7 +1465,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.UndoRetry.Description">时间穿越是一个强大的工具,搞砸了可以重来,或者跳到设计器那里调整飞行器再回来。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Cheats.TinkerPanel.Name">改装面板</s>
+   <s id="Career.TechTree.Items.Cheats.TinkerPanel.Name">调试面板</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.TinkerPanel.Description">一个包含一些非官方支持工具的菜单,但可以解锁大量乐趣。</s>
    <!-- Font:Primary -->
@@ -1735,7 +1735,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Name">气尖喷管</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Description">塞式喷管在宽广的高度范围内,性能优于钟形或锥形喷管。</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Description">与钟形或锥形喷管相比,气尖喷管在各种高度范围内均表现出更优异的性能</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Power.GasGenerator1.Name">燃气发生器I</s>
    <!-- Font:Primary -->
@@ -1755,7 +1755,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Power.PressureFed.Name">挤压循环</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Power.PressureFed.Description">最简单的火箭发动机,推力不大但在太空中表现优异。此外,它能万向摆动,从而实现精确操控。</s>
+   <s id="Career.TechTree.Items.RocketEngine.Power.PressureFed.Description">最简单的火箭发动机,推力不大但在太空中表现优异。此外,它的矢量范围大,从而实现精确操控。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Power.Electric.Name">电泵循环</s>
    <!-- Font:Primary -->
