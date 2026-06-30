@@ -2235,7 +2235,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Long">一旦离开大气层,摆脱了空气阻力,就没有任何东西能阻止你想到多快就有多快。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-spacespeed.Completions1.Long">2000 米/秒听起来好像没什么,但换算一下就是 7200 公里/小时。这速度相当可以。</s>
+   <s id="Career.Contracts.Record-spacespeed.Completions1.Long">2000 m/s听起来好像没什么,但换算一下就是 7200 公里/小时。这速度相当可以。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Completions2.Long">进入近地轨道意味着要飞得非常快。飞得越高,速度越慢,但到达那里就越困难。对于低轨道,你需要快于3000 m/s。</s>
    <!-- Font:Primary -->
@@ -2287,7 +2287,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-5.Long">这是一个计时赛,系好鞋带准备开跑!在时间耗尽之前按任意顺序穿过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-6.Name">DSC Sailor's Route</s>
+   <s id="Career.Contracts.Race-Land-6.Name">DSC 水手之旅</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-6.Subtitle">第 @TitleNumber轮</s>
    <!-- Font:Primary -->
@@ -2491,7 +2491,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1 Drood at Luna's maria</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-1.Subtitle">1 个Drood,位于Luna maria</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.FlairText">救援</s>
    <!-- Font:Primary -->
@@ -2883,7 +2883,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Description">开始时距地面 1 公里以内。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Expression.Description">让火箭的加速度超过 10 米/秒²</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Expression.Description">让火箭的加速度超过 10 m/s²</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#1.Description">达到 25 公里 ASL(海拔高度)。</s>
    <!-- Font:Primary -->
@@ -2969,7 +2969,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#9.StepText#0.StepText">最后,提高轨道近点——也就是轨道的最低点——直到它高于大气层。这样你才不会在任何时刻碰到它,稳定保持在轨道上。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#9.StepText#1.StepText">在这个高度你需要超过 3300 米/秒才能达到入轨速度,你快到了!</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#9.StepText#1.StepText">在这个高度你需要超过 3300 m/s才能达到入轨速度,你快到了!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Description">花哨起来了</s>
    <!-- Font:Primary -->
@@ -3087,7 +3087,7 @@
    <!-- Contract 'Record-spacespeed' requirements Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Expression.Description">Reach 80km ASL</s>
+   <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Expression.Description">达到海拔80km</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-spacespeed.Req.Planet-Droo.Expression.Expression.Description">跑得比 @SpeedTarget:velocity 还快</s>
    <!-- Contract 'Race-Land-1' requirements Font:Primary -->
@@ -3347,9 +3347,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Description">前往港口前面的泊位</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Expression.Description">入水速度不要超过 20 米/秒</s>
+   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Expression.Description">入水速度不要超过 20 m/s</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Expression.Expression.Description">你刚才是不是超过了 20 米/秒?</s>
+   <s id="Career.Contracts.Location-Port.Req.Planet-Droo.Location-Droo.DSC.Port.Expression.Expression.Description">你刚才是不是超过了 20 m/s?</s>
    <!-- Contract 'Location-DSC Short runway' requirements Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3359,7 +3359,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Location-Droo.Village.RunwayEnd.Description">从斜坡底部接近村子里的跑道</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Any.Expression.Description">进入停机区前减速到 10 米/秒 以下</s>
+   <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Any.Expression.Description">进入停机区前减速到 10 m/s 以下</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Req.TrackedLaunch.Planet-Droo.PartCount.Any.Location-Droo.Village.RunwayTop.Description">开到跑道尽头</s>
    <!-- Contract 'Location-DSC Large runway' requirements Font:Primary -->
@@ -3617,11 +3617,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.Description">把撞击器以低于 @CrashSpeed 米/秒的速度带到表面</s>
+   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.Description">把撞击器以低于 @CrashSpeed m/s的速度带到表面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.CraftExpression.Description">到达投放距离的距离:</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.CraftExpression.CraftExpression.Description">撞击速度低于 @CrashSpeed 米/秒!最大投放速度:</s>
+   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.CraftExpression.CraftExpression.Description">撞击速度低于 @CrashSpeed m/s!最大投放速度:</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#0.CraftExpression.CraftExpression.CraftExpression.Description">分离撞击器!</s>
    <!-- Font:Primary -->
@@ -5969,7 +5969,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.AbortedNodeNotLocked">自动轨道机动中止：节点未锁定</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.AutoBurn.AbortedNotAchievable">中止：自动轨道机动无法实现</s>
+   <s id="Flight.AutoBurn.AbortedNotAchievable">自动轨道机动中止：自动轨道机动无法实现</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.AbortedZeroDv">因零速度增量 中止自动轨道机动</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -6003,7 +6003,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
    <s id="Flight.Camera.Mode.ChaseView">跟随视图</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
-   <s id="Flight.Camera.Mode.DualTargetView">目标取景视图</s>
+   <s id="Flight.Camera.Mode.DualTargetView">目标视图</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
    <s id="Flight.Camera.Mode.FlyByCinematic">飞越-电影</s>
    <!-- Rec:24 Max:30 Font:Primary ; camera mode name -->
@@ -6057,13 +6057,13 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.AddedToMoveFormat">已将 {0} 添加到航天员移动</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Crew.CompartmentFullFormat">航天员舱已满,容纳了 {0} 名航天员。</s>
+   <s id="Flight.Crew.CompartmentFullFormat">乘员舱已满,容纳了 {0} 名航天员。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.MoveCanceled">航天员移动已取消</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.MoveCanceledAbsence">航天员移动已取消,由于航天员突然缺席</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Crew.MoveCanceledDestruction">航天员移动已取消,由于舱室被毁</s>
+   <s id="Flight.Crew.MoveCanceledDestruction">航天员移动已取消,由于乘员舱被毁</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.MoveCanceledDistance">航天员移动已取消,由于距离过远</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -6071,11 +6071,11 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.MovingFormat">正在移动航天员 {0}</s>
    <!-- Toast Font:Primary ; no length limit. Translators: keep the &lt;color&gt; tags intact. -->
-   <s id="Flight.Crew.NoRoom">&lt;color=&quot;red&quot;&gt;航天员舱没有空间容纳航天员。&lt;/color&gt;</s>
+   <s id="Flight.Crew.NoRoom">&lt;color=&quot;red&quot;&gt;乘员舱没有空间容纳航天员。&lt;/color&gt;</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Crew.RemovedFromMoveFormat">已将 {0} 从航天员移动中移除</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Crew.TooFarToEnterFormat">距离太远（{0:0.0}m）无法进入航天员舱。必须在 {1}m 以内。</s>
+   <s id="Flight.Crew.TooFarToEnterFormat">距离太远（{0:0.0}m）无法进入乘员舱。必须在 {1}m 以内。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.EndFlight.DistanceTraveled">飞行距离</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
@@ -6131,7 +6131,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Eva.TetherRetracted">已收回</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Eva.TooFarToBoard">航天员舱距离太远无法进入。</s>
+   <s id="Flight.Eva.TooFarToBoard">乘员舱距离太远无法进入。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Eva.TooFarToControlFormat">{0} 距离太远无法控制</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6165,27 +6165,27 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.EnterValue">输入值</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.FORWARD">前进</s>
+   <s id="Flight.InputSlider.FORWARD">向前平移</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.PITCH">俯仰</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.InputSlider.RemoveTooltip">移除输入滑块</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.RIGHT">右</s>
+   <s id="Flight.InputSlider.RIGHT">向右平移</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.ROLL">滚转</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.SLIDER1">滑条 1</s>
+   <s id="Flight.InputSlider.SLIDER1">滑块 1</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.SLIDER2">滑条 2</s>
+   <s id="Flight.InputSlider.SLIDER2">滑块 2</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.SLIDER3">滑条 3</s>
+   <s id="Flight.InputSlider.SLIDER3">滑块 3</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.SLIDER4">滑条 4</s>
+   <s id="Flight.InputSlider.SLIDER4">滑块 4</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.THROTTLE">节流阀</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Flight.InputSlider.UP">上</s>
+   <s id="Flight.InputSlider.UP">向上平移</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.YAW">偏航</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -14610,7 +14610,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2 DeltaV all-stages metric text -->
    <s id="Tutorial.FirstOrbit.Step2Metric">这是飞行器的总速度增量,即速度的变化量。理论上,它是在没有重力和阻力的完美环境中飞行器能达到的速度。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3: explanation about DeltaV requirement -->
-   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4,500米/秒才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
+   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4,500m/s才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3 metric text after DeltaV at sea level -->
    <s id="Tutorial.FirstOrbit.Step3Metric">我们还有一些工作要做。我们将查看每个级段,看看能做些什么来提高性能。别担心,这只是火箭科学。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 4: stage 1 intro -->
@@ -14754,7 +14754,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureAnalogSticksVisible -->
    <s id="Tutorial.FlightTutorial.ShowAnalogSticks">点击高亮按钮以显示模拟摇杆。</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureApoapsisAltitude; {0}=formatted distance -->
-   <s id="Tutorial.FlightTutorial.WaitForApoapsisFormat">等待直到远拱点达到{0}</s>
+   <s id="Tutorial.FlightTutorial.WaitForApoapsisFormat">等待直到轨道远点达到{0}</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureBrake mobile -->
    <s id="Tutorial.FlightTutorial.EngageBrakesMobile">将左摇杆向下拉以启用制动器。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureBrake mobile -->
@@ -14856,7 +14856,7 @@
    <!-- Format Font:Primary ; FlightTutorialState.EnsureThrottle; {0}=percentage; |Throttle;-| is an input binding marker -->
    <s id="Tutorial.FlightTutorial.DecreaseThrottleFormat">按住"|Throttle;-|"将节流阀降低到{0}</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureTimeToApoapsis; {0}=time in seconds (numeric) -->
-   <s id="Tutorial.FlightTutorial.TimeToApoapsisFormat">距离远拱点：{0:n0}秒</s>
+   <s id="Tutorial.FlightTutorial.TimeToApoapsisFormat">距离轨道远点：{0:n0}秒</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureTranslationModeEnabled -->
    <s id="Tutorial.FlightTutorial.EnableTranslationMode">点击高亮按钮以启用平移模式。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureWarpMode -->
@@ -14924,11 +14924,11 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
    <s id="Tutorial.FlightTutorial.Step6.MapViewIntro">这就是地图视图。首先,让我们放大到你的飞行器。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
-   <s id="Tutorial.FlightTutorial.Step6.ApoapsisExplanation">蓝色圆锥是你的飞行器,蓝线是你的预测轨迹/轨道。绿色箭头是你的"远拱点",即轨道上最高的点。</s>
+   <s id="Tutorial.FlightTutorial.Step6.ApoapsisExplanation">蓝色圆锥是你的飞行器,蓝线是你的预测轨迹/轨道。绿色箭头是你的"轨道远点",即轨道上最高的点。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
    <s id="Tutorial.FlightTutorial.Step7.KillEnginesAndWait">太棒了！现在我们需要关闭引擎并等待。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
-   <s id="Tutorial.FlightTutorial.Step7.WaitForApoapsisBurn">等到距离远拱点还有30秒时,再进行下一次点火</s>
+   <s id="Tutorial.FlightTutorial.Step7.WaitForApoapsisBurn">等到距离轨道远点还有30秒时,再进行下一次点火</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
    <s id="Tutorial.FlightTutorial.Step7.ThanksForPlaying">在等待的同时,我想说感谢你玩我们的游戏。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 8 -->
@@ -15304,7 +15304,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Input.TranslateUp">向上位移</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Input.TranslationMode">位移模式</s>
+   <s id="Vizzy.CraftProperty.Input.TranslationMode">平移模式</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Input.Yaw">偏航</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15352,7 +15352,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Event.SetPointerDown">设置指针按下</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Mfd.Event.SetPointerUp">Vizzy.CraftProperty.Mfd.Event.SetPointerUp</s>
+   <s id="Vizzy.CraftProperty.Mfd.Event.SetPointerUp">设置指针移出</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Exists">存在</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15656,13 +15656,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.AirPressure">飞行器当前位置的大气压强,单位为帕斯卡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.SpeedOfSound">飞行器当前位置的声速,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.SpeedOfSound">飞行器当前位置的声速,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Temperature">飞行器当前位置的温度,单位为开尔文。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Apoapsis">表示远拱点位置的向量,单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Apoapsis">表示轨道远点位置的向量,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.ApoapsisTime">飞行器到达远拱点所剩余的时间,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.ApoapsisTime">飞行器到达轨道远点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.BoundMax">包围盒最大角到质心的距离。这是一个性能开销较大的操作,请谨慎使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15710,7 +15710,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.TrueAnomaly">飞行器轨道的真近点角。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Velocity">飞行器在当前行星惯性坐标系中的当前速度,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Velocity">飞行器在当前行星惯性坐标系中的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Fuel.AllStages">整个飞行器剩余燃料的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15980,7 +15980,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Nav.SideSlip">飞行器当前的侧滑角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Orbit.Apoapsis">远拱点高于行星半径的高度,单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Orbit.Apoapsis">轨道远点高于行星半径的高度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Eccentricity">轨道的偏心率。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15990,7 +15990,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Period">轨道周期,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Orbit.TimeToApoapsis">到达远拱点剩余的时间,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Orbit.TimeToApoapsis">到达轨道远点剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.TimeToPeriapsis">到达轨道近点剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16066,7 +16066,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Target.Position">目标相对于其当前行星中心在当前行星惯性坐标系中的当前位置,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Target.Velocity">目标在当前行星惯性坐标系中的当前速度,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Target.Velocity">目标在当前行星惯性坐标系中的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Terrain.Color">获取指定（纬度,经度,0）向量处地形表面的颜色。该向量的z分量不会被使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16082,21 +16082,21 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Time.WarpAmount">时间加速所应用的时间倍数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.Acceleration">飞行器的当前加速度,单位为米/秒²。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.Acceleration">飞行器的当前加速度,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.AngularVelocity">飞行器的当前角速度,单位为弧度/秒（俯仰速率,偏航速率,滚转速率）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.Drag">当前行星惯性坐标系中的阻力,单位为米/秒²。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.Drag">当前行星惯性坐标系中的阻力,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.Gravity">当前行星惯性坐标系中的重力,单位为米/秒²。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.Gravity">当前行星惯性坐标系中的重力,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.LateralSurfaceVelocity">当前切于行星表面的横向速度,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.LateralSurfaceVelocity">当前切于行星表面的横向速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.MachNumber">当前马赫数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.SurfaceVelocity">飞行器相对于行星表面的当前速度,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.SurfaceVelocity">飞行器相对于行星表面的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.VerticalSurfaceVelocity">当前朝向行星中心的速度,单位为米/秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.VerticalSurfaceVelocity">当前朝向行星中心的速度,单位为m/s。</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Vel.Acceleration">加速度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16179,7 +16179,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.structures">建筑设施</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Expression.Planet.Tooltip.apoapsistime">行星到达远拱点所剩余的时间,单位为秒。</s>
+   <s id="Vizzy.Expression.Planet.Tooltip.apoapsistime">行星到达轨道远点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.atmosphereComposition">行星大气成分的质量分数。与大气元素按索引一一对应。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16417,7 +16417,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Operator.Math.rad2deg">弧度转角度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Operator.Math.round">四舍五入</s>
+   <s id="Vizzy.Operator.Math.round">取整</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Operator.Math.sin">正弦</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16483,7 +16483,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Operator.String.Friendly.time">时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Operator.String.Friendly.Tooltip.acceleration">以用户友好的文本格式显示的加速度,单位为米/秒²。</s>
+   <s id="Vizzy.Operator.String.Friendly.Tooltip.acceleration">以用户友好的文本格式显示的加速度,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Operator.String.Friendly.Tooltip.angularvelocity">以用户友好的文本格式显示的角速度,单位为度/秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16511,7 +16511,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Operator.String.Friendly.Tooltip.time">以用户友好的文本格式显示的时间,使用单一单位并带有小数数值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Operator.String.Friendly.Tooltip.velocity">以用户友好的文本格式显示的速度,单位为米/秒。</s>
+   <s id="Vizzy.Operator.String.Friendly.Tooltip.velocity">以用户友好的文本格式显示的速度,单位为m/s。</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Operator.String.Friendly.velocity">速度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17018,9 +17018,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-math">返回对指定数字执行数学函数的结果。sin,cos,tan等数学函数要求角度以弧度为单位。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.op-max">返回两数中较大的那个。</s>
+   <s id="Vizzy.Toolbox.Tooltip.op-max">返回两数中较大的。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.op-min">返回两个数中较小的一个。</s>
+   <s id="Vizzy.Toolbox.Tooltip.op-min">返回两数中较小的。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-mod">返回左数除以右数的余数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17060,13 +17060,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-altitude">返回海拔高度（以米为单位）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-atmosphere">返回atmosphere属性。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-atmosphere">返回大气数据。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-fuel">返回剩余燃料。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-input">返回飞行器当前指定input的值。返回的值在-1到1之间。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-input">返回飞行器当前指定输入的值。返回的值在-1到1之间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-mfd-event">获取当widget收到input时要broadcast的消息名称。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-mfd-event">获取当widget收到输入时要广播的消息名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-mfd-gauge">返回指定名称的多功能显示屏仪表信息。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17080,7 +17080,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-mfd-texture-getpixelalpha">获取指定坐标像素的alpha值（0=透明,1=不透明）。注意：坐标从1开始,而非0。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-mfd-widget">返回有关具有指定名称的MFD widget的信息。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-mfd-widget">返回有关具有指定名称的多功能显示屏 widget的信息。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-misc">其他属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17088,21 +17088,21 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-nav">返回飞行器的指定导航属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-orbit">返回orbit参数。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-orbit">返回轨道参数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-performance">返回飞行器的performance属性。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-performance">返回飞行器的性能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-time">以秒为单位返回指定时间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-velocity">返回指定的速度,单位为米/秒（加速度则为米/秒²）。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-velocity">返回指定的速度,单位为m/s（加速度则为m/s²）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.receive-msg">当飞行程序收到消息时调用,data被设置为broadcast的值。</s>
+   <s id="Vizzy.Toolbox.Tooltip.receive-msg">当飞行程序收到消息时调用,data被设置为广播的值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.repeat">重复执行代码块指定次数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-ag">激活或停用指定的activation group。设为true则激活,false则停用。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-ag">激活或停用指定的激活组。设为true则激活,false则停用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-camera">设置camera上的属性。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-camera">设置摄像机上的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-heading">设置飞行器应瞄准的俯仰角或航向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17210,9 +17210,9 @@
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="Vizzy.UI.DiscardAndExit.Label">放弃并退出</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.UI.DiscardAndExit.Tooltip">放弃对飞行器飞行程序所做的更改。</s>
+   <s id="Vizzy.UI.DiscardAndExit.Tooltip">放弃对飞行程序所做的更改。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.UI.DiscardChanges.Confirm">确定要放弃对飞行器飞行程序所做的更改吗?未保存的更改将会丢失。</s>
+   <s id="Vizzy.UI.DiscardChanges.Confirm">确定要放弃对飞行程序所做的更改吗?未保存的更改将会丢失。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.UI.EditVariable.Confirm">您想重命名此变量还是从程序中删除它?</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
