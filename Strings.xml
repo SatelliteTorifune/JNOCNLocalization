@@ -199,7 +199,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; orbit property -->
    <s id="Career.Orbit.Property.Inclination">轨道倾角</s>
    <!-- Rec:10 Max:14 Font:Primary ; orbit property -->
-   <s id="Career.Orbit.Property.Periapsis">近点</s>
+   <s id="Career.Orbit.Property.Periapsis">轨道近点</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.Race.CheckpointNameFormat">检查点 {0}</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -665,7 +665,7 @@
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.AliPad.Name">Ali 发射场</s>
    <!-- Font:Primary -->
-   <s id="Career.LaunchLocations.AliPad.Description">一个秘密的火箭发射设施,四周被群山环绕,用于进行可能具有爆炸性的测试而不损害任何设备。</s>
+   <s id="Career.LaunchLocations.AliPad.Description">一个四周被群山环绕的秘密火箭发射设施,旨在在不损坏任何设备的情况下进行存在潜在爆炸风险的发射。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.Ali10L.Name">Ali 10L跑道</s>
    <!-- Font:Primary -->
@@ -2087,7 +2087,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-First.Short">把火箭送到离村庄远的地方。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Suborbital-First.Long">在希望到达太空之前,你需要一些水平速度,因为轨道需要更多的是横向移动而不是向上。试着在距离村庄@Distance:distance的地方坠落。</s>
+   <s id="Career.Contracts.Suborbital-First.Long">在希望到达太空之前,你需要一些水平速度,因为轨道需要更多的是横向移动而不是向上。试着在距离村庄 @Distance:distance的地方坠落。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Suborbital-Fireworks.Name">烟花</s>
    <!-- Font:Primary -->
@@ -2143,7 +2143,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-hike.Long">紧挨着我们村子的那座山峰,拥有我见过的最棒的景色。你能爬上去好好欣赏一下,顺便拍几张照片吗?如果你的载具打滑太厉害,可以通过把齿比拉满来增加扭矩。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Second-hike.Name">短途路线e</s>
+   <s id="Career.Contracts.Second-hike.Name">短途路线</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Second-hike.FlairText">进度</s>
    <!-- Font:Primary -->
@@ -4320,11 +4320,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Eva.xml -->
   <s id="DesignerParts.Eva.Drood.Name">Drood</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱,但在探索和驾驶方面很出色。把他们放进座舱,舱室或驾驶舱中,即使没有电力也能控制你的飞行器,在飞行中让他们出去散步。</s>
+  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱还不耐摔,但在探索和驾驶方面很出色。把他们放进航天舱,飞船或驾驶舱中,即使没有电力也能控制你的飞行器,或者在飞行中让他们出去散步。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from EvaChair1.xml -->
    <s id="DesignerParts.EvaChair1.Chair.Name">椅子</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.EvaChair1.Chair.Description">只要你想,宇航员会一直站着,但有时给他们休息一下让他们坐下也挺好的。</s>
+   <s id="DesignerParts.EvaChair1.Chair.Description">只要你想,宇航员会一直站着,但有时给让他们坐下休息一下也挺好的。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Fairing1.xml -->
   <s id="DesignerParts.Fairing1.Fairing.Name">整流罩</s>
   <!-- Font:Primary -->
@@ -4352,7 +4352,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
   <s id="DesignerParts.Fuselage1.BatteryPack.Name">电池组</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.Fuselage1.BatteryPack.Description">尺寸合适的便捷燃料箱预设,用于容纳电池,以防你不想使用指令圆盘的内置电池。</s>
+  <s id="DesignerParts.Fuselage1.BatteryPack.Description">尺寸合适的便捷燃料箱预设,用于容纳电池,如果你不想使用指令圆盘的内置电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.Fuselage1.BatteryTank.Name">电池箱</s>
    <!-- Font:Primary -->
@@ -4376,14 +4376,13 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Gyroscope1.xml -->
    <s id="DesignerParts.Gyroscope1.Gyroscope.Name">陀螺仪</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Gyroscope1.Gyroscope.Description">无需推力即可进行姿态控制。
-使用电力。</s>
+   <s id="DesignerParts.Gyroscope1.Gyroscope.Description">无需推力即可进行姿态控制,需要使用电力。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from HeatShield1.xml -->
-   <s id="DesignerParts.HeatShield1.HeatShield.Name">隔热罩</s>
+   <s id="DesignerParts.HeatShield1.HeatShield.Name">隔热大底</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.HeatShield1.HeatShield.Description">在重返大气层时提供免受高温的保护。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from HingeRotator1.xml -->
-   <s id="DesignerParts.HingeRotator1.HingeRotator.Name">铰链旋转器</s>
+   <s id="DesignerParts.HingeRotator1.HingeRotator.Name">铰链</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.HingeRotator1.HingeRotator.Description">可围绕铰链旋转部件的小型电机。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Inlet1.xml -->
@@ -4563,7 +4562,7 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.RocketEngine1.ChimeraSolidBooster.Description">带有摇摆机构的极其强大的固体火箭发动机。这头野兽在必要时可以展示它的肌肉。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from RotatingNoseCone1.xml -->
-   <s id="DesignerParts.RotatingNoseCone1.KomodoNoseCone.Name">科莫多鼻锥</s>
+   <s id="DesignerParts.RotatingNoseCone1.KomodoNoseCone.Name">科莫多 鼻锥</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Rotator1.xml -->
    <s id="DesignerParts.Rotator1.Rotator.Name">转轴</s>
    <!-- Font:Primary -->
@@ -4579,7 +4578,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Shock1.xml -->
    <s id="DesignerParts.Shock1.Shock.Name">减震器</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Shock1.Shock.Description">当你想要软化与地面的碰撞时,减震器很有用。</s>
+   <s id="DesignerParts.Shock1.Shock.Description">当你想要减缓与地面的碰撞时,减震器很有用。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from SolarPanel1.xml -->
    <s id="DesignerParts.SolarPanel1.SolarPanel.Name">太阳能电池板</s>
    <!-- Font:Primary -->
@@ -4943,7 +4942,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.Requirements.MustBeUpright">必须直立</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.Requirements.Periapsis">近点</s>
+   <s id="Levels.Requirements.Periapsis">轨道近点</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.Requirements.SoFar">目前进度...</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5047,9 +5046,9 @@
    <!-- Rec:8 Max:12 Font:Primary ; flair label -->
    <s id="Menu.Contracts.Flair.Completed">已完成</s>
    <!-- Rec:8 Max:12 Font:Primary ; flair label -->
-   <s id="Menu.Contracts.Flair.Location">地点</s>
+   <s id="Menu.Contracts.Flair.Location">新发射场</s>
    <!-- Rec:8 Max:12 Font:Primary ; flair label -->
-   <s id="Menu.Contracts.Flair.Rejected">拒绝</s>
+   <s id="Menu.Contracts.Flair.Rejected">已拒绝</s>
    <!-- Rec:14 Max:20 ; section header -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 “新人经理” 以增加可同时拥有的合同数上限。</s>
@@ -6199,7 +6198,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.AmbientTemperature">环境温度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Angular">角加速度</s>
+   <s id="Flight.Inspector.Angular">角速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Apoapsis">轨道远点</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -7287,11 +7286,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.LaunchLocations.Details.Coords">坐标</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
-   <s id="Menu.LaunchLocations.Details.Mass">质量</s>
+   <s id="Menu.LaunchLocations.Details.Mass">最大质量</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.LaunchLocations.Details.Planet">行星</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
-   <s id="Menu.LaunchLocations.Details.Size">尺寸</s>
+   <s id="Menu.LaunchLocations.Details.Size">最大发射尺寸</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.LaunchLocations.Details.Velocity">速度</s>
    <!-- Rec:17 Max:17 Font:Header ; section header (launch panel) -->
@@ -15234,7 +15233,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Craft.Eccentricity">轨道离心率</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Craft.Grounded"></s>
+   <s id="Vizzy.CraftProperty.Craft.Grounded">接地</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Craft.IDToName">名称</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
