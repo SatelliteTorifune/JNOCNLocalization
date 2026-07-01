@@ -348,7 +348,7 @@
    <!-- Rec:16 Max:22 Font:Primary ; validation error key -->
    <s id="Career.Validation.MissingPartsKey">缺失部件</s>
    <!-- Font:Primary -->
-   <s id="Career.Validation.ModifierNewerVersion">{0} 属性有新版本保留它可能会错过一些功能或修复。</s>
+   <s id="Career.Validation.ModifierNewerVersion">{0} 属性有新版本,保留它可能会错过一些功能或修复。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.ModifierOutdated">{0} 属性Deprecated,需要替换为新版本。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -422,7 +422,7 @@
    <!-- Toast Font:Primary ; ContractLocation/Exploration landmark names and descriptions (loaded from Career/Default/Exploration.xml + ContractLocations.xml). Names appear as map labels and landmark titles; descriptions in the landmark detail panel. -->
    <s id="Career.ContractLocations.vulco-zenith.Name">究极顶点</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.vulco-zenith.Description">系统中最热的地方。Vulco与Juno的潮汐锁定使得这一面热得无与伦比,除非触碰它的母恒星。熔岩之海不再是玩笑。</s>
+   <s id="Career.ContractLocations.vulco-zenith.Description">全星系中最热之地。Vulco受Juno潮汐锁定,使其永昼面热到几乎无法再靠近母星。"地面是岩浆"在这里已经不只是个玩笑了。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.vulco-river.Name">伊甸之河</s>
    <!-- Font:Primary -->
@@ -434,15 +434,15 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.vulco-ravine.Name">地狱之门</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.vulco-ravine.Description">你不会在这个峡谷里找到地狱犬,但地狱之门可以向你展示透过地壳看行星核心是什么样子。</s>
+   <s id="Career.ContractLocations.vulco-ravine.Description">峡谷里没有神话中的地狱犬,但这里能让你透过地壳看清行星核心是什么样子。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-volcano.Name">哈托尔山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.sergeaa-volcano.Description">系统中最大的活火山,非常陡峭难以攀登,但一旦你深入火山口就更难逃脱。</s>
+   <s id="Career.ContractLocations.sergeaa-volcano.Description">系统中最大的活火山,非常陡峭且难以攀登,一旦你深入火山口就更难逃脱。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-mountain.Name">荷鲁斯山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.sergeaa-mountain.Description">Hathor Mons附近的山脉是由火山喷发形成的。这里有更容易攀登的地形,是规划火山口下降的绝佳观景点。</s>
+   <s id="Career.ContractLocations.sergeaa-mountain.Description">荷鲁斯山附近的山脉是由火山喷发形成的。这里有更容易攀登的地形,是规划火山口下降的绝佳观景点。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-spikes.Name">玉冠</s>
    <!-- Font:Primary -->
@@ -450,7 +450,7 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-dormant.Name">尼德拉德维山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.sergeaa-dormant.Description">这座火山已休眠了数千年,但火山口几乎完好无损。里面可能没有熔岩,但要下降到火山口底部并完好返回仍是一项挑战。</s>
+   <s id="Career.ContractLocations.sergeaa-dormant.Description">这座火山已休眠了数千年,但火山口几乎完好无损。里面可能没有熔岩,但要下降到火山口底部并全身而退仍是一项挑战。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-lakes.Name">莫里根岛</s>
    <!-- Font:Primary -->
@@ -460,13 +460,13 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.oord-beach.Description">位于陨石坑链内的湖泊和山脉环绕的沙滩地带。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.oord-peak.Name">Jingwe之爪</s>
+   <s id="Career.ContractLocations.oord-peak.Name">精卫之爪</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.oord-peak.Description">一系列红色陡峭的山峰,像爪子一样从地面突起。</s>
+   <s id="Career.ContractLocations.oord-peak.Description">一连串红色的陡峭山峰,如神话中那只对抗上天的鸟儿一般用利爪般撕裂大地。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.oord-wrinkles.Name">Nvwa山脉</s>
+   <s id="Career.ContractLocations.oord-wrinkles.Name">女娲山脉</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.oord-wrinkles.Description">表面的波纹,山峦大小的尘土和岩石波浪。</s>
+   <s id="Career.ContractLocations.oord-wrinkles.Description">地表泛起涟漪,尘土和岩石掀起山岳般的巨浪</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.oord-hole.Name">梅尔之渊</s>
    <!-- Font:Primary -->
@@ -486,37 +486,37 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-grassland.Name">Bliss地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.droo-gs-grassland.Description">新鲜的草地,旋涡状的山脉和明亮的Juno,是任何想要迷失的徒步旅行者的完美去处。</s>
+   <s id="Career.ContractLocations.droo-gs-grassland.Description">青翠的草地,蜿蜒的山脉,还有明媚的阳光,对于任何想要沉浸其中并忘却世事的徒步者来说,这里都是绝佳之地。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-archipelago.Name">Brigo地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.droo-gs-archipelago.Description">海洋的气息,海浪的咆哮,轻拂你脸庞的冷风,在Droo最大群岛中最小的岛屿上。</s>
+   <s id="Career.ContractLocations.droo-gs-archipelago.Description">你能Droo最大的群岛中最小的岛屿上感受海洋的气息,海浪的咆哮声,以及扑面而来的阵阵寒风。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.droo-gs-polar.Name">Amundsen地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.droo-gs-polar.Description">前往南极途中的最后一次踏上坚实地面的机会——即使它完全被雪覆盖。</s>
+   <s id="Career.ContractLocations.droo-gs-polar.Description">这是你在前往南极途中抵达冰山之前,最后一次有机会踏上坚实的土地——尽管它已被白雪完全覆盖。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.brigo-crater.Name">弥玛斯陨石坑</s>
+   <s id="Career.ContractLocations.brigo-crater.Name">Mimas陨石坑</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.brigo-crater.Description">据信是由导致T.T.围绕Droo运行的原因形成的。它看起来像死星,但这个陨石坑不会发射激光。或者会?</s>
+   <s id="Career.ContractLocations.brigo-crater.Description">可能与让T.T.绕Droo运转的天体同源。形状酷似"死星",但这座陨石坑不会发射激光……吧？</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.brigo-ejecta.Name">Mimas 环</s>
+   <s id="Career.ContractLocations.brigo-ejecta.Name">Mimas环</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.brigo-ejecta.Description">当Mimas陨石坑形成时,大量抛射物落回Brigo,在其周围形成一系列环状结构,形成巨大的悬崖。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.brigo-mountains.Name">Cocoa 山谷</s>
+   <s id="Career.ContractLocations.brigo-mountains.Name">可可山谷</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.brigo-mountains.Description">被冰和泥土覆盖的山脉系统,绝对不是巧克力冰淇淋。</s>
+   <s id="Career.ContractLocations.brigo-mountains.Description">被冰和泥土覆盖的山脉系统,虽然看上去美味,但绝对不是巧克力冰淇淋。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.luna-cliff.Name">Finis Lunae</s>
+   <s id="Career.ContractLocations.luna-cliff.Name">月逝悬崖</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.luna-cliff.Description">面对一望无际的月海的悬崖,前方只有火山岩和陨石坑。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.luna-rock.Name">Jund 岩</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.luna-rock.Description">Luna的地形可以从非常崎岖快速变为平原,形成壮观的悬崖。有时这些悬崖会碎裂,形成"简易岩石"景观。</s>
+   <s id="Career.ContractLocations.luna-rock.Description">Luna的地形可以从非常崎岖快速变为平原,形成壮观的悬崖。有时这些悬崖会崩塌,形成所谓的"简单火石"——没错,这就是游戏名的梗。。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.luna-crater.Name">Ingens Hiatus</s>
+   <s id="Career.ContractLocations.luna-crater.Name">月面鸿沟</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.luna-crater.Description">有时候陨石坑的规模远观无法体会。只有身在其中,你才意识到自己有多渺小。这才是真正的"深"空产业。</s>
    <!-- Font:Primary -->
@@ -528,51 +528,51 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.tt-tholins.Description">这块奇特的外太空岩石被氧化物覆盖,使其粗糙的表面呈现出类似血液的色调。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.tt-core.Name">Ragna 岩</s>
+   <s id="Career.ContractLocations.tt-core.Name">拉格纳岩</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.tt-core.Description">T.T.显示出经历过剧烈事件的明显迹象,因为它的表面部分融化,部分金属核心完全暴露。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-valles.Name">卢西阿德峡谷</s>
+   <s id="Career.ContractLocations.cylero-valles.Name">卢济塔尼亚峡谷</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.cylero-valles.Description">一座位于Cylero最大峡谷边缘的山脉,是在探索这个罕见地标时最独特的观景点之一。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-volcano.Name">Veegxangus Mons</s>
+       <s id="Career.ContractLocations.cylero-volcano.Name">维加桑古斯山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-volcano.Description">Juno系统中最大的山脉曾是一座炽热的火山,现在已完全休眠。在其火山口内,你只能想象这只巨兽曾经拥有的疯狂力量。</s>
+   <s id="Career.ContractLocations.cylero-volcano.Description">Juno系中最大的山脉曾是一座炽热的火山,现在已完全休眠。在其火山口内,你只能想象这只巨兽曾经拥有的疯狂力量。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.cylero-poles.Name">创世记山脉</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-poles.Description">北极高涡其中一条臂边缘的一座小山峰,直视由它形成的一条山谷。</s>
+   <s id="Career.ContractLocations.cylero-poles.Description">北极漩涡某条臂状物边缘上的一个小山峰,直视着由其形成的一个山谷</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-crater.Name">聚隙</s>
+   <s id="Career.ContractLocations.cylero-crater.Name">Cylero聚隙</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.cylero-crater.Description">虽然罕见,但撞击有时会在同一个地方发生。在这里,一颗小行星清除了大陨石坑中央平原的中央隆起。</s>
+   <s id="Career.ContractLocations.cylero-crater.Description">虽然罕见,但是一块地真的会被陨石砸两次,这里,另一颗小行星将大型陨石坑中央盆地的中央隆起夷平了</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-origin.Name">星源</s>
+   <s id="Career.ContractLocations.nebra-origin.Name">Nebra星源</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-origin.Description">标记着Nebra起源的火山,主子午线与赤道相交的地方。小而强大——如果你不小心,可能永远无法离开它的火山口。</s>
+   <s id="Career.ContractLocations.nebra-origin.Description">标记着Nebra起源的火山,位于主子午线与赤道的交汇处。虽小却威力惊人——稍不留神,它的火山口就是你的葬身之地</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.nebra-ring.Name">火环</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-ring.Description">Nebra非常高的火山活动形成了一圈火山岛,是这颗卫星上建造地面基地的最佳地点之一。</s>
+   <s id="Career.ContractLocations.nebra-ring.Description">Nebra活跃的火山活动形成了一圈火山岛,是这颗卫星上建造地面基地的最佳地点之一。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-volcano.Name">D. Allen 火山</s>
+   <s id="Career.ContractLocations.nebra-volcano.Name">D.艾伦 火山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-volcano.Description">一座火山口已坍塌的火山,现在看起来像一把茶壶。我发誓我看到它在天空中,翠绿如翡翠,映衬在蓝天里；现在我在想那是否真的是你。</s>
+   <s id="Career.ContractLocations.nebra-volcano.Description">火山口已塌陷,形似茶壶。我分明记得曾在天上见过它,碧空翡翠般翠绿,如今不禁怀疑,那真的是你吗?</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.nebra-depth.Name">利特克盆地</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.nebra-depth.Description">如果Nebra的水温对你来说还不够麻烦,Litke盆地增加了完全的黑暗和深海压力。</s>
+   <s id="Career.ContractLocations.nebra-depth.Description">要是Nebra的水温还没难倒你,那么当你面对利特克盆地再加上无尽黑暗和深渊压力时别后悔</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.taurus-mountains.Name">裂谷之台</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.taurus-mountains.Description">Taurus最大山脉一侧的台地,可以俯瞰Juno系统中最极端的山谷之一。</s>
+   <s id="Career.ContractLocations.taurus-mountains.Description">Taurus最大山脉一侧的台地,可以俯瞰Juno系中最危险的山谷之一。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.taurus-mesa.Name">Niltsi 山</s>
+   <s id="Career.ContractLocations.taurus-mesa.Name">尼尔特西山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.taurus-mesa.Description">位于最长洼地末端的一座非常薄而高的台地,四周被悬崖环绕,只有一个入口可以进入。</s>
+   <s id="Career.ContractLocations.taurus-mesa.Description">位于最长凹陷末端的一座又细又高的台地,除了入口方向外,四面皆被悬崖环绕。</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.taurus-estuaries.Name">Ezaro Estuary</s>
+   <s id="Career.ContractLocations.taurus-estuaries.Name">埃扎罗河口</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.taurus-estuaries.Description">Taurus最大的甲烷海洋被河口所环绕,这些河口切入海岸,几乎触及巨大的台地山脉。</s>
    <!-- Font:Primary -->
@@ -598,13 +598,13 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.Droo.DroneShip.Name">无人机回收船</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.Droo.GS.Rainforest.Name">希波吕忒地面站</s>
+   <s id="Career.ContractLocations.Droo.GS.Rainforest.Name">Hippolyta地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.Droo.GS.Grassland.Name">极乐地面站</s>
+   <s id="Career.ContractLocations.Droo.GS.Grassland.Name">Bliss地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.Droo.GS.Archipelago.Name">布里戈地面站</s>
+   <s id="Career.ContractLocations.Droo.GS.Archipelago.Name">Brigo地面站</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.Droo.GS.Polar.Name">阿蒙森地面站</s>
+   <s id="Career.ContractLocations.Droo.GS.Polar.Name">Amundsen地面站</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.Luna.Base.Name">Luna基地</s>
    <!-- Customers.xml: contract customer characters (name + hello greeting + long bio). Font:Primary -->
@@ -713,7 +713,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.contracts.Tier0.Description">钱不会从树上长出来,你需要时不时地完成一些合同来赚钱。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.contracts.Tier1.Description">你能上轨道并完成一些合同吗?</s>
+   <s id="Career.Milestones.contracts.Tier1.Description">你能进入轨道并完成一些合同吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.contracts.Tier2.Description">如果你想发展公司,履行越多合同你就做得越好,15个是个不错的开始。</s>
    <!-- Font:Primary -->
@@ -725,7 +725,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.money-spent.Description">让钱流动起来,这会计入你所有的开支。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.money-spent.Tier0.Description">开支越积越多,等你意识到自己在烧掉数百万像烧纸一样的时候已经太晚了。</s>
+   <s id="Career.Milestones.money-spent.Tier0.Description">开支越积越多,等你意识到自己挥金如土的时候已经太晚了。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.money-spent.Tier1.Description">现在想到你会花费这么多似乎很超现实...等着吧。</s>
    <!-- Font:Primary -->
@@ -737,7 +737,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Name">已发射飞行器</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Description">向世界发射独特的飞行器。</s>
+   <s id="Career.Milestones.launched-crafts.Description">发射的独特飞行器。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier0.Description">发射越多,经验就越丰富。熟悉这个过程吧。</s>
    <!-- Font:Primary -->
@@ -747,9 +747,9 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier3.Description">你现在应该已经找到窍门了,至少你一直在尝试。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Tier4.Description">这时候你是在驾驶它们还是只是发射并回收廉价飞行器来刷数量从而获得这个里程碑?</s>
+   <s id="Career.Milestones.launched-crafts.Tier4.Description">这时候你是真的在驾驶它们还是只是发射并回收廉价飞行器来刷数量从而获得这个里程碑?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Name">报废回收收益</s>
+   <s id="Career.Milestones.recovery.Name">回收收益</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.recovery.Description">回收飞行器以获得回报。</s>
    <!-- Font:Primary -->
@@ -797,7 +797,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier0.Description">20公里/秒是非常快的速度,只有敢于进入Juno轨道的人才能达到。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系统的飞行器所期望的速度,是你在操作吗?</s>
+   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系的飞行器所期望的速度,是你在操作吗?</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier2.Description">这是疯狂的速度,你一定快要触碰到Juno的日冕了。</s>
    <!-- Font:Primary -->
@@ -7506,7 +7506,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.AddBiome.DataIndexInputDataSlotTooltip">定义要添加的群系强度的输入数据。这些值应在0到1的范围内。</s>
    <!-- Font:Primary -->
-   <s id="Modifier.AddBiome.Description">一个星球属性，可让您为星球添加群系。将此属性的数据输出连接到“群系”属性的群系输入端，以定义一个生物群系。</s>
+   <s id="Modifier.AddBiome.Description">一个星球属性,可让您为星球添加群系。将此属性的数据输出连接到“群系”属性的群系输入端,以定义一个生物群系。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AddBiome.DisplayName">增加群系</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
@@ -7524,13 +7524,13 @@
    <!-- Font:Primary -->
    <s id="Modifier.AddColor.DataIndexRedDataSlotTooltip">红色通道输入</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.AddColor.Description">一个行星属性，用于为行星顶点数据添加颜色值</s>
+   <s id="Modifier.AddColor.Description">一个行星属性,用于为行星顶点数据添加颜色值</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AddColor.DisplayName">增加颜色</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
    <s id="Modifier.AddColor.DisplayName.Header">增加颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.AddHeight.Description">一个行星属性，用于为行星顶点数据添加高度（海拔）值。</s>
+   <s id="Modifier.AddHeight.Description">一个行星属性,用于为行星顶点数据添加高度（海拔）值。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AddHeight.DisplayName">增加高度</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
@@ -7540,7 +7540,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.AddHeight.HeightTooltip">要添加到行星或生物群系的高度（单位：米）。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.AltitudeBasedSubBiomes.Description">一个星球属性，可根据地形高度为生物群系定义子生物群系。</s>
+   <s id="Modifier.AltitudeBasedSubBiomes.Description">一个星球属性,可根据地形高度为生物群系定义子生物群系。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AltitudeBasedSubBiomes.DisplayName">子群系（基于海拔）</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
@@ -7548,21 +7548,21 @@
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceAmountLabel">最大高度差</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceAmountTooltip">在确定当前高度属于哪个子生物群系时，其高度（单位：米）可能会有所变化。这并不会改变实际高度，只是为子生物群系的高度范围增加了变化。这种变化的强度由高度方差数据输入值设置，该值会乘以当前高度。</s>
+   <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceAmountTooltip">在确定当前高度属于哪个子生物群系时,其高度（单位：米）可能会有所变化。这并不会改变实际高度,只是为子生物群系的高度范围增加了变化。这种变化的强度由高度方差数据输入值设置,该值会乘以当前高度。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceBlendLabel">混合范围</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceBlendTooltip">以米为单位的最小和最大高度，定义高度变化达到完全强度的范围。在最小高度或以下，不应用变化。超过最大高度时，变化强度为100%。在最小和最大高度之间，变化强度（由数据输入值设置）从0%到100%线性缩放。</s>
+    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceBlendTooltip">以米为单位的最小和最大高度,定义高度变化达到完全强度的范围。在最小高度或以下,不应用变化。超过最大高度时,变化强度为100%。在最小和最大高度之间,变化强度（由数据输入值设置）从0%到100%线性缩放。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceDataIndexDataSlotName">高度变化</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceDataIndexDataSlotTooltip">如果使用高度变化，此输入数据定义高度变化的强度（通常为0到1之间的值）。</s>
+    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceDataIndexDataSlotTooltip">如果使用高度变化,此输入数据定义高度变化的强度（通常为0到1之间的值）。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceGroup">高度变化</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceUsesCommonDataLabel">使用通用数据</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceUsesCommonDataTooltip">如果在群系特定通道中运行，这决定输入数据值是来自通用通道还是来自此群系特定通道。</s>
+    <s id="Modifier.AltitudeBasedSubBiomes.HeightVarianceUsesCommonDataTooltip">如果在群系特定通道中运行,这决定输入数据值是来自通用通道还是来自此群系特定通道。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.AltitudeBasedSubBiomes.SubBiomesLabel">子群系</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7570,7 +7570,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.AltitudeRange.AltitudeLabel">海拔范围</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.AltitudeRange.AltitudeTooltip">此子群系的海拔范围（以米为单位），由最小和最大高度定义。最小/最大值应与相邻子群系重叠，以便在它们之间平滑过渡。</s>
+    <s id="Modifier.AltitudeRange.AltitudeTooltip">此子群系的海拔范围（以米为单位）,由最小和最大高度定义。最小/最大值应与相邻子群系重叠,以便在它们之间平滑过渡。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.AltitudeRange.SubBiomeLabel">子群系数据</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7640,7 +7640,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.BiomeRange.RangeLabel">范围</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.BiomeRange.RangeTooltip">重新分配给此群系的输入值范围。群系范围按其最小值排序和评估。一个范围的最大值应与下一个范围的最小值重叠，以便群系平滑过渡。范围之外的输入值仍会被重新分配：低值分配给第一个群系范围，高值分配给最后一个。</s>
+    <s id="Modifier.BiomeRange.RangeTooltip">重新分配给此群系的输入值范围。群系范围按其最小值排序和评估。一个范围的最大值应与下一个范围的最小值重叠,以便群系平滑过渡。范围之外的输入值仍会被重新分配：低值分配给第一个群系范围,高值分配给最后一个。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Clamp.ClampMaxLabel">最大值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7652,7 +7652,7 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Clamp.DataIndexInputDataSlotTooltip">要限制的数据输入值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clamp.DataIndexOutputDataSlotTooltip">限制后的输出值，应在指定的最小值和最大值之间。</s>
+    <s id="Modifier.Clamp.DataIndexOutputDataSlotTooltip">限制后的输出值,应在指定的最小值和最大值之间。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Clamp.Description">将数据值限制在指定范围内的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -7660,7 +7660,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.Clamp.DisplayName.Header">限幅</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.Description">定义在缩放空间中围绕星球渲染的独立云层。每个云层从星球生成属性生成的数据槽读取密度，并具有各自的高度、色彩和旋转速度。按高度排列云层（低空云层高度最小，高空云层最大），以便较高的云层正确遮挡下方的云层。第四层是一个不旋转的遮罩，乘以其他云层的不透明度。</s>
+    <s id="Modifier.Clouds.Description">定义在缩放空间中围绕星球渲染的独立云层。每个云层从星球生成属性生成的数据槽读取密度,并具有各自的高度、色彩和旋转速度。按高度排列云层（低空云层高度最小,高空云层最大）,以便较高的云层正确遮挡下方的云层。第四层是一个不旋转的遮罩,乘以其他云层的不透明度。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.DetailScaleLabel">细节缩放</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7668,7 +7668,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.DetailSpeedMultiplierLabel">细节速度倍增</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.DetailSpeedMultiplierTooltip">将此云层的旋转速度乘以此倍增值，以设置其近景细节在地面云视图中的漂移和旋转速度。从太空观看时无效。</s>
+    <s id="Modifier.Clouds.DetailSpeedMultiplierTooltip">将此云层的旋转速度乘以此倍增值,以设置其近景细节在地面云视图中的漂移和旋转速度。从太空观看时无效。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.DetailStrengthLabel">细节强度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7680,7 +7680,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.HeightLabel">高度 (米)</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.HeightTooltip">云层高于海平面的高度，以米为单位。</s>
+    <s id="Modifier.Clouds.HeightTooltip">云层高于海平面的高度,以米为单位。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.InputChannelDataSlotName">输入通道</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7688,7 +7688,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.IntensityMaskDataSlotName">强度遮罩</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.IntensityMaskDataSlotTooltip">用于不旋转的遮罩的数据槽，乘以云层的不透明度，以便将云限制在特定区域。设为-1以禁用。</s>
+    <s id="Modifier.Clouds.IntensityMaskDataSlotTooltip">用于不旋转的遮罩的数据槽,乘以云层的不透明度,以便将云限制在特定区域。设为-1以禁用。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.Layer1DataSlotName">低空云层</s>
     <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -7704,13 +7704,13 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.MaskInfluenceLabel">遮罩影响</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.MaskInfluenceTooltip">遮罩层对此云层不透明度的影响强度（0 = 忽略遮罩，1 = 完全遮罩）。高空云层使用低值，雾使用高值。</s>
+    <s id="Modifier.Clouds.MaskInfluenceTooltip">遮罩层对此云层不透明度的影响强度（0 = 忽略遮罩,1 = 完全遮罩）。高空云层使用低值,雾使用高值。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.RotationSpeedLabel">旋转速度 (弧度/秒)</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.RotationSpeedTooltip">云层的旋转速度，以弧度每秒为单位，在星球自身旋转的基础上附加。</s>
+    <s id="Modifier.Clouds.RotationSpeedTooltip">云层的旋转速度,以弧度每秒为单位,在星球自身旋转的基础上附加。</s>
     <!--  -->
-    <s id="Modifier.Clouds.TerrainDisplacementTooltip">此云层跟随地形高度的强度，将其抬升以越过高地，使低空云不会切入升高地形（0 = 平坦外壳，1 = 完全跟随地形）。</s>
+    <s id="Modifier.Clouds.TerrainDisplacementTooltip">此云层跟随地形高度的强度,将其抬升以越过高地,使低空云不会切入升高地形（0 = 平坦外壳,1 = 完全跟随地形）。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.TerrainDisplacementLabel">地形跟随</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7718,7 +7718,7 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Clouds.TintTooltip">云的颜色。Alpha通道用作整体不透明度倍增器。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.ColorBands.DataIndexDataSlotTooltip">用于识别将使用哪个颜色条（或多个）的输入数据值。对于气态巨行星，这通常是单位球体上的y坐标。</s>
+    <s id="Modifier.ColorBands.DataIndexDataSlotTooltip">用于识别将使用哪个颜色条（或多个）的输入数据值。对于气态巨行星,这通常是单位球体上的y坐标。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.ColorBands.Description">基于数据值生成彩色条纹的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -7726,9 +7726,9 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.ColorBands.DisplayName.Header">彩色条纹</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.ColorBands.MaxInputValueTooltip">预期的最大输入值。与最小值一起使用时，这会设置输入数据值的预期范围，以便将其重新映射到0到1的范围。</s>
+    <s id="Modifier.ColorBands.MaxInputValueTooltip">预期的最大输入值。与最小值一起使用时,这会设置输入数据值的预期范围,以便将其重新映射到0到1的范围。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.ColorBands.MinInputValueTooltip">预期的最小输入值。与最大值一起使用，以确定输入数据的预期范围并将其重新映射到0到1的范围。</s>
+    <s id="Modifier.ColorBands.MinInputValueTooltip">预期的最小输入值。与最大值一起使用,以确定输入数据的预期范围并将其重新映射到0到1的范围。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.ColorBlend.ColorLabel">颜色</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7736,7 +7736,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.ColorBlend.DataIndexAlphaDataSlotName">Alpha 来源</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.ColorBlend.DataIndexAlphaDataSlotTooltip">可选的输入，指定用作源Alpha通道的数据值，而不是源颜色中定义的Alpha。</s>
+    <s id="Modifier.ColorBlend.DataIndexAlphaDataSlotTooltip">可选的输入,指定用作源Alpha通道的数据值,而不是源颜色中定义的Alpha。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.ColorBlend.Description">基于数据值混合两种颜色的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -7776,7 +7776,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Config.LinearRemapMaxClampedLabel">已限制</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Config.LinearRemapMaxClampedTooltip">如果启用，线性重映射将被限制在0到1的范围内。如果禁用，输出值可能超出0到1的范围。</s>
+    <s id="Modifier.Config.LinearRemapMaxClampedTooltip">如果启用,线性重映射将被限制在0到1的范围内。如果禁用,输出值可能超出0到1的范围。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Config.LinearRemapMaxLabel">最大值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7800,19 +7800,19 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.EnabledLabel">通道启用</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.EnabledTooltip">这是一种快速禁用陨石坑通道的简单方法，在开发和测试时很有用。</s>
+    <s id="Modifier.CraterPass.EnabledTooltip">这是一种快速禁用陨石坑通道的简单方法,在开发和测试时很有用。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.FrequencyLabel">噪声频率</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.FrequencyTooltip">生成陨石坑的噪声频率。频率越高，陨石坑越小越多。</s>
+    <s id="Modifier.CraterPass.FrequencyTooltip">生成陨石坑的噪声频率。频率越高,陨石坑越小越多。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.MaxDepthLabel">最大深度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.MaxDepthTooltip">陨石坑的最大深度，以米为单位。当陨石坑形状曲线在y轴上评估为-1时发生。</s>
+    <s id="Modifier.CraterPass.MaxDepthTooltip">陨石坑的最大深度,以米为单位。当陨石坑形状曲线在y轴上评估为-1时发生。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.NoiseLerpLabel">噪声插值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.NoiseLerpTooltip">用于在数据输入A和B之间线性插值陨石坑形状噪声的值。为0时，只有输入A为陨石坑形状提供噪声。为1时，只使用输入B。0和1之间的任何值在两者之间插值。</s>
+    <s id="Modifier.CraterPass.NoiseLerpTooltip">用于在数据输入A和B之间线性插值陨石坑形状噪声的值。为0时,只有输入A为陨石坑形状提供噪声。为1时,只使用输入B。0和1之间的任何值在两者之间插值。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.NoiseStrengthLabel">噪声强度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7820,15 +7820,15 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.RandomnessLabel">位置随机性</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.RandomnessTooltip">陨石坑位置噪声的随机性。随机性越低，陨石坑越一致（也越大），但排列会更像网格。</s>
+    <s id="Modifier.CraterPass.RandomnessTooltip">陨石坑位置噪声的随机性。随机性越低,陨石坑越一致（也越大）,但排列会更像网格。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.RotationAngleLabel">旋转角度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.RotationAngleTooltip">应用于输入位置的旋转角度，用于采样陨石坑位置和大小。有时稍微调整它有助于多个通道都希望在彼此之上堆叠陨石坑。</s>
+    <s id="Modifier.CraterPass.RotationAngleTooltip">应用于输入位置的旋转角度,用于采样陨石坑位置和大小。有时稍微调整它有助于多个通道都希望在彼此之上堆叠陨石坑。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.RotationAxisLabel">旋转轴</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CraterPass.RotationAxisTooltip">应用于输入位置的旋转角度的轴，用于采样陨石坑位置和大小。有时稍微调整旋转有助于多个通道都希望在彼此之上堆叠陨石坑。</s>
+    <s id="Modifier.CraterPass.RotationAxisTooltip">应用于输入位置的旋转角度的轴,用于采样陨石坑位置和大小。有时稍微调整旋转有助于多个通道都希望在彼此之上堆叠陨石坑。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CraterPass.SeedLabel">噪声种子</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7838,13 +7838,13 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.CraterCurveLabel">形状</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.CraterCurveTooltip">陨石坑相似的曲线。通常映射在(0,-1)和(1,0)之间。x轴是到陨石坑中心的距离，y轴是陨石坑深度。左侧从0开始是陨石坑中心；右侧通常以1结束是陨石坑边缘。底部从-1开始是最深处；顶部以0结束是星球的常规表面。</s>
+    <s id="Modifier.Craters.CraterCurveTooltip">陨石坑相似的曲线。通常映射在(0,-1)和(1,0)之间。x轴是到陨石坑中心的距离,y轴是陨石坑深度。左侧从0开始是陨石坑中心；右侧通常以1结束是陨石坑边缘。底部从-1开始是最深处；顶部以0结束是星球的常规表面。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.CraterFrequencyTooltip">生成陨石坑位置和大小的噪声频率。频率越高，陨石坑越小越多。</s>
+    <s id="Modifier.Craters.CraterFrequencyTooltip">生成陨石坑位置和大小的噪声频率。频率越高,陨石坑越小越多。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Craters.CraterMaskDataIndexDataSlotName">陨石坑遮罩输入</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.CraterMaskDataIndexDataSlotTooltip">如果使用，此数据输入可以遮罩此属性生成的陨石坑。通常为0到1之间的值，其中1表示完全强度无遮罩的陨石坑，0表示此属性不改变任何内容。</s>
+    <s id="Modifier.Craters.CraterMaskDataIndexDataSlotTooltip">如果使用,此数据输入可以遮罩此属性生成的陨石坑。通常为0到1之间的值,其中1表示完全强度无遮罩的陨石坑,0表示此属性不改变任何内容。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Craters.CraterNoiseOutputDataSlotName">陨石坑噪声输出</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -7854,11 +7854,11 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.CraterNoiseStrengthLabel">形状噪声强度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.CraterNoiseStrengthTooltip">陨石坑形状噪声的强度。此噪声为陨石坑形状添加变化，使它们不是完美的圆形。陨石坑形状噪声可高度配置，此值提供了一种简单的方法来调整其最终强度。</s>
+    <s id="Modifier.Craters.CraterNoiseStrengthTooltip">陨石坑形状噪声的强度。此噪声为陨石坑形状添加变化,使它们不是完美的圆形。陨石坑形状噪声可高度配置,此值提供了一种简单的方法来调整其最终强度。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.CraterPassesLabel">通道数量</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.CraterPassesTooltip">要执行的陨石坑通道数量。陨石坑通道成本较高，因此请谨慎使用；但是，多个陨石坑通道比相同数量的单通道陨石坑属性更便宜，效果相似。通道内的陨石坑不能重叠，但不同通道的陨石坑可以重叠。</s>
+    <s id="Modifier.Craters.CraterPassesTooltip">要执行的陨石坑通道数量。陨石坑通道成本较高,因此请谨慎使用；但是,多个陨石坑通道比相同数量的单通道陨石坑属性更便宜,效果相似。通道内的陨石坑不能重叠,但不同通道的陨石坑可以重叠。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Craters.CraterPositionNoiseGroup">陨石坑位置噪声</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7870,27 +7870,27 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Craters.HeightNoiseOutputDataIndexDataSlotName">高度噪声总和输出</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.HeightNoiseOutputDataIndexDataSlotTooltip">如果使用，此数据输出保存所有通道的加总陨石坑高度噪声。乘以陨石坑最大深度和最终陨石坑强度后，给出此属性应用的高度调整最终值。并非总是有用，但可以有用。例如，对于单通道陨石坑，此值可以精确定位陨石坑位置，因此可以将其输入到群系属性中，以在陨石坑内外生成群系。</s>
+    <s id="Modifier.Craters.HeightNoiseOutputDataIndexDataSlotTooltip">如果使用,此数据输出保存所有通道的加总陨石坑高度噪声。乘以陨石坑最大深度和最终陨石坑强度后,给出此属性应用的高度调整最终值。并非总是有用,但可以有用。例如,对于单通道陨石坑,此值可以精确定位陨石坑位置,因此可以将其输入到群系属性中,以在陨石坑内外生成群系。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.MaxHeightColorVarianceLabel">最大高度颜色变化</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时，添加到地形颜色的红、绿、蓝颜色值（0到1）。用于为陨石坑边缘添加一点颜色变化。</s>
+    <s id="Modifier.Craters.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红、绿、蓝颜色值（0到1）。用于为陨石坑边缘添加一点颜色变化。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.MinHeightColorVarianceLabel">最小高度颜色变化</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时，从地形颜色中减去的红、绿、蓝颜色值（0到1）。用于为陨石坑最深中心添加一点颜色变化。</s>
+    <s id="Modifier.Craters.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红、绿、蓝颜色值（0到1）。用于为陨石坑最深中心添加一点颜色变化。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.CratersFast.CraterNoiseADataIndexDataSlotName">噪声输入 A</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.CraterNoiseADataIndexDataSlotTooltip">第一个陨石坑形状噪声输入数据。每个陨石坑通道可以选择一个值，用于线性插值此噪声输入和另一个噪声输入，以生成该通道的陨石坑形状噪声值。这增加了变化，使陨石坑不会都呈现完美的圆形。相对于陨石坑大小，较低频率的噪声可以创建一些非常有趣的类陨石坑地形。</s>
+    <s id="Modifier.CratersFast.CraterNoiseADataIndexDataSlotTooltip">第一个陨石坑形状噪声输入数据。每个陨石坑通道可以选择一个值,用于线性插值此噪声输入和另一个噪声输入,以生成该通道的陨石坑形状噪声值。这增加了变化,使陨石坑不会都呈现完美的圆形。相对于陨石坑大小,较低频率的噪声可以创建一些非常有趣的类陨石坑地形。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.CratersFast.CraterNoiseBDataIndexDataSlotName">噪声输入 B</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.CraterNoiseBDataIndexDataSlotTooltip">第二个陨石坑形状噪声输入。每个陨石坑通道选择一个值，用于线性插值此噪声输入和另一个噪声输入，以生成该通道的陨石坑形状噪声。此噪声增加了变化，使陨石坑不会都看起来像完美的圆形。相对于陨石坑大小，较低频率的噪声可以创建一些非常有趣的类陨石坑地形。</s>
+    <s id="Modifier.CratersFast.CraterNoiseBDataIndexDataSlotTooltip">第二个陨石坑形状噪声输入。每个陨石坑通道选择一个值,用于线性插值此噪声输入和另一个噪声输入,以生成该通道的陨石坑形状噪声。此噪声增加了变化,使陨石坑不会都看起来像完美的圆形。相对于陨石坑大小,较低频率的噪声可以创建一些非常有趣的类陨石坑地形。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CratersFast.CraterPassesLabel">陨石坑通道</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.CurveTooltip">陨石坑相似的默认曲线。单个通道可以覆盖此值；没有自定义曲线的通道回退到此值。通常映射在(0,-1)和(1,0)之间。x轴是到陨石坑中心的距离，y轴是陨石坑深度。左侧从0开始是陨石坑中心；右侧通常以1结束是陨石坑边缘。底部从-1开始是最深处；顶部以0结束是星球的常规表面。</s>
+    <s id="Modifier.CratersFast.CurveTooltip">陨石坑相似的默认曲线。单个通道可以覆盖此值；没有自定义曲线的通道回退到此值。通常映射在(0,-1)和(1,0)之间。x轴是到陨石坑中心的距离,y轴是陨石坑深度。左侧从0开始是陨石坑中心；右侧通常以1结束是陨石坑边缘。底部从-1开始是最深处；顶部以0结束是星球的常规表面。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.CratersFast.Description">生成地形陨石坑特征的快速星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -7900,13 +7900,13 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.CratersFast.HeightNoiseMinOutputDataIndexDataSlotName">最小噪声输出</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.HeightNoiseMinOutputDataIndexDataSlotTooltip">可选的数据输出，存储用于陨石坑高度的最小噪声输出。</s>
+    <s id="Modifier.CratersFast.HeightNoiseMinOutputDataIndexDataSlotTooltip">可选的数据输出,存储用于陨石坑高度的最小噪声输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.CratersFast.LockSeedTooltip">防止点击随机化按钮时种子被随机化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时，添加到地形颜色的红、绿、蓝颜色值（通常为0到1）。用于为陨石坑边缘添加一点颜色变化。</s>
+    <s id="Modifier.CratersFast.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红、绿、蓝颜色值（通常为0到1）。用于为陨石坑边缘添加一点颜色变化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时，从地形颜色中减去的红、绿、蓝颜色值（通常为0到1）。用于为陨石坑最深中心添加一点颜色变化。</s>
+    <s id="Modifier.CratersFast.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红、绿、蓝颜色值（通常为0到1）。用于为陨石坑最深中心添加一点颜色变化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.CratersFast.SeedSyncIdTooltip">允许多个未锁定的噪声元素在点击随机化按钮时获得相同的种子。</s>
     <!-- Font:Primary -->
@@ -7924,7 +7924,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CubemapData.InterpolationMethodLabel">插值方法</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CubemapData.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑，但并不总是比双线性看起来更好，因为外观很大程度上取决于纹理内容和分辨率。除非双三次提供明显更好的视觉效果，否则请坚持使用双线性以提高性能。</s>
+    <s id="Modifier.CubemapData.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑,但并不总是比双线性看起来更好,因为外观很大程度上取决于纹理内容和分辨率。除非双三次提供明显更好的视觉效果,否则请坚持使用双线性以提高性能。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CubemapData.MapColorGradientLabel">地图颜色渐变</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7956,7 +7956,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CubemapData.TextureChannelBitsPerPixelLabel">位每像素</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CubemapData.TextureChannelBitsPerPixelTooltip">在运行时表示纹理数据使用的每像素位数。值为32可能在CPU上稍高效，但在运行时使用更多内存，特别是对于大纹理。建议将此值保留为每像素8位。</s>
+    <s id="Modifier.CubemapData.TextureChannelBitsPerPixelTooltip">在运行时表示纹理数据使用的每像素位数。值为32可能在CPU上稍高效,但在运行时使用更多内存,特别是对于大纹理。建议将此值保留为每像素8位。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CubemapData.TextureChannelLabel">纹理通道</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7996,7 +7996,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.DebugFace.DisplayName.Header">调试可视化 (立方体贴图)</s>
     <!-- Font:Primary -->
-    <s id="Modifier.DebugVisualize.DataIndexInputDataSlotTooltip">要可视化的输入数据。此值将在由此属性指定的最小值和最大值之间线性插值，然后根据指定的渐变应用颜色。</s>
+    <s id="Modifier.DebugVisualize.DataIndexInputDataSlotTooltip">要可视化的输入数据。此值将在由此属性指定的最小值和最大值之间线性插值,然后根据指定的渐变应用颜色。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.DebugVisualize.Description">在星球表面可视化数据值的调试星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8028,7 +8028,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.DomainWarping.DomainWarpingTypeLabel">域扭曲类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.DomainWarping.DomainWarpingTypeTooltip">域扭曲的类型。域扭曲在生成实际噪声之前调整输入位置，从而"扭曲"它。某些类型使用额外的噪声来执行扭曲。</s>
+    <s id="Modifier.DomainWarping.DomainWarpingTypeTooltip">域扭曲的类型。域扭曲在生成实际噪声之前调整输入位置,从而"扭曲"它。某些类型使用额外的噪声来执行扭曲。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.DomainWarping.FrequencyTooltip">域扭曲噪声的频率。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8056,11 +8056,11 @@
     <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
     <s id="Modifier.DomainWarping.OffsetLabel">偏移</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.DomainWarping.OffsetTooltip">在生成该位置噪声值之前，要应用于输入位置的X,Y,Z偏移量。</s>
+    <s id="Modifier.DomainWarping.OffsetTooltip">在生成该位置噪声值之前,要应用于输入位置的X,Y,Z偏移量。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.DomainWarping.RotationLabel">旋转</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.DomainWarping.RotationTooltip">在生成该位置噪声值之前，要应用于输入位置的欧拉角（以度为单位）。</s>
+    <s id="Modifier.DomainWarping.RotationTooltip">在生成该位置噪声值之前,要应用于输入位置的欧拉角（以度为单位）。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.DomainWarping.SeedLabel">种子</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8076,7 +8076,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.DomainWarping.TwistExponentLabel">指数</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.DomainWarping.TwistExponentTooltip">要应用于扭曲量的指数。增加此值可以减少赤道附近的扭曲，并增加两极附近的扭曲。</s>
+    <s id="Modifier.DomainWarping.TwistExponentTooltip">要应用于扭曲量的指数。增加此值可以减少赤道附近的扭曲,并增加两极附近的扭曲。</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.DomainWarping.TwistMethod.DistanceFromAxis">距轴距离</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8092,7 +8092,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.DomainWarping.WarpScaleLabel">扭曲缩放</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.DomainWarping.WarpScaleTooltip">在生成该位置噪声值之前，要应用于输入位置的X,Y,Z缩放比例。</s>
+    <s id="Modifier.DomainWarping.WarpScaleTooltip">在生成该位置噪声值之前,要应用于输入位置的X,Y,Z缩放比例。</s>
     <!-- Font:Primary -->
     <s id="Modifier.Expression.DataIndexOutputDataSlotTooltip">表达式的数据输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8102,7 +8102,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.Expression.DisplayName.Header">表达式</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Flatten.DataIndexInputDataSlotTooltip">用作遮罩的数据输入值。为1.0时，地形完全平整，向0.0逐渐过渡到原始高度。</s>
+    <s id="Modifier.Flatten.DataIndexInputDataSlotTooltip">用作遮罩的数据输入值。为1.0时,地形完全平整,向0.0逐渐过渡到原始高度。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Flatten.Description">平整某区域地形的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8116,7 +8116,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Flatten.SmoothStepLabel">使用平滑阶梯</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Flatten.SmoothStepTooltip">如果启用，输入值将在被用作平整遮罩之前应用平滑阶梯函数。</s>
+    <s id="Modifier.Flatten.SmoothStepTooltip">如果启用,输入值将在被用作平整遮罩之前应用平滑阶梯函数。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.GenerateHeight.DataIndexInputDataSlotTooltip">用于生成高度的输入数据值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8128,7 +8128,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.GenerateHeight.DisplayName.Header">生成高度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.GenerateHeight.GenerateHeightTypeTooltip">如何解释数据输入以生成高度输出。从最小到最大线性插值：高度根据输入值及其指定范围从最小值线性插值到最大值。插值到/从零点：如果输入为负，则从最小值线性插值到零；如果为正，则从零线性插值到最大值。如果最小和最大高度不跨越零，请勿使用此选项。</s>
+    <s id="Modifier.GenerateHeight.GenerateHeightTypeTooltip">如何解释数据输入以生成高度输出。从最小到最大线性插值：高度根据输入值及其指定范围从最小值线性插值到最大值。插值到/从零点：如果输入为负,则从最小值线性插值到零；如果为正,则从零线性插值到最大值。如果最小和最大高度不跨越零,请勿使用此选项。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.GenerateHeight.InputMaxValueTooltip">用于创建输入值将线性插值范围的最小输入值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8198,11 +8198,11 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.GetHeight.HeightTypeLabel">高度类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.GetHeight.HeightTypeTooltip">要检索的高度值类型。默认：在非群系通道中为通用高度，在群系通道中为群系高度。通用高度：无论通道如何，都是通用高度。群系高度：在群系通道中为群系高度；在非群系通道中运行则检索通用高度。组合高度：在群系通道中为群系高度加通用高度；在非群系通道中运行则检索通用高度。</s>
+    <s id="Modifier.GetHeight.HeightTypeTooltip">要检索的高度值类型。默认：在非群系通道中为通用高度,在群系通道中为群系高度。通用高度：无论通道如何,都是通用高度。群系高度：在群系通道中为群系高度；在非群系通道中运行则检索通用高度。组合高度：在群系通道中为群系高度加通用高度；在非群系通道中运行则检索通用高度。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.GetHeight.IncludeRadiusLabel">包含半径</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.GetHeight.IncludeRadiusTooltip">如果启用，天体的半径将被添加到属性的输出中。这通常不启用。</s>
+    <s id="Modifier.GetHeight.IncludeRadiusTooltip">如果启用,天体的半径将被添加到属性的输出中。这通常不启用。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.GetPosition.DataIndexXDataSlotName">X</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8242,7 +8242,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Interpolate.DataIndexInputCDataSlotName">插值输入</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Interpolate.DataIndexInputCDataSlotTooltip">用于在两个输入之间进行插值的值。低于最小输入值时，输出为输入"A"。高于最大输入值时，输出为输入"B"。在此之间时，输出根据该值在指定最小/最大范围内的位置进行插值。</s>
+    <s id="Modifier.Interpolate.DataIndexInputCDataSlotTooltip">用于在两个输入之间进行插值的值。低于最小输入值时,输出为输入"A"。高于最大输入值时,输出为输入"B"。在此之间时,输出根据该值在指定最小/最大范围内的位置进行插值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Interpolate.DataIndexOutputDataSlotTooltip">插值的结果。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8268,7 +8268,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.LayeredBiomes.InputTypeLabel">类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.LayeredBiomes.InputTypeTooltip">确定如何将输入转换为群系。单一群系 - 输入值是主群系的强度，从0的0%到1的100%。双群系（负和正）- 输入值代表两个群系。主群系的强度从0（0%）到1（100%）；另一个群系从0（0%）到-1（100%）。双群系（正和剩余）- 输入值代表两个群系。主群系的强度从0（0%）到1（100%）；另一个群系的强度为主群系的100%减去。</s>
+    <s id="Modifier.LayeredBiomes.InputTypeTooltip">确定如何将输入转换为群系。单一群系 - 输入值是主群系的强度,从0的0%到1的100%。双群系（负和正）- 输入值代表两个群系。主群系的强度从0（0%）到1（100%）；另一个群系从0（0%）到-1（100%）。双群系（正和剩余）- 输入值代表两个群系。主群系的强度从0（0%）到1（100%）；另一个群系的强度为主群系的100%减去。</s>
     <!-- Format Font:Primary ; LayeredBiomes data slot label; {0} is the layer number, {1} is the input number -->
     <s id="Modifier.LayeredBiomes.LayerInputDataSlotNameFormat">层级 {0} - 输入 {1}</s>
     <!-- Font:Primary -->
@@ -8282,7 +8282,7 @@
     <!-- Font:Primary -->
     <s id="Modifier.LinearInterpolate01.DataIndexInputCDataSlotName">插值输入</s>
     <!-- Font:Primary -->
-    <s id="Modifier.LinearInterpolate01.DataIndexInputCDataSlotTooltip">用于在两个输入之间进行插值的值。如果此值低于最小输入值，输出将为输入"A"。如果此值高于最大输入值，输出将为输入"B"。如果此值介于两个值之间，输出将根据此值在零到一之间的位置线性插值。</s>
+    <s id="Modifier.LinearInterpolate01.DataIndexInputCDataSlotTooltip">用于在两个输入之间进行插值的值。如果此值低于最小输入值,输出将为输入"A"。如果此值高于最大输入值,输出将为输入"B"。如果此值介于两个值之间,输出将根据此值在零到一之间的位置线性插值。</s>
     <!-- Font:Primary -->
     <s id="Modifier.LinearInterpolate01.DataIndexOutputDataSlotTooltip">插值的结果。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8292,7 +8292,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.LinearInterpolate01.DisplayName.Header">插值 (线性 0 到 1)</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.LongitudeLines.DataIndexInputDataSlotTooltip">应用于线条的可选噪声输入。输入值用作经度变化（以度为单位），因此值为1会将线条的输出位置偏移一度。通常此输入来自强度值为"x"度的噪声属性。</s>
+    <s id="Modifier.LongitudeLines.DataIndexInputDataSlotTooltip">应用于线条的可选噪声输入。输入值用作经度变化（以度为单位）,因此值为1会将线条的输出位置偏移一度。通常此输入来自强度值为"x"度的噪声属性。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.LongitudeLines.DataIndexOutputDataSlotTooltip">此属性计算的线条输出数据。这应该在零（无线条）到1（线条中心）的范围内。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8334,7 +8334,7 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.LongitudeLines.WarpOctavesTooltip">应用于输入的域扭曲噪声使用的倍频数。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.PolarCapMask.DataIndexOutputDataSlotTooltip">表示极冠的输出数据值。北极冠从0到1，南极冠从0到-1。</s>
+    <s id="Modifier.PolarCapMask.DataIndexOutputDataSlotTooltip">表示极冠的输出数据值。北极冠从0到1,南极冠从0到-1。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.PolarCapMask.Description">为星球的极冠区域生成遮罩的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8360,7 +8360,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.RadialFlatten.InnerRadiusLabel">内半径</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RadialFlatten.InnerRadiusTooltip">要平整的地形的内半径（以米为单位）。此半径内的所有地形都设置为指定海拔。内半径到外半径之间，海拔从平整逐渐过渡回未平整。</s>
+    <s id="Modifier.RadialFlatten.InnerRadiusTooltip">要平整的地形的内半径（以米为单位）。此半径内的所有地形都设置为指定海拔。内半径到外半径之间,海拔从平整逐渐过渡回未平整。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.RadialFlatten.LatlongLabel">纬度/经度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8368,9 +8368,9 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.RadialFlatten.OuterRadiusLabel">外半径</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RadialFlatten.OuterRadiusTooltip">要平整的地形的外半径（以米为单位）。超出此半径的所有地形不受此属性影响。内半径和外半径之间，海拔从平整逐渐过渡到未平整。</s>
+    <s id="Modifier.RadialFlatten.OuterRadiusTooltip">要平整的地形的外半径（以米为单位）。超出此半径的所有地形不受此属性影响。内半径和外半径之间,海拔从平整逐渐过渡到未平整。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RadialFlatten.SmoothStepTooltip">使用平滑阶梯函数而不是衰减功率曲线。如果选中，则衰减功率将被忽略。</s>
+    <s id="Modifier.RadialFlatten.SmoothStepTooltip">使用平滑阶梯函数而不是衰减功率曲线。如果选中,则衰减功率将被忽略。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.RemapCurve.DataIndexInputDataSlotTooltip">要重新映射的数据输入值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8384,7 +8384,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.RemapCurve.RemapCurveLabel">曲线</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RemapCurve.RemapCurveTooltip">用于重新映射输入值的曲线。X轴代表输入值，Y轴定义它们将被重新映射到的值。</s>
+    <s id="Modifier.RemapCurve.RemapCurveTooltip">用于重新映射输入值的曲线。X轴代表输入值,Y轴定义它们将被重新映射到的值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.RemapLinear.Description">将数据值从某个范围线性重新映射到另一个范围的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8413,13 +8413,13 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.RemapLinearDual.DisplayName.Header">重映射 (线性镜像)</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RemapLinearDual.FromMaxValueTooltip">值被重新映射的范围的最大值。等于或超过此值的输入值被重新映射到"到最大值"。介于"从最小值"和此值之间的输入值在"到最小值"和"到最大值"之间线性插值。当输入低于零时，这些结果关于零镜像。</s>
+    <s id="Modifier.RemapLinearDual.FromMaxValueTooltip">值被重新映射的范围的最大值。等于或超过此值的输入值被重新映射到"到最大值"。介于"从最小值"和此值之间的输入值在"到最小值"和"到最大值"之间线性插值。当输入低于零时,这些结果关于零镜像。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RemapLinearDual.FromMinValueTooltip">值被重新映射的范围的最小值。等于或低于此值的输入值被重新映射到"到最小值"。介于此值和"从最大值"之间的输入值在"到最小值"和"到最大值"之间线性插值。当输入低于零时，结果关于零镜像。</s>
+    <s id="Modifier.RemapLinearDual.FromMinValueTooltip">值被重新映射的范围的最小值。等于或低于此值的输入值被重新映射到"到最小值"。介于此值和"从最大值"之间的输入值在"到最小值"和"到最大值"之间线性插值。当输入低于零时,结果关于零镜像。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RemapLinearDual.ToMaxValueTooltip">值被重新映射到的范围的最大值。等于或超过"从最大值"的输入值重新映射到此值。介于"从最小值"和"从最大值"之间的输入值在"到最小值"和此值之间线性插值。当输入低于零时，这些结果关于零镜像。</s>
+    <s id="Modifier.RemapLinearDual.ToMaxValueTooltip">值被重新映射到的范围的最大值。等于或超过"从最大值"的输入值重新映射到此值。介于"从最小值"和"从最大值"之间的输入值在"到最小值"和此值之间线性插值。当输入低于零时,这些结果关于零镜像。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RemapLinearDual.ToMinValueTooltip">值被重新映射到的范围的最小值。等于或低于"从最小值"的输入值重新映射到此值。介于"从最小值"和"从最大值"之间的输入值在此值和"到最大值"之间线性插值。当输入低于零时，结果关于零镜像。</s>
+    <s id="Modifier.RemapLinearDual.ToMinValueTooltip">值被重新映射到的范围的最小值。等于或低于"从最小值"的输入值重新映射到此值。介于"从最小值"和"从最大值"之间的输入值在此值和"到最大值"之间线性插值。当输入低于零时,结果关于零镜像。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.ResourceDistribution.Description">标记哪个数据槽持有ISRU资源分布字段（0..1）。在上游使用普通噪声/重映射/组合属性创作值；然后每个子群系的"噪声强度"滑块选择应用多少。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8465,13 +8465,13 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Terraces2.ClampMaxLabel">限制最大值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Terraces2.ClampMaxTooltip">如果启用，超出最终梯田部分"起始值"的输入值将被限制为该"起始值"。如果禁用，超出最终"起始值"的输入值将原样传递到输出。</s>
+    <s id="Modifier.Terraces2.ClampMaxTooltip">如果启用,超出最终梯田部分"起始值"的输入值将被限制为该"起始值"。如果禁用,超出最终"起始值"的输入值将原样传递到输出。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Terraces2.ClampMinLabel">限制最小值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Terraces2.ClampMinTooltip">如果启用，低于第一个梯田部分"起始值"的输入值将被限制为该"起始值"。如果禁用，低于第一个"起始值"的输入值将原样传递到输出。</s>
+    <s id="Modifier.Terraces2.ClampMinTooltip">如果启用,低于第一个梯田部分"起始值"的输入值将被限制为该"起始值"。如果禁用,低于第一个"起始值"的输入值将原样传递到输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Terraces2.DataIndexInputDataSlotTooltip">要转换为梯田输出值的数据输入值。此值可以在任何范围内，只要每个部分的相应起始值使用相同的范围。</s>
+    <s id="Modifier.Terraces2.DataIndexInputDataSlotTooltip">要转换为梯田输出值的数据输入值。此值可以在任何范围内,只要每个部分的相应起始值使用相同的范围。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Terraces2.DataIndexOutputDataSlotTooltip">属性的数据输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8525,9 +8525,9 @@
     <!-- Font:Primary -->
     <s id="Modifier.TextureDataItem.InterpolationMethod.Bilinear">双线性</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑，但并不总是比双线性看起来更好，因为外观很大程度上取决于纹理内容和分辨率以及纹理在天体上的大小。除非双三次提供明显更好的视觉效果，否则请坚持使用双线性以提高性能。</s>
+    <s id="Modifier.TextureDataItem.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑,但并不总是比双线性看起来更好,因为外观很大程度上取决于纹理内容和分辨率以及纹理在天体上的大小。除非双三次提供明显更好的视觉效果,否则请坚持使用双线性以提高性能。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem.MaxOutputValueTooltip">此纹理生成的最大值，添加到最大像素值的属性输出。例如，如果这是100且像素范围从0到255，则像素0生成0，像素102生成40，像素255生成100。</s>
+    <s id="Modifier.TextureDataItem.MaxOutputValueTooltip">此纹理生成的最大值,添加到最大像素值的属性输出。例如,如果这是100且像素范围从0到255,则像素0生成0,像素102生成40,像素255生成100。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TextureDataItem.PathLabel">纹理</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8535,7 +8535,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TextureDataItem.PositionLabel">位置</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem.PositionTooltip">纹理在立方体面上的中心位置。坐标为单位立方体空间，从-0.5到0.5。</s>
+    <s id="Modifier.TextureDataItem.PositionTooltip">纹理在立方体面上的中心位置。坐标为单位立方体空间,从-0.5到0.5。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TextureDataItem.RotationLabel">旋转</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8543,7 +8543,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TextureDataItem.SizeLabel">尺寸</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem.SizeTooltip">纹理相对于立方体面的尺寸。坐标为单位立方体空间，大小值为1时填充整个立方体贴图面。</s>
+    <s id="Modifier.TextureDataItem.SizeTooltip">纹理相对于立方体面的尺寸。坐标为单位立方体空间,大小值为1时填充整个立方体贴图面。</s>
     <!-- Font:Primary -->
     <s id="Modifier.TextureDataItem.TextureChannel.Alpha">Alpha</s>
     <!-- Font:Primary -->
@@ -8561,7 +8561,7 @@
     <!-- Font:Primary -->
     <s id="Modifier.TextureDataItem2.InterpolationMethod.Bilinear">双线性</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem2.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑，但并不总是比双线性看起来更好，因为外观很大程度上取决于纹理内容和分辨率以及投影纹理的大小。除非双三次提供明显更好的视觉效果，否则请坚持使用双线性以提高性能。</s>
+    <s id="Modifier.TextureDataItem2.InterpolationMethodTooltip">采样纹理数据时使用的插值方法。双线性应该快得多。双三次应该更平滑,但并不总是比双线性看起来更好,因为外观很大程度上取决于纹理内容和分辨率以及投影纹理的大小。除非双三次提供明显更好的视觉效果,否则请坚持使用双线性以提高性能。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.TextureDataItem2.LatitudeTooltip">此纹理数据应居中并投影到天体上的纬度。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8577,7 +8577,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TextureDataItem2.SizeLabel">尺寸</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.TextureDataItem2.SizeTooltip">投影到星球上的纹理大小，相对于单位球体。此大小与天体的半径无关或不受其影响。</s>
+    <s id="Modifier.TextureDataItem2.SizeTooltip">投影到星球上的纹理大小,相对于单位球体。此大小与天体的半径无关或不受其影响。</s>
     <!-- Font:Primary -->
     <s id="Modifier.TextureDataItem2.TextureChannel.Alpha">Alpha</s>
     <!-- Font:Primary -->
@@ -8653,7 +8653,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.UpdateFinalHeight.IgnoreBiomeStrengthScaleLabel">忽略群系强度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.UpdateFinalHeight.IgnoreBiomeStrengthScaleTooltip">如果启用且为特定群系运行，应用高度时将忽略该群系的强度。如果禁用，高度将按此属性运行的群系的强度进行缩放。</s>
+    <s id="Modifier.UpdateFinalHeight.IgnoreBiomeStrengthScaleTooltip">如果启用且为特定群系运行,应用高度时将忽略该群系的强度。如果禁用,高度将按此属性运行的群系的强度进行缩放。</s>
     <!-- Toast Font:Primary ; validation warning -->
     <s id="Modifier.Validation.LowBattery">可能需要更多电池才能运行。</s>
     <!-- Toast Font:Primary ; validation warning -->
@@ -8665,7 +8665,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.ValueRange.RangeLabel">范围</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.ValueRange.RangeTooltip">此子群系的值范围，定义为定义它的输入数据的最小和最大 values。最小/最大值应与相邻子群系重叠，以便在它们之间平滑过渡。</s>
+    <s id="Modifier.ValueRange.RangeTooltip">此子群系的值范围,定义为定义它的输入数据的最小和最大 values。最小/最大值应与相邻子群系重叠,以便在它们之间平滑过渡。</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.CellularDistanceFunction.Euclidean">欧几里得</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8697,9 +8697,9 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.CellularReturnTypeLabel">单元返回类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.CellularReturnTypeTooltip">使用单元噪声时，这决定了什么样的值将被存储为该属性的输出。</s>
+    <s id="Modifier.VertexDataNoise.CellularReturnTypeTooltip">使用单元噪声时,这决定了什么样的值将被存储为该属性的输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.DataIndexDataSlotTooltip">此噪声属性的输出。许多噪声方法限制在-1到1之间，但并不总是如此。</s>
+    <s id="Modifier.VertexDataNoise.DataIndexDataSlotTooltip">此噪声属性的输出。许多噪声方法限制在-1到1之间,但并不总是如此。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.Description">可用于生成各种噪声的高度可配置的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8713,7 +8713,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalAmplitudeTypeLabel">分形振幅类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalAmplitudeTypeTooltip">通常每个倍频按"增益"值缩放前一个倍频的振幅。如果设置为手动，每个倍频的振幅可以设置为特定值。这是一项高级技术，通常不推荐，但在某些情况下非常有用。</s>
+    <s id="Modifier.VertexDataNoise.FractalAmplitudeTypeTooltip">通常每个倍频按"增益"值缩放前一个倍频的振幅。如果设置为手动,每个倍频的振幅可以设置为特定值。这是一项高级技术,通常不推荐,但在某些情况下非常有用。</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalLacunarityType.Default">默认</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8721,7 +8721,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalLacunarityTypeLabel">分形空缺度类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalLacunarityTypeTooltip">通常每个噪声倍频按"空缺度"值缩放前一个倍频的频率。如果设置为手动，每个倍频的频率可以设置为特定值。这是一项高级技术，通常不推荐，但在某些情况下非常有用。</s>
+    <s id="Modifier.VertexDataNoise.FractalLacunarityTypeTooltip">通常每个噪声倍频按"空缺度"值缩放前一个倍频的频率。如果设置为手动,每个倍频的频率可以设置为特定值。这是一项高级技术,通常不推荐,但在某些情况下非常有用。</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalType.Billow">Billow</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8751,7 +8751,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalTypeLabel">分形类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声，这设置分形类型。它们各自以不同的、有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
+    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声,这设置分形类型。它们各自以不同的、有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalWithDerivativeType.GDCSwiss">GDC Swiss</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8759,7 +8759,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeLabel">导数分形类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeTooltip">如果使用基于分形导数的噪声，这设置使用的类型。这些都以不同且有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
+    <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeTooltip">如果使用基于分形导数的噪声,这设置使用的类型。这些都以不同且有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.FrequencyTooltip">每单位长度的周期数。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8777,11 +8777,11 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.LockSeedLabel">锁定种子</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MapColorGradientTooltip">如果为此属性绘制了自定义地图，这是画笔弹出菜单中将使用的颜色渐变。</s>
+    <s id="Modifier.VertexDataNoise.MapColorGradientTooltip">如果为此属性绘制了自定义地图,这是画笔弹出菜单中将使用的颜色渐变。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapIgnoreLabel">禁用地图</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MapIgnoreTooltip">如果启用，这将忽略为此属性创建的任何自定义地图（使用画笔弹出菜单）。</s>
+    <s id="Modifier.VertexDataNoise.MapIgnoreTooltip">如果启用,这将忽略为此属性创建的任何自定义地图（使用画笔弹出菜单）。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapMaxValueLabel">地图最大值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8791,11 +8791,11 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.MapMinValueTooltip">地图像素数据表示的最小值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MapNameTooltip">此属性的可选地图ID。如果留空，此画笔弹出菜单不能使用此属性创建自定义绘制地图。这应该是所创建天体中的唯一名称。</s>
+    <s id="Modifier.VertexDataNoise.MapNameTooltip">此属性的可选地图ID。如果留空,此画笔弹出菜单不能使用此属性创建自定义绘制地图。这应该是所创建天体中的唯一名称。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapNoiseCombineLabel">地图噪声组合</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MapNoiseCombineTooltip">如果启用且使用了立方体贴图，常规噪声将与立方体贴图噪声组合。如果为false，则只返回立方体贴图噪声值。</s>
+    <s id="Modifier.VertexDataNoise.MapNoiseCombineTooltip">如果启用且使用了立方体贴图,常规噪声将与立方体贴图噪声组合。如果为false,则只返回立方体贴图噪声值。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapNoiseStrengthLabel">地图噪声强度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8807,11 +8807,11 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapSampleModeLabel">地图采样模式</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MapSampleModeTooltip">如果使用了自定义立方体贴图，这设置将地图数据应用到星球的采样模式。双三次通常看起来更好（但并不总是），但它比双线性昂贵得多。</s>
+    <s id="Modifier.VertexDataNoise.MapSampleModeTooltip">如果使用了自定义立方体贴图,这设置将地图数据应用到星球的采样模式。双三次通常看起来更好（但并不总是）,但它比双线性昂贵得多。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.VertexDataNoise.MaskDataIndexDataSlotName">遮罩</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.MaskDataIndexDataSlotTooltip">用作此属性遮罩的可选数据输入。这些值通常为0到1，并缩放噪声结果的强度。</s>
+    <s id="Modifier.VertexDataNoise.MaskDataIndexDataSlotTooltip">用作此属性遮罩的可选数据输入。这些值通常为0到1,并缩放噪声结果的强度。</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.NoiseType.Cellular">单元</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8837,7 +8837,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.NoiseTypeLabel">噪声类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.OctavesTooltip">运行噪声的次数，每次都通过空缺度修改其频率并通过增益修改其强度。更多倍频可以改善视觉效果但降低运行时性能。</s>
+    <s id="Modifier.VertexDataNoise.OctavesTooltip">运行噪声的次数,每次都通过空缺度修改其频率并通过增益修改其强度。更多倍频可以改善视觉效果但降低运行时性能。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.VertexDataNoise.PlanetBrushMapGroup">星球画笔地图</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8857,21 +8857,21 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Mods.Required.AuthorFormat">作者: {0}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Mods.Required.ClickToSearch"> 点击下面的模组，即可在网站上搜索该模组.</s>
+   <s id="Mods.Required.ClickToSearch"> 点击下面的模组,即可在网站上搜索该模组.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Mods.Required.CodeExecution.AppendDesktop">这些模组中的一个或多个需要代码执行支持，而此版本的游戏不支持该功能</s>
+   <s id="Mods.Required.CodeExecution.AppendDesktop">这些模组中的一个或多个需要代码执行支持,而此版本的游戏不支持该功能</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Mods.Required.CodeExecution.AppendMobile">这些模组中的一个或多个需要代码执行支持，但此设备不支持该功能。</s>
+   <s id="Mods.Required.CodeExecution.AppendMobile">这些模组中的一个或多个需要代码执行支持,但此设备不支持该功能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Mods.Required.Header.AllInstalled">加载此项目需要以下模组。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Mods.Required.Header.CodeExecutionOnlyDesktop">加载此项目需要以下模组，其中一些模组需要代码执行支持，而此版本的游戏不支持该功能。</s>
+   <s id="Mods.Required.Header.CodeExecutionOnlyDesktop">加载此项目需要以下模组,其中一些模组需要代码执行支持,而此版本的游戏不支持该功能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Mods.Required.Header.CodeExecutionOnlyMobile">加载此项目需要以下模组，其中一些模组需要代码执行支持，而此设备不支持该功能。</s>
+   <s id="Mods.Required.Header.CodeExecutionOnlyMobile">加载此项目需要以下模组,其中一些模组需要代码执行支持,而此设备不支持该功能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Mods.Required.Header.MissingOrDisabled">加载此项目需要以下模组，其中一些当前尚未安装或启用.</s>
+   <s id="Mods.Required.Header.MissingOrDisabled">加载此项目需要以下模组,其中一些当前尚未安装或启用.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Mods.Required.Header.Outdated">加载此项目需要以下模组，其中一些已安装但已过时，需要更新.</s>
+   <s id="Mods.Required.Header.Outdated">加载此项目需要以下模组,其中一些已安装但已过时,需要更新.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Mods.Required.RequiresCodeExecution">需要代码执行支持</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -8899,7 +8899,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="NoiseFlyout.CannotDuplicateError">无法复制所选元素。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
-    <s id="NoiseFlyout.CannotMoveError">无法移动所选内容，因为它包含至少一个与目标不兼容的元素：</s>
+    <s id="NoiseFlyout.CannotMoveError">无法移动所选内容,因为它包含至少一个与目标不兼容的元素：</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="NoiseFlyout.DataInputsOutputsGroup">数据输入/输出</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8909,13 +8909,13 @@
     <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
     <s id="NoiseFlyout.DisabledWithSymbolsLabel">带符号禁用</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="NoiseFlyout.DisabledWithSymbolsTooltip">当定义任何这些符号时，此属性被禁用。使用逗号分隔的"符号"列表。&#10;&#10;CUBEMAP：当为星球生成立方体贴图时定义（用于地图视图和远距观看）。&#10;&#10;EQUIRECTANGULARMAP：当为星球生成等距矩形地图时定义。&#10;&#10;立方体贴图 - [MapName]：当存在该星球的星球画笔立方体贴图（使用画笔弹出菜单创建）时定义，[MapName] 替换为星球画笔立方体贴图的实际名称。</s>
+    <s id="NoiseFlyout.DisabledWithSymbolsTooltip">当定义任何这些符号时,此属性被禁用。使用逗号分隔的"符号"列表。&#10;&#10;CUBEMAP：当为星球生成立方体贴图时定义（用于地图视图和远距观看）。&#10;&#10;EQUIRECTANGULARMAP：当为星球生成等距矩形地图时定义。&#10;&#10;立方体贴图 - [MapName]：当存在该星球的星球画笔立方体贴图（使用画笔弹出菜单创建）时定义,[MapName] 替换为星球画笔立方体贴图的实际名称。</s>
     <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
     <s id="NoiseFlyout.EnabledLabel">启用</s>
     <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
     <s id="NoiseFlyout.EnabledWithSymbolsLabel">带符号启用</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="NoiseFlyout.EnabledWithSymbolsTooltip">仅当所有这些符号都被定义时，此属性才被启用。使用逗号分隔的"符号"列表。&#10;&#10;CUBEMAP：当生成星球的立方体贴图时定义（用于地图视图和远距观看）。&#10;&#10;EQUIRECTANGULARMAP：当生成星球的等距矩形地图时定义。&#10;&#10;立方体贴图 - [MapName]：当存在该星球的星球画笔立方体贴图（使用画笔弹出菜单创建）时定义，[MapName] 替换为画笔立方体贴图的实际名称。</s>
+    <s id="NoiseFlyout.EnabledWithSymbolsTooltip">仅当所有这些符号都被定义时,此属性才被启用。使用逗号分隔的"符号"列表。&#10;&#10;CUBEMAP：当生成星球的立方体贴图时定义（用于地图视图和远距观看）。&#10;&#10;EQUIRECTANGULARMAP：当生成星球的等距矩形地图时定义。&#10;&#10;立方体贴图 - [MapName]：当存在该星球的星球画笔立方体贴图（使用画笔弹出菜单创建）时定义,[MapName] 替换为画笔立方体贴图的实际名称。</s>
     <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
     <s id="NoiseFlyout.NameLabel">名称</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9293,7 +9293,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CoverEngineData.CoverEngine.Label">覆盖引擎</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CoverEngineData.CoverEngine.Tooltip">判断当该部件连接到燃料箱上的同一位置时，是否应自动尝试调整自身大小以覆盖发动机。</s>
+   <s id="Parts.CoverEngineData.CoverEngine.Tooltip">判断当该部件连接到燃料箱上的同一位置时,是否应自动尝试调整自身大小以覆盖发动机。</s>
    <!-- Font:Primary -->
    <s id="Parts.CrewCompartmentData.CapacityLabel.Format">总容量: {0}, 可用: {1}</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -15891,9 +15891,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetRotation">设置多功能显示屏控件的旋转角度,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetScale">使用向量的x和y分量来设置widget的比例。比例与大小不同，因为它还会缩放子widget，并且是一个从0到1的百分比。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetScale">使用向量的x和y分量来设置widget的比例。比例与大小不同,因为它还会缩放子widget,并且是一个从0到1的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetSize">使用向量的x和y分量来设置多功能显示屏widget的大小。大小与缩放的不同之处在于，它并不一定会调整子widget的大小，并且是以显示单位而不是百分比来计算的。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetSize">使用向量的x和y分量来设置多功能显示屏widget的大小。大小与缩放的不同之处在于,它并不一定会调整子widget的大小,并且是以显示单位而不是百分比来计算的。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.SetVisible">设置多功能显示屏控件的可见性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16969,7 +16969,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.list-get">获取列表中指定索引处的项目。索引1是列表中的第一项。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.list-index">获取列表中项目的索引。索引1为第一个项目,如果项目不在列表中，则返回0.</s>
+   <s id="Vizzy.Toolbox.Tooltip.list-index">获取列表中项目的索引。索引1为第一个项目,如果项目不在列表中,则返回0.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.list-init">使用一组逗号分隔的值初始化列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17007,13 +17007,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-exp">将左数提升到右边指定的幂次。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.op-gt">如果左数大于右数，则返回true。</s>
+   <s id="Vizzy.Toolbox.Tooltip.op-gt">如果左数大于右数,则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-gte">如果左数大于或等于右数,则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-lt">如果左数小于右数,则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.op-lte">如果左数小于或等于右数，则返回true。</s>
+   <s id="Vizzy.Toolbox.Tooltip.op-lte">如果左数小于或等于右数,则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.op-math">返回对指定数字执行数学函数的结果。sin,cos,tan等数学函数要求角度以弧度为单位。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17127,7 +17127,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-mfd-order-back">将widget移到目标widget之后,如果目标widget不存在则移到所有widget之后。注意：widget必须共享同一父级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-mfd-order-front">>将widget移到目标widget之前，如果目标widget不存在则移到所有widget之后。注意：widget必须共享同一父级。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-mfd-order-front">>将widget移到目标widget之前,如果目标widget不存在则移到所有widget之后。注意：widget必须共享同一父级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-mfd-sprite">设置具有指定名称的MFD sprite widget的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17428,7 +17428,7 @@
     <s id="Droodism.DroodismUIManager.RadiationDoseTooltip">{0} 当前的辐射剂量</s>
     <s id="Droodism.DroodismUIManager.RadiationRate">辐射率</s>
     <s id="Droodism.DroodismUIManager.RadiationRateStats">辐射率状态</s>
-    <s id="Droodism.DroodismUIManager.RadiationRateStatsTooltip">{0} 当前的辐射率统计 - 如果变红色，小心！</s>
+    <s id="Droodism.DroodismUIManager.RadiationRateStatsTooltip">{0} 当前的辐射率统计 - 如果变红色,小心！</s>
     <s id="Droodism.DroodismUIManager.RadiationRateTooltip">{0} 每小时当前的辐射增加率</s>
     <s id="Droodism.DroodismUIManager.RadiationStats">辐射状态</s>
     <s id="Droodism.DroodismUIManager.RadiationStatsTooltip">{0} 当前辐射累积剂量统计</s>
@@ -17436,8 +17436,8 @@
     <s id="Droodism.DroodismUIManager.RemainOxygen">剩余氧气</s>
     <s id="Droodism.DroodismUIManager.RemainWater">剩余水</s>
     <s id="Droodism.DroodismUIManager.ResetAllTransferMode">重置所有传输模式</s>
-    <s id="Droodism.DroodismUIManager.ResourcesDrainWasteFill">资源消耗，废物填充</s>
-    <s id="Droodism.DroodismUIManager.ResourcesFillWasteDrain">资源填充，废物排出</s>
+    <s id="Droodism.DroodismUIManager.ResourcesDrainWasteFill">资源消耗,废物填充</s>
+    <s id="Droodism.DroodismUIManager.ResourcesFillWasteDrain">资源填充,废物排出</s>
     <s id="Droodism.DroodismUIManager.SolidWasteLevel">固体废物浓度</s>
     <s id="Droodism.DroodismUIManager.SelectDrood">选中此航天员</s>
     <s id="Droodism.DroodismUIManager.ToggleDroodismUI">开启 Droodism UI</s>
@@ -17472,11 +17472,11 @@
     <!-- GasDealerScript -->
     <s id="Droodism.GasDealerScript.ActionIrreversible">此操作 &lt;color=red&gt;&lt;size=110%&gt;不可逆&lt;/size&gt;&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.Engage">启动</s>
-    <s id="Droodism.GasDealerScript.EngageTooltip">释放高压气罐和低压气罐中的所有气体，此操作不可逆,并将禁用此部件的所有其他功能,请谨慎使用</s>
+    <s id="Droodism.GasDealerScript.EngageTooltip">释放高压气罐和低压气罐中的所有气体,此操作不可逆,并将禁用此部件的所有其他功能,请谨慎使用</s>
     <s id="Droodism.GasDealerScript.EmergencyDepressurization">紧急泄压</s>
     <s id="Droodism.GasDealerScript.GasReleasing">高压气罐和低压气罐中的所有 {0} 正在释放</s>
     <s id="Droodism.GasDealerScript.Malfunction">&lt;color=red&gt;故障&lt;/color&gt;</s>
-    <s id="Droodism.GasDealerScript.MalfunctionTooltip">&lt;color=red&gt;紧急泄压程序已完成，此部件已故障，无法使用&lt;/color&gt;</s>
+    <s id="Droodism.GasDealerScript.MalfunctionTooltip">&lt;color=red&gt;紧急泄压程序已完成,此部件已故障,无法使用&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.Malfunctioning">&lt;color=red&gt;已故障&lt;/color&gt;</s>
     <s id="Droodism.GasDealerScript.SequenceInitiated">紧急泄压程序已启动</s>
 
@@ -17489,21 +17489,21 @@
 
     <!-- ModSettings -->
     <s id="Droodism.ModSettings.ActiveUpdateRadiationBeltConfig">主动更新辐射带配置</s>
-    <s id="Droodism.ModSettings.ActiveUpdateRadiationBeltConfigDesc">主动更新辐射带配置（会导致性能损失，但更适合调试）</s>
+    <s id="Droodism.ModSettings.ActiveUpdateRadiationBeltConfigDesc">主动更新辐射带配置（会导致性能损失,但更适合调试）</s>
     <s id="Droodism.ModSettings.AltNavBallColor">备用导航球颜色</s>
     <s id="Droodism.ModSettings.AltNavBallColorDesc">使用备用导航球颜色</s>
     <s id="Droodism.ModSettings.ConsumeResourceWhenUnloaded">不加载时时消耗资源</s>
-    <s id="Droodism.ModSettings.ConsumeResourceWhenUnloadedDesc">即使飞行器未被加载，Drood 仍会消耗资源&lt;br&gt;已知 bug：时间计算有&lt;size=125%&gt;&lt;color=red&gt;一点点&lt;/color&gt;&lt;/size&gt;问题</s>
+    <s id="Droodism.ModSettings.ConsumeResourceWhenUnloadedDesc">即使飞行器未被加载,Drood 仍会消耗资源&lt;br&gt;已知 bug：时间计算有&lt;size=125%&gt;&lt;color=red&gt;一点点&lt;/color&gt;&lt;/size&gt;问题</s>
     <s id="Droodism.ModSettings.CriticalThreshold">临界阈值</s>
     <s id="Droodism.ModSettings.CriticalThresholdDesc">当资源低于此百分比时将触发临界警报在此级别将触发暂停</s>
     <s id="Droodism.ModSettings.DisableDockingPortCamera">禁用对接口相机</s>
-    <s id="Droodism.ModSettings.DisableDockingPortCameraDesc">从对接口移除相机&lt;br&gt;&lt;color=red&gt;警告&lt;/color&gt;：这将完全禁用&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;对接口的&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;相机属性(飞行界面的也一样)，如果你是真的讨厌它,那就用</s>
+    <s id="Droodism.ModSettings.DisableDockingPortCameraDesc">从对接口移除相机&lt;br&gt;&lt;color=red&gt;警告&lt;/color&gt;：这将完全禁用&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;对接口的&lt;color=red&gt;&lt;size=200%&gt;任何&lt;/size&gt;&lt;/color&gt;相机属性(飞行界面的也一样),如果你是真的讨厌它,那就用</s>
     <s id="Droodism.ModSettings.EnableResourceWarning">启用资源警告</s>
-    <s id="Droodism.ModSettings.EnableResourceWarningDesc">在时间加速期间，自动检测 Drood 资源何时低于阈值，暂停游戏并提醒玩家</s>
+    <s id="Droodism.ModSettings.EnableResourceWarningDesc">在时间加速期间,自动检测 Drood 资源何时低于阈值,暂停游戏并提醒玩家</s>
     <s id="Droodism.ModSettings.ReceiveCraftRadiation">飞行器内部辐射</s>
-    <s id="Droodism.ModSettings.ReceiveCraftRadiationDesc">如果开启，Drood 将收到当前飞行器中 RTG 和 NTR 引擎的辐射，可能不够真实，&lt;color=red&gt;&lt;size=150%&gt;仅为真正喜欢的硬核玩家时启用&lt;/size&gt;&lt;/color&gt;</s>
+    <s id="Droodism.ModSettings.ReceiveCraftRadiationDesc">如果开启,Drood 将收到当前飞行器中 RTG 和 NTR 引擎的辐射,可能不够真实,&lt;color=red&gt;&lt;size=150%&gt;仅为真正喜欢的硬核玩家时启用&lt;/size&gt;&lt;/color&gt;</s>
     <s id="Droodism.ModSettings.ToggleDebugMode">开启调试模式</s>
-    <s id="Droodism.ModSettings.ToggleDebugModeDesc">在开发控制台中启用一些日志，并开启一些隐藏选项</s>
+    <s id="Droodism.ModSettings.ToggleDebugModeDesc">在开发控制台中启用一些日志,并开启一些隐藏选项</s>
     <s id="Droodism.ModSettings.WarningThreshold">警告阈值</s>
     <s id="Droodism.ModSettings.WarningThresholdDesc">当资源低于此百分比时将触发警告</s>
 
@@ -17618,22 +17618,22 @@
     <!-- SupportLifeScript -->
     <s id="Droodism.SupportLifeScript.AutoDeployHeight">自动展开高度</s>
     <s id="Droodism.SupportLifeScript.AutoDeployParachute">自动展开降落伞</s>
-    <s id="Droodism.SupportLifeScript.CannotDeployParachuteAirThin">无法展开降落伞，空气密度太稀薄</s>
-    <s id="Droodism.SupportLifeScript.CannotDeployParachuteGrounded">无法展开降落伞，Drood 已落地</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteAirThin">无法展开降落伞,空气密度太稀薄</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteGrounded">无法展开降落伞,Drood 已落地</s>
     <s id="Droodism.SupportLifeScript.CannotDeployParachuteHere">无法在此处展开降落伞</s>
-    <s id="Droodism.SupportLifeScript.CannotDeployParachuteInWater">无法展开降落伞，Drood 在水中</s>
-    <s id="Droodism.SupportLifeScript.CannotDeployParachuteNotInEva">无法展开降落伞，未在出舱状态</s>
-    <s id="Droodism.SupportLifeScript.CannotDeployParachuteSpeedHigh">无法展开降落伞，速度太快</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagAlreadyPlanted">无法插旗，此 Drood 已经插过旗了</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagInWater">无法插旗，Drood 在水中</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagNotGrounded">无法插旗，未落地</s>
-    <s id="Droodism.SupportLifeScript.CanNotPlantFlagVelocityHigh">无法插旗，速度太快</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteInWater">无法展开降落伞,Drood 在水中</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteNotInEva">无法展开降落伞,未在出舱状态</s>
+    <s id="Droodism.SupportLifeScript.CannotDeployParachuteSpeedHigh">无法展开降落伞,速度太快</s>
+    <s id="Droodism.SupportLifeScript.CanNotPlantFlagAlreadyPlanted">无法插旗,此 Drood 已经插过旗了</s>
+    <s id="Droodism.SupportLifeScript.CanNotPlantFlagInWater">无法插旗,Drood 在水中</s>
+    <s id="Droodism.SupportLifeScript.CanNotPlantFlagNotGrounded">无法插旗,未落地</s>
+    <s id="Droodism.SupportLifeScript.CanNotPlantFlagVelocityHigh">无法插旗,速度太快</s>
     <s id="Droodism.SupportLifeScript.CannotHealDrood">无法使用工具包治疗 Drood</s>
     <s id="Droodism.SupportLifeScript.CannotRepairDrood">无法使用医疗箱修复 Drood</s>
-    <s id="Droodism.SupportLifeScript.CannotPlantFlagNotInEva">无法插旗，未在出舱状态</s>
+    <s id="Droodism.SupportLifeScript.CannotPlantFlagNotInEva">无法插旗,未在出舱状态</s>
     <s id="Droodism.SupportLifeScript.CO2Level">二氧化碳浓度</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberDamage">乘员 {0} (id:{1}) 正在因{2}用尽受到伤害 ，预计死亡时间 {3}</s>
-    <s id="Droodism.SupportLifeScript.CrewMemberWasteDamage">乘员 {0} (id:{1}) 正在因 {2} 浓度太高受到伤害，预计死亡时间 {3}</s>
+    <s id="Droodism.SupportLifeScript.CrewMemberDamage">乘员 {0} (id:{1}) 正在因{2}用尽受到伤害 ,预计死亡时间 {3}</s>
+    <s id="Droodism.SupportLifeScript.CrewMemberWasteDamage">乘员 {0} (id:{1}) 正在因 {2} 浓度太高受到伤害,预计死亡时间 {3}</s>
     <s id="Droodism.SupportLifeScript.CrewRole">乘员类型</s>
     <s id="Droodism.SupportLifeScript.CurrentRadiationDose">当前辐射剂量</s>
     <s id="Droodism.SupportLifeScript.CurrentRadiationDoseRatePerHour">当前每小时辐射剂量率</s>
@@ -17695,7 +17695,7 @@
     <s id="Droodism.GasDealerScript.EngageTooltip">启动紧急减压</s>
     <s id="Droodism.GasDealerScript.GasReleasing">正在释放 {0}</s>
     <s id="Droodism.GasDealerScript.Malfunction">故障</s>
-    <s id="Droodism.GasDealerScript.MalfunctionTooltip">减压阀故障，无法启动</s>
+    <s id="Droodism.GasDealerScript.MalfunctionTooltip">减压阀故障,无法启动</s>
     <s id="Droodism.GasDealerScript.Malfunctioning">减压阀故障！</s>
     <s id="Droodism.GasDealerScript.SequenceInitiated">减压序列已启动</s>
 
@@ -17708,5 +17708,5 @@
     <s id="Droodism.RagdollModifier.Inactive">未激活</s>
 
     <!-- ModUlti -->
-    <s id="Droodism.ModUlti.FlagPlanted">已在 {0} 地表插旗，坐标 {1}° , {2}°</s>
+    <s id="Droodism.ModUlti.FlagPlanted">已在 {0} 地表插旗,坐标 {1}° , {2}°</s>
 </Strings>
