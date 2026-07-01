@@ -135,7 +135,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.FoundConfirmation">找到了！继续你的火箭科学吧。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Payload.LaunchWithFormat">使用 {0} 发射</s>
+   <s id="Career.Contracts.Payload.LaunchWithFormat">携带 {0} 发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.LostPrompt">找不到有效载荷部件。是否要检查当前飞行器?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -2891,7 +2891,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Location-Droo.Village.Expression.Description">是时候落地了!这次不需要你活下来。</s>
    <!-- Contract 'First-payload' requirements Font:Primary -->
-   <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Description">带着有效载荷一起发射。</s>
+   <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Description">携带有效载荷一起发射。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-payload.Req.TrackedLaunch.PartCount-initial-part-count.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3397,11 +3397,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Location-Crater_Center.Description">离开陨石坑,使其与坑心距离至少 35 公里</s>
    <!-- Contract 'GrandTour' requirements Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Description">带着 Traveler 探测器一起发射</s>
+   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Description">携带 Traveler 探测器一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Any.Description">飞掠至少三颗不同行星</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.Description">进入 Juno 的轨道</s>
+   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.Description">进入 环Juno轨道</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.CraftExpression.Description">把轨道远点拉出 Juno 系统</s>
    <!-- Font:Primary -->
@@ -3413,7 +3413,7 @@
    <!-- Contract 'SPE-Radix' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">带着 Radix舱段一起发射</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Description">携带 Radix舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix舱段</s>
    <!-- Font:Primary -->
@@ -3421,7 +3421,7 @@
    <!-- Contract 'SPE-Expansion' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.Description">带着扩展舱段一起发射</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.Description">携带扩展舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3433,7 +3433,7 @@
    <!-- Contract 'SPE-Docking' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.Description">带着 十字扩展舱段 一起发射</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.Description">携带 十字扩展舱段 一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3445,7 +3445,7 @@
    <!-- Contract 'SPE-Habitation' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.Description">带着居住舱段一起发射</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.Description">携带居住舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3457,7 +3457,7 @@
    <!-- Contract 'SPE-Cupola' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.Description">带着 Cupola 舱段一起发射</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.Description">携带 Cupola 舱段一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3469,7 +3469,7 @@
    <!-- Contract 'SPE-Solar' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.Description">带着太阳能阵列一起发射</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.Description">携带太阳能阵列一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3481,7 +3481,7 @@
    <!-- Contract 'SPE-Structure' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.Description">带着 @Name 一起发射</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.Description">携带 @Name 一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3493,7 +3493,7 @@
    <!-- Contract 'SPE-Fuel-Core' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.Description">带着燃料库核心一起发射</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.Description">携带燃料库核心一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3505,7 +3505,7 @@
    <!-- Contract 'SPE-Fuel-Ballz' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.Description">带着 @Name 燃料球一起发射</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.Description">携带 @Name 燃料球一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3553,13 +3553,13 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持 5 秒</s>
    <!-- Contract 'First-sat' requirements Font:Primary -->
-   <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Description">带着 CubeSat 一起发射</s>
+   <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Description">携带 CubeSat 一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Planet-Droo.Orbit.PartCount-Payload-Sat-1.Description">分离 CubeSat</s>
    <!-- Contract 'Droo-sat' requirements Font:Primary -->
-   <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Description">带着 @SatCount 颗 @SatName一起发射</s>
+   <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Description">携带 @SatCount 颗 @SatName一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-sat.Req.TrackedLaunch.PartCount-Payload-Sat-@SatVersion.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3573,47 +3573,47 @@
    <!-- Contract 'Observation' requirements Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Description">带着望远镜一起发射</s>
+   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Description">携带望远镜一起发射</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.Description">确保经度为 39°E</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.PartCount-Payload-Sat-4.Description">释放货物</s>
    <!-- Contract 'First-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Luna.Description">处于Luna的引力影响范围内</s>
    <!-- Contract 'Lunar-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-flyby.Req.TrackedLaunch.Planet-@Moon.Description">处于 @Moon 的引力影响范围内</s>
    <!-- Contract 'First-lunar-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-lunar-orbit.Req.TrackedLaunch.Planet-Brigo.Description">处于 Brigo 的引力影响范围内</s>
    <!-- Contract 'Lunar-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-orbit.Req.TrackedLaunch.Planet-@Moon.Description">处于 @Moon 的引力影响范围内</s>
    <!-- Contract 'Lunar-probe' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Description">带着一颗 @ProbeName 探测器一起发射</s>
+   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Description">携带一颗 @ProbeName 探测器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-@Moon.Description">处于 @Moon 的引力影响范围内</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-probe.Req.TrackedLaunch.PartCount-Payload-Probe-@ProbeVersion.Planet-@Moon.Orbit.Orbit.Orbit.PartCount-Payload-Probe-@ProbeVersion.Description">分离 @ProbeName 探测器</s>
    <!-- Contract 'Lunar-impactor' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Description">带着撞击器一起发射</s>
+   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Description">携带撞击器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3629,9 +3629,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-impactor.Req.TrackedLaunch.Payload-Payload-Lander-1.Planet-@Moon.CraftExpression#1.CraftExpression.Description">停下来</s>
    <!-- Contract 'Lunar-lander' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Description">带着着陆器一起发射</s>
+   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Description">携带着陆器一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3645,9 +3645,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.CraftExpression#3.Description">触地!</s>
    <!-- Contract 'Lunar-rover' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Description">带着漫游车一起发射</s>
+   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Description">携带漫游车一起发射</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Description">前往 @Moon</s>
    <!-- Font:Primary -->
@@ -3661,7 +3661,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Any.Template.Repeat.Location-Sample-@Index.Description">前往目标样本点</s>
    <!-- Contract 'Lunar-landing' requirements Font:Primary -->
-   <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -3671,19 +3671,19 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-landing.Req.TrackedLaunch.Planet-@Moon.Expression.Expression.Description">保持 30 秒</s>
    <!-- Contract 'Celestial-flyby' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-flyby.Req.TrackedLaunch.Planet-@Planet.Description">处于 @Planet 的引力影响范围内</s>
    <!-- Contract 'Celestial-orbit' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Req.TrackedLaunch.Planet-@Planet.Description">处于 @Planet 的引力影响范围内</s>
    <!-- Contract 'Celestial-landing' requirements Font:Primary -->
-   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo的引力影响范围内出发</s>
+   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Expression.Description">从地面启动</s>
    <!-- Font:Primary -->
@@ -3793,7 +3793,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.QuadsDrawnTooltip">当前正在绘制的四边形总数。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
-   <s id="CelestialBodyDesigner.QuadsLevelFormat">   层级 {0}</s>
+   <s id="CelestialBodyDesigner.QuadsLevelFormat">层级 {0}</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyDesigner.QuadsLoaded">已加载四边形</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -3805,7 +3805,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.RebuildTooltip">根据当前配置重建天体。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="CelestialBodyDesigner.RecenterCameraTooltip">将摄像机重新居中。</s>
+   <s id="CelestialBodyDesigner.RecenterCameraTooltip">重新居中摄像机</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.ResetStatsTooltip">重置四边形生成统计。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
