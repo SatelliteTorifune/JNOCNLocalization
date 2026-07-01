@@ -2697,7 +2697,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-ocean.Long">我需要把一艘潜艇送到指定位置进行一些实验,你能送过去吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Delivery-gs.Name">地面支援</s>
+   <s id="Career.Contracts.Delivery-gs.Name">地面补给</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Delivery-gs.Subtitle">@GroundStation:coords</s>
    <!-- Font:Primary -->
@@ -3689,7 +3689,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-@Planet.Description">处于 @Planet 的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-@Planet.Expression.Description">飞掠</s>
+   <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-@Planet.Expression.Description">触地</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-landing.Req.TrackedLaunch.Planet-@Planet.Expression.Expression.Description">保持 30 秒</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -4745,7 +4745,7 @@
    <!-- Rec:18 Max:28 Font:Primary ; context menu item -->
    <s id="Flight.MapView.ContextMenu.PlannedBurnHere">在此处计划轨道机动</s>
    <!-- Rec:24 Max:32 Font:Primary ; context menu item -->
-   <s id="Flight.MapView.ContextMenu.PlannedBurnPeriapsis">在近点计划轨道机动</s>
+   <s id="Flight.MapView.ContextMenu.PlannedBurnPeriapsis">在轨道近点计划轨道机动</s>
    <!-- Rec:10 Max:16 Font:Primary ; context menu item -->
    <s id="Flight.MapView.ContextMenu.WarpHere">加速到此</s>
    <!-- Rec:18 Max:26 Font:Primary ; context menu item -->
@@ -6369,7 +6369,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; flight log damage type name -->
    <s id="Flight.Log.Damage.Overexpansion">过膨胀损伤</s>
    <!-- Rec:20 Max:30 Font:Primary ; flight log damage type name -->
-   <s id="Flight.Log.Damage.Overspin">转速过快</s>
+   <s id="Flight.Log.Damage.Overspin">转速过载损伤</s>
    <!-- Rec:20 Max:30 Font:Primary ; flight log damage type name -->
    <s id="Flight.Log.Damage.Pressure">气压伤害</s>
    <!-- Rec:30 Font:Primary ; flight log entry, no hard max. Translators: keep the &lt;color&gt; tag intact. -->
