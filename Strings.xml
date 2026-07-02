@@ -697,9 +697,9 @@
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.Water.Name">DSC海面</s>
    <!-- Font:Primary -->
-   <s id="Career.LaunchLocations.Water.Description">Droo 航天中心外水面上的一处位置,适合发射水上飞机和浮筒飞机。</s>
+   <s id="Career.LaunchLocations.Water.Description">Droo航天中心外水面上的一处位置,适合发射水上飞机和浮筒飞机。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
-   <s id="Career.LaunchLocations.Luna.Name">Luna极低</s>
+   <s id="Career.LaunchLocations.Luna.Name">Luna基地</s>
    <!-- Font:Primary -->
    <s id="Career.LaunchLocations.Luna.Description">Luna表面的着陆点,前往轨道的途中没有厚重的大气层。</s>
    <!-- Career.xml descriptions shown on the Career Selector. Font:Primary -->
@@ -4368,11 +4368,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Generator1.xml -->
    <s id="DesignerParts.Generator1.FuelCell.Name">燃料电池</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Generator1.FuelCell.Description">将燃料转化为电力的发电机。虽然燃烧效率不高,但可以是大型电池的更轻便,更紧凑的替代品。</s>
+   <s id="DesignerParts.Generator1.FuelCell.Description">将燃料转化为电力的发电机。虽然燃烧效率不高,但可以是相比大型电池更轻便,更紧凑的替代品。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Generator2.xml -->
    <s id="DesignerParts.Generator2.RTG.Name">放射性热核发电机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Generator2.RTG.Description">放射性热核发电机,由于其极度放射性的钚核心而成为被动电源。有了它,你可以在整个星系的任何地方获得电力,但这可不便宜。</s>
+   <s id="DesignerParts.Generator2.RTG.Description">放射性热核发电机,使用其极度放射性的钚核心作为被动电源。有了它,你可以在整个星系的任何地方获得电力,但这可不便宜。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Gyroscope1.xml -->
    <s id="DesignerParts.Gyroscope1.Gyroscope.Name">陀螺仪</s>
    <!-- Font:Primary -->
@@ -4390,13 +4390,13 @@
    <!-- Font:Primary -->
    <s id="DesignerParts.Inlet1.Inlet.Description">进气口为喷气发动机吸入空气。确保进气口前端没有被其他部件挡住,因为这会阻碍气流。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from IonEngine1.xml -->
-   <s id="DesignerParts.IonEngine1.IonEngine.Name">离子 发动机</s>
+   <s id="DesignerParts.IonEngine1.IonEngine.Name">离子发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.IonEngine1.IonEngine.Description">极低功率,高效率的发动机,以近50km/s的速度喷射离子。需要电力。</s>
+   <s id="DesignerParts.IonEngine1.IonEngine.Description">极低推力,高效率的发动机,以近50km/s的速度喷射离子,需要大量电力。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from JetEngine1.xml -->
    <s id="DesignerParts.JetEngine1.PegasusEngine.Name">天马 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.JetEngine1.PegasusEngine.Description">高涵道比涡扇发动机是燃油效率最高的喷气发动机类型,更常见于注重成本的客机上。</s>
+   <s id="DesignerParts.JetEngine1.PegasusEngine.Description">高涵道比涡扇发动机是燃油效率最高的喷气发动机类型,在注重成本的客机上更常见。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.GriffinEngine.Name">狮鹫 发动机</s>
    <!-- Font:Primary -->
@@ -4408,7 +4408,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.MinotaurEngine.Name">米诺陶 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.JetEngine1.MinotaurEngine.Description">中涵道比涡扇发动机在功率和效率之间取得了很好的平衡,是中型飞机和小型豪华私人飞机的完美选择。</s>
+   <s id="DesignerParts.JetEngine1.MinotaurEngine.Description">中涵道比涡扇发动机在推力和效率之间取得了很好的平衡,是中型飞机和小型豪华私人飞机的完美选择。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.CentaurEngine.Name">半人马 发动机</s>
    <!-- Font:Primary -->
@@ -4524,7 +4524,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.RocketEngine1.PixieEngine.Name">妖精 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.RocketEngine1.PixieEngine.Description">低功率发动机,适合用于上面级和在小型天体上着陆。其电动泵可以快速启动和极低推力节流,但需要一些电池。</s>
+   <s id="DesignerParts.RocketEngine1.PixieEngine.Description">低推力发动机,适合用于上面级和在小型天体上着陆。其电动泵可以快速启动和极低推力节流,但需要一些电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.RocketEngine1.DragonEngine.Name">天龙 发动机</s>
    <!-- Font:Primary -->
@@ -8354,9 +8354,9 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.RadialFlatten.DisplayName.Header">径向平整</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
-    <s id="Modifier.RadialFlatten.FalloffPowerLabel">衰减功率</s>
+    <s id="Modifier.RadialFlatten.FalloffPowerLabel">衰减力度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RadialFlatten.FalloffPowerTooltip">在目标海拔和原始海拔之间进行插值时使用的衰减功率。</s>
+    <s id="Modifier.RadialFlatten.FalloffPowerTooltip">在目标海拔和原始海拔之间进行插值时使用的衰减力度。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.RadialFlatten.InnerRadiusLabel">内半径</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8370,7 +8370,7 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.RadialFlatten.OuterRadiusTooltip">要平整的地形的外半径（以米为单位）。超出此半径的所有地形不受此属性影响。内半径和外半径之间,海拔从平整逐渐过渡到未平整。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.RadialFlatten.SmoothStepTooltip">使用平滑阶梯函数而不是衰减功率曲线。如果选中,则衰减功率将被忽略。</s>
+    <s id="Modifier.RadialFlatten.SmoothStepTooltip">使用平滑阶梯函数而不是衰减力度曲线。如果选中,则衰减力度将被忽略。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.RemapCurve.DataIndexInputDataSlotTooltip">要重新映射的数据输入值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9587,7 +9587,7 @@
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.EvaData.Header">乘员</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.EvaData.JetpackPowerScalar.Label">喷气背包功率</s>
+   <s id="Parts.EvaData.JetpackPowerScalar.Label">喷气背包推力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.EvaData.JumpPowerScalar.Label">跳跃力度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9607,7 +9607,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.EvaScript.JetpackFuel">喷气背包燃料</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.EvaScript.JetpackPower">喷气背包功率</s>
+   <s id="Parts.EvaScript.JetpackPower">喷气背包推力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.EvaScript.JumpPower">跳跃力度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10057,7 +10057,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.JetEngineData.HasAfterburner.Label">加力燃烧室</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.JetEngineData.HasAfterburner.Tooltip">大幅提高发动机功率,但会降低效率。</s>
+   <s id="Parts.JetEngineData.HasAfterburner.Tooltip">大幅提高发动机推力,但会降低效率。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.JetEngineData.HasReverseThrust.Label">反推装置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10627,9 +10627,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ReactionControlNozzleData.MultiDirection.Tooltip">决定RCS是否包含矢量摆动机构。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ReactionControlNozzleData.PowerScale.Label">功率</s>
+   <s id="Parts.ReactionControlNozzleData.PowerScale.Label">推力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ReactionControlNozzleData.PowerScale.Tooltip">改变喷口的功率及其燃料消耗。</s>
+   <s id="Parts.ReactionControlNozzleData.PowerScale.Tooltip">改变喷口的推力及其燃料消耗。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ReactionControlNozzleData.Scale.Label">尺寸</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14629,7 +14629,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 9 stage 2 ExitPressure metric text -->
    <s id="Tutorial.FirstOrbit.Step9Metric">这台引擎正遭受严重的过度膨胀,当排气出口压力低于大气压时就会发生。过度膨胀是导致排气中出现激波钻石的原因。出口压力越接近大气压,引擎效率越高。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 10: stage 2 configure rocket engine step -->
-   <s id="Tutorial.FirstOrbit.Step10">我们可以缩短喷管并提高功率,使这台引擎的出口压力更接近该高度的大气压力。</s>
+   <s id="Tutorial.FirstOrbit.Step10">我们可以缩短喷管并提高推力,使这台引擎的出口压力更接近该高度的大气压力。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11: stage 2 review stepText -->
    <s id="Tutorial.FirstOrbit.Step11">让我们看看情况有什么变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11 stage 2 review metric text -->
@@ -16021,7 +16021,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.SetActivated">设置部件的激活状态。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Part.SetExplode">以0到1的指定功率引爆部件。0仅使部件脱落而不爆炸；1为最大爆炸威力。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Part.SetExplode">以0到1的指定力度引爆部件。0仅使部件脱落而不爆炸；1为最大爆炸威力。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.SetFocused">若设为真,则将相机焦点对准该部件；否则取消对该部件的聚焦。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
