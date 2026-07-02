@@ -125,7 +125,7 @@
    <!-- Rec:8 Max:12 Font:Primary ; difficulty label -->
    <s id="Career.Contracts.Difficulty.Medium">中等</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Contracts.FailedFormat">合同 "{0}" 已失败！</s>
+   <s id="Career.Contracts.FailedFormat">合同 "{0}" 已失败!</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Location.GetToFormat">前往 {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -133,7 +133,7 @@
    <!-- Rec:14 Max:18 Font:Primary ; display value -->
    <s id="Career.Contracts.Payload.Destroyed">已摧毁</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Payload.FoundConfirmation">找到了！继续你的火箭科学吧。</s>
+   <s id="Career.Contracts.Payload.FoundConfirmation">找到了!继续你的火箭科学吧。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.LaunchWithFormat">携带 {0} 发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -165,7 +165,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Career.Exploration.FlyBy">飞掠（逃逸轨道）</s>
    <!-- Toast Font:Primary ; flight log toast -->
-   <s id="Career.Exploration.LandmarkFound">发现地标 "{0}"！</s>
+   <s id="Career.Exploration.LandmarkFound">发现地标 "{0}"!</s>
    <!-- Toast Font:Primary ; reward message shown when an exploration landmark is visited; {0} is the landmark name -->
    <s id="Career.Exploration.LandmarkVisited">你已访问地标 [highlight]{0}[/highlight]</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -186,7 +186,7 @@
    <!-- Format Font:Primary ; planet name prefix appended before a milestone's name; {0} is the planet display name -->
    <s id="Career.Milestones.PlanetPrefixFormat">{0}: </s>
    <!-- Rec:8 Max:12 Font:Primary ; milestone tier label -->
-   <s id="Career.Milestones.TierLabel">第 {0} 层</s>
+   <s id="Career.Milestones.TierLabel">第 {0} 级</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.Orbit.BetweenFormat">{0} 在 {1} 和 {2} 之间</s>
@@ -731,9 +731,9 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.money-spent.Tier2.Description">如果你能花掉这么多钱,你可能需要关掉游戏开门去呼吸一下新鲜空气。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.money-spent.Tier3.Description">好吧,这实际上很有挑战性,要么你玩得太多了,要么你是在用金子做东西,如果你达到了这个目标的话。</s>
+   <s id="Career.Milestones.money-spent.Tier3.Description">这就真有点难度了,能刷到这一步,你不是玩疯了,就是在拿金子乱造飞船。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.money-spent.Tier4.Description">花费万亿是一个穿越恒星系统的公司应有的支出,你到底在干什么?</s>
+   <s id="Career.Milestones.money-spent.Tier4.Description">花费万亿是一个星际旅行的公司应有的支出,你到底在干什么?</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Name">已发射飞行器</s>
    <!-- Font:Primary -->
@@ -741,7 +741,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier0.Description">发射越多,经验就越丰富。熟悉这个过程吧。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Tier1.Description">你似乎开始熟悉动力学了,继续加油！</s>
+   <s id="Career.Milestones.launched-crafts.Tier1.Description">你似乎开始熟悉动力学了,继续加油!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier2.Description">到目前为止你已经发射了几次,现在是来真的的时候了。</s>
    <!-- Font:Primary -->
@@ -755,7 +755,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.recovery.Tier0.Description">如果你提前计划,或者只是幸运地回收了你的飞行器,你的积蓄将覆盖你未来投资的很大一部分。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Tier1.Description">通过回收节省10万美元真的很令人印象深刻,这比你第一架飞行器的成本还多！</s>
+   <s id="Career.Milestones.recovery.Tier1.Description">通过回收节省10万美元真的很令人印象深刻,这比你第一架飞行器的成本还多!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.recovery.Tier2.Description">想象一下仅靠回收飞行器就能成为百万富翁。</s>
    <!-- Font:Primary -->
@@ -767,25 +767,25 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.explosion-count.Description">炸点东西吧,每次爆炸都会计入计数。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.explosion-count.Tier0.Description">没有失败就没有成功,没有爆炸就没有乐趣。造成10次爆炸只是开始。</s>
+   <s id="Career.Milestones.explosion-count.Tier0.Description">失败乃成功之母,没有爆炸就没有乐趣。造成10次爆炸只是开始。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.explosion-count.Tier1.Description">航空航天界以"出问题"著称,但当你造成50次爆炸时,你开始引人注目了。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.explosion-count.Tier2.Description">如果你超过250次爆炸,要么你是故意炸东西,要么你应该重新审视你的设计流程。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.explosion-count.Tier3.Description">你要冲击1000次爆炸！?你到底是怎么炸到这么多的?</s>
+   <s id="Career.Milestones.explosion-count.Tier3.Description">你要冲击1000次爆炸!?你到底是怎么炸到这么多的?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.explosion-count.Tier4.Description">你一定做得非常出色才能赚到足够的钱来炸掉这么多东西,既然你在炸了,让我们放烟花吧！</s>
+   <s id="Career.Milestones.explosion-count.Tier4.Description">能赚这么多钱来炸这么多东西,你肯定已经强到没边了。既然都开炸了,那让烟花再响亮点吧!</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-altitude.Name">纪录高度</s>
+   <s id="Career.Milestones.top-altitude.Name">高度记录</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-altitude.Description">你到达了多高。在轨道上时,由轨道远点定义。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-altitude.Tier0.Description">高于最高的山脉,你迈向星辰的第一步。</s>
+   <s id="Career.Milestones.top-altitude.Tier0.Description">最高的山脉,你迈向星辰的第一步。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-altitude.Tier1.Description">在30公里以上,大气稀薄到机翼毫无用处,阻力也低到可以冲击纪录速度。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-altitude.Tier2.Description">80公里以上就没有空气了,你已经进入太空了！</s>
+   <s id="Career.Milestones.top-altitude.Tier2.Description">80公里以上就没有空气了,你已经进入太空了!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-altitude.Tier3.Description">要达到300公里,你需要一枚强力火箭,无论你是直接往上飞还是进入轨道。</s>
    <!-- Font:Primary -->
@@ -797,15 +797,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier0.Description">20公里/秒是非常快的速度,只有敢于进入Juno轨道的人才能达到。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系的飞行器所期望的速度,是你在操作吗?</s>
+   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系的飞行器所期望的速度</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-speed.Tier2.Description">这是疯狂的速度,你一定快要触碰到Juno的日冕了。</s>
+   <s id="Career.Milestones.top-speed.Tier2.Description">如此疯狂的速度,你一定快要触碰到Juno的日冕了。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier3.Description">光速的1%,在这个阶段你已经把游戏推到了极限。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier4.Description">你有超越光速的本领吗?游戏肯定没有,你到底在干什么?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.docks.Name">独特对接</s>
+   <s id="Career.Milestones.docks.Name">对接数</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.docks.Description">尽可能多地将独特的飞行器对接在一起。</s>
    <!-- Font:Primary -->
@@ -815,23 +815,23 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.docks.Tier2.Description">空间站通常在轨道上建造,它们需要大量对接,你能做到吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.docks.Tier3.Description">你似乎是对接方面的专家,一位真正的专业航天飞行员！</s>
+   <s id="Career.Milestones.docks.Tier3.Description">你似乎是对接方面的专家,一位真正的专业航天飞行员!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.docks.Tier4.Description">此时你应该已经知道,对接不一定要在轨道上进行才能计数,对吧?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.astronauts.Name">航天员勋章</s>
+   <s id="Career.Milestones.astronauts.Name">航天员</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.astronauts.Description">让你的Drood第一次进入稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.astronauts.Tier0.Description">Drood是你拥有的最重要的资产之一,你打算冒失去他们的风险吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.astronauts.Tier1.Description">送一个Drood进入太空是令人印象深刻的,但当你送3个之后,没人会怀疑你的技能了。</s>
+   <s id="Career.Milestones.astronauts.Tier1.Description">把一个Drood太空就已经很厉害了,但当你送上去三个的时候,就没人会怀疑你的本事了！</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.astronauts.Tier2.Description">探索太空最好的工具是你的乘员,在失重环境中训练至少10人。</s>
+   <s id="Career.Milestones.astronauts.Tier2.Description">你的乘员是探索太空最好的工具,在失重环境中训练至少10人。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.astronauts.Tier3.Description">太空旅游,运行空间站……随你选。你需要把更多的Drood送上去。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.astronauts.Tier4.Description">为了让Drood成为星际物种,你需要带越来越多的Drood进入太空,让我们扩散开来！</s>
+   <s id="Career.Milestones.astronauts.Tier4.Description">为了让Drood成为星际物种,你需要带越来越多的Drood进入太空,让我们扩散开来!</s>
    <!-- Planet milestones: identical "Flybys / Orbits / Landings / Highest Climb / Distance / Speed" pattern repeated per planet, all sharing the same English text per type. Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
@@ -953,13 +953,13 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-orbit.Description">有多少艘独特的飞行器曾进入过稳定轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-orbit.Tier0.RewardMessage">恭喜首次进入Droo轨道！</s>
+   <s id="Career.Milestones.Droo.Droo-orbit.Tier0.RewardMessage">恭喜首次进入Droo轨道!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Name">逃逸轨道</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Description">有多少艘独特的飞行器曾将离心率提高到 1 以上。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-flyby.Tier0.RewardMessage">恭喜首次进入逃逸轨道！</s>
+   <s id="Career.Milestones.Droo.Droo-flyby.Tier0.RewardMessage">恭喜首次进入逃逸轨道!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -1475,7 +1475,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.FlightCheats.Name">飞行作弊</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Cheats.FlightCheats.Description">一个包含多种工具的菜单,可以让你传送,改变重力,拥有无限燃料……你的愿望成真了！</s>
+   <s id="Career.TechTree.Items.Cheats.FlightCheats.Description">一个包含多种工具的菜单,可以让你传送,改变重力,拥有无限燃料……你的愿望成真了!</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.CareerCheats.Name">生涯作弊</s>
    <!-- Font:Primary -->
@@ -1483,7 +1483,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.SkipValidation.Name">跳过验证</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Cheats.SkipValidation.Description">厌倦了被告知无法发射?没问题！解锁后你可以做任何想做的事。</s>
+   <s id="Career.TechTree.Items.Cheats.SkipValidation.Description">厌倦了被告知无法发射?没问题!解锁后你可以做任何想做的事。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Config.FuelLine.Name">燃料管路</s>
    <!-- Font:Primary -->
@@ -2191,11 +2191,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Short">创造陆地速度纪录。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-landspeed.Long">山区村庄并不是以你能开多快经过它们而闻名,能达到50公里/小时就已经疯狂了！</s>
+   <s id="Career.Contracts.Record-landspeed.Long">山区村庄并不是以你能开多快经过它们而闻名,能达到50公里/小时就已经疯狂了!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Completions1.Long">100公里/小时或60英里/小时一直是加速测试的参考速度,你能超过它吗?</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-landspeed.Completions2.Long">当你以200km/h越野时你就知道你入坑了...小心颠簸！</s>
+   <s id="Career.Contracts.Record-landspeed.Completions2.Long">当你以200km/h越野时你就知道你入坑了...小心颠簸!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Completions3.Long">这已经进入了超级跑车的领域,你有那么炫酷吗?</s>
    <!-- Font:Primary -->
@@ -2247,7 +2247,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-1.Short">按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-1.Long">这是一次计时赛,系紧你的靴子！在时间耗尽之前按任意顺序通过所有检查点。计时器会在通过任一检查点时启动。</s>
+   <s id="Career.Contracts.Race-Land-1.Long">这是一次计时赛,系紧你的靴子!在时间耗尽之前按任意顺序通过所有检查点。计时器会在通过任一检查点时启动。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-2.Name">Ali竞速</s>
    <!-- Font:Primary -->
@@ -2257,9 +2257,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-2.Short">按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-2.Long">这是一次计时赛,系紧你的靴子！在时间耗尽之前按任意顺序通过所有检查点。</s>
+   <s id="Career.Contracts.Race-Land-2.Long">这是一次计时赛,系紧你的靴子!在时间耗尽之前按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-2.Completions0.Long">我看到你最近获得了Ali基地的访问权限,来找点乐子吧。这是一次计时赛,系紧你的靴子！</s>
+   <s id="Career.Contracts.Race-Land-2.Completions0.Long">我看到你最近获得了Ali基地的访问权限,来找点乐子吧。这是一次计时赛,系紧你的靴子!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-3.Name">平衡</s>
    <!-- Font:Primary -->
@@ -2275,9 +2275,9 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-4.Short">按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-4.Long">这是一次计时赛,系紧你的靴子！在时间耗尽之前按任意顺序通过所有检查点。</s>
+   <s id="Career.Contracts.Race-Land-4.Long">这是一次计时赛,系紧你的靴子!在时间耗尽之前按任意顺序通过所有检查点。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Race-Land-4.Completions0.Long">好像就在昨天你还在从村庄发射...现在我们有更好的跑道了！这是一次计时赛,系紧你的靴子！</s>
+   <s id="Career.Contracts.Race-Land-4.Completions0.Long">好像就在昨天你还在从村庄发射...现在我们有更好的跑道了!这是一次计时赛,系紧你的靴子!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Race-Land-5.Name">DSC耐力赛</s>
    <!-- Font:Primary -->
@@ -4404,7 +4404,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.CerberusEngine.Name">地狱犬 发动机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.JetEngine1.CerberusEngine.Description">不知道该去哪里?不用怕！这款喷气发动机融合了两种方式的优点,向加力燃烧室提供额外的氧化剂,使其即使在太空中也能工作。</s>
+   <s id="DesignerParts.JetEngine1.CerberusEngine.Description">不知道该去哪里?不用怕!这款喷气发动机融合了两种方式的优点,向加力燃烧室提供额外的氧化剂,使其即使在太空中也能工作。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.JetEngine1.MinotaurEngine.Name">米诺陶 发动机</s>
    <!-- Font:Primary -->
@@ -4500,7 +4500,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.PropellerBundles.VortexProp.Name">涡流 螺旋桨</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.PropellerBundles.VortexProp.Description">小型船用螺旋桨。海洋现在属于你了！好吧其实是湖泊,但道理是一样的。</s>
+   <s id="DesignerParts.PropellerBundles.VortexProp.Description">小型船用螺旋桨。海洋现在属于你了!好吧其实是湖泊,但道理是一样的。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.PropellerBundles.RiptideProp.Name">激流 螺旋桨</s>
    <!-- Font:Primary -->
@@ -4891,7 +4891,7 @@
    <s id="Levels.Common.TimeFormat">时间：{0}</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.DockingPractice.Docked">对接成功！({0})</s>
+   <s id="Levels.DockingPractice.Docked">对接成功!({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.DockingPractice.DockingProgress">对接中 {0} ({1})</s>
    <!-- Rec:22 Max:30 Font:Primary ; mission goal label -->
@@ -4906,7 +4906,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.ParachuteLanding.GoalLandOnDroo">在Droo着陆 ({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.ParachuteLanding.LandedOnDroo">已在Droo着陆！({0})</s>
+   <s id="Levels.ParachuteLanding.LandedOnDroo">已在Droo着陆!({0})</s>
    <!-- Font:Primary -->
    <s id="Levels.Requirements.AltitudeAbove">高度 &gt; {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4951,7 +4951,7 @@
    <s id="Levels.Requirements.TimeLess">用时少于 {0}</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.SatelliteRendezvous.Docked">对接成功！({0})</s>
+   <s id="Levels.SatelliteRendezvous.Docked">对接成功!({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.SatelliteRendezvous.DockingProgress">对接中 {0} ({1})</s>
    <!-- Rec:22 Max:30 Font:Primary ; mission goal label -->
@@ -4961,7 +4961,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.ShuttleLanding.GoalLandShuttle">降落航天飞机 ({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Levels.ShuttleLanding.Landed">已着陆！({0})</s>
+   <s id="Levels.ShuttleLanding.Landed">已着陆!({0})</s>
    <!-- Rec:10 Max:18 Font:Primary ; landing target name used in "Land on X" formatter -->
    <s id="Levels.ShuttleLanding.Runway">跑道</s>
    <!-- Font:Primary -->
@@ -5024,7 +5024,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.TechPointsFormat">• 科技点数：{0}TP</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Menu.Contracts.Details.TutorialDescription">此合同附带教程！你真幸运！</s>
+   <s id="Menu.Contracts.Details.TutorialDescription">此合同附带教程!你真幸运!</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.Details.TutorialDuringFlight">在飞行场景中或菜单教程运行时,无法启动教程。</s>
    <!-- Rec:10 Max:14 Font:Primary ; details group header -->
@@ -5053,7 +5053,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 “新人经理” 以增加可同时拥有的合同数上限。</s>
    <!-- Toast Font:Header ; no length limit -->
-   <s id="Menu.Contracts.NoItemsFound">目前没有可用的合同。\n检查科技树看看有什么可以解锁的。</s>
+   <s id="Menu.Contracts.NoItemsFound">目前没有可用的合同。\n查看科技树看看有什么可以解锁的。</s>
    <!-- Rec:6 Max:10 Font:Primary ; primary button -->
    <s id="Menu.Contracts.PrimaryButton.Accept">接受</s>
    <!-- Rec:6 Max:10 Font:Primary ; primary button -->
@@ -7036,9 +7036,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Level.Tooltip.Retry">重试</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Level.YouDidIt">成功了！</s>
+   <s id="Level.YouDidIt">成功了!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Level.YouFailed">任务失败！</s>
+   <s id="Level.YouFailed">任务失败!</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.Altitude100.Description">建造一枚能够到达海拔100km高度的火箭。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7052,7 +7052,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Levels.Category.Tutorial">教程</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.DesignerTutorial.Description">我可以教你如何建造火箭。大约只需要10分钟,但这些知识会让你受益终身！会很有趣的！</s>
+   <s id="Levels.DesignerTutorial.Description">我可以教你如何建造火箭。大约只需要10分钟,但这些知识会让你受益终身!会很有趣的!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.DesignerTutorial.Name">设计器教程</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7060,7 +7060,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.DockingPractice.Name">对接练习</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.EsaJuice.Description">欧洲航天局首次使用木星冰卫星探测器访问木星。&#10;&#10;为了纪念这一时刻,你能将 JUICE 带到 Tydos 吗?燃料有限,所以你可能需要一些引力辅助,请尽量降低速度增量 的使用量！</s>
+   <s id="Levels.EsaJuice.Description">欧洲航天局首次使用木星冰卫星探测器访问木星。&#10;&#10;为了纪念这一时刻,你能将 JUICE 带到 Tydos 吗?燃料有限,所以你可能需要一些引力辅助,请尽量降低速度增量 的使用量!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.EsaJuice.Name">ESA的JUICE</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7084,7 +7084,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.LowOrbit.Name">低轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MaximumSpeed.Description">你能飞多快?你有20天时间达到可能的最大速度。超过30,000m/s即可获胜。速度是相对于你所环绕的天体计算的。&#10;&#10;提示：有时候你必须减速才能加速！另外,如果你使用了超过25-30个发动机,那说明你的方法不对！</s>
+   <s id="Levels.MaximumSpeed.Description">你能飞多快?你有20天时间达到可能的最大速度。超过30,000m/s即可获胜。速度是相对于你所环绕的天体计算的。&#10;&#10;提示：有时候你必须减速才能加速!另外,如果你使用了超过25-30个发动机,那说明你的方法不对!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MaximumSpeed.Name">最高速度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7106,7 +7106,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MoonOrbit.Name">Luna 轨道</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.MoonPunch.Description">尽快到达 Luna。别担心着陆问题。只要你撞上Luna表面,计时器就会停止。你有10个小时完成任务。祝你好运！</s>
+   <s id="Levels.MoonPunch.Description">尽快到达 Luna。别担心着陆问题。只要你撞上Luna表面,计时器就会停止。你有10个小时完成任务。祝你好运!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.MoonPunch.Name">Luna 冲刺</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7128,7 +7128,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.SatelliteRendezvous.Description">建造火箭,从Droo发射,与已经在轨道上的卫星交会。这是一项极具挑战性的任务,比Luna着陆难得多。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接口才能与卫星对接！</s>
+   <s id="Levels.SatelliteRendezvous.MissingDockingPortMessage">你需要对接口才能与卫星对接!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.SatelliteRendezvous.Name">卫星交会</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7152,7 +7152,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TutorialFirstPayload.Name">飞得更高</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Levels.TutorialFirstRace.Description">游玩生涯合同教程"学习飞行"。&#10;&#10;本教程引导你通过一条简单的路线来练习起飞和着陆。&#10;&#10;合同描述：&#10;这是一场飞机计时赛,抓紧你的手套！按顺序通过所有检查点,在时间耗尽之前完成。</s>
+   <s id="Levels.TutorialFirstRace.Description">游玩生涯合同教程"学习飞行"。&#10;&#10;本教程引导你通过一条简单的路线来练习起飞和着陆。&#10;&#10;合同描述：&#10;这是一场飞机计时赛,抓紧你的手套!按顺序通过所有检查点,在时间耗尽之前完成。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TutorialFirstRace.Name">学习飞行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7276,7 +7276,7 @@
    <!-- Font:Primary -->
    <s id="Menu.InputDialog.PlaceholderText">点击输入文本...</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘飞行器起个名,然后点击“发射”！</s>
+   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘飞行器起个名,然后点击“发射”!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.LaunchCraft.Name">发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8751,7 +8751,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalTypeLabel">分形类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声,这设置分形类型。它们各自以不同的、有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
+    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声,这设置分形类型。它们各自以不同的、有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运!</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalWithDerivativeType.GDCSwiss">GDC Swiss</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -8759,7 +8759,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeLabel">导数分形类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeTooltip">如果使用基于分形导数的噪声,这设置使用的类型。这些都以不同且有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运！</s>
+    <s id="Modifier.VertexDataNoise.FractalWithDerivativeTypeTooltip">如果使用基于分形导数的噪声,这设置使用的类型。这些都以不同且有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运!</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.FrequencyTooltip">每单位长度的周期数。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9133,9 +9133,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Parts.ConfigData.DescriptionLabel.CareerDisabled">这些是未完全支持的高级设置,因此我们在生涯模式中禁用了它们。请在沙盒模式游戏中使用它们。</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Parts.ConfigData.DescriptionLabel.NotEnabled">这些是额外的高级设置,虽然不完全受支持,但摆弄起来很有趣,所以我们还是把它们加入了。使用时风险自负！</s>
+   <s id="Parts.ConfigData.DescriptionLabel.NotEnabled">这些是额外的高级设置,虽然不完全受支持,但摆弄起来很有趣,所以我们还是把它们加入了。使用时风险自负!</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Parts.ConfigData.DescriptionLabel.TinkerEnabled">这些设置未完全支持。使用需自担风险！</s>
+   <s id="Parts.ConfigData.DescriptionLabel.TinkerEnabled">这些设置未完全支持。使用需自担风险!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ConfigData.DragScale.Label">阻力大小</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11811,9 +11811,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Debugging.Part2">通过天体检查器面板的性能部分关注您星球的性能也是明智的,注意四边形构建时间,尤其是平均值。更快的平均构建时间可以改善下载您星球的玩家的体验。加载原版星球并注意它们在您设备上的平均四边形构建时间,然后进行比较。如果您的星球明显更慢,可能值得削减星球属性的复杂性。您还可以调整属性 -> 地形质量模式来减少细分和每个四边形的地形顶点数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室！在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分：天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星,太阳,卫星,矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的系统上传到网站并与社区分享。通过菜单中的"加载系统"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意：我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
+   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室!在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分：天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星,太阳,卫星,矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的系统上传到网站并与社区分享。通过菜单中的"加载系统"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意：我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Noise">噪声属性使用几种梯度噪声函数之一生成一个值。这个值可以设置顶点的高度,设置生物群系的强度,或作为另一个噪声属性的遮罩输入。可能性是无限的。&#10;&#10;噪声函数是一个非常复杂的话题,超出了此帮助文本的范围。以下是基础知识,但最好的学习方法之一是尝试不同的噪声类型。&#10;&#10;大多数噪声函数使用五个基本属性：强度,频率,倍频数,空隙度和增益。&#10;&#10;强度&#10;强度是噪声的振幅,可能是最直观的设置。增加它使噪声更显著（即输出更大的值）。&#10;&#10;频率&#10;频率设置每单位长度的周期数。换句话说,小地形细节需要更高的频率,大细节需要更低的频率。&#10;&#10;倍频数&#10;可用于分形噪声,倍频数定义噪声函数运行的次数。每次运行时,强度乘以增益,频率乘以空隙度。常见的设置是增益0.5和空隙度2,因此每次运行将强度减半并将频率加倍,以更低的强度添加更精细的细节。增加倍频数可以让地形看起来更好,尤其是近距离,但也会影响性能,所以请谨慎使用。&#10;&#10;增益&#10;如上所述,增益为每个连续倍频数乘以强度。通常增益小于1,因为您希望每倍频数的强度下降,但使用噪声是一门艺术,有时必须打破规则才能创造真正独特的地形。实验并看看什么效果最好！&#10;&#10;空隙度&#10;Lack-You-Nare-Itty。至少我是这么读的。这会在每个倍频数中乘以频率。通常您希望它大于1,因此频率随倍频数增加,细节变得更小更精细。</s>
+   <s id="PlanetStudio.Help.Noise">噪声属性使用几种梯度噪声函数之一生成一个值。这个值可以设置顶点的高度,设置生物群系的强度,或作为另一个噪声属性的遮罩输入。可能性是无限的。&#10;&#10;噪声函数是一个非常复杂的话题,超出了此帮助文本的范围。以下是基础知识,但最好的学习方法之一是尝试不同的噪声类型。&#10;&#10;大多数噪声函数使用五个基本属性：强度,频率,倍频数,空隙度和增益。&#10;&#10;强度&#10;强度是噪声的振幅,可能是最直观的设置。增加它使噪声更显著（即输出更大的值）。&#10;&#10;频率&#10;频率设置每单位长度的周期数。换句话说,小地形细节需要更高的频率,大细节需要更低的频率。&#10;&#10;倍频数&#10;可用于分形噪声,倍频数定义噪声函数运行的次数。每次运行时,强度乘以增益,频率乘以空隙度。常见的设置是增益0.5和空隙度2,因此每次运行将强度减半并将频率加倍,以更低的强度添加更精细的细节。增加倍频数可以让地形看起来更好,尤其是近距离,但也会影响性能,所以请谨慎使用。&#10;&#10;增益&#10;如上所述,增益为每个连续倍频数乘以强度。通常增益小于1,因为您希望每倍频数的强度下降,但使用噪声是一门艺术,有时必须打破规则才能创造真正独特的地形。实验并看看什么效果最好!&#10;&#10;空隙度&#10;Lack-You-Nare-Itty。至少我是这么读的。这会在每个倍频数中乘以频率。通常您希望它大于1,因此频率随倍频数增加,细节变得更小更精细。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Passes">星球属性被分组为通道。每个通道在下一个通道开始前逐个运行其属性。通道有不同的用途和不同的可用输入数据。&#10;&#10;生物群系通道&#10;第一个运行的通道。它设置生物群系强度值,确定每个生物群系在星球上的位置。例如,一个类似地球的星球会在极地给极地生物群系高强度值,在赤道附近给沙漠和草原更高的强度值。&#10;&#10;高度通道&#10;接下来运行,主要负责设置顶点的高度值。&#10;&#10;高度生物群系通道&#10;接下来为生物群系通道中识别的每个生物群系运行。如果多个生物群系有强度值,它们会根据各自的强度自动混合。由于是生物群系特定的,此通道用于生物群系特定的属性。&#10;&#10;高度最终通道&#10;接下来运行,适用于必须在生物群系特定属性之后运行的通用属性。是径向扁平属性平滑建筑和发射位置地形的理想位置。不为单个生物群系运行。&#10;&#10;最终通道&#10;地形的最后一个通道,在所有其他地形通道之后运行。它设置任何剩余的未设置顶点数据,如颜色。这是唯一法向量可用的通道,不应修改高度。&#10;&#10;最终生物群系通道&#10;生物群系特定属性的最终通道。值根据生物群系通道中的强度进行混合。&#10;&#10;水体通道&#10;最后运行。设置水体相关数据,如颜色,波浪强度等。&#10;&#10;水体生物群系通道&#10;生物群系特定属性的水体通道,水体属性根据生物群系通道中的强度进行混合。这是最后运行的通道。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -12720,7 +12720,7 @@
    <!-- Font:Header -->
    <s id="Scenario.Dialog.Header">加载场景</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Scenario.Dialog.Warning">警告,您将失去当前的飞行状态！</s>
+   <s id="Scenario.Dialog.Warning">警告,您将失去当前的飞行状态!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Scene.LoadingText">加载中...</s>
    <!-- Format Font:Primary ; loading-screen label shown while generating planet cubemaps; {0} is the current index, {1} is the total count, {2} is the planet name -->
@@ -14391,9 +14391,9 @@
    <!-- Toast Font:Primary ; fuselage instruction when the user&apos;s fuselage is too short; {0} is the arrow word, {1} is the part name -->
    <s id="Tutorial.Fuselage.TallerFormat">拖动绿色{0}使{1}变长。</s>
    <!-- Toast Font:Primary ; fuselage instruction prompting the user to widen the part; {0} is the part name -->
-   <s id="Tutorial.Fuselage.FatterFormat">很好！现在拖动橙色箭头使{0}变粗。</s>
+   <s id="Tutorial.Fuselage.FatterFormat">很好!现在拖动橙色箭头使{0}变粗。</s>
    <!-- Toast Font:Primary ; fuselage instruction prompting the user to narrow the part; {0} is the part name -->
-   <s id="Tutorial.Fuselage.ThinnerFormat">很好！现在拖动橙色箭头使{0}变细。</s>
+   <s id="Tutorial.Fuselage.ThinnerFormat">很好!现在拖动橙色箭头使{0}变细。</s>
    <!-- Toast Font:Primary ; fuselage/wing tutorial instruction prompting the user to click the part they just added -->
    <s id="Tutorial.Fuselage.ClickToSelect">点击你刚刚添加的部件以选中它。</s>
    <!-- Toast Font:Primary ; wing tutorial step text introducing the resize phase -->
@@ -14409,7 +14409,7 @@
    <!-- Toast Font:Primary ; camera tutorial prompt encouraging the user to start trying -->
    <s id="Tutorial.Camera.TryIt">来试试吧。</s>
    <!-- Toast Font:Primary ; camera tutorial prompt encouraging the user to keep rotating -->
-   <s id="Tutorial.Camera.KeepRotating">就是这样,你做到了！继续旋转。</s>
+   <s id="Tutorial.Camera.KeepRotating">就是这样,你做到了!继续旋转。</s>
    <!-- Format Font:Primary ; camera tutorial progress line; {0} is the encouragement message, {1} is the integer percent completion -->
    <s id="Tutorial.Camera.PercentCompleteFormat">{0}&#10;{1}%完成。</s>
    <!-- Toast Font:Primary ; camera tutorial pan step (mouse-click variant); {0} is the uppercase mouse-button name -->
@@ -14429,7 +14429,7 @@
    <!-- Toast Font:Primary ; camera tutorial pan hint (touch variant) -->
    <s id="Tutorial.Camera.PanTouchHint">现在尝试在背景上用双指拖动来移动视图。</s>
    <!-- Toast Font:Primary ; camera tutorial pan progress encouragement after some motion has happened -->
-   <s id="Tutorial.Camera.KeepMoving">就是这样,你做到了！继续移动视图。</s>
+   <s id="Tutorial.Camera.KeepMoving">就是这样,你做到了!继续移动视图。</s>
    <!-- Toast Font:Primary ; camera tutorial focus step text -->
    <s id="Tutorial.Camera.FocusStep">你可以双击部件使相机聚焦到它。</s>
    <!-- Toast Font:Primary ; camera tutorial focus instruction -->
@@ -14445,21 +14445,21 @@
    <!-- Toast Font:Primary ; camera tutorial zoom prompt encouraging the user to start trying -->
    <s id="Tutorial.Camera.TryItOut">来试试吧。</s>
    <!-- Toast Font:Primary ; camera tutorial zoom encouragement after some motion -->
-   <s id="Tutorial.Camera.KeepZooming">就是这样,你做到了！继续缩放。</s>
+   <s id="Tutorial.Camera.KeepZooming">就是这样,你做到了!继续缩放。</s>
    <!-- Toast Font:Primary ; camera tutorial step text after zoom; prompts user to reset to the front view -->
-   <s id="Tutorial.Camera.ResetView">很好！现在,让我们将视图重置回火箭正面。</s>
+   <s id="Tutorial.Camera.ResetView">很好!现在,让我们将视图重置回火箭正面。</s>
    <!-- Toast Font:Primary ; camera tutorial instruction prompting the user to click View Front -->
    <s id="Tutorial.Camera.ClickViewFront">现在点击正面视图按钮。</s>
    <!-- Toast Font:Primary ; camera tutorial instruction prompting the user to open the View Options flyout -->
    <s id="Tutorial.Camera.ClickViewOptions">点击左侧的视图选项按钮。它正在闪烁绿色。</s>
    <!-- Toast Font:Primary ; SymmetryStep instruction shown after the user sets the symmetry mode; prompts to close the panel -->
-   <s id="Tutorial.Symmetry.ClosePanel">很好！现在点击左上角的X关闭对称面板。</s>
+   <s id="Tutorial.Symmetry.ClosePanel">很好!现在点击左上角的X关闭对称面板。</s>
    <!-- Format Font:Primary ; SymmetryStep instruction; {0} is the SymmetryMode enum value (e.g. Mirror, Radial) -->
    <s id="Tutorial.Symmetry.CycleModeFormat">循环切换模式,直到获得"{0}"</s>
    <!-- Toast Font:Primary ; SymmetryStep instruction prompting the user to open the symmetry flyout -->
    <s id="Tutorial.Symmetry.ClickSymmetryButton">点击左侧的对称按钮。</s>
    <!-- Toast Font:Primary ; StagingStep instruction shown after the staging part is correctly placed; prompts to close the panel -->
-   <s id="Tutorial.Staging.ClosePanel">很好！现在点击左上角的X关闭面板。</s>
+   <s id="Tutorial.Staging.ClosePanel">很好!现在点击左上角的X关闭面板。</s>
    <!-- Format Font:Primary ; StagingStep instruction prompting the user to add a stage; {0} is the target stage number -->
    <s id="Tutorial.Staging.AddStageFormat">点击添加级段按钮以添加第{0}级段</s>
    <!-- Format Font:Primary ; StagingStep instruction shown while the user drags a part toward a stage; {0} is the target stage number -->
@@ -14517,7 +14517,7 @@
    <!-- Format Font:Primary ; CommandPodConfiguration instruction prompting the user to set the battery volume; {0} is the formatted percentage -->
    <s id="Tutorial.CommandPodConfiguration.ChangeBatteryFormat">将电池体积更改为{0}</s>
    <!-- Toast Font:Primary ; SolarPanelArray instruction shown after rows/row-size are correct; prompts to close the panel -->
-   <s id="Tutorial.SolarPanelArray.ClosePanel">很好！现在关闭面板。</s>
+   <s id="Tutorial.SolarPanelArray.ClosePanel">很好!现在关闭面板。</s>
    <!-- Toast Font:Primary ; SolarPanelArray instruction prompting the user to set Row Size to 1 -->
    <s id="Tutorial.SolarPanelArray.ChangeRowSize">将行大小更改为1</s>
    <!-- Toast Font:Primary ; SolarPanelArray instruction prompting the user to set Rows to 4 -->
@@ -14533,21 +14533,21 @@
    <!-- Toast Font:Primary ; FingerToolStep instruction prompting the mobile user to enable the Finger Tool -->
    <s id="Tutorial.FingerTool.Tap">点击右下角的手指工具按钮。</s>
    <!-- Toast Font:Primary ; MenuTutorial intro step 0 - welcome from Algernon Fizzlebottom -->
-   <s id="Tutorial.MenuTutorial.WelcomeIntro">恭喜你创办了自己的航空航天公司！这是一项艰难的生意,但凭借我的人脉,我可以帮助你成功。请允许我自我介绍：我是Algernon Fizzlebottom。</s>
+   <s id="Tutorial.MenuTutorial.WelcomeIntro">恭喜你创办了自己的航空航天公司!这是一项艰难的生意,但凭借我的人脉,我可以帮助你成功。请允许我自我介绍：我是Algernon Fizzlebottom。</s>
    <!-- Toast Font:Primary ; MenuTutorial intro step 1 - directs user to the Tech Tree -->
    <s id="Tutorial.MenuTutorial.GoToTechTree">我最近继承了我祖父的研究公司,并拥有许多技术专利。我没有时间亲自追逐星辰,所以我提供激励措施来帮助新的航空航天公司起步。让我们去科技树看看我能为你提供什么。</s>
    <!-- Format Font:Primary ; MenuTutorial tech-tree first node prompt; {0} is the first node display name (e.g. Crew) -->
    <s id="Tutorial.MenuTutorial.TechTreeIntroFormat">欢迎来到科技树。点击"{0}"查看它包含哪些技术,然后点击解锁。这个不需要花费任何科技点,所以非常划算。</s>
    <!-- Format Font:Primary ; MenuTutorial tech-tree second node prompt; {0} is the second node display name -->
-   <s id="Tutorial.MenuTutorial.TechTreeSecondNodeFormat">太棒了！现在解锁"{0}"。它也是免费的。</s>
+   <s id="Tutorial.MenuTutorial.TechTreeSecondNodeFormat">太棒了!现在解锁"{0}"。它也是免费的。</s>
    <!-- Format Font:Primary ; MenuTutorial tech-tree branching choice prompt; {0} is rockets node name, {1} is cars node name -->
-   <s id="Tutorial.MenuTutorial.TechTreeChoosePathFormat">现在由你选择你的道路。从"{0}"开始建造火箭,或者从"{1}"开始建造汽车和飞机?你的科技点只够选择一个,所以要明智选择！</s>
+   <s id="Tutorial.MenuTutorial.TechTreeChoosePathFormat">现在由你选择你的道路。从"{0}"开始建造火箭,或者从"{1}"开始建造汽车和飞机?你的科技点只够选择一个,所以要明智选择!</s>
    <!-- Toast Font:Primary ; MenuTutorial tech-tree exit prompt after all initial nodes are researched -->
    <s id="Tutorial.MenuTutorial.ExitTechTree">你暂时无法访问更多技术了,所以让我向你展示如何获得更多科技点。点击左上角的返回按钮退出科技树。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to open the Career dialog from the main menu -->
    <s id="Tutorial.MenuTutorial.OpenCareerDialog">打开生涯对话框。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user back to the Contracts tab -->
-   <s id="Tutorial.MenuTutorial.GoBackToContracts">让我们回到合同并接受一个合同。是时候开始你的生涯了！</s>
+   <s id="Tutorial.MenuTutorial.GoBackToContracts">让我们回到合同并接受一个合同。是时候开始你的生涯了!</s>
    <!-- Toast Font:Primary ; MenuTutorial step 0 explanation shown when the Contracts tab is open -->
    <s id="Tutorial.MenuTutorial.ContractsIntro">这是你查找合同的地方。完成它们可以赚取发射新飞行器和解锁更好发射地点所需的资金。你的可用资金显示在屏幕顶部。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Contracts tab -->
@@ -14565,11 +14565,11 @@
    <!-- Format Font:Primary ; MenuTutorial step 3 prompt asking user to select a specific contract; {0} is the contract name -->
    <s id="Tutorial.MenuTutorial.SelectContractFormat">选择{0}合同,然后点击开始教程以接受此合同并开始设计器教程。</s>
    <!-- Toast Font:Primary ; MenuTutorial final step 3 message shown after a contract is accepted -->
-   <s id="Tutorial.MenuTutorial.ContractAcceptedFantastic">太棒了！我强烈建议做这个合同的教程。否则,点击左下角的建造按钮进入设计器并开始建造你的飞行器。点击确定并开始吧！祝你好运！</s>
+   <s id="Tutorial.MenuTutorial.ContractAcceptedFantastic">太棒了!我强烈建议做这个合同的教程。否则,点击左下角的建造按钮进入设计器并开始建造你的飞行器。点击确定并开始吧!祝你好运!</s>
    <!-- Toast Font:Primary ; DesignerTutorial intro confirmation prompt for backing up the user's craft -->
    <s id="Tutorial.Designer.Intro.BackupCraftPrompt">在开始教程之前,你是否要备份当前的飞行器?</s>
    <!-- Toast Font:Primary ; DesignerTutorial welcome message; reused for rotate/pan camera intro steps -->
-   <s id="Tutorial.Designer.Intro.WelcomeToDesigner">欢迎来到设计器！首先,让我向你展示如何移动视图。</s>
+   <s id="Tutorial.Designer.Intro.WelcomeToDesigner">欢迎来到设计器!首先,让我向你展示如何移动视图。</s>
    <!-- Toast Font:Primary ; DesignerTutorial command pod explanation -->
    <s id="Tutorial.Designer.Intro.CommandPodIntro">这是指令舱,它是你火箭的大脑。尽量保护它。没有它你就无法控制火箭。</s>
    <!-- Toast Font:Primary ; DesignerTutorial mobile-only Finger Tool intro -->
@@ -14599,9 +14599,9 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 12: CoM/CoL explanation -->
    <s id="Tutorial.FirstFlight.Step12">如你所见,红色质心略微位于蓝色升力中心前方,因此该飞行器在空气动力学上应该是稳定的。质心越靠前于升力中心,稳定性越强,但会失去一些机动性和俯仰响应。&#10;&#10;它们越接近,飞行器越具有特技飞行能力,但太接近可能会变得不稳定。质心位于升力中心后方就像试图倒射一支箭,羽毛在前。&#10;&#10;简单来说：红球在蓝球前面,所以这个飞行器可以起飞了。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13: launch step main -->
-   <s id="Tutorial.FirstFlight.Step13">干得好！连莱特兄弟都会为你骄傲！</s>
+   <s id="Tutorial.FirstFlight.Step13">干得好!连莱特兄弟都会为你骄傲!</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13 instruction text -->
-   <s id="Tutorial.FirstFlight.Step13Instruction">现在从朱诺村跑道发射这个宏伟的杰作。让我们看看这东西能不能飞！</s>
+   <s id="Tutorial.FirstFlight.Step13Instruction">现在从朱诺村跑道发射这个宏伟的杰作。让我们看看这东西能不能飞!</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 1: intro -->
    <s id="Tutorial.FirstOrbit.Step1">我们为你准备了一艘飞行器,但它的引擎需要一些调整以提高性能,使其能够进入轨道。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2: open Design Info panel -->
@@ -14625,7 +14625,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 8: stage 2 intro stepText -->
    <s id="Tutorial.FirstOrbit.Step8">让我们看看第二级段。根据我们之前的发射经验,这一级段将在约8公里高度点火。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 8 stage 2 DeltaV metric text -->
-   <s id="Tutorial.FirstOrbit.Step8Metric">这一级段的速度增量和起始推重比都很糟糕。这是因为侏儒引擎针对真空优化,但别担心！我们可以在这里做一些火箭手术来提高它在大气中的性能。</s>
+   <s id="Tutorial.FirstOrbit.Step8Metric">这一级段的速度增量和起始推重比都很糟糕。这是因为侏儒引擎针对真空优化,但别担心!我们可以在这里做一些火箭手术来提高它在大气中的性能。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 9 stage 2 ExitPressure metric text -->
    <s id="Tutorial.FirstOrbit.Step9Metric">这台引擎正遭受严重的过度膨胀,当排气出口压力低于大气压时就会发生。过度膨胀是导致排气中出现激波钻石的原因。出口压力越接近大气压,引擎效率越高。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 10: stage 2 configure rocket engine step -->
@@ -14633,7 +14633,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11: stage 2 review stepText -->
    <s id="Tutorial.FirstOrbit.Step11">让我们看看情况有什么变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11 stage 2 review metric text -->
-   <s id="Tutorial.FirstOrbit.Step11Metric">速度增量和推重比都有了巨大的提升！现在让我们看看第三级段。</s>
+   <s id="Tutorial.FirstOrbit.Step11Metric">速度增量和推重比都有了巨大的提升!现在让我们看看第三级段。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 12: stage 3 intro -->
    <s id="Tutorial.FirstOrbit.Step12">第三级引擎将主要在大气层上层和太空中工作。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 12 stage 3 DeltaV metric text -->
@@ -14641,7 +14641,7 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 13: stage 3 configure rocket engine step -->
    <s id="Tutorial.FirstOrbit.Step13">理想情况下,针对太空工作的火箭引擎的出口压力应为0,但这需要一个无限大的喷管。我们会选择一个比那稍微短一点的。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 14: launch step main -->
-   <s id="Tutorial.FirstOrbit.Step14">干得好！现在这枚火箭准备发射了！</s>
+   <s id="Tutorial.FirstOrbit.Step14">干得好!现在这枚火箭准备发射了!</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 14 instruction text -->
    <s id="Tutorial.FirstOrbit.Step14Instruction">点击右上角的启动按钮,从朱诺村发射台发射。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 1: intro -->
@@ -14663,15 +14663,15 @@
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 9 staging step main text -->
    <s id="Tutorial.FirstPayload.Step9StagingText">级段通常自动计算,但发射前检查是个好主意。&#10;&#10;第二级引擎实际上应该在第二级段,这样它可以在载荷部署之前启动并工作。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 10: launch step main -->
-   <s id="Tutorial.FirstPayload.Step10">太棒了！你建造了一枚多级火箭！</s>
+   <s id="Tutorial.FirstPayload.Step10">太棒了!你建造了一枚多级火箭!</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 10 instruction text -->
    <s id="Tutorial.FirstPayload.Step10Instruction">现在点击启动按钮,看看它飞得怎么样。</s>
    <!-- Toast Font:Primary ; FirstRaceTutorial step 1: intro -->
-   <s id="Tutorial.FirstRace.Step1">好消息！我们有一架飞机给你,一切准备就绪！</s>
+   <s id="Tutorial.FirstRace.Step1">好消息!我们有一架飞机给你,一切准备就绪!</s>
    <!-- Toast Font:Primary ; FirstRaceTutorial step 2: electric motor explanation; preserves literal &lt;br&gt;&lt;br&gt; tags -->
    <s id="Tutorial.FirstRace.Step2">这些电动机旋转螺旋桨以产生推力。它们向相反方向旋转,因此扭矩相互抵消。&lt;br&gt;&lt;br&gt;效率很高,但速度有点慢。之后,当你解锁喷气引擎后,你将能够建造更快的飞机。</s>
    <!-- Toast Font:Primary ; FirstRaceTutorial step 3: launch step main -->
-   <s id="Tutorial.FirstRace.Step3">祝你在第一次空中竞速中好运！</s>
+   <s id="Tutorial.FirstRace.Step3">祝你在第一次空中竞速中好运!</s>
    <!-- Toast Font:Primary ; FirstRaceTutorial step 3 instruction text -->
    <s id="Tutorial.FirstRace.Step3Instruction">从朱诺村跑道发射。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 1: command pod configuration step -->
@@ -14697,11 +14697,11 @@
    <!-- Toast Font:Primary ; TheJumpTutorial step 10: motor input config -->
    <s id="Tutorial.TheJump.Step10">将电机输入从节流阀改为俯仰。这将允许你在卡住时倒车。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 11: launch step main -->
-   <s id="Tutorial.TheJump.Step11">太棒了！我从没见过更好的车！我真为我们骄傲！</s>
+   <s id="Tutorial.TheJump.Step11">太棒了!我从没见过更好的车!我真为我们骄傲!</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 11 instruction text -->
    <s id="Tutorial.TheJump.Step11Instruction">现在点击右上角的启动按钮,从朱诺村跑道发射这个宏伟的杰作。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 1: add fuel tank -->
-   <s id="Tutorial.VerticalShot.Step1">让我们建造一枚火箭！第一步是在指令盘下方添加一个燃料箱。</s>
+   <s id="Tutorial.VerticalShot.Step1">让我们建造一枚火箭!第一步是在指令盘下方添加一个燃料箱。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 2: add nose cone -->
    <s id="Tutorial.VerticalShot.Step2">现在让我们添加一个鼻锥,以帮助减少阻力。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 3: connect engine -->
@@ -14713,7 +14713,7 @@
    <!-- Toast Font:Primary ; VerticalShotTutorial step 6: enable gyro on command disc -->
    <s id="Tutorial.VerticalShot.Step6">现在让我们启用指令盘上的陀螺仪。陀螺仪可以帮助稳定飞行中的火箭。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 7: launch step main -->
-   <s id="Tutorial.VerticalShot.Step7">太棒了！你建造了你的第一枚火箭！</s>
+   <s id="Tutorial.VerticalShot.Step7">太棒了!你建造了你的第一枚火箭!</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 7 instruction text -->
    <s id="Tutorial.VerticalShot.Step7Instruction">点击右上角的启动按钮,从朱诺村发射台发射。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 1: add fuel tank -->
@@ -14745,7 +14745,7 @@
    <!-- Toast Font:Primary ; SandboxTutorial step 14 staging step main text -->
    <s id="Tutorial.Sandbox.Step14StagingText">级段通常自动计算,但有时你需要重新排列。我故意弄乱了这枚火箭的级段,所以我们需要修复它。&#10;&#10;小精灵引擎不应该在大型助推器抛弃之前启动。要做到这一点,我们需要将它移到最后一级。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 15: final info step (also reused for EndStep) -->
-   <s id="Tutorial.Sandbox.Step15">太棒了！你建造了一枚多级火箭！接下来你应该查看飞行教程,学习如何驾驶这个杰作！</s>
+   <s id="Tutorial.Sandbox.Step15">太棒了!你建造了一枚多级火箭!接下来你应该查看飞行教程,学习如何驾驶这个杰作!</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureActivationGroupActive; {0}=group number, {1}=activation group name -->
    <s id="Tutorial.FlightTutorial.PressActivationGroupButtonFormat">按"{0}. {1}"按钮以启用它。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureActivationPanelOpen -->
@@ -14763,7 +14763,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureBrake; |Brake;+| is an input binding marker, do not translate -->
    <s id="Tutorial.FlightTutorial.DisengageBrakes">释放"|Brake;+|"以解除制动器。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked -->
-   <s id="Tutorial.FlightTutorial.WaitForDockingPorts">太好了！现在只需等待对接口连接。</s>
+   <s id="Tutorial.FlightTutorial.WaitForDockingPorts">太好了!现在只需等待对接口连接。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked mobile -->
    <s id="Tutorial.FlightTutorial.DockingControlsMobile">使用左模拟摇杆前后移动。右摇杆使飞行器上下左右移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked controller, only Yaw is bound -->
@@ -14861,7 +14861,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureWarpMode -->
    <s id="Tutorial.FlightTutorial.SelectTimeWarp">选择时间加速（在右上角）以真正加快进程</s>
    <!-- Toast Font:Primary ; FlightTutorialState.SetStepLimits lose message -->
-   <s id="Tutorial.FlightTutorial.AltitudeTooLow">你的高度降得太低了。请再试一次。你能做到的！</s>
+   <s id="Tutorial.FlightTutorial.AltitudeTooLow">你的高度降得太低了。请再试一次。你能做到的!</s>
    <!-- Rec:6 Max:10 Font:Primary ; analog direction word substituted into format strings -->
    <s id="Tutorial.FlightTutorial.AnalogDirection.Up">上</s>
    <!-- Rec:6 Max:10 Font:Primary ; analog direction word substituted into format strings -->
@@ -14891,7 +14891,7 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 -->
    <s id="Tutorial.FlightTutorial.Step0.PrepareForBlastOff">准备发射。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 -->
-   <s id="Tutorial.FlightTutorial.Step0.TimeToBlastOff">发射时间到！</s>
+   <s id="Tutorial.FlightTutorial.Step0.TimeToBlastOff">发射时间到!</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 EnsureStage - %ActivateInstruction% placeholder is replaced at runtime -->
    <s id="Tutorial.FlightTutorial.Step0.ActivateFirstStage">%ActivateInstruction%以激活第一级。这将启动你的引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 1 -->
@@ -14909,15 +14909,15 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 4 -->
    <s id="Tutorial.FlightTutorial.Step4.ContinueUntilFuelOut">继续这样飞行,直到活动引擎耗尽燃料</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 -->
-   <s id="Tutorial.FlightTutorial.Step5.ActivateNextStages">太好了！现在该激活接下来的两个级段了,这将抛弃那些空燃料箱,然后启动你的下一个引擎。</s>
+   <s id="Tutorial.FlightTutorial.Step5.ActivateNextStages">太好了!现在该激活接下来的两个级段了,这将抛弃那些空燃料箱,然后启动你的下一个引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
    <s id="Tutorial.FlightTutorial.Step5.JettisonStage">%ActivateInstruction%以抛弃空燃料箱和引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
    <s id="Tutorial.FlightTutorial.Step5.StartNextEngine">再次%ActivateInstruction%以启动你的下一个引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 -->
-   <s id="Tutorial.FlightTutorial.Step5.Perfect">完美！</s>
+   <s id="Tutorial.FlightTutorial.Step5.Perfect">完美!</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
-   <s id="Tutorial.FlightTutorial.Step6.DoingGreat">你做得太棒了！</s>
+   <s id="Tutorial.FlightTutorial.Step6.DoingGreat">你做得太棒了!</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
    <s id="Tutorial.FlightTutorial.Step6.LookAtMapView">现在,让我们看看地图视图。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
@@ -14925,7 +14925,7 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
    <s id="Tutorial.FlightTutorial.Step6.ApoapsisExplanation">蓝色圆锥是你的飞行器,蓝线是你的预测轨迹/轨道。绿色箭头是你的"轨道远点",即轨道上最高的点。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
-   <s id="Tutorial.FlightTutorial.Step7.KillEnginesAndWait">太棒了！现在我们需要关闭引擎并等待。</s>
+   <s id="Tutorial.FlightTutorial.Step7.KillEnginesAndWait">太棒了!现在我们需要关闭引擎并等待。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
    <s id="Tutorial.FlightTutorial.Step7.WaitForApoapsisBurn">等到距离轨道远点还有30秒时,再进行下一次点火</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
@@ -14939,13 +14939,13 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 9 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
    <s id="Tutorial.FlightTutorial.Step9.StartLastEngine">再次%ActivateInstruction%以启动你的最后一个引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 9 -->
-   <s id="Tutorial.FlightTutorial.Step9.Excellent"> excellent！</s>
+   <s id="Tutorial.FlightTutorial.Step9.Excellent"> excellent!</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 10 -->
    <s id="Tutorial.FlightTutorial.Step10.PeriapsisExplanation">我们快到了。现在继续燃烧,直到橙色"轨道近点"箭头出现。轨道近点是我们轨道的最低点,我们希望它远高于大气层。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 10 -->
    <s id="Tutorial.FlightTutorial.Step10.ContinueBurning">继续燃烧,直到橙色"轨道近点"箭头出现并且远高于大气层。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 11 -->
-   <s id="Tutorial.FlightTutorial.Step11.YouDidIt">你做到了！现在关闭引擎。</s>
+   <s id="Tutorial.FlightTutorial.Step11.YouDidIt">你做到了!现在关闭引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 11 -->
    <s id="Tutorial.FlightTutorial.Step11.ActivateSolarPanels">现在让我们激活那些漂亮的太阳能板</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15161,7 +15161,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="UploadCelestialBody.TotalSizeTooLargeErrorFormat">总上传大小为{0},超过了{1}的大小限制。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Url.Download.PlanetarySystemSuccessMessage">下载成功！&#10;&#10;要使用此系统开始新游戏,请在主菜单中选择"新游戏"。在新游戏对话框中,选择行星系统按钮,然后从列表中选择此系统。</s>
+   <s id="Url.Download.PlanetarySystemSuccessMessage">下载成功!&#10;&#10;要使用此系统开始新游戏,请在主菜单中选择"新游戏"。在新游戏对话框中,选择行星系统按钮,然后从列表中选择此系统。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Url.Download.PromptFormat">点击"确定"开始下载 {0}。</s>
    <!-- Rec:16 Max:22 Font:Primary ; download resource type -->
@@ -17428,7 +17428,7 @@
     <s id="Droodism.DroodismUIManager.RadiationDoseTooltip">{0} 当前的辐射剂量</s>
     <s id="Droodism.DroodismUIManager.RadiationRate">辐射率</s>
     <s id="Droodism.DroodismUIManager.RadiationRateStats">辐射率状态</s>
-    <s id="Droodism.DroodismUIManager.RadiationRateStatsTooltip">{0} 当前的辐射率统计 - 如果变红色,小心！</s>
+    <s id="Droodism.DroodismUIManager.RadiationRateStatsTooltip">{0} 当前的辐射率统计 - 如果变红色,小心!</s>
     <s id="Droodism.DroodismUIManager.RadiationRateTooltip">{0} 每小时当前的辐射增加率</s>
     <s id="Droodism.DroodismUIManager.RadiationStats">辐射状态</s>
     <s id="Droodism.DroodismUIManager.RadiationStatsTooltip">{0} 当前辐射累积剂量统计</s>
@@ -17603,8 +17603,8 @@
     <s id="Droodism.ResourceWarning.Critical">临界</s>
     <s id="Droodism.ResourceWarning.LevelAt">浓度于</s>
     <s id="Droodism.ResourceWarning.Remaining">剩余</s>
-    <s id="Droodism.ResourceWarning.ResourceCriticalTimePaused">资源临界！时间已暂停</s>
-    <s id="Droodism.ResourceWarning.WarpSpeedReduced">资源警告！时间加速速度已降低</s>
+    <s id="Droodism.ResourceWarning.ResourceCriticalTimePaused">资源临界!时间已暂停</s>
+    <s id="Droodism.ResourceWarning.WarpSpeedReduced">资源警告!时间加速速度已降低</s>
     <s id="Droodism.ResourceWarning.Warning">警告</s>
 
     <!-- Sodium_PeroxideScript -->
@@ -17696,7 +17696,7 @@
     <s id="Droodism.GasDealerScript.GasReleasing">正在释放 {0}</s>
     <s id="Droodism.GasDealerScript.Malfunction">故障</s>
     <s id="Droodism.GasDealerScript.MalfunctionTooltip">减压阀故障,无法启动</s>
-    <s id="Droodism.GasDealerScript.Malfunctioning">减压阀故障！</s>
+    <s id="Droodism.GasDealerScript.Malfunctioning">减压阀故障!</s>
     <s id="Droodism.GasDealerScript.SequenceInitiated">减压序列已启动</s>
 
     <!-- RagdollModifierScript -->
