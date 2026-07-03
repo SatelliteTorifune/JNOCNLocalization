@@ -217,9 +217,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.Race.GoalInTimeFormat">在 {0} 内完成。</s>
    <!-- Rec:2 Max:4 Font:Primary ; period appended when there is no time limit -->
-   <s id="Career.Race.GoalPeriod">。</s>
+   <s id="Career.Race.GoalPeriod">.</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Race.GoalTrackDistanceFormat">轨道距离为 {0}。</s>
+   <s id="Career.Race.GoalTrackDistanceFormat">赛道距离为 {0}。</s>
    <!-- Rec:14 Max:20 Font:Primary ; race display value before start -->
    <s id="Career.Race.NotStarted">未开始</s>
    <!-- Rec:18 Max:24 Font:Primary ; checkpoint name -->
@@ -957,7 +957,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Name">逃逸轨道</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-flyby.Description">有多少艘独特的飞行器曾将离心率提高到 1 以上。</s>
+   <s id="Career.Milestones.Droo.Droo-flyby.Description">有多少艘独特的飞行器曾将离心率提高到1以上。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Tier0.RewardMessage">恭喜首次进入逃逸轨道!</s>
    <!-- Font:Primary -->
@@ -1971,7 +1971,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.liquidengine4.Name">力大砖飞!</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Nodes.liquidengine3.Name">现在工程师</s>
+   <s id="Career.TechTree.Nodes.liquidengine3.Name">现代工程师</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Nodes.recovery3.Name">羽落</s>
    <!-- Font:Primary -->
@@ -2357,7 +2357,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Ali.Short">在沙漠基地周围低空飞行。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Ali.Long">我们侦测到你在行星附近飞行,看起来你就是执行我们某项任务的完美人选。我们正在验证新的 ALI 基地雷达:在基地附近以不低于 1 马赫的速度,距地 150 米以下低空飞行 10 公里。</s>
+   <s id="Career.Contracts.Location-Ali.Long">我们侦测到你在行星附近飞行,看起来你就是执行我们某项任务的完美人选。我们正在验证新的 ALI 基地雷达:在基地附近以不低于1马赫的速度,距地 150 米以下低空飞行 10 公里。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-AliPad.Name">快速部署</s>
    <!-- Font:Primary -->
@@ -2457,7 +2457,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Short">在Droo轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Long">一个 3 人机组被困在我们几周前发射的实验性航天飞机里,当时为了某项研究把它送入了极轨道。它有 400% 尺寸的对接口;如果你有办法,你可以试着搭乘它回来。</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Long">一个3人机组被困在我们几周前发射的实验性航天飞机里,当时为了某项研究把它送入了极轨道。它有 400% 尺寸的对接口;如果你有办法,你可以试着搭乘它回来。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-1.Name">Luna 轨道救援</s>
    <!-- Font:Primary -->
@@ -2535,7 +2535,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Short runway.Short">在村里安全着陆一架载具。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-DSC Short runway.Long">我们航天中心的跑道是宝贵的资产,不容有失,所以首先需要确认你能在恶劣情况下安全着陆。造一架能飞到 3 马赫的载人载具,然后在村里的跑道上安全降落。</s>
+   <s id="Career.Contracts.Location-DSC Short runway.Long">我们航天中心的跑道是宝贵的资产,不容有失,所以首先需要确认你能在恶劣情况下安全着陆。造一架能飞到3马赫的载人载具,然后在村里的跑道上安全降落。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-DSC Large runway.Name">精细飞行</s>
    <!-- Font:Primary -->
@@ -2565,7 +2565,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Short">带一颗探测器在星系里转一圈再飞出去。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Long">在Luna上的基地建造花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过Droo的 3 颗行星,然后再飞出 Juno 的引力影响范围。</s>
+   <s id="Career.Contracts.GrandTour.Long">在Luna上的基地建造花光了我们的预算后,我们现在资金紧张。我需要一些真正亮眼的东西,这样才能去申请更多经费。&lt;br&gt;&lt;br&gt;我们有一台现成的 Traveler 探测器:带它至少经过Droo的3颗行星,然后再飞出 Juno 的引力影响范围。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -2881,7 +2881,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#3.Button.StepText">你还有一张地图可以查看自己所在的位置。你可以缩放和切换方向。它非常有用,特别是在你还没解锁更高级地图视图的早期。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Description">开始时距地面 1 公里以内。</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Description">开始时距地面1公里以内。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Expression#0.Expression.Description">让火箭的加速度超过 10 m/s²</s>
    <!-- Font:Primary -->
@@ -2949,7 +2949,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#0.Controls.Text">%ActivateInstruction% 激活你的第一级。这会点燃你的发动机。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#0.StepText.StepText">等助推器燃料耗尽。下一步会在大约 6 公里 AGL 时发生,所以放松一点,但也别太放松。</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#0.StepText.StepText">等助推器燃料耗尽。下一步会在大约6公里 AGL 时发生,所以放松一点,但也别太放松。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#0.Controls#1.Text">%ActivateInstruction% 激活你的第二级。记得把节流阀拉满,这可不是固体发动机了。</s>
    <!-- Font:Primary -->
@@ -3061,7 +3061,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Expression.Expression.Description">飞到  @MachTarget 马赫</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Expression.Expression.SurfaceDistance.Description">保持这个速度 1 公里</s>
+   <s id="Career.Contracts.Record-airspeed.Req.Planet-Droo.Expression.Expression.Expression.SurfaceDistance.Description">保持这个速度1公里</s>
    <!-- Contract 'Record-landspeed' requirements Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3069,7 +3069,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Expression.Expression.Description">速度大于 @SpeedTarget:velocity </s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少 5 秒</s>
+   <s id="Career.Contracts.Record-landspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少5秒</s>
    <!-- Contract 'Record-waterspeed' requirements Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3077,7 +3077,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Expression.Expression.Description">速度大于  @SpeedTarget m/s</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少 5 秒</s>
+   <s id="Career.Contracts.Record-waterspeed.Req.Planet-Droo.Expression.Expression.Timer.Description">保持这个速度至少5秒</s>
    <!-- Contract 'Record-distancedriven' requirements Font:Primary -->
    <s id="Career.Contracts.Record-distancedriven.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3145,7 +3145,7 @@
    <!-- Contract 'Droo-Surface-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的 SimpleOffroad</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把 2 名Drood带回 Juno 村</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把2名Drood带回 Juno 村</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的飞行器里救出来</s>
    <!-- Font:Primary -->
@@ -3169,11 +3169,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Expression.Description">升空开始计时</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Timer.Description">你有 5 分钟</s>
+   <s id="Career.Contracts.Location-AliPad.Req.TrackedLaunch.Planet-Droo.Timer.Description">你有5分钟</s>
    <!-- Contract 'Ali-delivery' requirements Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Any.Description">把 4 个箱子送到 Ali 前哨,放在机库附近</s>
+   <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Any.Description">把4个箱子送到 Ali 前哨,放在机库附近</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Ali-delivery.Req.TrackedLaunch.Planet-Droo.Any.Template.Repeat.Payload-Payload-Package-Fragile.Location-Droo.Ali.Outpost.CraftExpression.Description">确保箱子已经接地,小心轻放!</s>
    <!-- Contract 'Packages-outpost' requirements Font:Primary -->
@@ -3185,7 +3185,7 @@
    <!-- Contract 'Packages-launchpad' requirements Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Location-Droo.Ali.Pad.Description">哈!真聪明!别从发射台开始</s>
+   <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Location-Droo.Ali.Pad.Description">哈!别耍小聪明!别从发射台开始</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-launchpad.Req.TrackedLaunch.Planet-Droo.Any.Description">把 @Count 个载荷 送到 Ali 发射台并放在那里</s>
    <!-- Font:Primary -->
@@ -3195,7 +3195,7 @@
    <!-- Contract 'Droo-Surface-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的私人飞机</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把 4 名Drood运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Description">安全地把4名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3217,7 +3217,7 @@
    <!-- Contract 'Droo-Surface-Rescue-5' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近损坏的极地探险车</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把 5 名Drood运到 Ali 基地</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Description">安全地把5名Drood运到 Ali 基地</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-5.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3229,7 +3229,7 @@
    <!-- Contract 'Droo-Surface-Rescue-6' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的 SimpleRCV</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把 6 名Drood安全地从被困载具运到 DSC 港口</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Description">把6名Drood安全地从被困载具运到 DSC 港口</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-6.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3251,7 +3251,7 @@
    <!-- Contract 'Droo-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood从被困的载具运回Droo表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Description">把2名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3263,11 +3263,11 @@
    <!-- Contract 'Droo-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood从被困的载具运回Droo表面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Description">把3名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Drood地面</s>
+   <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.Description">把那名Drood送回Droo地面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Planet-Droo.CraftExpression.Description">安全地把那名Drood送回地面</s>
    <!-- Font:Primary -->
@@ -3285,7 +3285,7 @@
    <!-- Contract 'Luna-Orbit-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把 2 名Drood从被困的载具运回Droo表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Description">把2名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3297,7 +3297,7 @@
    <!-- Contract 'Luna-Orbit-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把 3 名Drood从被困的载具运回Droo表面</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Description">把3名Drood从被困的载具运回Droo表面</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从被困的载具里救出来</s>
    <!-- Font:Primary -->
@@ -3319,7 +3319,7 @@
    <!-- Contract 'Luna-Surface-Rescue-2' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的LunaTown基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把 2 名Drood安全地从被困的载具运回Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Description">把2名Drood安全地从被困的载具运回Droo</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood送回Droo</s>
    <!-- Font:Primary -->
@@ -3331,7 +3331,7 @@
    <!-- Contract 'Luna-Surface-Rescue-3' requirements Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近被困的Drood着陆系统</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把 3 名Drood安全地从被困的载具运回Droo</s>
+   <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Description">把3名Drood安全地从被困的载具运回Droo</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-3.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood送回Droo</s>
    <!-- Font:Primary -->
@@ -3377,7 +3377,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Expression.Location-Droo.DroneShip.Description">对准无人船的中心</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Expression.Location-Droo.DroneShip.Expression.Description">保持接地 5 秒</s>
+   <s id="Career.Contracts.Location-Launchpad.Req.TrackedLaunch.Planet-Droo.Expression.Location-Droo.DroneShip.Expression.Description">保持接地5秒</s>
    <!-- Contract 'Location-Large-Pad' requirements Font:Primary -->
    <s id="Career.Contracts.Location-Large-Pad.Req.TrackedLaunch.Expression.Description">载具质量始终高于 @Mass:mass</s>
    <!-- Contract 'Location-Lunapad' requirements Font:Primary -->
@@ -3387,7 +3387,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Location-Luna.Base.Description">到达Luna上的基地</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#0.Description">保持接地 3 秒</s>
+   <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#0.Description">保持接地3秒</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Location-Lunapad.Req.TrackedLaunch.Planet-Luna.Expression#1.Description">这考的是驾驶,别作弊!</s>
    <!-- Font:Primary -->
@@ -3417,7 +3417,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-0.Orbit.Orbit.Orbit.PartCount-Droo-Station-0.Description">分离 Radix舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Radix.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Expansion' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3429,7 +3429,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-1.PartCount-Droo-Station-1.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Expansion.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Docking' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3441,7 +3441,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-1.PartCount-Droo-Station-Module-1.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Docking.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Habitation' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3453,7 +3453,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-2.PartCount-Droo-Station-Module-2.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Habitation.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Cupola' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3465,7 +3465,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-2.PartCount-Droo-Station-2.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Cupola.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Solar' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3477,7 +3477,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Module-4.PartCount-Droo-Station-Module-4.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Solar.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Structure' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3489,7 +3489,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.PartCount-@ID.PartCount-@ID.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Structure.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Fuel-Core' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3501,7 +3501,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-0.PartCount-Droo-Station-Fuel-0.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Fuel-Core.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'SPE-Fuel-Ballz' requirements Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3513,7 +3513,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.PartCount-Droo-Station-Fuel-@Module.PartCount-Droo-Station-Fuel-@Module.Description">分离舱段</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Expression.Description">把级段带回到大气层中,使其离轨</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Req.TrackedLaunch.Planet-Droo.Expression.Description">把分级带回到大气层中,使其离轨</s>
    <!-- Contract 'Race-Air-2' requirements Font:Primary -->
    <s id="Career.Contracts.Race-Air-2.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Contract 'Packages-research' requirements Font:Primary -->
@@ -3551,7 +3551,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持 5 秒</s>
+   <s id="Career.Contracts.Droo-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持5秒</s>
    <!-- Contract 'First-sat' requirements Font:Primary -->
    <s id="Career.Contracts.First-sat.Req.TrackedLaunch.PartCount-Payload-Sat-1.Description">携带 CubeSat 一起发射</s>
    <!-- Font:Primary -->
@@ -3569,7 +3569,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持 5 秒</s>
+   <s id="Career.Contracts.Heliosynch-orbit.Req.TrackedLaunch.Planet-Droo.Orbit.Orbit.Orbit.Timer.Description">保持5秒</s>
    <!-- Contract 'Observation' requirements Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3657,7 +3657,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.CraftExpression#1.Description">释放漫游车</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Any.Description">把漫游车开到 3 个样本点</s>
+   <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Any.Description">把漫游车开到3个样本点</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Req.TrackedLaunch.Payload-Payload-Lander-3.Planet-@Moon.Any.Template.Repeat.Location-Sample-@Index.Description">前往目标样本点</s>
    <!-- Contract 'Lunar-landing' requirements Font:Primary -->
@@ -4054,7 +4054,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.DesignerScript.PartReconnectedPluralFormat">部件已重连。发现 {0} 个连接</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.DesignerScript.PartReconnectedSingular">部件已重连。发现 1 个连接</s>
+   <s id="Design.DesignerScript.PartReconnectedSingular">部件已重连。发现1个连接</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.DesignerScript.RedoComplete">重做完成</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5642,19 +5642,19 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.OptionRadial2.Name">对称2次</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.OptionRadial3.Description">部件以其根为中心径向复制 3 次。</s>
+   <s id="Design.Symmetry.OptionRadial3.Description">部件以其根为中心径向复制3次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.OptionRadial3.Name">对称3次</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.OptionRadial4.Description">部件以其根为中心径向复制 4 次。</s>
+   <s id="Design.Symmetry.OptionRadial4.Description">部件以其根为中心径向复制4次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.OptionRadial4.Name">对称4次</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.OptionRadial5.Description">部件以其根为中心径向复制 5 次。</s>
+   <s id="Design.Symmetry.OptionRadial5.Description">部件以其根为中心径向复制5次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.OptionRadial5.Name">对称5次</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.OptionRadial6.Description">部件以其根为中心径向复制 6 次。</s>
+   <s id="Design.Symmetry.OptionRadial6.Description">部件以其根为中心径向复制6次。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.OptionRadial6.Name">对称6次</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9847,7 +9847,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.InputBasedActivator.ActivatePart">激活零件</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InputBasedActivator.ActivateStage">激活级段</s>
+   <s id="Parts.InputBasedActivator.ActivateStage">激活分级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.InputBasedActivator.ActivationGroupFormat">动作组 {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11055,7 +11055,7 @@
    <!-- Toast Font:Primary ; status message while bulk-moving selected photos -->
    <s id="PhotoLibrary.Status.MovingPhotos">正在移动照片...</s>
    <!-- Toast Font:Primary ; status message after bulk delete when exactly one photo was removed -->
-   <s id="PhotoLibrary.Status.DeletedPhotoSingular">已删除 1 张照片</s>
+   <s id="PhotoLibrary.Status.DeletedPhotoSingular">已删除1张照片</s>
    <!-- Toast Font:Primary ; status message after bulk delete when more than one photo was removed; {0} is the count -->
    <s id="PhotoLibrary.Status.DeletedPhotosPluralFormat">已删除 {0} 张照片</s>
    <!-- Toast Font:Primary ; nag shown when user tries to bulk delete without selecting any photos -->
@@ -11065,7 +11065,7 @@
    <!-- Toast Font:Primary ; nag shown when the bulk-move destination is empty -->
    <s id="PhotoLibrary.Status.SelectAlbumAbove">请在上方选择一个相册。</s>
    <!-- Toast Font:Primary ; status message after moving exactly one photo to an album; {0} is the destination album name -->
-   <s id="PhotoLibrary.Status.MovedPhotoSingularFormat">已将 1 张照片移动到相册 '{0}'</s>
+   <s id="PhotoLibrary.Status.MovedPhotoSingularFormat">已将1张照片移动到相册 '{0}'</s>
    <!-- Toast Font:Primary ; status message after moving more than one photo to an album; {0} is the count, {1} is the destination album name -->
    <s id="PhotoLibrary.Status.MovedPhotosPluralFormat">已将 {0} 张照片移动到相册 '{1}'</s>
    <!-- Toast Font:Primary ; nag shown when no album is selected for adding a photo -->
@@ -11091,13 +11091,13 @@
    <!-- Rec:8 Max:12 Font:Primary ; destructive button label on the album delete confirmation dialog -->
    <s id="PhotoLibrary.Album.DeleteButton">删除</s>
    <!-- Rec:30 Max:50 Font:Primary ; bulk-action banner shown after picking an album to move one photo into; {0} is the destination album name -->
-   <s id="PhotoLibrary.BulkMove.MoveToAlbumSingularFormat">将 1 张照片移动到相册 '{0}'</s>
+   <s id="PhotoLibrary.BulkMove.MoveToAlbumSingularFormat">将1张照片移动到相册 '{0}'</s>
    <!-- Rec:30 Max:50 Font:Primary ; bulk-action banner shown after picking an album to move multiple photos into; {0} is the count, {1} is the destination album name -->
    <s id="PhotoLibrary.BulkMove.MoveToAlbumPluralFormat">将 {0} 张照片移动到相册 '{1}'</s>
    <!-- Rec:30 Max:50 Font:Primary ; bulk-action banner prompting the user to pick a destination album -->
    <s id="PhotoLibrary.BulkMove.WhereToMove">您想将照片移动到哪里?</s>
    <!-- Rec:20 Max:30 Font:Primary ; bulk-selection banner when exactly one photo is selected -->
-   <s id="PhotoLibrary.BulkSelection.SelectedSingular">已选择 1 张照片</s>
+   <s id="PhotoLibrary.BulkSelection.SelectedSingular">已选择1张照片</s>
    <!-- Rec:20 Max:30 Font:Primary ; bulk-selection banner when more than one photo is selected; {0} is the count -->
    <s id="PhotoLibrary.BulkSelection.SelectedPluralFormat">已选择 {0} 张照片</s>
    <!-- Rec:14 Max:18 Font:Primary ; bulk-action confirm button shown while picking a destination album -->
@@ -12393,7 +12393,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetStudio.Upload.Yes">已上传</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Validation.Failed">一个或多个轨道存在问题。请检查以下内容。&#10;&#10;行星不能...&#10;* 离开其母星的作用范围。&#10;* 与另一颗行星重复。&#10;* 与其他行星相遇。&#10;* 使其作用范围与其母星表面相交&#10;&#10;请检查标红的轨道并修复问题。</s>
+   <s id="PlanetStudio.Validation.Failed">一个或多个轨道存在问题。请检查以下内容。&#10;&#10;行星不能...&#10;* 离开其母星的作用范围。&#10;* 与另一颗行星重复。&#10;* 与其他行星相遇。&#10;* 使其引力范围与其母星表面相交&#10;&#10;请检查标红的轨道并修复问题。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="PlanetStudio.Validation.InProgress">正在验证行星系统。根据配置和行星数量,这可能需要一段时间。相遇概率高的行星需要更长时间。最多需要{0}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -14461,21 +14461,21 @@
    <!-- Toast Font:Primary ; StagingStep instruction shown after the staging part is correctly placed; prompts to close the panel -->
    <s id="Tutorial.Staging.ClosePanel">很好!现在点击左上角的X关闭面板。</s>
    <!-- Format Font:Primary ; StagingStep instruction prompting the user to add a stage; {0} is the target stage number -->
-   <s id="Tutorial.Staging.AddStageFormat">点击添加级段按钮以添加第{0}级段</s>
+   <s id="Tutorial.Staging.AddStageFormat">点击添加分级按钮以添加第{0}分级</s>
    <!-- Format Font:Primary ; StagingStep instruction shown while the user drags a part toward a stage; {0} is the target stage number -->
-   <s id="Tutorial.Staging.DropInStageFormat">将它放入第{0}级段</s>
+   <s id="Tutorial.Staging.DropInStageFormat">将它放入第{0}分级</s>
    <!-- Format Font:Primary ; StagingStep mobile instruction; {0} is part name, {1} is target stage number -->
-   <s id="Tutorial.Staging.TapAndDragFormat">按住{0}然后将其拖到第{1}级段</s>
+   <s id="Tutorial.Staging.TapAndDragFormat">按住{0}然后将其拖到第{1}分级</s>
    <!-- Format Font:Primary ; StagingStep desktop instruction; {0} is part name, {1} is target stage number -->
-   <s id="Tutorial.Staging.LeftClickDragFormat">左键点击并拖动{0},将其放入第{1}级段</s>
+   <s id="Tutorial.Staging.LeftClickDragFormat">左键点击并拖动{0},将其放入第{1}分级</s>
    <!-- Format Font:Primary ; StagingStep instruction prompting the user to expand a category; {0} is the category node text -->
    <s id="Tutorial.Staging.ExpandCategoryFormat">[左键点击|轻触]{0}类别以展开它。</s>
    <!-- Format Font:Primary ; StagingStep instruction prompting the user to expand a stage; {0} is the stage number -->
-   <s id="Tutorial.Staging.ExpandStageFormat">[左键点击|轻触]第{0}级段以展开它。</s>
+   <s id="Tutorial.Staging.ExpandStageFormat">[左键点击|轻触]第{0}分级以展开它。</s>
    <!-- Toast Font:Primary ; StagingStep long introductory step text before the staging editor is open -->
-   <s id="Tutorial.Staging.Intro">在结束之前还有最后一步:让我们看看这枚火箭的级段。级段只是部件激活的顺序。第1级段先激活,然后第2级段,依此类推。&#10;&#10;通常你的大型引擎应该先激活并燃烧它们的燃料。一旦耗尽,使用级间段抛弃它们,为后续级段减轻负载。</s>
+   <s id="Tutorial.Staging.Intro">在结束之前还有最后一步:让我们看看这枚火箭的分级。分级只是部件激活的顺序。第1分级先激活,然后第2分级,依此类推。&#10;&#10;通常你的大型引擎应该先激活并燃烧它们的燃料。一旦耗尽,使用级间段抛弃它们,为后续分级减轻负载。</s>
    <!-- Toast Font:Primary ; StagingStep instruction prompting the user to open the staging editor -->
-   <s id="Tutorial.Staging.ClickStagingEditor">点击左侧的级段编辑器按钮。</s>
+   <s id="Tutorial.Staging.ClickStagingEditor">点击左侧的分级编辑器按钮。</s>
    <!-- Toast Font:Primary ; StagingStep instruction prompting the user to open the preflight configuration flyout -->
    <s id="Tutorial.Staging.ClickPreflight">点击左侧的飞行前配置按钮。</s>
    <!-- Toast Font:Primary ; PerformanceStep instruction prompting the user to chooseDrooenvironment -->
@@ -14575,7 +14575,7 @@
    <!-- Toast Font:Primary ; DesignerTutorial mobile-only Finger Tool intro -->
    <s id="Tutorial.Designer.Intro.FingerToolIntro">在添加部件之前,让我们打开手指工具。它使精确放置部件变得容易得多。它还可以帮助你复制部件,但我们稍后会介绍。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 1: intro info step -->
-   <s id="Tutorial.FirstFlight.Step1">我从跳跃教程中的汽车开始,但做了一些调整以便为机翼腾出空间。</s>
+   <s id="Tutorial.FirstFlight.Step1">我从教程中的汽车开始,但做了一些调整以便为机翼腾出空间。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 2: add main wing -->
    <s id="Tutorial.FirstFlight.Step2">首先,我们需要添加主翼,它们将提供升力使这个美丽的飞行器离开地面。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 3: add control surface to main wing -->
@@ -14585,13 +14585,13 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 5: add elevator -->
 <s id="Tutorial.FirstFlight.Step5">现在添加升降舵,它允许飞行器向上和向下俯仰以改变高度。对于飞机来说,这非常重要。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 6: elevator control surface -->
-   <s id="Tutorial.FirstFlight.Step6">升降舵的控制面应该响应俯仰输入。提醒自己:车轮也设置为俯仰,所以我们稍后会更改它们。</s>
+   <s id="Tutorial.FirstFlight.Step6">升降舵的控制面应该响应俯仰输入,顺便一提:车轮也设置为俯仰,所以我们稍后会更改它们。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 7: elevator symmetry (same English as Step4 but separate key for translator flexibility) -->
    <s id="Tutorial.FirstFlight.Step7">使用对称工具,将我们的工作复制到另一侧。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 8: add rudder -->
-   <s id="Tutorial.FirstFlight.Step8">现在添加方向舵,它提供偏航轴上的稳定性。一个常见的误解是方向舵用于转弯——实际上那是主翼滚转入弯的工作。方向舵用于微调。</s>
+   <s id="Tutorial.FirstFlight.Step8">现在添加尾翼,它提供偏航轴上的稳定性。一个常见的误解是使用尾翼用于转弯——实际上那是主翼滚转入弯的工作。尾翼用于微调。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 9: rudder control surface -->
-   <s id="Tutorial.FirstFlight.Step9">方向舵的控制面应该响应偏航输入。</s>
+   <s id="Tutorial.FirstFlight.Step9">尾翼的控制面应该响应偏航输入。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 10: configure motor input on wheels -->
    <s id="Tutorial.FirstFlight.Step10">由于升降舵使用俯仰输入,我们将车轮的电机输入更改为节流阀。否则,向后拉杆以抬头俯仰也会降低电机输入。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 11: center indicators intro -->
@@ -14601,7 +14601,7 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13: launch step main -->
    <s id="Tutorial.FirstFlight.Step13">干得好!连莱特兄弟都会为你骄傲!</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13 instruction text -->
-   <s id="Tutorial.FirstFlight.Step13Instruction">现在从朱诺村跑道发射这个宏伟的杰作。让我们看看这东西能不能飞!</s>
+   <s id="Tutorial.FirstFlight.Step13Instruction">现在从Juno村跑道发射这个宏伟的杰作。让我们看看这东西能不能飞!</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 1: intro -->
    <s id="Tutorial.FirstOrbit.Step1">我们为你准备了一艘飞行器,但它的引擎需要一些调整以提高性能,使其能够进入轨道。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2: open Design Info panel -->
@@ -14609,47 +14609,47 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2 DeltaV all-stages metric text -->
    <s id="Tutorial.FirstOrbit.Step2Metric">这是飞行器的总速度增量,即速度的变化量。理论上,它是在没有重力和阻力的完美环境中飞行器能达到的速度。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3: explanation about DeltaV requirement -->
-   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4,500m/s才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
+   <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4500m/s才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3 metric text after DeltaV at sea level -->
-   <s id="Tutorial.FirstOrbit.Step3Metric">我们还有一些工作要做。我们将查看每个级段,看看能做些什么来提高性能。别担心,这只是火箭科学。</s>
+   <s id="Tutorial.FirstOrbit.Step3Metric">我们还有一些工作要做。我们将查看每个分级,看看能做些什么来提高性能。别担心,这只是火箭科学。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 4: stage 1 intro -->
-   <s id="Tutorial.FirstOrbit.Step4">让我们看看第一级段,它由五个固体火箭发动机组成。</s>
+   <s id="Tutorial.FirstOrbit.Step4">让我们看看第一分级,它由五个固体火箭发动机组成。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 4 stage 1 DeltaV metric text -->
-   <s id="Tutorial.FirstOrbit.Step4Metric">这一级段的速度增量看起来还可以。我们只想让它在启动更高效的引擎之前获得一些高度,这些引擎需要更稀薄的大气才能工作。</s>
+   <s id="Tutorial.FirstOrbit.Step4Metric">这一分级的速度增量看起来还可以。我们只想让它在启动更高效的引擎之前获得一些高度,这些引擎需要更稀薄的大气才能工作。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 5 stage 1 Starting TWR metric text -->
-   <s id="Tutorial.FirstOrbit.Step5Metric">另一个重要指标是推重比（TWR）。如果它小于1,飞行器在起飞时无法克服重力。这一级段有足够的推重比用于发射。</s>
+   <s id="Tutorial.FirstOrbit.Step5Metric">另一个重要指标是推重比（TWR）。如果它小于1,飞行器在起飞时无法克服重力。这一分级有足够的推重比用于发射。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 6 stage 1 Ending TWR metric text -->
-   <s id="Tutorial.FirstOrbit.Step6Metric">注意结束推重比高于起始推重比。这是因为引擎在整个级段中燃烧燃料质量,所以飞行器质量减少。这意味着火箭的加速度在整个级段中实际上在增加。</s>
+   <s id="Tutorial.FirstOrbit.Step6Metric">注意结束推重比高于起始推重比。这是因为引擎在整个分级中燃烧燃料质量,所以飞行器质量减少。这意味着火箭的加速度在整个分级中实际上在增加。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 7 stage 1 Isp metric text -->
    <s id="Tutorial.FirstOrbit.Step7Metric">最后一点:比冲（Isp）。它有点像火箭引擎的油耗,越高越好。这些固体火箭发动机效率不高,但它们便宜且能完成任务。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 8: stage 2 intro stepText -->
-   <s id="Tutorial.FirstOrbit.Step8">让我们看看第二级段。根据我们之前的发射经验,这一级段将在约8公里高度点火。</s>
+   <s id="Tutorial.FirstOrbit.Step8">让我们看看第二分级。根据我们之前的发射经验,这一分级将在约8公里高度点火。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 8 stage 2 DeltaV metric text -->
-   <s id="Tutorial.FirstOrbit.Step8Metric">这一级段的速度增量和起始推重比都很糟糕。这是因为侏儒引擎针对真空优化,但别担心!我们可以在这里做一些火箭手术来提高它在大气中的性能。</s>
+   <s id="Tutorial.FirstOrbit.Step8Metric">这一分级的速度增量和起始推重比都很糟糕。这是因为"侏儒"引擎针对真空优化,但别担心!我们可以在这里做一些修改来提高它在大气中的性能。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 9 stage 2 ExitPressure metric text -->
-   <s id="Tutorial.FirstOrbit.Step9Metric">这台引擎正遭受严重的过度膨胀,当排气出口压力低于大气压时就会发生。过度膨胀是导致排气中出现激波钻石的原因。出口压力越接近大气压,引擎效率越高。</s>
+   <s id="Tutorial.FirstOrbit.Step9Metric">这台引擎正遭受严重的过膨胀,当排气出口压力低于大气压时就会发生。过膨胀是导致排气中出现钻石激波的原因。出口压力越接近大气压,引擎效率越高。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 10: stage 2 configure rocket engine step -->
    <s id="Tutorial.FirstOrbit.Step10">我们可以缩短喷管并提高推力,使这台引擎的出口压力更接近该高度的大气压力。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11: stage 2 review stepText -->
    <s id="Tutorial.FirstOrbit.Step11">让我们看看情况有什么变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 11 stage 2 review metric text -->
-   <s id="Tutorial.FirstOrbit.Step11Metric">速度增量和推重比都有了巨大的提升!现在让我们看看第三级段。</s>
+   <s id="Tutorial.FirstOrbit.Step11Metric">速度增量和推重比都有了巨大的提升!现在让我们看看第三分级。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 12: stage 3 intro -->
    <s id="Tutorial.FirstOrbit.Step12">第三级引擎将主要在大气层上层和太空中工作。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 12 stage 3 DeltaV metric text -->
-   <s id="Tutorial.FirstOrbit.Step12Metric">这一级段的速度增量相当不错,但我们可以通过加长喷管来改进它。</s>
+   <s id="Tutorial.FirstOrbit.Step12Metric">这一分级的速度增量相当不错,但我们可以通过加长喷管来改进它。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 13: stage 3 configure rocket engine step -->
    <s id="Tutorial.FirstOrbit.Step13">理想情况下,针对太空工作的火箭引擎的出口压力应为0,但这需要一个无限大的喷管。我们会选择一个比那稍微短一点的。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 14: launch step main -->
    <s id="Tutorial.FirstOrbit.Step14">干得好!现在这枚火箭准备发射了!</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 14 instruction text -->
-   <s id="Tutorial.FirstOrbit.Step14Instruction">点击右上角的启动按钮,从朱诺村发射台发射。</s>
+   <s id="Tutorial.FirstOrbit.Step14Instruction">点击右上角的启动按钮,从Juno村发射台发射。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 1: intro -->
-   <s id="Tutorial.FirstPayload.Step1">让我们从为垂直射击合同建造的同一枚火箭开始,去掉鼻锥。</s>
+   <s id="Tutorial.FirstPayload.Step1">让我们从为"垂直发射"合同建造的同一枚火箭开始,去掉鼻锥。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 2: attach payload -->
    <s id="Tutorial.FirstPayload.Step2">首先,让我们连接载荷。这是客户希望我们带到太空的东西,所以要小心处理,尽量不要损坏它。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 3: add interstage -->
-   <s id="Tutorial.FirstPayload.Step3">现在,让我们添加一个"级间段"。它将火箭分成多个"级段",但稍后再详细介绍。</s>
+   <s id="Tutorial.FirstPayload.Step3">现在,让我们添加一个"级间段"。它将火箭分成多个"分级",但稍后再详细介绍。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 4: add fatter fuel tank -->
    <s id="Tutorial.FirstPayload.Step4">现在让我们在这下面添加另一个燃料箱,但我们会把它做得更粗一些,以便容纳更多燃料。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 5: connect engine -->
@@ -14657,11 +14657,11 @@
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 6: duplicate engine via symmetry -->
    <s id="Tutorial.FirstPayload.Step6">现在让我们复制这个引擎,因为我们需要更多推力。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 7: add fins to bottom stage -->
-   <s id="Tutorial.FirstPayload.Step7">现在让我们为底部级段添加一些尾翼以获得更多稳定性。我们可以复制上级段的尾翼来节省一些工作。</s>
+   <s id="Tutorial.FirstPayload.Step7">现在让我们为底部分级添加一些尾翼以获得更多稳定性。我们可以复制上分级的尾翼来节省一些工作。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 8: enable symmetry on fin -->
    <s id="Tutorial.FirstPayload.Step8">为这个尾翼启用对称。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 9 staging step main text -->
-   <s id="Tutorial.FirstPayload.Step9StagingText">级段通常自动计算,但发射前检查是个好主意。&#10;&#10;第二级引擎实际上应该在第二级段,这样它可以在载荷部署之前启动并工作。</s>
+   <s id="Tutorial.FirstPayload.Step9StagingText">分级通常自动计算,但发射前检查是个好主意。&#10;&#10;第二级引擎实际上应该在第二分级,这样它可以在载荷部署之前启动并工作。</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 10: launch step main -->
    <s id="Tutorial.FirstPayload.Step10">太棒了!你建造了一枚多级火箭!</s>
    <!-- Toast Font:Primary ; FirstPayloadTutorial step 10 instruction text -->
@@ -14673,7 +14673,7 @@
    <!-- Toast Font:Primary ; FirstRaceTutorial step 3: launch step main -->
    <s id="Tutorial.FirstRace.Step3">祝你在第一次空中竞速中好运!</s>
    <!-- Toast Font:Primary ; FirstRaceTutorial step 3 instruction text -->
-   <s id="Tutorial.FirstRace.Step3Instruction">从朱诺村跑道发射。</s>
+   <s id="Tutorial.FirstRace.Step3Instruction">从Juno村跑道发射。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 1: command pod configuration step -->
    <s id="Tutorial.TheJump.Step1">由于我们正在建造一个主要水平移动的飞行器,我们需要将指令盘从火箭配置更改为飞机配置。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 1 battery sub-step text -->
@@ -14699,7 +14699,7 @@
    <!-- Toast Font:Primary ; TheJumpTutorial step 11: launch step main -->
    <s id="Tutorial.TheJump.Step11">太棒了!我从没见过更好的车!我真为我们骄傲!</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 11 instruction text -->
-   <s id="Tutorial.TheJump.Step11Instruction">现在点击右上角的启动按钮,从朱诺村跑道发射这个宏伟的杰作。</s>
+   <s id="Tutorial.TheJump.Step11Instruction">现在点击右上角的启动按钮,从Juno村跑道发射这个宏伟的杰作。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 1: add fuel tank -->
    <s id="Tutorial.VerticalShot.Step1">让我们建造一枚火箭!第一步是在指令盘下方添加一个燃料箱。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 2: add nose cone -->
@@ -14709,19 +14709,19 @@
    <!-- Toast Font:Primary ; VerticalShotTutorial step 4: add fins -->
    <s id="Tutorial.VerticalShot.Step4">现在让我们添加一些尾翼,以帮助稳定这个美丽的杰作。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 5: enable symmetry on fin -->
-   <s id="Tutorial.VerticalShot.Step5">现在我们可以在这个尾翼上启用对称模式,这样我们就可以复制我们的工作,而不必逐个添加每个尾翼。</s>
+   <s id="Tutorial.VerticalShot.Step5">现在我们可以在这个尾翼上启用对称模式,这样我们就可以复制我们的改动,而不必逐个添加每个尾翼。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 6: enable gyro on command disc -->
    <s id="Tutorial.VerticalShot.Step6">现在让我们启用指令盘上的陀螺仪。陀螺仪可以帮助稳定飞行中的火箭。</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 7: launch step main -->
    <s id="Tutorial.VerticalShot.Step7">太棒了!你建造了你的第一枚火箭!</s>
    <!-- Toast Font:Primary ; VerticalShotTutorial step 7 instruction text -->
-   <s id="Tutorial.VerticalShot.Step7Instruction">点击右上角的启动按钮,从朱诺村发射台发射。</s>
+   <s id="Tutorial.VerticalShot.Step7Instruction">点击右上角的启动按钮,从Juno村发射台发射。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 1: add fuel tank -->
    <s id="Tutorial.Sandbox.Step1">让我们开始建造。第一步是在指令舱下方添加一个燃料箱。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 2: connect small engine -->
    <s id="Tutorial.Sandbox.Step2">现在让我们为这个燃料箱连接一个小引擎。引擎从正上方的燃料箱抽取燃料。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 3: connect interstage -->
-   <s id="Tutorial.Sandbox.Step3">现在让我们连接一个"级间段"。它将火箭分成多个"级段",但稍后再详细介绍。</s>
+   <s id="Tutorial.Sandbox.Step3">现在让我们连接一个"级间段"。它将火箭分成多个"分级",但稍后再详细介绍。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 4: add larger fuel tank -->
    <s id="Tutorial.Sandbox.Step4">让我们在级间段下方添加另一个更大的燃料箱。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 5: connect more powerful engine -->
@@ -14743,7 +14743,7 @@
    <!-- Toast Font:Primary ; SandboxTutorial step 13: solar panel array customization (original had trailing single newline) -->
    <s id="Tutorial.Sandbox.Step13">与许多其他部件一样,太阳能电池板阵列高度可定制。&#10;</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 14 staging step main text -->
-   <s id="Tutorial.Sandbox.Step14StagingText">级段通常自动计算,但有时你需要重新排列。我故意弄乱了这枚火箭的级段,所以我们需要修复它。&#10;&#10;小精灵引擎不应该在大型助推器抛弃之前启动。要做到这一点,我们需要将它移到最后一级。</s>
+   <s id="Tutorial.Sandbox.Step14StagingText">分级通常自动计算,但有时你需要重新排列。我故意弄乱了这枚火箭的分级,所以我们需要修复它。&#10;&#10;小精灵引擎不应该在大型助推器抛弃之前启动。要做到这一点,我们需要将它移到最后一级。</s>
    <!-- Toast Font:Primary ; SandboxTutorial step 15: final info step (also reused for EndStep) -->
    <s id="Tutorial.Sandbox.Step15">太棒了!你建造了一枚多级火箭!接下来你应该查看飞行教程,学习如何驾驶这个杰作!</s>
    <!-- Format Font:Primary ; FlightTutorialState.EnsureActivationGroupActive; {0}=group number, {1}=activation group name -->
@@ -14837,7 +14837,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureSliderVisible -->
    <s id="Tutorial.FlightTutorial.OpenAddSliderPanel">打开左下角的添加滑块面板</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureStage mobile - substituted into %ActivateInstruction% placeholder -->
-   <s id="Tutorial.FlightTutorial.ActivateStageInstructionMobile">点击右下角的激活级段按钮</s>
+   <s id="Tutorial.FlightTutorial.ActivateStageInstructionMobile">点击右下角的激活分级按钮</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureStage - substituted into %ActivateInstruction% placeholder; |ActivateStage| is an input binding marker -->
    <s id="Tutorial.FlightTutorial.ActivateStageInstruction">按"|ActivateStage|"</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureTargetLock -->
@@ -14909,7 +14909,7 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 4 -->
    <s id="Tutorial.FlightTutorial.Step4.ContinueUntilFuelOut">继续这样飞行,直到活动引擎耗尽燃料</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 -->
-   <s id="Tutorial.FlightTutorial.Step5.ActivateNextStages">太好了!现在该激活接下来的两个级段了,这将抛弃那些空燃料箱,然后启动你的下一个引擎。</s>
+   <s id="Tutorial.FlightTutorial.Step5.ActivateNextStages">太好了!现在该激活接下来的两个分级了,这将抛弃那些空燃料箱,然后启动你的下一个引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
    <s id="Tutorial.FlightTutorial.Step5.JettisonStage">%ActivateInstruction%以抛弃空燃料箱和引擎。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 5 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
@@ -15941,7 +15941,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.Grounded">1表示飞行器当前接触地面,0表示未接触。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.NumStages">飞行器活动指令舱的级段数量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.NumStages">飞行器活动指令舱的分级数量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.PidPitch">俯仰轴的PID值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15949,7 +15949,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.SolarRadiation">飞行器当前接收到的太阳辐射量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.Stage">飞行器活动指令舱的当前级段。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.Stage">飞行器活动指令舱的当前分级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Name.Craft">飞行器的名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16035,7 +16035,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.WetMass">部件的湿重,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.BurnTime">当前级段剩余燃烧时间,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.BurnTime">当前分级剩余燃烧时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.CurrentEngineThrust">所有活动引擎产生的当前推力,单位为牛顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16049,7 +16049,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.MaxActiveEngineThrust">如果所有活动引擎都处于100%节流阀时所能产生的推力,单位为牛顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.StageDeltaV">当前级段剩余的速度增量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.StageDeltaV">当前分级剩余的速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.TWR">飞行器的推重比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16617,7 +16617,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Default.TextValue">文本</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.activate-stage">激活级段</s>
+   <s id="Vizzy.Toolbox.Format.activate-stage">激活分级</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.activation-group">激活组 (0:一个或多个)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17337,9 +17337,9 @@
     <s id="Volken.UI.ForwardScatterBias">前向散射偏差</s>
     
     <!-- Cloud Container -->
-    <s id="Volken.UI.Layer1Height">层级1 高度</s>
-    <s id="Volken.UI.Layer1Spread">层级1 分布</s>
-    <s id="Volken.UI.Layer1Strength">层级1 强度</s>
+    <s id="Volken.UI.Layer1Height">层级 1 高度</s>
+    <s id="Volken.UI.Layer1Spread">层级 1 分布</s>
+    <s id="Volken.UI.Layer1Strength">层级 1 强度</s>
     <s id="Volken.UI.Layer2Height">层级 2 高度</s>
     <s id="Volken.UI.Layer2Spread">层级 2 分布</s>
     <s id="Volken.UI.Layer2Strength">层级 2 强度</s>
