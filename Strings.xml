@@ -17003,7 +17003,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.set-variable">将变量 (0) 设为 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.speak">以 (1:零个或多个) 赫兹朗读 (0),持续 (2:零个或多个) 秒</s>
+   <s id="Vizzy.Toolbox.Format.speak">以 (1:零个或多个) 赫兹朗读 (0), 持续 (2:零个或多个) 秒</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.substring">(2) 的第 (0:零个或多个) 到 (1:零个或多个) 个字符</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17033,7 +17033,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.activation-group">返回激活组的状态,True表示此激活组处于激活状态。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.break">跳出while或repeat循环。</s>
+   <s id="Vizzy.Toolbox.Tooltip.break">跳出while(当)或repeat(重复)循环。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.broadcast-msg">将带有指定数据的消息发送到此程序中所有匹配的接受信息事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17299,7 +17299,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.vec-op-color">将十六进制颜色(例如 #FF0000)转换为颜色向量(例如 1,0,0)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.wait-seconds">等待指定的秒数,建议添加在 while 和 repeat 循环的末尾,以提高性能减少卡顿。</s>
+   <s id="Vizzy.Toolbox.Tooltip.wait-seconds">等待指定的秒数,建议添加在 while(当) 和 repeat(重复) 循环的末尾,以提高性能减少卡顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.wait-until">等待直到条件为真。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
