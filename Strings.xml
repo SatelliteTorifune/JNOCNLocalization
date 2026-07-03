@@ -438,7 +438,7 @@
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-volcano.Name">哈托尔山</s>
    <!-- Font:Primary -->
-   <s id="Career.ContractLocations.sergeaa-volcano.Description">系统中最大的活火山,非常陡峭且难以攀登,一旦你深入火山口就更难逃脱。</s>
+   <s id="Career.ContractLocations.sergeaa-volcano.Description">星系中最大的活火山,非常陡峭且难以攀登,一旦你深入火山口就更难逃脱。</s>
    <!-- Font:Primary -->
    <s id="Career.ContractLocations.sergeaa-mountain.Name">荷鲁斯山</s>
    <!-- Font:Primary -->
@@ -636,7 +636,7 @@
    <!-- Font:Primary -->
    <s id="Career.Customers.pricklespac.Hello">日安</s>
    <!-- Font:Primary -->
-   <s id="Career.Customers.pricklespac.LongBio">Pricklespac 虽说是个古怪的科学家,但在Droo上也是最负盛名的研究者之一。他正在寻找帮手收集数据,以证明 Juno 系统中存在其他形式的生命。</s>
+   <s id="Career.Customers.pricklespac.LongBio">Pricklespac 虽说是个古怪的科学家,但在Droo上也是最负盛名的研究者之一。他正在寻找帮手收集数据,以证明 Juno 星系中存在其他形式的生命。</s>
    <!-- LaunchLocations.xml: stock launch location display names (game-object names left intact in-engine). -->
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.LunaBase.Name">Luna基地</s>
@@ -2575,7 +2575,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Radix.Short">把 Radix送入轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在Droo低轨道建造Esperanza空间港(SPE)。先把 Radix舱段送上去。这是 DSC 在 Juno 系统殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
+   <s id="Career.Contracts.SPE-Radix.Long">我们需要你帮忙在Droo低轨道建造Esperanza空间港(SPE)。先把 Radix舱段送上去。这是 DSC 在 Juno 星系殖民工作的关键一步,做好了后面会有大量合同跟进。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.SPE-Expansion.Name">Esperanza空间港</s>
    <!-- Font:Primary -->
@@ -3403,7 +3403,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.Description">进入 环Juno轨道</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.CraftExpression.Description">把轨道远点拉出 Juno 系统</s>
+   <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.CraftExpression.Description">把轨道远点拉出 Juno 星系</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.GrandTour.Req.TrackedLaunch.Payload-Payload-Probe-4.Planet-Juno.CraftExpression.CraftExpression.Description">释放 Traveler</s>
    <!-- Font:Primary -->
@@ -11763,7 +11763,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetStudio.Filter.PreviousVersions">上一版本</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="PlanetStudio.Filter.SetAsCurrentSystem">设为当前系统</s>
+   <s id="PlanetStudio.Filter.SetAsCurrentSystem">设为当前星系</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetStudio.Filter.Stock">库存</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
@@ -11777,13 +11777,13 @@
    <!-- Rec:20 Max:27 Font:Header ; section header -->
    <s id="PlanetStudio.Flyout.PlanetObjects">星球物体</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
-   <s id="PlanetStudio.Flyout.PlanetsInSystem">系统中的星球</s>
+   <s id="PlanetStudio.Flyout.PlanetsInSystem">星系中的星球</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
    <s id="PlanetStudio.Flyout.Properties">属性</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
    <s id="PlanetStudio.Flyout.Rings">环</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
-   <s id="PlanetStudio.Flyout.SystemProperties">系统属性</s>
+   <s id="PlanetStudio.Flyout.SystemProperties">星系属性</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
    <s id="PlanetStudio.Flyout.TerrainGeneration">地形生成</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
@@ -11811,13 +11811,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Debugging.Part2">通过天体检查器面板的性能部分关注您星球的性能也是明智的,注意四边形构建时间,尤其是平均值。更快的平均构建时间可以改善下载您星球的玩家的体验。加载原版星球并注意它们在您设备上的平均四边形构建时间,然后进行比较。如果您的星球明显更慢,可能值得削减星球属性的复杂性。您还可以调整属性 -> 地形质量模式来减少细分和每个四边形的地形顶点数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室!在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分:天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星,太阳,卫星,矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的系统上传到网站并与社区分享。通过菜单中的"加载系统"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意:我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
+   <s id="PlanetStudio.Help.Intro">欢迎来到星球工作室!在这里您可以构建自定义星球和行星系统,然后上传并与社区分享。&#10;&#10;星球工作室有两个部分:天体设计器和行星系统设计器。天体设计器是您构建任何天体的地方——行星,太阳,卫星,矮行星等。通过菜单中的"创建星球"或"加载星球"按钮进入。&#10;&#10;行星系统设计器是您使用设备上保存的星球构建太阳系的地方。定义它们的轨道和父子关系。完成后,将您的星系上传到网站并与社区分享。通过菜单中的"加载星系"按钮进入。&#10;&#10;两个设计器都有可配置的相机移动等输入,您可以在设置 -> 控制设置 -> 星球工作室中查看和配置。&#10;&#10;注意:我们经常说"星球"而不是更准确的"天体",因为更简单,而且我们的手指已经打字打累了。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Noise">噪声属性使用几种梯度噪声函数之一生成一个值。这个值可以设置顶点的高度,设置生物群系的强度,或作为另一个噪声属性的遮罩输入。可能性是无限的。&#10;&#10;噪声函数是一个非常复杂的话题,超出了此帮助文本的范围。以下是基础知识,但最好的学习方法之一是尝试不同的噪声类型。&#10;&#10;大多数噪声函数使用五个基本属性:强度,频率,倍频数,空隙度和增益。&#10;&#10;强度&#10;强度是噪声的振幅,可能是最直观的设置。增加它使噪声更显著（即输出更大的值）。&#10;&#10;频率&#10;频率设置每单位长度的周期数。换句话说,小地形细节需要更高的频率,大细节需要更低的频率。&#10;&#10;倍频数&#10;可用于分形噪声,倍频数定义噪声函数运行的次数。每次运行时,强度乘以增益,频率乘以空隙度。常见的设置是增益0.5和空隙度2,因此每次运行将强度减半并将频率加倍,以更低的强度添加更精细的细节。增加倍频数可以让地形看起来更好,尤其是近距离,但也会影响性能,所以请谨慎使用。&#10;&#10;增益&#10;如上所述,增益为每个连续倍频数乘以强度。通常增益小于1,因为您希望每倍频数的强度下降,但使用噪声是一门艺术,有时必须打破规则才能创造真正独特的地形。实验并看看什么效果最好!&#10;&#10;空隙度&#10;Lack-You-Nare-Itty。至少我是这么读的。这会在每个倍频数中乘以频率。通常您希望它大于1,因此频率随倍频数增加,细节变得更小更精细。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Passes">星球属性被分组为通道。每个通道在下一个通道开始前逐个运行其属性。通道有不同的用途和不同的可用输入数据。&#10;&#10;生物群系通道&#10;第一个运行的通道。它设置生物群系强度值,确定每个生物群系在星球上的位置。例如,一个类似地球的星球会在极地给极地生物群系高强度值,在赤道附近给沙漠和草原更高的强度值。&#10;&#10;高度通道&#10;接下来运行,主要负责设置顶点的高度值。&#10;&#10;高度生物群系通道&#10;接下来为生物群系通道中识别的每个生物群系运行。如果多个生物群系有强度值,它们会根据各自的强度自动混合。由于是生物群系特定的,此通道用于生物群系特定的属性。&#10;&#10;高度最终通道&#10;接下来运行,适用于必须在生物群系特定属性之后运行的通用属性。是径向扁平属性平滑建筑和发射位置地形的理想位置。不为单个生物群系运行。&#10;&#10;最终通道&#10;地形的最后一个通道,在所有其他地形通道之后运行。它设置任何剩余的未设置顶点数据,如颜色。这是唯一法向量可用的通道,不应修改高度。&#10;&#10;最终生物群系通道&#10;生物群系特定属性的最终通道。值根据生物群系通道中的强度进行混合。&#10;&#10;水体通道&#10;最后运行。设置水体相关数据,如颜色,波浪强度等。&#10;&#10;水体生物群系通道&#10;生物群系特定属性的水体通道,水体属性根据生物群系通道中的强度进行混合。这是最后运行的通道。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.PlanetarySystemDesigner">在这里您可以使用设备上保存的星球构建系统。选择一个星球以调整其轨道参数,调整轨道的形状和大小。您还可以添加一个围绕选定星球运行的子星球作为卫星。&#10;&#10;右上角的时间面板让您前进和倒退时间以查看星球在轨道中的移动。&#10;&#10;位置弹出面板显示添加到系统中的所有星球上的位置。但是,如果您在添加星球后编辑其发射位置,它们不会出现在系统的发射位置列表中。点击该面板底部的重置按钮以搜索系统中的所有星球并重建列表。</s>
+   <s id="PlanetStudio.Help.PlanetarySystemDesigner">在这里您可以使用设备上保存的星球构建星系。选择一个星球以调整其轨道参数,调整轨道的形状和大小。您还可以添加一个围绕选定星球运行的子星球作为卫星。&#10;&#10;右上角的时间面板让您前进和倒退时间以查看星球在轨道中的移动。&#10;&#10;位置弹出面板显示添加到星系中的所有星球上的位置。但是,如果您在添加星球后编辑其发射位置,它们不会出现在星系的发射位置列表中。点击该面板底部的重置按钮以搜索星系中的所有星球并重建列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.PlanetBrushMaps">笔刷弹出面板允许您为星球添加自定义地图。这些地图可以与噪声属性一起使用,或完全覆盖噪声输出。例如,这对于手绘大陆位置很有用。注意星球必须配置为使用星球笔刷地图。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11857,17 +11857,17 @@
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="PlanetStudio.Menu.CreatePlanet">创建星球</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="PlanetStudio.Menu.CreateSystem">创建系统</s>
+   <s id="PlanetStudio.Menu.CreateSystem">创建星系</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="PlanetStudio.Menu.Guide">指南</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="PlanetStudio.Menu.LoadPlanet">加载行星</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="PlanetStudio.Menu.LoadSystem">加载系统</s>
+   <s id="PlanetStudio.Menu.LoadSystem">加载星系</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="PlanetStudio.Menu.SavePlanet">保存星球</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="PlanetStudio.Menu.SaveSystem">保存系统</s>
+   <s id="PlanetStudio.Menu.SaveSystem">保存星系</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Menu.Tooltip.Settings">打开设置窗口</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -12180,7 +12180,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Tooltip.UndoHistory">撤销历史</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Tooltip.ViewPlanets">查看此系统中的星球列表</s>
+   <s id="PlanetStudio.Tooltip.ViewPlanets">查看此星系中的星球列表</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Tooltip.Water">水体</s>
    <!-- Rec:30 Max:45 Font:Primary ; list-row title for the Air Traffic Control Tower structure in the planet studio Add Structure dialog -->
@@ -12397,7 +12397,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="PlanetStudio.Validation.InProgress">正在验证行星系统。根据配置和行星数量,这可能需要一段时间。相遇概率高的行星需要更长时间。最多需要{0}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="PlanetStudio.Validation.ReloadRequired">必须保存并重新加载系统才能使更改生效</s>
+   <s id="PlanetStudio.Validation.ReloadRequired">必须保存并重新加载星系才能使更改生效</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="PlanetStudio.Water.HasWater">拥有水体</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14235,7 +14235,7 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="SolarSystemProperties.MapScaleLabel">地图比例</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SolarSystemProperties.MapScaleTooltip">将游戏中的距离缩放到地图视图空间的比例。它不会改变表观/相对大小或距离。默认值适用于大多数系统,但非常大或非常小的系统可能需要不同的值。这始终是在极端情况之间的权衡。例如,降低它允许更大的系统,但在近距离观察小行星时可能会导致相机抖动。增加它使较小行星的视图更稳定,但在非常大的观察距离下相机渲染可能会变得不稳定。</s>
+   <s id="SolarSystemProperties.MapScaleTooltip">将游戏中的距离缩放到地图视图空间的比例。它不会改变表观/相对大小或距离。默认值适用于大多数星系,但非常大或非常小的星系可能需要不同的值。这始终是在极端情况之间的权衡。例如,降低它允许更大的星系,但在近距离观察小行星时可能会导致相机抖动。增加它使较小行星的视图更稳定,但在非常大的观察距离下相机渲染可能会变得不稳定。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="SolarSystemProperties.MaxZoomLabel">最大缩放</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14249,7 +14249,7 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="SolarSystemProperties.StarFlareColorLabel">恒星耀斑颜色</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="SolarSystemProperties.StarFlareColorTooltip">更改相机指向系统主星时看到的耀斑颜色。</s>
+   <s id="SolarSystemProperties.StarFlareColorTooltip">更改相机指向星系主星时看到的耀斑颜色。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="SolarSystemProperties.TareTimeLabel">归零时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15161,7 +15161,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="UploadCelestialBody.TotalSizeTooLargeErrorFormat">总上传大小为{0},超过了{1}的大小限制。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Url.Download.PlanetarySystemSuccessMessage">下载成功!&#10;&#10;要使用此系统开始新游戏,请在主菜单中选择"新游戏"。在新游戏对话框中,选择行星系统按钮,然后从列表中选择此系统。</s>
+   <s id="Url.Download.PlanetarySystemSuccessMessage">下载成功!&#10;&#10;要使用这个星系开始新游戏,请在主菜单中选择"新游戏"。在新游戏对话框中,选择行星系统按钮,然后从列表中选择此星系。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Url.Download.PromptFormat">点击"确定"开始下载 {0}。</s>
    <!-- Rec:16 Max:22 Font:Primary ; download resource type -->
