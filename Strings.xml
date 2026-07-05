@@ -16250,7 +16250,7 @@
    <s id="Vizzy.CraftProperty.Vel.VerticalSurfaceVelocity">垂直速度</s>
    <!-- Rec:20 Max:22 ; property label -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftService.InputRequestFormat">{0}号部件正在请求输入。\n{1}</s>
+   <s id="Vizzy.CraftService.InputRequestFormat">部件 {0} 正在请求输入。\n{1}</s>
    <!-- Font:Primary -->
    <s id="Vizzy.CreateCustomNode.AddParameter.DuplicateError">无法使用该参数名称,因为它已被使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16292,9 +16292,9 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.crafts">飞行器</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.day">一天的长度</s>
+   <s id="Vizzy.Expression.Planet.day">自传周期</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.hasTerrain">固体地面</s>
+   <s id="Vizzy.Expression.Planet.hasTerrain">存在固体地面</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.hydrosphereDensity">水圈密度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16306,7 +16306,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.radius">半径</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.soiradius">引力影响范围半径</s>
+   <s id="Vizzy.Expression.Planet.soiradius">SOI半径</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.solarPosition">太阳位置</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16314,11 +16314,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.apoapsistime">行星到达轨道远点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Expression.Planet.Tooltip.atmosphereComposition">行星大气成分的质量分数。与大气元素按索引一一对应。</s>
+   <s id="Vizzy.Expression.Planet.Tooltip.atmosphereComposition">行星大气成分的质量分数。与大气元素按索引对应。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.atmosphereDensity">海平面处的大气密度,单位为千克每立方米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Expression.Planet.Tooltip.atmosphereElements">行星大气成分的燃料编号。与大气成分按索引一一对应。</s>
+   <s id="Vizzy.Expression.Planet.Tooltip.atmosphereElements">行星大气成分的燃料编号。与大气成分按索引对应。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.atmosphereHeight">大气层的高度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
