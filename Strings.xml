@@ -2827,7 +2827,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-rover.Short">在 @Moon 上驾驶一辆漫游车</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-rover.Long">你的着陆技术我很佩服,但我需要更精确一点。我造了一辆漫游车,能帮我把它送到 @Moon 吗?&lt;br&gt;&lt;br&gt;这次你需要造一个着陆器,把漫游车带过去,再开着它替我跑一段。提醒一下,在设计器里你可以在载具信息面板里选中 @Moon 来更好地调整发动机推力,着陆腿会让落地更稳。</s>
+   <s id="Career.Contracts.Lunar-rover.Long">你的着陆技术我很佩服,但我需要更精确一点。我造了一辆漫游车,能帮我把它送到 @Moon 吗?&lt;br&gt;这次你需要造一个着陆器,把漫游车带过去,再开着它替我跑一段。提醒一下,在设计器里你可以在载具信息面板里选中 @Moon 来更好地调整发动机推力,着陆腿会让落地更稳。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-landing.Name">@Moon 着陆</s>
    <!-- Font:Primary -->
@@ -9503,7 +9503,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; status label -->
    <s id="Parts.DockingPort.Status.Ready">已准备</s>
    <!-- Rec:10 Max:14 Font:Primary ; status label -->
-   <s id="Parts.DockingPort.Status.Undocking">推力对接</s>
+   <s id="Parts.DockingPort.Status.Undocking">分离</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.DockingPortData.Header">对接口</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
