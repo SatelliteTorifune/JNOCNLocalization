@@ -3961,7 +3961,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="ColorPicker.Hex">16进制颜色</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="ColorPicker.HSV">色调-饱和度-明度</s>
+   <s id="ColorPicker.HSV">HSV</s>
    <!-- Rec:8 Max:12 Font:Primary ; HSV slider label -->
    <s id="ColorPicker.Hue">色相</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
