@@ -2767,7 +2767,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-flyby.Short">飞掠 Luna</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-flyby.Long">我需要你飞掠 Luna,研究其轨道条件。我的研究表明,这些天体的物理受所谓“引力影响范围”的支配,即在该空间区域内某天体的引力强于附近其他所有天体,因此你的轨道只受它影响。</s>
+   <s id="Career.Contracts.First-flyby.Long">我需要你飞掠 Luna,研究其轨道条件。我的研究表明,这些天体的物理受所谓"引力影响范围"的支配,即在该空间区域内某天体的引力强于附近其他所有天体,因此你的轨道只受它影响。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-flyby.Name">@Moon 飞掠</s>
    <!-- Font:Primary -->
@@ -2889,7 +2889,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#0.StepText">你也可以在 地面速度 和 轨道速度之间切换。地面速度考虑了行星自转,轨道速度则没有。一旦你锁定了另一艘载具,会出现第三种模式,显示相对速度。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#1.StepText">当你切换模式时,导航球里的绿色箭头会移动。它会适配你的速度模式,指明 “前进” 的方向。同理,锁定目标时,它会显示相对速度的方向。</s>
+   <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#1.Button#1.StepText">当你切换模式时,导航球里的绿色箭头会移动。它会适配你的速度模式,指明 "前进" 的方向。同理,锁定目标时,它会显示相对速度的方向。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Vertical-Shot.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-VerticalShot.Controls#1.Controls#2.Button.StepText">用导航球来改变火箭的航向。它会自动利用发动机万向节,机翼,陀螺仪等,试图把载具指向你想要的方向。</s>
    <!-- Font:Primary -->
@@ -3027,7 +3027,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Location-Droo.Village.RunwayTop.Description">从村子里的跑道起飞</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Button#0.StepText">在 “一个大跳” 教程里我们让你用俯仰来控制车轮,但现在俯仰控制的是机翼,让我们来熟悉一下新的控制方式。</s>
+   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Button#0.StepText">在 "一个大跳" 教程里我们让你用俯仰来控制车轮,但现在俯仰控制的是机翼,让我们来熟悉一下新的控制方式。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Button#1.StepText">操纵时机翼,观察俯仰和滚转时控制舵面是如何运动的。</s>
    <!-- Font:Primary -->
@@ -3653,7 +3653,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.Orbit.Orbit.CraftExpression.Description">分离撞击器</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.CraftExpression#0.Description">把轨道近点降到与 @Moon “相交”</s>
+   <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.CraftExpression#0.Description">把轨道近点降到与 @Moon "相交"</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Lunar-lander.Req.TrackedLaunch.Payload-Payload-Lander-2.Planet-@Moon.CraftExpression#1.Description">滑行接近表面</s>
    <!-- Font:Primary -->
@@ -3948,6 +3948,10 @@
    <s id="CelestialBodyProperties.VersionTagTooltip">一个可选字段,通常未使用。游戏将具有相同作者和版本标签的天体视为一组。当发现较新版本时天体可能在某些列表中默认隐藏(基于版本号)。对于行星系统,这也可以在将存档升级到系统新版本时确定新版本。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyProperties.VersionTooltip">天体的版本号。这应该是一到四个用句点分隔的整数。你懂的...就像一个正常的版本号。</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="CelestialBodyProperties.WaterVertexQuality.Half">半</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="CelestialBodyProperties.WaterVertexQuality.Full">全</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyProperties.WaterVerticesLabel">水面顶点数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5093,7 +5097,7 @@
    <s id="Menu.Contracts.Flair.Rejected">已拒绝</s>
    <!-- Rec:14 Max:20 ; section header -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 “新人经理” 以增加可同时拥有的合同数上限。</s>
+   <s id="Menu.Contracts.MaxAvailableUnlockHint">在科技树中解锁 "新人经理" 以增加可同时拥有的合同数上限。</s>
    <!-- Toast Font:Header ; no length limit -->
    <s id="Menu.Contracts.NoItemsFound">目前没有可用的合同。\n查看科技树看看有什么可以解锁的。</s>
    <!-- Rec:6 Max:10 Font:Primary ; primary button -->
@@ -5470,7 +5474,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.PartProperties.EmptyPanelText">选择一个部件以查看其可定制属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.PartProperties.HintText">点击 “部件属性” 以自定义该部件。</s>
+   <s id="Design.PartProperties.HintText">点击 "部件属性" 以自定义该部件。</s>
    <!-- Rec:14 Max:17 Font:Primary ; part properties label -->
    <s id="Design.PartProperties.Mass.Label">质量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5912,7 +5916,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.AutoFix.Text">尝试自动修复</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Validation.ResumeFlight.Redirect">点击确定跳转到 “恢复飞行” 视图。在那里你可以选择一个飞行器并将其从飞行中移除。</s>
+   <s id="Design.Validation.ResumeFlight.Redirect">点击确定跳转到 "恢复飞行" 视图。在那里你可以选择一个飞行器并将其从飞行中移除。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.Status.ErrorsAndWarnings">{0} 个错误,{1} 个警告。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7336,7 +7340,7 @@
    <!-- Font:Primary -->
    <s id="Menu.InputDialog.PlaceholderText">点击输入文本...</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘飞行器起个名,然后点击“发射”!</s>
+   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘飞行器起个名,然后点击"发射"!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.LaunchCraft.Name">发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7566,7 +7570,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Modifier.AddBiome.DataIndexInputDataSlotTooltip">定义要添加的群系强度的输入数据。这些值应在0到1的范围内。</s>
    <!-- Font:Primary -->
-   <s id="Modifier.AddBiome.Description">一个星球属性,可让您为星球添加群系。将此属性的数据输出连接到“群系”属性的群系输入端,以定义一个生物群系。</s>
+   <s id="Modifier.AddBiome.Description">一个星球属性,可让您为星球添加群系。将此属性的数据输出连接到"群系"属性的群系输入端,以定义一个生物群系。</s>
    <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
    <s id="Modifier.AddBiome.DisplayName">增加群系</s>
    <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
@@ -9009,6 +9013,8 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.BeaconLightData.BlinkStyle.Blink">单闪</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.BeaconLightData.BlinkStyle.Custom">自定义</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.BeaconLightData.BlinkStyle.DoubleBlink">双闪</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.BeaconLightData.BlinkStyle.Label">闪烁样式</s>
@@ -9423,7 +9429,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.Common.Keyframes.Label">关键帧</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.Common.Keyframes.Tooltip">关键帧之间应以“|”字符分隔,每个关键帧中的值应以逗号“,”字符分隔。一个关键帧应定义一个时间值和一个输出值。可选地,关键帧可以指定第三个值来定义入切线和出切线,或者指定第三个和第四个值来分别定义入切线和出切线。示例:0.0,0.0|0.5,1.0|1.0,0.0</s>
+   <s id="Parts.Common.Keyframes.Tooltip">关键帧之间应以"|"字符分隔,每个关键帧中的值应以逗号","字符分隔。一个关键帧应定义一个时间值和一个输出值。可选地,关键帧可以指定第三个值来定义入切线和出切线,或者指定第三个和第四个值来分别定义入切线和出切线。示例:0.0,0.0|0.5,1.0|1.0,0.0</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.CurveInputData.Offset.Tooltip">创建曲线时使用的初始时间偏移值。</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
@@ -9459,7 +9465,7 @@
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.DecalData.MaterialSourceColor.Label">材质来源</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.DecalData.MaterialSourceColor.Tooltip">启用“使用来源颜色”选项时,用于绘制部件的材质等级。手动涂装部件不会改变颜色,但会应用其他材质设置</s>
+   <s id="Parts.DecalData.MaterialSourceColor.Tooltip">启用"使用来源颜色"选项时,用于绘制部件的材质等级。手动涂装部件不会改变颜色,但会应用其他材质设置</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.DecalData.OffsetX.Label">X 偏移</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9504,6 +9510,8 @@
    <s id="Parts.DockingPort.Status.Ready">已准备</s>
    <!-- Rec:10 Max:14 Font:Primary ; status label -->
    <s id="Parts.DockingPort.Status.Undocking">分离</s>
+   <!-- Rec:10 Max:14 Font:Primary ; status label -->
+   <s id="Parts.DockingPort.Status.Welded">已焊接</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.DockingPortData.Header">对接口</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9522,6 +9530,8 @@
    <s id="Parts.DockingPortScript.Status">状态</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.DockingPortScript.Undock.Tooltip">分离</s>
+   <!-- Rec:16 Max:20 Font:Primary ; large button label -->
+   <s id="Parts.DockingPortScript.Weld">焊接</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ElectricMotorData.BrakeTorque.Tooltip">改变制动器施加的扭矩。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -12713,10 +12723,8 @@
    <!-- Rec:20 Max:22 ; property label -->
    <!-- Rec:8 Max:12 Font:Header ; buy button state label -->
    <s id="Purchase.Card.Loading">加载中</s>
-   <s id="Purchase.Card.Loading">加载中</s>
    <!-- Rec:6 Max:10 Font:Header ; buy button state label -->
    <s id="Purchase.Card.Owned">已拥有</s>
-   <s id="Purchase.Card.Owned">已购买</s>
    <!-- Font:Header -->
    <s id="Purchase.CareerBundle.Name">生涯内容包</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
@@ -14249,6 +14257,10 @@
    <s id="Settings.VisualEffects.MenuSunQuality.High">高</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.MenuSunQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryPlasmaBias.Description">控制再入等离子应何时开始,并达到最大强度的马赫数阈值倍数。值越低，等离子体视觉效果触发越早；值越高，则触发越晚.</s>
+   <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
+   <s id="Settings.VisualEffects.ReEntryPlasmaBias">重入等离子体偏差</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Off">关闭</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -15092,6 +15104,40 @@
    <s id="Ui.AxisCalibrator.RangePrompt">将{0}移动到整个范围,然后按下任意按钮或等待计时器结束。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Ui.AxisCalibrator.ZeroPrompt">将{0}居中或归零,然后按下任意按钮或等待计时器结束。</s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Screen">分辨率: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Ram">内存: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Os">系统: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Ms">毫秒</s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Model">型号: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Min">最小帧数: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.MemTotal">总内存: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.MemMono">堆内存: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.MemAllocated">已分配内存: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Max">最大帧数: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Low">1%低帧数: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Gpu">显卡: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Fps">帧数: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Crafts">飞行器数量: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Cpu">处理器: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Bodies">天体数: </s>
+   <!--  -->
+   <s id="Ui.FpsCounter.Avg">平均帧数: </s>
    <!-- Font:Primary -->
    <s id="Ui.HeaderFontPath">Sans-SC</s>
    <!-- Font:Primary -->
@@ -15509,11 +15555,23 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Label.FontSize">字体大小</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.BottomRight">底部靠右</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.BottomLeft">底部靠左</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.BottomCenter">居中</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.Center">居中</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.Left">左对齐</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.Right">右对齐</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.TopRight">顶部靠右</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.TopLeft">顶部靠左</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Label.SetAlignment.TopCenter">顶部居中</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Label.SetAutoSize">自适应大小</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15617,13 +15675,25 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Visible">可见性</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.BottomRight">底部靠右</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.BottomLeft">底部靠左</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.BottomCenter">底部居中</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.Center">居中</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.Left">左对齐</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.Right">右对齐</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Misc.CameraPointing">用户相机朝向</s>
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.TopRight">顶部靠右</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.TopLeft">顶部靠左</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Mfd.Widget.SetAnchor.TopCenter">顶部居中</s>
+   <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
+   <s id="Vizzy.CraftProperty.Misc.CameraPointing">玩家相机朝向</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Misc.CameraPosition">用户相机位置</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -15786,10 +15856,12 @@
    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.SpeedOfSound">飞行器当前位置的声速,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Temperature">飞行器当前位置的温度,单位为开尔文。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Altitude">飞行器相对当前海平面以上的高度(单位：米)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Composition">TODO</s>
+    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Composition">当前行星大气成分的质量分数。与"大气元素"逐一对应。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Elements">TODO</s>
+    <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Elements">当前行星大气成分的燃料类型标识符。与"大气元素"逐一对应。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.Apoapsis">表示轨道远点位置的向量,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15950,12 +16022,24 @@
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.AutoSize">确定标签当前是否启用了自动大小。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.FontSize">标签控件的字体大小。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.BottomRight">将标签的对齐方式设置为"底部靠右"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.BottomLeft">将标签的对齐方式设置为"底部靠左"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.BottomCenter">将标签的对齐方式设置为"底部居中"。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.Center">将标签的对齐方式设为居中。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.Left">将标签的对齐方式设为左对齐。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.Right">将标签的对齐方式设为右对齐。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.TopRight">将标签的对齐方式设置为"顶部靠右"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.TopLeft">将标签的对齐方式设置为"顶部靠左"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAlignment.TopCenter">将标签的对齐方式设置为"顶部居中"。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Label.SetAutoSize">启用或禁用自动大小,该功能会自动调整文本大小以填满标签控件的全部范围。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16058,12 +16142,24 @@
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Texture.SetPixel">将指定坐标处的像素设为指定颜色和透明度(0 = 透明,1 = 不透明)。注意:坐标从1开始,而非0。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Visible">若多功能显示屏控件可见则为真,否则为假。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.BottomRight">将控件在其父控件内的锚点设置为"底部靠右"</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.BottomLeft">>将控件在其父控件内的锚点设置为"底部靠左"</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.BottomCenter">>将控件在其父控件内的锚点设置为"底部居中"</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.Center">将控件在其父级内的锚点设为居中。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.Left">将控件在其父级内的锚点设为左侧。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.Right">将控件在其父级内的锚点设为右侧。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.TopRight">将控件在其父控件内的锚点设置为"顶部靠右"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.TopLeft">将控件在其父控件内的锚点设置为"顶部靠右"。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Widget.SetAnchor.TopCenter">将控件在其父控件内的锚点设置为"顶部靠右"。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.CameraPointing">玩家相机的指向方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16120,6 +16216,8 @@
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Periapsis">轨道近点高于行星半径的高度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Period">轨道周期,单位为秒。</s>
+   <!--  -->
+   <s id="Vizzy.CraftProperty.Tooltip.Orbit.Planet">飞行器当前正在环绕的行星名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.TimeToApoapsis">到达轨道远点剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16503,6 +16601,34 @@
    <s id="Vizzy.Instruction.SetTargetHeading.Tooltip.PidRoll">设置平面模式下滚转轴的PID值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.SetTargetHeading.Tooltip.Pitch">设置导航球的目标俯仰角,单位为度。</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp9">倍率9</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp8">倍率8</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp7">倍率7</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp6">倍率6</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp5">倍率5</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp4">倍率4</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp3">倍率3</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp2">倍率2</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp10">倍率10</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.TimeWarp1">倍率1</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.SlowMotion">慢动作</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.Paused">暂停</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.Normal">正常</s>
+   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+   <s id="Vizzy.Instruction.TimeMode.FastForward">快进</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.Waveform.Noise">噪声</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
