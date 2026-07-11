@@ -1629,19 +1629,19 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Fuselage.Curve.Description">曲线工具可以让你把头锥的截面改成任意曲线。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Columns.Name">列</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Columns.Name">列数上限</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Columns.Description">阵列每行可以容纳的电池板数量。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Rows.Name">行</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Rows.Name">行数上限</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Rows.Description">阵列可以容纳的行数。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.SolarPanelArray.Shape.Name">形状</s>
+   <s id="Career.TechTree.Items.SolarPanelArray.Shape.Name">单片尺寸上限</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Shape.Description">电池板可拉伸以微调形状的程度。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.ElectricMotor.Brake.Name">电机在制动</s>
+   <s id="Career.TechTree.Items.ElectricMotor.Brake.Name">电机制动</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.Brake.Description">制动扭矩影响其刹停力度。</s>
    <!-- Font:Primary -->
@@ -1869,7 +1869,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Crew.Description">当前沙盒中可招募的Drood数量上限。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Craft.Stages.Name">最多分级数量</s>
+   <s id="Career.TechTree.Items.Craft.Stages.Name">分级数量上限</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Craft.Stages.Description">飞行器结构越复杂,就需要越多级来管理部件的激活顺序。</s>
    <!-- Font:Primary -->
@@ -2845,8 +2845,6 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-flyby.Long">我需要你飞掠 @Planet,研究其轨道条件。你只需要足够靠近,进入它的引力影响范围即可。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Celestial-orbit.N4ame">@Planet 轨道</s>
-   <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.Subtitle">低于 @Apoapsis:distance</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Celestial-orbit.FlairText">@Progression</s>
@@ -3735,17 +3733,17 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
   <s id="CelestialBodyDesigner.CameraMoveSpeed">摄像机 &#10;移动速度</s>
   <!-- Tooltip Font:Primary ; no length limit -->
-  <s id="CelestialBodyDesigner.CameraMoveSpeedTooltip">调整摄像机的速度倍增器。</s>
+  <s id="CelestialBodyDesigner.CameraMoveSpeedTooltip">调整摄像机的速度。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
   <s id="CelestialBodyDesigner.CameraRotateSpeed">摄像机 &#10;旋转速度</s>
   <!-- Tooltip Font:Primary ; no length limit -->
-  <s id="CelestialBodyDesigner.CameraRotateSpeedTooltip">调整摄像机和/或天体旋转移动的速度倍增器。</s>
+  <s id="CelestialBodyDesigner.CameraRotateSpeedTooltip">调整摄像机和/或天体旋转移动的速度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.CopyPositionTooltip">将当前摄像机位置的精确纬度和经度复制到剪贴板。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.EditLatLonTooltip">允许手动输入纬度和经度。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
-  <s id="CelestialBodyDesigner.FPS">FPS</s>
+  <s id="CelestialBodyDesigner.FPS">帧数</s>
   <!-- Tooltip Font:Primary ; no length limit -->
   <s id="CelestialBodyDesigner.FPSTooltip">当前每秒渲染的帧数</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
@@ -7788,7 +7786,7 @@
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.TintLabel">色调</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.TintTooltip">云的颜色。Alpha通道用作整体不透明度倍增器。</s>
+    <s id="Modifier.Clouds.TintTooltip">云的颜色。Alpha通道用作整体不透明度。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.ColorBands.DataIndexDataSlotTooltip">用于识别将使用哪个颜色条(或多个)的输入数据值。对于气态巨行星,这通常是单位球体上的y坐标。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -12030,11 +12028,11 @@
    <!-- Rec:18 Max:26 Font:Primary ; inspector property label -->
    <s id="PlanetStudio.Flyouts.Noise.Lacunarity.Label">空隙度</s>
    <!-- Tooltip Font:Primary ; tooltip on the Lacunarity slider in noise feature flyouts -->
-   <s id="PlanetStudio.Flyouts.Noise.Lacunarity.Tooltip">决定每个连续倍频频率变化方式的倍增器。</s>
+   <s id="PlanetStudio.Flyouts.Noise.Lacunarity.Tooltip">决定每个连续倍频频率变化方式。</s>
    <!-- Rec:18 Max:26 Font:Primary ; inspector property label -->
    <s id="PlanetStudio.Flyouts.Noise.Gain.Label">增益</s>
    <!-- Tooltip Font:Primary ; tooltip on the Gain slider in noise feature flyouts -->
-   <s id="PlanetStudio.Flyouts.Noise.Gain.Tooltip">决定每个连续倍频强度变化方式的倍增器。</s>
+   <s id="PlanetStudio.Flyouts.Noise.Gain.Tooltip">决定每个连续倍频强度变化方式。</s>
    <!-- Rec:18 Max:26 Font:Primary ; inspector property label for the CratersFast crater shape curve -->
    <s id="PlanetStudio.Flyouts.Noise.CraterShape.Label">陨石坑形状</s>
    <!-- Tooltip Font:Primary ; tooltip on the CratersFast Frequency slider -->
@@ -12048,7 +12046,7 @@
    <!-- Tooltip Font:Primary ; tooltip on the CratersFast randomness slider -->
    <s id="PlanetStudio.Flyouts.Noise.Randomness.Tooltip">在陨石坑的噪波边界内对其位置应用多少随机性。较高的值可以使陨石坑更小。较低的值可以使陨石坑位置看起来更像网格。</s>
    <!-- Tooltip Font:Primary ; tooltip on the CratersFast Gain slider (specific to crater depth, not generic noise strength) -->
-   <s id="PlanetStudio.Flyouts.Noise.CratersFast.Gain.Tooltip">决定每个连续倍频陨石坑深度变化方式的倍增器。</s>
+   <s id="PlanetStudio.Flyouts.Noise.CratersFast.Gain.Tooltip">决定每个连续倍频陨石坑深度变化方式。</s>
    <!-- Rec:22 Max:30 Font:Primary ; inspector primary button -->
    <s id="PlanetStudio.Noise.ColorBands.GenerateButton">生成颜色带</s>
    <!-- Rec:18 Max:26 Font:Primary ; inspector property name -->
@@ -12699,11 +12697,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Play.FlightName.Required">请为此载具提供飞行名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Play.Issues.Error.Message">&lt;b&gt;此载具存在一个或多个问题,目前无法发射。从设计器发射以查看完整的问题列表。&lt;/b&gt;</s>
+   <s id="Play.Issues.Error.Message">&lt;b&gt;此载具存在一个或多个问题,目前无法发射。请进入设计器以查看完整的问题列表。&lt;/b&gt;</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Play.Issues.Warning.LaunchAnyway">仍然发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Play.Issues.Warning.Message">&lt;b&gt;发现一个或多个潜在问题。继续发射?从设计器发射此载具可查看完整的问题列表&lt;/b&gt;。</s>
+   <s id="Play.Issues.Warning.Message">&lt;b&gt;发现一个或多个潜在问题。强行发射?请进入设计器以查看完整的问题列表&lt;/b&gt;。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Play.Level.Completed">已完成</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -12740,8 +12738,7 @@
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Purchase.CareerBundle.Video.UnlockTech">解锁整条科技树</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
-   <s id="Purchase.CompleteEdition.Buy">购买</s>
-   <s id="Purchase.CompleteEdition.Buy">购买</s>
+   <s id="Purchase.CompleteEdition.Buy">购买</s
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Purchase.CompleteEdition.Line1">"Juno: New Origins 完整版"适合偏好一次性购买的玩家。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
