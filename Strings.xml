@@ -12738,7 +12738,7 @@
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Purchase.CareerBundle.Video.UnlockTech">解锁整条科技树</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
-   <s id="Purchase.CompleteEdition.Buy">购买</s
+   <s id="Purchase.CompleteEdition.Buy">购买</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Purchase.CompleteEdition.Line1">"Juno: New Origins 完整版"适合偏好一次性购买的玩家。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -14105,11 +14105,11 @@
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Medium">中</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级极致Pro</s>
+   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级极致</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Ultra">极高</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro">极致Pro</s>
+   <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro">极致</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.VeryHigh">很高</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -14117,11 +14117,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.Terrain.PlanetCubemaps.Description">调整星球立方体贴图的质量。这些贴图用于渲染远处的星球,地图视图中的星球以及主菜单上的星球。</s>
    <!-- Font:Primary ; setting warning, no length limit -->
-   <s id="Settings.Terrain.PlanetCubemaps.Warning.Crash">您当前的星球立方体贴图设置会导致数小时的加载时间,并可能使设备崩溃。如果您不清楚自己在做什么,请降低此设置。</s>
+   <s id="Settings.Terrain.PlanetCubemaps.Warning.Crash">当前的星球立方体贴图设置会导致数小时的加载时间,并可能使设备崩溃。如果您不清楚自己在做什么,请降低此设置。</s>
    <!-- Font:Primary ; setting warning, no length limit -->
-   <s id="Settings.Terrain.PlanetCubemaps.Warning.CrashQuestion">您当前的星球立方体贴图设置会导致数小时的加载时间并可能使设备崩溃,这值得吗?</s>
+   <s id="Settings.Terrain.PlanetCubemaps.Warning.CrashQuestion">当前的星球立方体贴图设置会导致数小时的加载时间并可能使设备崩溃,你真确定要这么干?</s>
    <!-- Font:Primary ; setting warning, no length limit -->
-   <s id="Settings.Terrain.PlanetCubemaps.Warning.LongLoad">您当前的星球立方体贴图设置会在首次进入飞行时导致很长的加载时间,准备好爆米花吧。</s>
+   <s id="Settings.Terrain.PlanetCubemaps.Warning.LongLoad">当前的星球立方体贴图设置会在首次进入飞行时导致很长的加载时间,准备好爆米花可乐瓜子鸭脖花生然后等着吧。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.Particles">粒子效果</s>
    <!-- Tooltip Font:Primary ; no length limit -->
