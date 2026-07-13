@@ -3037,7 +3037,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#3.StepText">滚转输入让你把飞机向一侧倾斜。和俯仰配合使用,就可以转弯。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#4.StepText">把节流阀推到最大以加速,尽量保持直线,因为起飞后你就没有推进来源了。</s>
+   <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Controls#4.StepText">把节流阀推到最大以加速,尽量保持直线,因为起飞后你就没有燃料来源了。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-Flight.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstFlight#0.Location-Droo.Village.RunwayEnd.Description">滚到跑道尽头</s>
    <!-- Font:Primary -->
@@ -8725,9 +8725,9 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.UpdateFinalHeight.IgnoreBiomeStrengthScaleTooltip">如果启用且为特定群系运行,应用高度时将忽略该群系的强度。如果禁用,高度将按此属性运行的群系的强度进行缩放。</s>
     <!-- Toast Font:Primary ; validation warning -->
-    <s id="Modifier.Validation.LowBattery">可能需要更多电池才能运行。</s>
+    <s id="Modifier.Validation.LowBattery">可能需要更多电量才能运行。</s>
     <!-- Toast Font:Primary ; validation warning -->
-    <s id="Modifier.Validation.MissingFuelSourceFormat">缺少 {0} 来源。</s>
+    <s id="Modifier.Validation.MissingFuelSourceFormat">缺少{0}来源</s>
     <!-- Toast Font:Primary ; validation warning -->
     <s id="Modifier.Validation.RequiresBattery">需要电池才能运行。</s>
     <!-- Toast Font:Primary ; validation warning -->
@@ -14105,11 +14105,11 @@
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Medium">中</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级极致</s>
+   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级机制ProMax</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Ultra">极高</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro">极致</s>
+   <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro">超级高</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.VeryHigh">很高</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
