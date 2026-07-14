@@ -1876,6 +1876,8 @@
     <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Description">所有机身(包括燃料箱,级间段,整流罩等)的条纹变体,为飞行器增添一抹色彩。</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-6.Name">圆头型</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-1.Name">普通</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-5.Name">圆头条纹</s>
     <!-- Rec:25 Max:25 Font:Primary -->
