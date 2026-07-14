@@ -2055,9 +2055,9 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Name">气尖喷管</s>
    <!-- Rec:25 Max:25 Font:Primary -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Name">Truncated Aerospike</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Name">截尖式气尖喷管</s>
    <!--  -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Description">Just another aerospike but we had to cut some corners, it isn&apos;t as efficient but it is a tad lighter.</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Description">虽然它也是一款气尖发动机,但我们不得不采取一些简化措施，虽然效率没那么高，但重量稍微轻一点。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Description">与钟形或锥形喷管相比,气尖喷管在各种高度范围内均表现出更优异的性能</s>
    <!-- Font:Primary -->
@@ -2203,7 +2203,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanelArray.2.Simple.Name">单晶</s>
    <!-- Rec:25 Max:25 Font:Primary -->
-   <s id="Career.TechTree.Items.Style.TestPilot.0.TestPilot1.Name">TestPilot</s>
+   <s id="Career.TechTree.Items.Style.TestPilot.0.TestPilot1.Name">测试假人</s>
    <!-- Rec:25 Max:25 Font:Primary -->
    <s id="Career.TechTree.Items.Style.Strut1.0.Solid-2.Name">条纹</s>
    <!-- Rec:25 Max:25 Font:Primary -->
@@ -4611,7 +4611,7 @@
     <!-- Rec:10 Max:14 Font:Primary ; part style option -->
     <s id="Design.StylePart.StyleName.Rugged">越野</s>
     <!-- Rec:10 Max:14 Font:Primary ; part style option -->
-    <s id="Design.StylePart.StyleName.RTG1">RTG1</s>
+    <s id="Design.StylePart.StyleName.RTG1">RTG1型</s>
     <!-- Rec:10 Max:14 Font:Primary ; part style option -->
     <s id="Design.StylePart.StyleName.Rover">漫游车</s>
     <!-- Rec:10 Max:14 Font:Primary ; part style option -->
@@ -11371,7 +11371,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.RocketEngineData.EngineSubType.GasGenerator2">燃气发生器 II</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Parts.RocketEngineData.EngineSubType.Gimbal">Gimbaled</s>
+   <s id="Parts.RocketEngineData.EngineSubType.Gimbal">推力矢量</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.RocketEngineData.EngineSubType.Model">业余级</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -16916,7 +16916,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.SurfaceVelocity">飞行器相对于行星表面的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Vizzy.CraftProperty.Tooltip.Vel.OrbitVelocity">TODO</s>
+    <s id="Vizzy.CraftProperty.Tooltip.Vel.OrbitVelocity">轨道速度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.VerticalSurfaceVelocity">当前朝向行星中心的速度,单位为m/s。</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -17233,7 +17233,7 @@
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.SetCraftProperty">设置飞行器属性</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
-   <s id="Vizzy.Instruction.SetCraftInput">设置飞行器输入M</s>
+   <s id="Vizzy.Instruction.SetCraftInput">设置飞行器输入</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.SetCameraProperty">设置摄像机属性</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
