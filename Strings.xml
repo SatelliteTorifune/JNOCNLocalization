@@ -269,8 +269,20 @@
    <s id="Career.StringProcessor.Compass.W">西</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Career.StringProcessor.MachFormat">马赫数 {0:n1}</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.SOLIDFUELGRAIN">药柱形状</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.PARTSTYLE">部件风格</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.JETNOZZLE">航发喷口</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.FUELTYPE">燃料类型</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.ENGINETYPE">发动机类型</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.ItemCategories.ENGINENOZZLE">发动机喷管</s>
    <!-- Font:Primary -->
-   <s id="Career.Validation.AstronautCrewNotAvailable">航天员没有可用的乘员分配。</s>
+   <s id="Career.Validation.AstronautCrewNotAvailable">航天员没有可分配的乘员。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.AstronautNoCrew">航天员没有分配乘员。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -1472,6 +1484,8 @@
    <s id="Career.TechTree.Items.Milestone.docks.Name">对接里程碑</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Milestone.astronauts.Name">航天员徽章里程碑</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.Milestone.docks.Description">未使用.</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.QuickSave.Name">快速保存</s>
    <!-- Font:Primary -->
@@ -1582,6 +1596,8 @@
    <s id="Career.TechTree.Items.MaxSize.SolarPanelArray.Description">太阳能电池板阵列的最大尺寸。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Wheel.Name">车轮尺寸</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.Milestone.astronauts.Description">未使用.</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxSize.Wheel.Description">漫游车车轮的最大尺寸。</s>
    <!-- Font:Primary -->
@@ -1638,6 +1654,290 @@
    <s id="Career.TechTree.Items.SolarPanelArray.Rows.Description">阵列可以容纳的行数。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Shape.Name">单片尺寸上限</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireStreet.Name">街道轮胎</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireStreet.Description">一款普通轮胎,在混凝土路面上抓地力不错,越野抓地力一般。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireSmooth.Name">公路轮胎</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireSmooth.Description">竞赛的完美之选,混凝土路面抓地力极佳,但越野时表现糟糕。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireRugged.Name">越野轮胎</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireRugged.Description">越野时抓地力出色,混凝土路面表现一般的轮胎。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireLunar.Name">漫游车轮胎</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireLunar.Description">越野抓地力极佳,但密度大且价格昂贵的轮胎。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireLandingGear.Name">起落架轮胎</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.2.RoverTireLandingGear.Description">一款平衡性良好的轮胎,在任何表面都有正常的抓地力。</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RuggedRim.Name">越野轮毂</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RuggedRim.Description">内含大扭矩电机和良好减速比的轮毂,可进一步提升扭矩。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RetroRim.Name">老式轮毂</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RetroRim.Description">内含廉价低扭矩电机和标准减速比的轮毂。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RacingRim.Name">竞速轮毂</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.RacingRim.Description">专为速度设计的轮毂电机,扭矩适中,出色的增速比可实现极高的速度。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.LunarRim.Name">漫游车轮毂</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.LunarRim.Description">内含低扭矩电机和超大减速比的轮毂,以更低功耗获得良好扭矩,同时也限制了速度。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.LandingGearRim.Name">起落架轮毂</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.RoverWheel1.1.LandingGearRim.Description">内含标准扭矩和减速比的轮毂。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerWarbird.Name">战机</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerWarbird.Description">仿照20世纪战斗机叶片雕刻而成的木质螺旋桨,复刻爱好者的首选。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerScimitar.Name">弯刀</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerScimitar.Description">能像利剑般切开空气的弯曲叶片,小心别把手指伸进去。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerFlat.Name">扁平</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerFlat.Description">别被它骗了,虽然看起来像直升机但缺少倾斜盘,不过玩家们肯定会想出办法用它做直升机。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerDrone.Name">无人机</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerDrone.Description">一套采用复合材料制成的激进叶片,非常轻便且动力强劲。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerCivilian.Name">民用</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerCivilian.Description">经典的铝合金小型飞机螺旋桨。全能型性能,价格合理。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerBoat2.Name">激流</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerBoat2.Description">重型钢材制成的大型船用螺旋桨。小心冰山。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerBoat1.Name">漩涡</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.PropellerAssembly1.1.PropellerBoat1.Description">小型船用螺旋桨,非常适合摩托艇和小型潜艇。</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteStripedVertical.Name">竖条纹</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteStripedVertical.Description">类似于载人舱使用的条纹降落伞。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteStripedHorizontal.Name">横条纹</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteStripedHorizontal.Description">环形条纹降落伞。如果你想练习瞄准,这是个完美的目标。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteCheckered.Name">棋盘格</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Parachute1.1.ParachuteCheckered.Description">棋盘格图案,便于在天空中快速定位小型降落伞。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Small.Name">侧装降落伞</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Small.Description">紧凑包装,只需装在飞行器侧面即可获得一个方便的降落伞。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Base.Name">鼻锥降落伞</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Base.Description">空气动力学外壳,可以安装在飞行器前部以劈开气流。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Package.0.ShippingContainer.Name">集装箱</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Package.0.Crate.Name">木箱</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Package.0.Barrel.Name">桶</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-Straight-2.Name">直锥型</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-Straight-1.Name">直锥条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-Round-2.Name">圆鼻型</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-Round-2.Description">虽然碰撞箱仍是尖的,但圆鼻头非常适合球形部件。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-Round-1.Name">圆鼻条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-2.Name">尖拱型</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.NoseCone1.0.NoseCone-1.Name">尖拱条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Light1.0.SquareSpotlight.Name">方形</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Light1.0.CircularSpotlight.Name">圆形</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Vertical.Name">侧开双门铰链</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Vertical.Description">一种向舱两侧打开一对舱门的铰链。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Side.Name">单门铰链</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Side.Description">一种向舱一侧打开舱门的铰链。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-None.Name">无舱门</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-None.Description">就一个洞,如果你不在乎空气动力学的话。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Horizontal.Name">前开双门铰链</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.3.Door-Horizontal.Description">一种沿舱方向打开一对舱门的铰链。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-Straight.Name">平直舱门</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-Straight.Description">一扇扁平的门……没错,就是这样,它是扁平的,它是一扇门。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-None.Name">无起落架舱</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-None.Description">没有起落架舱,起落架收起后会暴露在外。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-Curved.Name">弧形舱门</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.2.Bay-Curved.Description">弧形舱门,能更好地匹配圆形机身。</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Straddled.Name">跨装单轮</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Straddled.Description">两端固定的单轮。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Single.Name">单轮</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Single.Description">一端固定的单轮。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Double.Name">双轮</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.LandingGear1.1.Wheel-Double.Description">双轮配置,提供双倍的牵引力和制动力。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Spiral.Name">螺旋尖</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Spiral.Description">花哨的小部件。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Spike.Name">尖刺尖</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Spike.Description">尖锐的小部件。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Round.Name">圆头尖</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.Round.Description">圆润的小部件。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.None.Name">无尖头</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.4.None.Description">没有尖头……真难看!</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Military.Name">军用喷管</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Military.Description">谁不想急头白脸整一个可调节开口的航发喷管,既能最大化性能又能承受最高温度的排气呢?</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Civilian.Name">民用喷管</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Civilian.Description">民用喷管是基础款的升级版,适用范围广泛,从小型私人飞机到商用客机均可使用。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Basic.Name">基础喷管</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Basic.Description">基础发动机喷管虽然平淡无奇,但效果不错,对于廉价飞行器来说完全够用。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.Straight.Name">直叶风扇</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.Straight.Description">一堆高速旋转的平板。能干活,但确实难看。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.SCurve.Name">S形弯叶风扇</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.SCurve.Description">离旋转轴越远,风扇叶片的理想攻角就会改变。这种风扇能匹配理想角度,打造外观最佳的发动机。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.Curved.Name">弧形风扇</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.2.Curved.Description">你也许自欺欺人地认为弧形风扇能带来更好的气动效益,但我们都明白你只是看中了它们花哨的外观。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-None-2.Name">无整流罩</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-None-2.Description">裸露的发动机会帮你减轻一些重量,但会让精密部件暴露在各种环境因素下。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-2.Name">锯齿整流罩</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-2.Description">想要花哨,锯齿是必选之路,你将丝滑地划破空气。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-1.Name">基础整流罩</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.JetEngine1.1.JetEngineShroud-1.Description">喷气发动机是昂贵的部件,这个整流罩能让发动机看上去很正经。</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.JetEngine1.0.Core.Name">核心机</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Inlet1.0.Inlet-2.Name">斜角</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Inlet1.0.Inlet-1.Name">普通</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.HeatShield1.0.HeatShield-1.Name">默认</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Gyroscope1.0.Solid-2.Name">条纹</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Gyroscope1.0.Solid-1.Name">普通</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Name">条纹机身</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Description">所有机身(包括燃料箱,级间段,整流罩等)的条纹变体,为飞行器增添一抹色彩。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-6.Name">圆头型</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-5.Name">圆头条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-4.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-3.Name">直锥条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-2.Name">直锥型</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-1.Name">普通条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingBase1.0.Fairing-2.Name">条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.FairingBase1.0.Fairing-1.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Fairing1.0.Fairing-2.Name">条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Fairing1.0.Fairing-1.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.EvaChair1.0.Rover.Name">基础座椅</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.EvaChair1.0.Rover.Description">一把椅子。可用家具。适合坐下来休息一会儿……没错,就是一把椅子。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.EvaChair1.0.Rocket.Name">火箭座椅</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.EvaChair1.0.Rocket.Description">一款火箭座椅,让乘员在发射高过载下保持舒适。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Detacher1.0.Interstage-4.Name">热分离级间段</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.Detacher1.0.Interstage-4.Description">更简单更坚固的级间段设计,确保在你想要之前一切都不会分离。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Detacher1.0.Interstage-2.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.Detacher1.0.Interstage-1.Name">条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CrewCompartment.0.Solid-2.Name">条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CrewCompartment.0.Solid-1.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CommandDisc1.0.Solid-1.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.1.CargoBay-5.Name">单门</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.1.CargoBay-4.Name">无门货舱</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.1.CargoBay-3.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.1.CargoBay-2.Name">自定义</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.1.CargoBay-1.Name">普通条纹</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-5.Name">单门</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-4.Name">无门货舱</s>
+    <!--  -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-4.Description">一种无门的货舱变体,适用于只需要半个机身的各种需求。</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-3.Name">普通</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-2.Name">自定义</s>
+    <!-- Rec:25 Max:25 Font:Primary -->
+    <s id="Career.TechTree.Items.Style.CargoBay1.0.CargoBay-1.Name">普通条纹</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.SolarPanelArray.Shape.Description">电池板可拉伸以微调形状的程度。</s>
    <!-- Font:Primary -->
@@ -1650,6 +1950,10 @@
    <s id="Career.TechTree.Items.ElectricMotor.RPM.Description">在扭矩足够的情况下,电动机能够转到的最高转速。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.Torque.Name">电机扭矩</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.FuelType.Ar.Name">氩气</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.FuelType.Ar.Description">一种更省钱的推进剂。虽然效率略低于氙气,但你可以从空气中获取它。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.ElectricMotor.Torque.Description">电机的扭矩决定它能输出多大的力。</s>
    <!-- Font:Primary -->
@@ -1750,6 +2054,10 @@
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.EchoGimbal.Description">Echo 喷管的万向可调版本。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Name">气尖喷管</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Name">Truncated Aerospike</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Description">Just another aerospike but we had to cut some corners, it isn&apos;t as efficient but it is a tad lighter.</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Description">与钟形或锥形喷管相比,气尖喷管在各种高度范围内均表现出更优异的性能</s>
    <!-- Font:Primary -->
@@ -1818,6 +2126,10 @@
    <s id="Career.TechTree.Items.JetEngine.Hybrid.Description">加入液氧后,喷气发动机可以在无大气环境下工作。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Battery.Name">电池</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.FuelType.CH4.Name">甲烷</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.FuelType.CH4.Description">液态甲烷,即液氧甲烷的一半。易于采集或者发酵,以便在远离家园的地方补充燃料。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Battery.Description">一种化学储能方式,可以在不依赖发电的情况下满足你的电力需求。</s>
    <!-- Font:Primary -->
@@ -1838,14 +2150,22 @@
    <s id="Career.TechTree.Items.FuelType.LOX/CH4.Description">一种轻质高效的燃料,性能介于氢氧和煤油液氧推进剂之间,与液氧混合使用。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.LH2.Name">液氢</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.FuelType.LOX.Name">氧</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.FuelType.LOX.Description">液氧,它本身是所有双组元推进剂中的氧化剂部分。可以从任何存在氧的大气中提取。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.LH2.Description">纯氢,不含任何氧化剂,是核热发动机所必需的燃料。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.H2O.Name">水</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.FuelType.H2O2.Name">过氧化氢</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.FuelType.H2O2.Description">一种由普通水制成的可储存单组元推进剂。它比肼更温和,而且几乎可以在任何地方生产.</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.H2O.Description">纯净的一氧化二氢,不仅可用作压舱物,也可用于核热发动机。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.FuelType.Monopropellant.Name">单组元推进剂</s>
+   <s id="Career.TechTree.Items.FuelType.Monopropellant.Name">肼</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.Monopropellant.Description">易燃的剧毒自燃推进剂,极易点燃但毒性极强。</s>
    <!-- Font:Primary -->
@@ -1862,6 +2182,10 @@
    <s id="Career.TechTree.Items.FuelType.Xenon.Description">一种分子量很大的惰性气体,加速到高速后能产生很高的效率。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.None.Name">无</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.FuelType.RP1.Name">煤油</s>
+   <!--  -->
+   <s id="Career.TechTree.Items.FuelType.RP1.Description">高度精炼的航天煤油,是液氧煤油的一半。价格低廉,密度大,易于处理。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.FuelType.None.Description">零,无,空,没有,啥都没有。</s>
    <!-- Font:Primary -->
@@ -1878,6 +2202,12 @@
    <s id="Career.TechTree.Items.Style.SolarPanelArray.2.Hex.Description">效率不高但价格低廉的电池板,足以满足最基础的用电需求。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanelArray.2.Simple.Name">单晶</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.TestPilot.0.TestPilot1.Name">TestPilot</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Strut1.0.Solid-2.Name">条纹</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.Strut1.0.Solid-1.Name">普通</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanelArray.2.Simple.Description">虽古老但可靠的技术,比薄膜电池板贵,但同时也更高效。</s>
    <!-- Font:Primary -->
@@ -1890,6 +2220,8 @@
    <s id="Career.TechTree.Items.Style.SolarPanel1.0.Hex.Description">效率不高但价格低廉的电池板,足以满足最基础的用电需求。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanel1.0.Simple.Name">单晶</s>
+   <!-- Rec:25 Max:25 Font:Primary -->
+   <s id="Career.TechTree.Items.Style.SolarPanelArray.1.Square.Name">方块</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanel1.0.Simple.Description">虽古老但可靠的技术,比薄膜电池板贵,但同时也更高效。</s>
    <!-- Font:Primary -->
@@ -4119,9 +4451,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.GenericPartProperties.UpgradeFormat">升级到 {0} 以解锁这些设置。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.GizmosScript.NoCompatibleForThrust">推力中心小工具无法启用,因为飞行器中没有兼容部件。</s>
+   <s id="Design.GizmosScript.NoCompatibleForThrust">推力中心显示无法启用,因为飞行器中没有兼容部件。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.GizmosScript.NoWingsForLift">升力中心小工具无法启用,因为飞行器中没有机翼。</s>
+   <s id="Design.GizmosScript.NoWingsForLift">升力中心显示无法启用,因为飞行器中没有机翼。</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Group.CannotGroupSingle">无法从单个部件创建组。</s>
@@ -4222,8 +4554,226 @@
    <s id="Design.StylePart.PartStyle">部件风格</s>
    <!-- Rec:14 Max:20 Font:Primary ; spinner label -->
    <s id="Design.StylePart.Style">风格</s>
+   <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.WoodenCrate">木箱</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Warbird">战机</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.VStriped">竖条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Vortex">漩涡</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Vertical">垂直</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Vents">通风口</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Topchute">顶部降落伞</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Tiles">瓦片</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.TestPilot">试飞员</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Striped">条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Street">街头</s>
+   <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.StraightStriped">直锥条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Straight">直锥型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Straddled">跨装</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Square">方形</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Spiral">螺旋</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Spike">尖刺</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Soyuz">热分离</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Smooth">公路</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Slats">翼缝</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Single">单个</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Simple">简单</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Sidechute">侧装降落伞</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Side">侧面</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.ShippingContainer">货运集装箱</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.SCurve">S形弯曲</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Scimitar">弯刀</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Rugged">越野</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.RTG1">RTG1</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Rover">漫游车</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.RoundStriped">圆鼻条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.RoundedStriped">圆头条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Rounded">圆头型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Round">圆</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Rocket">火箭</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Rivets">铆钉</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Riptide">激流</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Retro">老式</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Racing">竞速</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Pointy">尖头</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Panels">面板</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.OneDoorThin">薄单门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.OneDoorInverted">反向单门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.OneDoor">单门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.OgiveStriped">尖拱条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Ogive">尖拱型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.NormalStriped">普通条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Normal">普通</s>
+   <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.NoneLegacy">无(旧版)</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.None">无</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.NoDoorsThin">薄无门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.NoDoors">无门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Military">军用</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Lunar">月球</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.LandingGear">起落架</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Insulation">隔热</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.HUD">HUD</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.HStriped">横条纹</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Horizontal">水平</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Hexagonal">六边形</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Hex">六角</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Grooves3">凹槽3</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Grooves2">凹槽2</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Grooves1">凹槽1</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Grooves">凹槽</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.FuelCell1">燃料电池</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Flat">扁平</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Drone">无人机</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Double">双</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Default">默认</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Custom">自定义</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Curved">弧形</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.CrossBeams">交叉梁</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.CrossBeam">交叉梁</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Core">核心机</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Civilian">民用</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Circular">圆形</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Chevron">锯齿</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Checkered">棋盘格</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Channels">竖条</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Camouflage">迷彩</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Beveled">倒角</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Basic">基础</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Barrel">桶</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part style option -->
+    <s id="Design.StylePart.StyleName.Advanced">高级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.StylePart.StyleSuffix"> 风格</s>
+   <s id="Design.StylePart.StyleSuffix">风格</s>
+   <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Wing">机翼</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Wheel">轮子</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Type">类型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Tire">轮胎</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.SubType">子类型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Shroud">整流罩</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Part">部件</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Parachute">降落伞</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Panel">面板</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Outside">外部</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.NozzleExtension">喷管延伸段</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Nozzle">喷管</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Inside">内部</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.InletCone">进气道锥体</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Hub">轮毂</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Fan">风扇</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.EngineType">发动机类型</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Door">舱门</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Default">默认</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Core">核心</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.ControlSurface">控制舵面</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Blade">叶片</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Bay">舱</s>
+    <!-- Rec:10 Max:14 Font:Primary ; part subpart label -->
+    <s id="Design.StylePart.SubpartName.Base">基础</s>
    <!-- Rec:14 Max:20 Font:Primary ; label -->
    <s id="Design.StylePart.Texture">材质</s>
    <!-- Rec:20 Max:28 ; button label -->
@@ -5560,13 +6110,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.NavigationCube.Tooltip">开关导航立方体视图</s>
    <!-- Tooltip Font:Primary ; shown beneath the cube on hover; keep concise so it fits in the cube footprint -->
-   <s id="Design.NavigationCube.ProjectionToggle.Tooltip">启用正交视角</s>
+   <s id="Design.NavigationCube.ProjectionToggle.Tooltip">&lt;size=160%&gt;启用正交视角</s>
    <!-- Tooltip Font:Primary ; shown beneath the cube on hover; keep concise so it fits in the cube footprint -->
-   <s id="Design.NavigationCube.CenterIndicators.Tooltip">显示质量中心 / 升力中心 / 推力中心</s>
+   <s id="Design.NavigationCube.CenterIndicators.Tooltip">&lt;size=160%&gt;显示&lt;br&gt;质量/升力/推力&lt;br&gt;中心</s>
    <!-- Toast Font:Primary ; no length limit ; easter egg shown after spinning the navigation cube a lot ; {0} = zero or more repetitions of the DizzyIntensifier word -->
-   <s id="Design.NavigationCube.DizzyFormat">你快把我转晕了{0}!</s>
+   <s id="Design.NavigationCube.DizzyFormat">你{0}快把我转晕了!</s>
    <!-- Word with trailing space Font:Primary ; repeated into the DizzyFormat message's {0} to escalate it ("very very ...") ; keep the trailing space -->
-   <s id="Design.NavigationCube.DizzyIntensifier">非常 </s>
+   <s id="Design.NavigationCube.DizzyIntensifier">真的</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Performance.EndingTwr">最终推重比</s>
    <!-- Rec:20 Max:22 Font:Primary ; design info inspector header -->
@@ -5826,7 +6376,7 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Text">显示尺寸调整</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Tooltip">显示用于调整燃料箱,机翼等部件尺寸的小工具。</s>
+   <s id="Design.ToolPanel.MovePart.ShowResizeGizmos.Tooltip">显示用于调整燃料箱,机翼等部件尺寸的组件。</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.MovePart.ShowFuelFlow.Text">显示燃料流路</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5878,7 +6428,7 @@
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.RotatePart.Sensitivity.Text">敏感度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.ToolPanel.RotatePart.Sensitivity.Tooltip">指示旋转小工具对拖动的灵敏度</s>
+   <s id="Design.ToolPanel.RotatePart.Sensitivity.Tooltip">指示旋转组件对拖动的灵敏度</s>
    <!-- Rec:14 Max:17 Font:Primary ; tool panel label -->
    <s id="Design.ToolPanel.RotatePart.Title">部件旋转器</s>
    <!-- Rec:14 Max:17 Font:Header ; tool panel label -->
@@ -6518,13 +7068,13 @@
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Flight.MapView.Options.Defaults">默认</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.Options.GizmoAlign">小工具对齐</s>
+   <s id="Flight.MapView.Options.GizmoAlign">组件对齐</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Options.GizmoAlign.Tooltip">确定轨道机动小工具的对齐方式。它可以与参考轨道静态对齐,也可以动态改变以与轨道机动后的轨道对齐。切换选项不会改变现有的轨道机动矢量。</s>
+   <s id="Flight.MapView.Options.GizmoAlign.Tooltip">确定轨道机动组件的对齐方式。它可以与参考轨道静态对齐,也可以动态改变以与轨道机动后的轨道对齐。切换选项不会改变现有的轨道机动矢量。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.Options.GizmoSensitivity">小工具调整全局敏感度</s>
+   <s id="Flight.MapView.Options.GizmoSensitivity">组件调整全局敏感度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Options.GizmoSensitivity.Tooltip">调整计划轨道机动节点速度增量 调整小工具的全局灵敏度。除每个节点的灵敏度设置外,还会全局应用。灵敏度越低,使用计划轨道机动小工具时速度增量 的变化越小。</s>
+   <s id="Flight.MapView.Options.GizmoSensitivity.Tooltip">调整计划轨道机动节点速度增量 调整组件的全局灵敏度。除每个节点的灵敏度设置外,还会全局应用。灵敏度越低,使用计划轨道机动组件时速度增量的变化越小。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.MapView.Options.Title">地图选项</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7019,46 +7569,88 @@
    <s id="Flight.ViewPanel.ToggleMapView">切换地图视角</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.ViewPanel.ViewActiveContracts">查看进行中的合同</s>
+   <!--  -->
+   <s id="Fuel.Ar.Description">用于离子发动机的氩气,是氙气的廉价替代品,但效率会略低。可以在含氩大气中手机,氩气往往很稀薄,因此需要专门的收集器并耐心收集才能获得有用的量。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Ar.Name">氩气</s>
+   <!--  -->
+   <s id="Fuel.Battery.Description">电池用于为飞行器的许多部件供电,与有些不可再生燃料不同,电量可以再生</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Battery.Name">电池</s>
+   <!--  -->
+   <s id="Fuel.CH4.Description">甲烷用作液氧甲烷火箭发动机的燃料成分。它能以大气组分,地表冰甚至液态湖泊的形式存在,因此采集器通常可以在野外进行补充。与液氧储箱并存,且液氧甲烷组合储箱中的燃料耗尽时,发动机就会将使用二者作为燃料来源。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.CH4.Name">甲烷</s>
+   <!--  -->
+   <s id="Fuel.CO2.Description">二氧化碳,可以从大气中提取或从冰冻的表层矿床中开采。它本身只是普通物质,但将其与一些氢气一起输入Sabatier 转化器,就能转化为甲烷燃料。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.CO2.Name">二氧化碳</s>
+   <!--  -->
+   <s id="Fuel.H2O.Description">我称之为高质量一氧化二氢.</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.H2O.Name">水</s>
+   <!--  -->
+   <s id="Fuel.H2O2.Description">一种可储存的单组元推进剂,无需单独的氧化剂即可运行,对于RCS和小型推进器而言十分方便。虽然其效率低于肼,但仅用水即可制得,因此对于自给自足的基地而言,它是轻松的选择。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.H2O2.Name">过氧化氢</s>
+   <!--  -->
+   <s id="Fuel.Jet.Description">专为喷气航空发动机使用的特种煤油。注意：喷气发动机无需直接与装有喷气燃料的油箱相连。只要你的飞行器有燃料,它们就能正常工作。.</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Jet.Name">航空煤油</s>
+   <!--  -->
+   <s id="Fuel.Jetpack.Description">给小蓝人喷气背包使用的燃料,理论上来说你不应该看到这个条目</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Jetpack.Name">喷气背包</s>
+   <!--  -->
+   <s id="Fuel.LH2.Description">用于核热发动机的氢气。在没有氧化剂的情况下,其效率更高,但只能用于核火箭发动机。当与氧气罐并存时,它也可作为液氢液氧发动机的燃料成分,并且可通过任何富含氢气的大气进行采集。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LH2.Name">氢</s>
+   <!--  -->
+   <s id="Fuel.LOX.Description">液氧用作双组元火箭发动机中的氧化剂组分。其储存时为低温状态,但可以直接从携带氧气的大气中提取。将其与兼容的燃料(煤油,液氢或甲烷)一起储存,当组合混合燃料储箱耗尽时,发动机将使用它们作为燃料来源。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX.Name">氧</s>
+   <!--  -->
+   <s id="Fuel.LOX/CH4.Description">用于火箭发动机的液氧甲烷。其效率略高于液氧煤油推进剂,但比液氢液氧推进剂更易于使用。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/CH4.Name">液氧甲烷</s>
+   <!--  -->
+   <s id="Fuel.LOX/LH2.Description">用于火箭发动机的液氢液氧,非常高效,但其密度极低,因此需要更大的燃料箱。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/LH2.Name">液氢液氧</s>
+   <!--  -->
+   <s id="Fuel.LOX/RP1.Description">用于火箭发动机的液氧煤油。价格低廉,不算太低温,因此使用起来更安全、更方便。缺点是它的效率不如其他一些燃料高。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/RP1.Name">液氧煤油</s>
+   <!--  -->
+   <s id="Fuel.Monopropellant.Description">有毒?管他呢。但它的灵活性非常适合RCS和简单引擎。如果你闻到氨味,赶紧跑</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Monopropellant.Name">肼</s>
+   <!--  -->
+   <s id="Fuel.N2.Description">氮气,从任何有氮气的星球的大气中提取。不能直接当作燃料,但把它和氢气在转换器中混合,你就能合成肼,一种强效的可储存推进剂。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.N2.Name">氮气</s>
+   <!--  -->
+   <s id="Fuel.None.Description">零,无,空,什么都没有。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.None.Name">无</s>
+   <!--  -->
+   <s id="Fuel.PETN.Description">只适合那些胆子大敢于玩火的人,小心别烧伤手指.</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.PETN.Name">季戊四醇四硝酸酯</s>
+   <!--  -->
+   <s id="Fuel.Regolith.Description">直接从地面钻取的松散表层岩石和灰尘。发动机不能少,转化炉也不能用,只需一把钻头和一个储罐,你就能从任何可降落的地方把它们运回来。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.RP1.Name">煤油</s>
+   <!--  -->
+   <s id="Fuel.Solid.Description">用于火箭发动机的固体燃料。能在小体积内产生巨大推力,但重量大且价格昂贵。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Regolith.Name">风化层</s>
+   <!--  -->
+   <s id="Fuel.RP1.Description">高度精炼的煤油(RP-1),用作液氧煤油的组元。将其与液氧储箱并存,当组合的Kerolox混合物罐耗尽时,发动机将同时使用这两种燃料。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Solid.Name">固体燃料</s>
+   <!--  -->
+   <s id="Fuel.Xenon.Description">用于离子发动机的氙气。它是一种惰性气体,因此不会引发剧烈爆炸。取决于你想干啥,这可能是好事也可能是坏事.</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Xenon.Name">氙气</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7722,7 +8314,7 @@
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.Clamp.DisplayName.Header">限幅</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Clouds.Description">定义在缩放空间中围绕星球渲染的独立云层。每个云层从星球生成属性生成的数据槽读取密度,并具有各自的高度、色彩和旋转速度。按高度排列云层(低空云层高度最小,高空云层最大),以便较高的云层正确遮挡下方的云层。第四层是一个不旋转的遮罩,乘以其他云层的不透明度。</s>
+    <s id="Modifier.Clouds.Description">定义在缩放空间中围绕星球渲染的独立云层。每个云层从星球生成属性生成的数据槽读取密度,并具有各自的高度,色彩和旋转速度。按高度排列云层(低空云层高度最小,高空云层最大),以便较高的云层正确遮挡下方的云层。第四层是一个不旋转的遮罩,乘以其他云层的不透明度。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.Clouds.DetailScaleLabel">细节缩放</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7944,11 +8536,11 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.MaxHeightColorVarianceLabel">最大高度颜色变化</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红、绿、蓝颜色值(0到1)。用于为陨石坑边缘添加一点颜色变化。</s>
+    <s id="Modifier.Craters.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红,绿,蓝颜色值(0到1)。用于为陨石坑边缘添加一点颜色变化。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.Craters.MinHeightColorVarianceLabel">最小高度颜色变化</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.Craters.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红、绿、蓝颜色值(0到1)。用于为陨石坑最深中心添加一点颜色变化。</s>
+    <s id="Modifier.Craters.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红,绿,蓝颜色值(0到1)。用于为陨石坑最深中心添加一点颜色变化。</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.CratersFast.CraterNoiseADataIndexDataSlotName">噪声输入 A</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -7974,15 +8566,15 @@
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.CratersFast.LockSeedTooltip">防止点击随机化按钮时种子被随机化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红、绿、蓝颜色值(通常为0到1)。用于为陨石坑边缘添加一点颜色变化。</s>
+    <s id="Modifier.CratersFast.MaxHeightColorVarianceTooltip">当陨石坑高于星球表面时,添加到地形颜色的红,绿,蓝颜色值(通常为0到1)。用于为陨石坑边缘添加一点颜色变化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CratersFast.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红、绿、蓝颜色值(通常为0到1)。用于为陨石坑最深中心添加一点颜色变化。</s>
+    <s id="Modifier.CratersFast.MinHeightColorVarianceTooltip">当达到陨石坑最小高度时,从地形颜色中减去的红,绿,蓝颜色值(通常为0到1)。用于为陨石坑最深中心添加一点颜色变化。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.CratersFast.SeedSyncIdTooltip">允许多个未锁定的噪声元素在点击随机化按钮时获得相同的种子。</s>
     <!-- Font:Primary -->
     <s id="Modifier.CubemapData.DataIndexDefaultCubemapDataSlotName">默认立方体贴图输入</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.CubemapData.Description">从天体立方体贴图纹理读取数据并根据该数据存储输出值的星球属性。立方体贴图纹理应为水平格式(X+、X-、Y+、Y-、Z+、Z-)。</s>
+    <s id="Modifier.CubemapData.Description">从天体立方体贴图纹理读取数据并根据该数据存储输出值的星球属性。立方体贴图纹理应为水平格式(X+,X-,Y+,Y-,Z+,Z-)。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.CubemapData.DisplayName">纹理数据 (立方体贴图)</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
@@ -8294,7 +8886,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.GetPosition.RotationLabel">旋转</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.GetPosition.RotationTooltip">在返回请求位置之前要应用于星球的X、Y和Z轴旋转角度(以度为单位)。</s>
+    <s id="Modifier.GetPosition.RotationTooltip">在返回请求位置之前要应用于星球的X,Y和Z轴旋转角度(以度为单位)。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.HemisphereBiomeSwap.Description">在半球之间交换群系的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -8384,7 +8976,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.LongitudeLines.RotationLabel">朝向</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.LongitudeLines.RotationTooltip">要应用于输入位置的X、Y和Z轴旋转角度(以度为单位)。</s>
+    <s id="Modifier.LongitudeLines.RotationTooltip">要应用于输入位置的X,Y和Z轴旋转角度(以度为单位)。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.LongitudeLines.TwistAngleLabel">扭曲角度</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -8821,7 +9413,7 @@
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.FractalTypeLabel">分形类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
-    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声,这设置分形类型。它们各自以不同的、有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运!</s>
+    <s id="Modifier.VertexDataNoise.FractalTypeTooltip">对于基于分形的噪声,这设置分形类型。它们各自以不同的,有趣的方式运行。最好尝试每个以了解它们的作用以及各种设置如何影响它们。祝你好运!</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalWithDerivativeType.GDCSwiss">GDC Swiss</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -10779,6 +11371,8 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.RocketEngineData.EngineSubType.GasGenerator2">燃气发生器 II</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.RocketEngineData.EngineSubType.Gimbal">Gimbaled</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.RocketEngineData.EngineSubType.Model">业余级</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.RocketEngineData.EngineSubType.PressureFed">挤压式</s>
@@ -11967,7 +12561,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Toc.Noise">噪声</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.Toc.Passes">通道</s>
+   <s id="PlanetStudio.Help.Toc.Passes">竖条</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Toc.PlanetarySystemDesigner">行星系统设计器</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14255,7 +14849,7 @@
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.MenuSunQuality.Low">低</s>
    <!--  -->
-   <s id="Settings.VisualEffects.ReEntryPlasmaBias.Description">控制再入等离子应何时开始,并达到最大强度的马赫数阈值倍数。值越低，等离子体视觉效果触发越早；值越高，则触发越晚.</s>
+   <s id="Settings.VisualEffects.ReEntryPlasmaBias.Description">控制再入等离子应何时开始,并达到最大强度的马赫数阈值倍数。值越低,等离子体视觉效果触发越早；值越高,则触发越晚.</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.ReEntryPlasmaBias">重入等离子体偏差</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -15138,7 +15732,7 @@
    <!-- Font:Primary -->
    <s id="Ui.HeaderFontPath">Sans-SC</s>
    <!-- Font:Primary -->
-   <s id="Ui.HeaderFontStyle">Normal</s>
+   <s id="Ui.HeaderFontStyle">普通</s>
    <!-- Font:Primary -->
    <s id="Ui.PrimaryFontPath">Sans-SC</s>
    <!-- Rec:20 Max:22 ; property label -->
@@ -16372,6 +16966,30 @@
    <s id="Vizzy.CreateCustomNode.Header.Expression">创建自定义表达式</s>
    <!-- Tooltip Font:Header ; no length limit -->
    <s id="Vizzy.CreateCustomNode.Header.Instruction">创建自定义指令</s>
+    <!-- ⚠️ 不可翻译！此值为运行时绑定的不变ID(matches ProgramEventHandler),Vizzy.Toolbox.Format中的|...|会引用这些key名,必须保持英文原值 -->
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Velocity">速度</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Planet">行星</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Part">部件</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Other">其他</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Impulse">冲量</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.Data">数据</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.CraftB">飞行器A</s>
+   
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
+    <s id="Vizzy.EventVariable.CraftA">飞行器B</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.atmosphereComposition">大气成分</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16405,7 +17023,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.solarPosition">太阳位置</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.structures">建筑设施</s>
+   <s id="Vizzy.Expression.Planet.structures">地面建筑</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.apoapsistime">行星到达轨道远点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16474,6 +17092,14 @@
    <s id="Vizzy.Expression.Planet.velocity">速度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.year">公转一周的时长</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.CallCustom">调用自定义指令</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.BroadcastMessage">广播消息</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Break">跳出循环</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.ActivateStage">激活分级</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CameraProperty.CameraIndex">相机编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16502,6 +17128,10 @@
    <s id="Vizzy.Instruction.CameraProperty.YRotation">Y轴旋转</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CameraProperty.Zoom">缩放</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Comment">注释</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.ChangeVariable">修改变量</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CraftInput.Brake">制动</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16554,8 +17184,22 @@
    <s id="Vizzy.Instruction.CraftInput.TranslationMode">平移模式</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CraftInput.Yaw">偏航</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.LockNavSphere">锁定导航球方向</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.If">若</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.For">从</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Event">时间</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.ElseIf">否则若</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.DisplayMessage">显示信息</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Custom">自定义指令</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Instruction.LockNavSphere.BurnNode">执行节点</s>
+   <s id="Vizzy.Instruction.LockNavSphere.BurnNode">机动节点方向</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.LockNavSphere.Current">当前方向</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16580,6 +17224,32 @@
    <s id="Vizzy.Instruction.LockNavSphere.Tooltip.Retrograde">锁定航向至速度逆行方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.LockNavSphere.Tooltip.Target">锁定航向至目标方向。</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetTargetHeading">锁定目标方向</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetTarget">设置目标</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetList">设置列表</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetCraftProperty">设置飞行器属性</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetCraftInput">设置飞行器输入M</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetCameraProperty">设置摄像机属性</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetActivationGroup">设置激活组</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Repeat">重复</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Program">程序</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.PlayBeep">播放声音</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Loop">循环</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.LogMessage">记录日志</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.LogFlight">记录飞行日志</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.SetTargetHeading.Error.NonPlayer">无法锁定导航球,因为这不是玩家飞行器。</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16598,8 +17268,22 @@
    <s id="Vizzy.Instruction.SetTargetHeading.Tooltip.PidRoll">设置平面模式下滚转轴的PID值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.SetTargetHeading.Tooltip.Pitch">设置导航球的目标俯仰角,单位为度。</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SwitchCraft">切换飞行器</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.Speak">语音输出</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetVariable">设置变量</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.SetTimeMode">设置时间模式</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.TimeMode.TimeWarp9">倍率9</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.WaitUntil">等到</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.WaitSeconds">等待</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.UserInput">用户输入</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.TimeMode.TimeWarp8">倍率8</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16636,6 +17320,8 @@
    <s id="Vizzy.Instruction.Waveform.Square">方波</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.Waveform.Triangle">三角波</s>
+   <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
+   <s id="Vizzy.Instruction.While">当</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.LoadProgram.ConfirmDelete">确认要删除程序"{0}"吗?</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -16886,7 +17572,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.broadcast-msg-craft">向飞行器广播 (0) 携带数据 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.change-soi">当进入 |行星| 引力影响范围时</s>
+    <s id="Vizzy.Toolbox.Format.change-soi">当进入 |Vizzy.EventVariable.Planet| 引力影响范围时</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.change-variable">将变量 (0)改变(1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16898,7 +17584,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.craft">飞行器 (0:零个或多个) [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.craft-docked">当 |飞行器A| 与 |飞行器B| 对接时</s>
+    <s id="Vizzy.Toolbox.Format.craft-docked">当 |Vizzy.EventVariable.CraftA| 与 |Vizzy.EventVariable.CraftB| 对接时</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.craft-id">(0) 的飞行器编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -16926,11 +17612,11 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.format">格式化 </s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.friendly">友好格式 [友好格式] (0)</s>
+    <s id="Vizzy.Toolbox.Format.friendly">友好格式 [friendly] (0)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.if">如果 {0} 则</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.join">连接 </s>
+   <s id="Vizzy.Toolbox.Format.join">合并</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.length">(0) 的长度</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17008,9 +17694,9 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.part">部件 (0:零个或多个) [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.part-collision">当 |部件| 与 |另一部件| 碰撞,速度为 |速度|,冲量为 |冲量|</s>
-   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.part-explode">当 |部件| 爆炸时</s>
+    <s id="Vizzy.Toolbox.Format.part-collision">当 |Vizzy.EventVariable.Part| 与 |Vizzy.EventVariable.Other| 碰撞,速度为 |Vizzy.EventVariable.Velocity|,冲量为 |Vizzy.EventVariable.Impulse|</s>
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+    <s id="Vizzy.Toolbox.Format.part-explode">当 |Vizzy.EventVariable.Part| 爆炸时</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.part-id">(0) 的部件编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17028,7 +17714,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.play-beep">以 (1:零到一) 音量播放 (0:零个或多个) 赫兹的哔哔声,持续 (2:零个或多个) 秒</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.play-beep-waveform">以 (1:零到一) 音量播放 [波形] (0:零个或多个) 赫兹的哔哔声,持续 (2:零个或多个) 秒</s>
+    <s id="Vizzy.Toolbox.Format.play-beep-waveform">以 (1:零到一) 音量播放 [waveform] (0:零个或多个) 赫兹的哔哔声,持续 (2:零个或多个) 秒</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.prop-altitude">高度 [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17070,7 +17756,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.raycast-query">从 (0) 向 (1) 投射射线</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.receive-msg">接收 (0) 携带 |数据|</s>
+    <s id="Vizzy.Toolbox.Format.receive-msg">接收 (0) 携带 |Vizzy.EventVariable.Data|</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.repeat">重复 (0:零个或多个)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17120,7 +17806,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.set-part">将部件 (0) [x] 设为 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.set-target">目标节点 (0)</s>
+   <s id="Vizzy.Toolbox.Format.set-target">设置目标 (0)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.set-time-mode">将时间模式设为 [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17140,9 +17826,9 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.vec">向量 (0),(1),(2)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.vec-op-1">(0) [运算]</s>
-   <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.vec-op-2">(0) [运算] (1)</s>
+    <s id="Vizzy.Toolbox.Format.vec-op-1">(0) [op]</s>
+    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
+    <s id="Vizzy.Toolbox.Format.vec-op-2">(0) [op] (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.vec-op-color">十六进制颜色 (0)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
