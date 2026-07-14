@@ -7638,7 +7638,7 @@
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.PETN.Name">季戊四醇四硝酸酯</s>
    <!--  -->
-   <s id="Fuel.Regolith.Description">直接从地面钻取的松散表层岩石和灰尘。发动机不能少,转化炉也不能用,只需一把钻头和一个储罐,你就能从任何可降落的地方把它们运回来。</s>
+   <s id="Fuel.Regolith.Description">直接从地面钻取的松散表层岩石和灰尘。发动机不能烧,转化炉也不能用,只需一把钻头和一个储罐,你就能从任何可降落的地方把它们运回来。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.RP1.Name">煤油</s>
    <!--  -->
