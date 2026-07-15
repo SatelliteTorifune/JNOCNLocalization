@@ -9825,7 +9825,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ConfigData.IncludeInDrag.Tooltip">决定是否将此零件纳入阻力计算模型中。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ConfigData.InertiaTensorUserScale.Label">稳定系数"</s>
+   <s id="Parts.ConfigData.InertiaTensorUserScale.Label">稳定系数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ConfigData.InertiaTensorUserScale.Tooltip">增加以加固不稳定的活动关节。不要一下拉满,慢慢加,仅增加至所需稳定程度,因为如果增加过多,可能会显著减缓旋转速度或导致其他问题。注意:调整部件组中的哪个部件并不重要；所有值会加总后作为整体应用于该部件组。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
