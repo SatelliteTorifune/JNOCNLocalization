@@ -16348,7 +16348,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Orbit.TimeToPeriapsis">到达近点时间</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Part.Activated">已开启</s>
+   <s id="Vizzy.CraftProperty.Part.Activated">开关状态</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Part.Drag">阻力</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16386,7 +16386,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Part.ThisID">此部件编号</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Part.UnderWater">水下</s>
+   <s id="Vizzy.CraftProperty.Part.UnderWater">浸没率</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Part.WetMass">湿重</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
