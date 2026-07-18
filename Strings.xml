@@ -137,13 +137,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.LaunchWithFormat">携带 {0} 发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Payload.LostPrompt">找不到有效载荷部件。是否要检查当前飞行器?</s>
+   <s id="Career.Contracts.Payload.LostPrompt">找不到有效载荷部件。是否要检查当前载具?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.MissingTooltip">有效载荷缺失</s>
    <!-- Rec:14 Max:18 Font:Primary ; display value -->
    <s id="Career.Contracts.Payload.Nominal">正常</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.Payload.NotFoundError">无法在飞行器中找到有效载荷部件。</s>
+   <s id="Career.Contracts.Payload.NotFoundError">无法在载具中找到有效载荷部件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Career.Contracts.Payload.WarpBlocked">携带此有效载荷时无法时间加速。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -165,15 +165,15 @@
    <!-- Rec:18 Max:18 Font:Primary -->
    <s id="Career.Contracts.Payloads.FragileCrate.Name">易损货物</s>
    <!-- Rec:20 Max:32 Font:Primary ; requirement description -->
-   <s id="Career.Contracts.TrackedLaunch.DefaultDescription">发射新飞行器</s>
+   <s id="Career.Contracts.TrackedLaunch.DefaultDescription">发射新载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.TrackedLaunch.FlightDescription">此合同分配给了其他飞行器&#10;点击按钮更新</s>
+   <s id="Career.Contracts.TrackedLaunch.FlightDescription">此合同分配给了其他载具&#10;点击按钮更新</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.TrackedLaunch.TrackThisCraftPrompt">是否改为追踪此飞行器?</s>
+   <s id="Career.Contracts.TrackedLaunch.TrackThisCraftPrompt">是否改为追踪此载具?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Career.Contracts.TrackedLaunch.TrackTooltip">追踪此飞行器</s>
+   <s id="Career.Contracts.TrackedLaunch.TrackTooltip">追踪此载具</s>
    <!-- Rec:14 Max:20 Font:Primary ; display value -->
-   <s id="Career.Contracts.TrackedLaunch.WrongCraft">错误飞行器</s>
+   <s id="Career.Contracts.TrackedLaunch.WrongCraft">错误载具</s>
    <!-- Rec:14 Max:18 Font:Primary ; display value -->
    <s id="Career.Contracts.TrackSpawnedCraft.Destroyed">已摧毁</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -302,17 +302,17 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.CommandPodTooManyStages">指令舱分配了太多级。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooHeavyForLocation">此飞行器对所选发射位置太重。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooHeavyForLocation">此载具对所选发射位置太重。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooManyParts">飞行器部件过多。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooManyParts">载具部件过多。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooTall">飞行器太高。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooTall">载具太高。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooTallForLocation">此飞行器对所选发射位置太高。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooTallForLocation">此载具对所选发射位置太高。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooWide">飞行器太宽。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooWide">载具太宽。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.CraftTooWideForLocation">此飞行器对所选发射位置太宽。{0} &gt; {1}</s>
+   <s id="Career.Validation.CraftTooWideForLocation">此载具对所选发射位置太宽。{0} &gt; {1}</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.CrewCompartmentNotAvailable">乘员舱尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -350,12 +350,12 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.HybridJetEngineNotAvailable">混合喷气发动机尚不可用。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Validation.InsufficientFunds">此飞行器从 {1} 发射需花费 {0},但贵公司仅有 {2} 可用。负债期间,里程碑和探索不会进行评估,因此你无法获得它们的奖励。</s>
+   <s id="Career.Validation.InsufficientFunds">此载具从 {1} 发射需花费 {0},但贵公司仅有 {2} 可用。负债期间,里程碑和探索不会进行评估,因此你无法获得它们的奖励。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.InsufficientPayloads">此飞行器有 {0} 个此类有效载荷,但活动合同只有 {1} 个有效载荷可用。</s>
+   <s id="Career.Validation.InsufficientPayloads">此载具有 {0} 个此类有效载荷,但活动合同只有 {1} 个有效载荷可用。</s>
    <!-- Rec:40 Max:80 ; validation message -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Validation.InvalidParts">飞行器包含此等级不支持的无效部件。</s>
+   <s id="Career.Validation.InvalidParts">载具包含此等级不支持的无效部件。</s>
    <!-- Rec:16 Max:22 Font:Primary ; validation error key -->
    <s id="Career.Validation.InvalidPartsKey">无效部件</s>
    <!-- Font:Primary -->
@@ -370,7 +370,7 @@
    <s id="Career.Validation.MassScaleModified">此部件已修改质量比例,使用未改装的部件。</s>
    <!-- Rec:40 Max:80 ; validation message -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Validation.MissingPart">飞行器缺少必需的部件。</s>
+   <s id="Career.Validation.MissingPart">载具缺少必需的部件。</s>
    <!-- Rec:14 Max:20 Font:Primary ; validation error key -->
    <s id="Career.Validation.MissingPartKey">缺失部件</s>
    <!-- Rec:16 Max:22 Font:Primary ; validation error key -->
@@ -394,7 +394,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.NozzleTypeNotAvailable">{0} 喷管尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
-   <s id="Career.Validation.PartDisconnected">部件 "{0}" 未连接到飞行器。</s>
+   <s id="Career.Validation.PartDisconnected">部件 "{0}" 未连接到载具。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.PartStyleNotAvailable">"{0}" 款式尚不可用。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -428,7 +428,7 @@
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.TinkerSizeModified">此部件已被改装其可调大小已改变,请使用未改装的部件。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Career.Validation.TooManyActiveCrafts">无法发射:目前有 {0} 个活动飞行器,而你的科技树限制最多 {1} 个。请使用主菜单中的"继续飞行"对话框来移除活动飞行器。</s>
+   <s id="Career.Validation.TooManyActiveCrafts">无法发射:目前有 {0} 个活动载具,而你的科技树限制最多 {1} 个。请使用主菜单中的"继续飞行"对话框来移除活动载具。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
    <s id="Career.Validation.WheelBrakeTorqueTooHigh">轮胎制动扭矩过大。</s>
    <!-- Rec:40 Max:80 Font:Primary ; validation message -->
@@ -677,7 +677,7 @@
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.DSCLargePad.Name">DSC 大型发射场</s>
    <!-- Font:Primary -->
-   <s id="Career.LaunchLocations.DSCLargePad.Description">一个周围有大量空间的混凝土发射台,允许发射你能想象的最大飞行器和宇宙飞船。</s>
+   <s id="Career.LaunchLocations.DSCLargePad.Description">一个周围有大量空间的混凝土发射台,允许发射你能想象的最大载具和宇宙飞船。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.DSCWestwardRunway.Name">DSC 西向跑道</s>
    <!-- Font:Primary -->
@@ -713,7 +713,7 @@
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.DSCBay.Name">DSC船坞</s>
    <!-- Font:Primary -->
-   <s id="Career.LaunchLocations.DSCBay.Description">DSC港口前方水中的一个位置,非常适合从水上直接发射船和水上飞机。解锁此位置可降低水中飞行器的回收费用。</s>
+   <s id="Career.LaunchLocations.DSCBay.Description">DSC港口前方水中的一个位置,非常适合从水上直接发射船和水上飞机。解锁此位置可降低水中载具的回收费用。</s>
    <!-- Rec:20 Max:24 Font:Primary ; launch location display name -->
    <s id="Career.LaunchLocations.LaunchPad.Name">发射场</s>
    <!-- Font:Primary -->
@@ -763,9 +763,9 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.money-spent.Tier4.Description">花费万亿是一个星际旅行的公司应有的支出,你到底在干什么?</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Name">已发射飞行器</s>
+   <s id="Career.Milestones.launched-crafts.Name">已发射载具</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Description">发射的独特飞行器。</s>
+   <s id="Career.Milestones.launched-crafts.Description">发射的独特载具。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier0.Description">发射越多,经验就越丰富。熟悉这个过程吧。</s>
    <!-- Font:Primary -->
@@ -775,17 +775,17 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.launched-crafts.Tier3.Description">你现在应该已经找到窍门了,至少你一直在尝试。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.launched-crafts.Tier4.Description">这时候你是真的在驾驶它们还是只是发射并回收廉价飞行器来刷数量从而获得这个里程碑?</s>
+   <s id="Career.Milestones.launched-crafts.Tier4.Description">这时候你是真的在驾驶它们还是只是发射并回收廉价载具来刷数量从而获得这个里程碑?</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.recovery.Name">回收收益</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Description">回收飞行器以获得回报。</s>
+   <s id="Career.Milestones.recovery.Description">回收载具以获得回报。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Tier0.Description">如果你提前计划,或者只是幸运地回收了你的飞行器,你的积蓄将覆盖你未来投资的很大一部分。</s>
+   <s id="Career.Milestones.recovery.Tier0.Description">如果你提前计划,或者只是幸运地回收了你的载具,你的积蓄将覆盖你未来投资的很大一部分。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Tier1.Description">通过回收节省10万美元真的很令人印象深刻,这比你第一架飞行器的成本还多!</s>
+   <s id="Career.Milestones.recovery.Tier1.Description">通过回收节省10万美元真的很令人印象深刻,这比你第一架载具的成本还多!</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.recovery.Tier2.Description">想象一下仅靠回收飞行器就能成为百万富翁。</s>
+   <s id="Career.Milestones.recovery.Tier2.Description">想象一下仅靠回收载具就能成为百万富翁。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.recovery.Tier3.Description">许多公司无法理解回收和翻新的重要性。通过节省1000万美元,你将拥有比他们年收入更多的存款。</s>
    <!-- Font:Primary -->
@@ -825,7 +825,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier0.Description">20公里/秒是非常快的速度,只有敢于进入Juno轨道的人才能达到。</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系的飞行器所期望的速度</s>
+   <s id="Career.Milestones.top-speed.Tier1.Description">这是探索整个Juno系的载具所期望的速度</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.top-speed.Tier2.Description">如此疯狂的速度,你一定快要触碰到Juno的日冕了。</s>
    <!-- Font:Primary -->
@@ -835,7 +835,7 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.docks.Name">对接数</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.docks.Description">尽可能多地将独特的飞行器对接在一起。</s>
+   <s id="Career.Milestones.docks.Description">尽可能多地将独特的载具对接在一起。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.docks.Tier0.Description">在Droo轨道上进行对接是最具挑战性的事情之一,你能至少成功一次吗?</s>
    <!-- Font:Primary -->
@@ -863,15 +863,15 @@
    <!-- Planet milestones: identical "Flybys / Orbits / Landings / Highest Climb / Distance / Speed" pattern repeated per planet, all sharing the same English text per type. Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Vulco.Vulco-flyby.Description">有多少独特的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Vulco.Vulco-flyby.Description">有多少独特的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Vulco.Vulco-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
+   <s id="Career.Milestones.Vulco.Vulco-orbit.Description">有多少独特的载具进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Vulco.Vulco-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Vulco.Vulco-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Vulco.Vulco-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -891,15 +891,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Sergeaa.Sergeaa-flyby.Description">有多少独特的飞行器成功飞掠。</s>
+   <s id="Career.Milestones.Sergeaa.Sergeaa-flyby.Description">有多少独特的载具成功飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
+   <s id="Career.Milestones.Sergeaa.Sergeaa-orbit.Description">有多少独特的载具进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Sergeaa.Sergeaa-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Sergeaa.Sergeaa-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Sergeaa.Sergeaa-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -927,15 +927,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-flyby.Description">有多少独特的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Oord.Oord-flyby.Description">有多少独特的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-orbit.Description">有多少独特的飞行器进入了稳定轨道。</s>
+   <s id="Career.Milestones.Oord.Oord-orbit.Description">有多少独特的载具进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Oord.Oord-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Oord.Oord-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Oord.Oord-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -979,13 +979,13 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-orbit.Description">有多少艘独特的飞行器曾进入过稳定轨道。</s>
+   <s id="Career.Milestones.Droo.Droo-orbit.Description">有多少艘独特的载具曾进入过稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-orbit.Tier0.RewardMessage">恭喜首次进入Droo轨道!</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Name">逃逸轨道</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Droo.Droo-flyby.Description">有多少艘独特的飞行器曾将离心率提高到1以上。</s>
+   <s id="Career.Milestones.Droo.Droo-flyby.Description">有多少艘独特的载具曾将离心率提高到1以上。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Droo.Droo-flyby.Tier0.RewardMessage">恭喜首次进入逃逸轨道!</s>
    <!-- Font:Primary -->
@@ -1035,15 +1035,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Brigo.Brigo-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Brigo.Brigo-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Brigo.Brigo-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Brigo.Brigo-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Brigo.Brigo-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Brigo.Brigo-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Brigo.Brigo-depth.Name">最深点</s>
    <!-- Font:Primary -->
@@ -1063,15 +1063,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Luna.Luna-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Luna.Luna-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Luna.Luna-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Luna.Luna-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Luna.Luna-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Luna.Luna-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Luna.Luna-distance-land.Name">地面移动距离</s>
    <!-- Font:Primary -->
@@ -1087,15 +1087,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.T.T..TT-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.T.T..TT-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.T.T..TT-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.T.T..TT-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.T.T..TT-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.T.T..TT-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.T.T..TT-distance-land.Name">地面移动距离</s>
    <!-- Font:Primary -->
@@ -1107,15 +1107,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Cylero.Cylero-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Cylero.Cylero-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Cylero.Cylero-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Cylero.Cylero-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Cylero.Cylero-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Cylero.Cylero-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Cylero.Cylero-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -1143,15 +1143,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Niobe.Niobe-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Niobe.Niobe-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Niobe.Niobe-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Niobe.Niobe-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Niobe.Niobe-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Niobe.Niobe-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Niobe.Niobe-distance-land.Name">地面移动距离</s>
    <!-- Font:Primary -->
@@ -1163,15 +1163,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Herma.Herma-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Herma.Herma-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Herma.Herma-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Herma.Herma-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Herma.Herma-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Herma.Herma-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Herma.Herma-distance-land.Name">地面移动距离</s>
    <!-- Font:Primary -->
@@ -1183,15 +1183,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Handrew&apos;s Comet.Comet-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Handrew&apos;s Comet.Comet-distance-land.Name">地面行驶距离</s>
    <!-- Font:Primary -->
@@ -1203,11 +1203,11 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Tydos.Tydos-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Tydos.Tydos-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Tydos.Tydos-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Tydos.Tydos-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Tydos.Tydos-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Tydos.Tydos-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Tydos.Tydos-aerobrake.Name">气动制动</s>
    <!-- Font:Primary -->
@@ -1219,15 +1219,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Nebra.Nebra-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Nebra.Nebra-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Nebra.Nebra-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Nebra.Nebra-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Nebra.Nebra-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Nebra.Nebra-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Nebra.Nebra-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -1271,15 +1271,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Miros.Miros-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Miros.Miros-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Miros.Miros-orbit.Description">有多少艘独特的飞行器曾进入过稳定轨道。</s>
+   <s id="Career.Milestones.Miros.Miros-orbit.Description">有多少艘独特的载具曾进入过稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Miros.Miros-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Miros.Miros-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Miros.Miros-distance-land.Name">地面移动距离</s>
    <!-- Font:Primary -->
@@ -1295,15 +1295,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Orcus.Orcus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Orcus.Orcus-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Orcus.Orcus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Orcus.Orcus-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Orcus.Orcus-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Orcus.Orcus-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Orcus.Orcus-distance-land.Name">地面行驶距离</s>
    <!-- Font:Primary -->
@@ -1319,11 +1319,11 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Urados.Urados-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Urados.Urados-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Urados.Urados-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Urados.Urados-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Urados.Urados-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Urados.Urados-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Urados.Urados-aerobrake.Name">气动制动</s>
    <!-- Font:Primary -->
@@ -1335,15 +1335,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Jastrus.Jastrus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Jastrus.Jastrus-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Jastrus.Jastrus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Jastrus.Jastrus-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Jastrus.Jastrus-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Jastrus.Jastrus-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Jastrus.Jastrus-distance-land.Name">地面行驶距离</s>
    <!-- Font:Primary -->
@@ -1359,15 +1359,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Boreas.Boreas-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Boreas.Boreas-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Boreas.Boreas-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Boreas.Boreas-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Boreas.Boreas-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Boreas.Boreas-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Boreas.Boreas-depth.Name">最深点</s>
    <!-- Font:Primary -->
@@ -1387,15 +1387,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Taurus.Taurus-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Taurus.Taurus-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Taurus.Taurus-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Taurus.Taurus-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Taurus.Taurus-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Taurus.Taurus-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Taurus.Taurus-height.Name">最高攀升</s>
    <!-- Font:Primary -->
@@ -1439,15 +1439,15 @@
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-flyby.Name">飞掠</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Hypatchion.Hypatchion-flyby.Description">有多少不同的飞行器成功进行了飞掠。</s>
+   <s id="Career.Milestones.Hypatchion.Hypatchion-flyby.Description">有多少不同的载具成功进行了飞掠。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Name">环绕入轨</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Description">有多少不同的飞行器成功进入了稳定轨道。</s>
+   <s id="Career.Milestones.Hypatchion.Hypatchion-orbit.Description">有多少不同的载具成功进入了稳定轨道。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-landing.Name">着陆</s>
    <!-- Font:Primary -->
-   <s id="Career.Milestones.Hypatchion.Hypatchion-landing.Description">有多少飞行器安全着陆。</s>
+   <s id="Career.Milestones.Hypatchion.Hypatchion-landing.Description">有多少载具安全着陆。</s>
    <!-- Font:Primary -->
    <s id="Career.Milestones.Hypatchion.Hypatchion-distance-land.Name">地面行驶距离</s>
    <!-- Font:Primary -->
@@ -1463,7 +1463,7 @@
    <!-- TechTree.xml: Tech Tree node names + tech item names + tech item descriptions. Keys auto-derived from node/item ids. Default and Hybrid TechTree.xml share these keys (Hybrid differs only in researched flags). Font:Primary -->
    <s id="Career.TechTree.Items.Map.Enable.Name">启用地图视图</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Map.Enable.Description">地图视图是用于从太空查看于追踪飞行器的使用工具,还可以提前查看其他行星和卫星。</s>
+   <s id="Career.TechTree.Items.Map.Enable.Description">地图视图是用于从太空查看于追踪载具的使用工具,还可以提前查看其他行星和卫星。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Map.Lines.Name">显示轨道线</s>
    <!-- Font:Primary -->
@@ -1473,9 +1473,9 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Map.Maneuver.Description">复杂的太空任务需要高级规划工具。机动节点可以让你轻松规划轨道机动以按计划改变轨道。</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxActiveCrafts.Name">最大活动飞行器数量</s>
+   <s id="Career.TechTree.Items.MaxActiveCrafts.Name">最大活动载具数量</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.MaxActiveCrafts.Description">管理轨道上的多个飞行器是个复杂的工程问题,这个限制的意义在于确保你不会无缘无故地制造太空垃圾</s>
+   <s id="Career.TechTree.Items.MaxActiveCrafts.Description">管理轨道上的多个载具是个复杂的工程问题,这个限制的意义在于确保你不会无缘无故地制造太空垃圾</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.MaxContractsOffered.Name">最大可用合同数量</s>
    <!-- Font:Primary -->
@@ -1493,7 +1493,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.UndoRetry.Name">撤销与重试</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Cheats.UndoRetry.Description">时间穿越是一个强大的工具,搞砸了可以重来,或者跳到设计器那里调整飞行器再回来。</s>
+   <s id="Career.TechTree.Items.Cheats.UndoRetry.Description">时间穿越是一个强大的工具,搞砸了可以重来,或者跳到设计器那里调整载具再回来。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Cheats.TinkerPanel.Name">调试面板</s>
    <!-- Font:Primary -->
@@ -1615,7 +1615,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Command.Gyro.Name">指令盘陀螺仪</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Command.Gyro.Description">指令盘中用于安装陀螺仪的容量。陀螺仪可以调整飞行器朝向,但响应较慢且成本较高。</s>
+   <s id="Career.TechTree.Items.Command.Gyro.Description">指令盘中用于安装陀螺仪的容量。陀螺仪可以调整载具朝向,但响应较慢且成本较高。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Compartment.Volume.Name">乘员舱容积</s>
    <!-- Font:Primary -->
@@ -1737,11 +1737,11 @@
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.Parachute1.0.Small.Name">侧装降落伞</s>
     <!--  -->
-    <s id="Career.TechTree.Items.Style.Parachute1.0.Small.Description">紧凑包装,只需装在飞行器侧面即可获得一个方便的降落伞。</s>
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Small.Description">紧凑包装,只需装在载具侧面即可获得一个方便的降落伞。</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.Parachute1.0.Base.Name">鼻锥降落伞</s>
     <!--  -->
-    <s id="Career.TechTree.Items.Style.Parachute1.0.Base.Description">空气动力学外壳,可以安装在飞行器前部以劈开气流。</s>
+    <s id="Career.TechTree.Items.Style.Parachute1.0.Base.Description">空气动力学外壳,可以安装在载具前部以劈开气流。</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.Package.0.ShippingContainer.Name">集装箱</s>
     <!-- Rec:25 Max:25 Font:Primary -->
@@ -1833,7 +1833,7 @@
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.JetEngine1.3.Basic.Name">基础喷管</s>
     <!--  -->
-    <s id="Career.TechTree.Items.Style.JetEngine1.3.Basic.Description">基础发动机喷管虽然平淡无奇,但效果不错,对于廉价飞行器来说完全够用。</s>
+    <s id="Career.TechTree.Items.Style.JetEngine1.3.Basic.Description">基础发动机喷管虽然平淡无奇,但效果不错,对于廉价载具来说完全够用。</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.JetEngine1.2.Straight.Name">直叶风扇</s>
     <!--  -->
@@ -1873,7 +1873,7 @@
    <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Name">条纹机身</s>
     <!--  -->
-    <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Description">所有机身(包括燃料箱,级间段,整流罩等)的条纹变体,为飞行器增添一抹色彩。</s>
+    <s id="Career.TechTree.Items.Style.Fuselage1.0.Solid-2.Description">所有机身(包括燃料箱,级间段,整流罩等)的条纹变体,为载具增添一抹色彩。</s>
     <!-- Rec:25 Max:25 Font:Primary -->
     <s id="Career.TechTree.Items.Style.FairingNoseCone1.0.FairingNoseCone-6.Name">圆头型</s>
    <!-- Rec:25 Max:25 Font:Primary -->
@@ -2117,7 +2117,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.JetEngine.Reverse.Name">反推推力</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.JetEngine.Reverse.Description">反推力可以将发动机的推力反向,帮助你制动飞行器。</s>
+   <s id="Career.TechTree.Items.JetEngine.Reverse.Description">反推力可以将发动机的推力反向,帮助你制动载具。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.JetEngine.Afterburner.Name">加力燃烧室</s>
    <!-- Font:Primary -->
@@ -2197,7 +2197,7 @@
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Craft.Stages.Name">分级数量上限</s>
    <!-- Font:Primary -->
-   <s id="Career.TechTree.Items.Craft.Stages.Description">飞行器结构越复杂,就需要越多级来管理部件的激活顺序。</s>
+   <s id="Career.TechTree.Items.Craft.Stages.Description">载具结构越复杂,就需要越多级来管理部件的激活顺序。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.Style.SolarPanelArray.2.Hex.Name">薄膜</s>
    <!-- Font:Primary -->
@@ -2425,7 +2425,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Flight-Termination.FlairText">进度</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Flight-Termination.Short">在飞行中炸掉你的飞行器。</s>
+   <s id="Career.Contracts.Flight-Termination.Short">在飞行中炸掉你的载具。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Flight-Termination.Long">烟花是人类最伟大的发明之一。飞高点,然后炸掉。</s>
    <!-- Font:Primary -->
@@ -2837,7 +2837,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Orbit-Rescue-3.Short">在Luna轨道上救援</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕Luna飞行的飞行器,这次是一艘带 200% 尺寸对接口的崭新飞船。它的轨道非常极端,接近它可要小心。</s>
+   <s id="Career.Contracts.Luna-Orbit-Rescue-3.Long">我有个不太意外的消息要告诉你。Shotwell 又丢了一艘绕Luna飞行的载具,这次是一艘带 200% 尺寸对接口的崭新飞船。它的轨道非常极端,接近它可要小心。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Luna-Surface-Rescue-1.Name">Luna 地面救援</s>
    <!-- Font:Primary -->
@@ -3265,7 +3265,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Flight-Termination.Req.Expression.Tutorial.Controls.Button.StepText">你已经到达必要的高度,现在该把这东西炸掉了!点击一个燃料箱以显示该部件的详细信息菜单和一个漂亮的橙色按钮。爆炸就从那里开始。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Flight-Termination.Req.Expression.CraftEvent-Destroyed.Description">选中指令盘,在飞行器飞得太低之前把它炸掉!</s>
+   <s id="Career.Contracts.Flight-Termination.Req.Expression.CraftEvent-Destroyed.Description">选中指令盘,在载具飞得太低之前把它炸掉!</s>
    <!-- Contract 'Suborbital-First' requirements Font:Primary -->
    <s id="Career.Contracts.Suborbital-First.Req.TrackedLaunch-tracked-launch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3323,11 +3323,11 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Button#0.StepText">你已经成功入轨,接下来会被要求进入精确轨道,让我们看看怎么做。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Button#1.StepText">调整轨道的最简单办法,是等到飞行器到达最高点或最低点时,一次只改一个量。要调轨道远点,就在轨道近点操作;反之亦然。</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Button#1.StepText">调整轨道的最简单办法,是等到载具到达最高点或最低点时,一次只改一个量。要调轨道远点,就在轨道近点操作;反之亦然。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Button#2.StepText">因为你的轨道远点拉得过高,轨道非常椭圆。让我们等到接近轨道近点时把它降下来,让轨道更接近正圆。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Controls#0.StepText.StepText">让我们等到飞行器接近轨道近点。</s>
+   <s id="Career.Contracts.First-orbit.Req.TrackedLaunch.Planet-Droo.Tutorial-Tutorial-FirstOrbit#1.Controls#0.StepText.StepText">让我们等到载具接近轨道近点。</s>
    <!-- Contract 'The-Jump' requirements Font:Primary -->
    <s id="Career.Contracts.The-Jump.Req.TrackedLaunch.Planet-Droo.Description">处于Droo的引力影响范围内</s>
    <!-- Font:Primary -->
@@ -3483,7 +3483,7 @@
    <!-- Contract 'Droo-Surface-Rescue-1' requirements Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.TrackSpawnedCraft.SpawnedCraftDistance.Description">靠近坠毁的 SimpleCub</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-1.Req.Payload-@UniqueDroodId1.Location-Droo.Village.Description">把那名Drood带回到村子</s>
    <!-- Font:Primary -->
@@ -3495,7 +3495,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Description">把2名Drood带回 Juno 村</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的飞行器里救出来</s>
+   <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Description">把那名Drood从损坏的载具里救出来</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Droo-Surface-Rescue-2.Req.Any.Template.Repeat.Payload-@PayloadID.Location-Droo.Village.Description">把那名Drood带回到村子</s>
    <!-- Font:Primary -->
@@ -4379,9 +4379,9 @@
    <!-- Rec:8 Max:10 Font:Primary ; common short label -->
    <s id="Common.Yes">是</s>
    <!--  -->
-   <s id="Craft.LoadNewerVersion.MessageFormat">此飞行器需要更新版本的游戏,否则可能无法正常加载。请检查您的应用商店并下载最新版本的{0}。您是否仍想尝试加载?</s>
+   <s id="Craft.LoadNewerVersion.MessageFormat">此载具需要更新版本的游戏,否则可能无法正常加载。请检查您的应用商店并下载最新版本的{0}。您是否仍想尝试加载?</s>
    <!-- Rec:10 Max:14 Font:Primary ; medium button label -->
-   <s id="Craft.LoadNewerVersion.LoadButton">加载飞行器</s>
+   <s id="Craft.LoadNewerVersion.LoadButton">加载载具</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.CameraControls.Message">摄像机和鼠标控制可以在游戏设置中完全自定义。</s>
@@ -4394,9 +4394,9 @@
    <!--  -->
    <s id="Design.CameraMovementMode.Rotation">旋转</s>
    <!-- Font:Primary -->
-   <s id="Design.CraftLoader.LoadErrorFormat">加载飞行器 '{0}' 时发生错误。</s>
+   <s id="Design.CraftLoader.LoadErrorFormat">加载载具 '{0}' 时发生错误。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.CraftLoader.UnableToLoadFormat">无法加载飞行器 ‘{0}’。加载飞行器 XML 时出错。</s>
+   <s id="Design.CraftLoader.UnableToLoadFormat">无法加载载具 ‘{0}’。加载载具 XML 时出错。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.CraftParts.ListAllPerformance">列出全部部件可能会根据部件数量造成性能下降</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4406,13 +4406,13 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.DesignerScript.CannotUndo">在工具正在处理输入时无法撤销。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.DesignerScript.EditorCraftLoadError">加载当前编辑器飞行器的 XML 时发生错误。</s>
+   <s id="Design.DesignerScript.EditorCraftLoadError">加载当前编辑器载具的 XML 时发生错误。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.DesignerScript.NewCraftPrefixFormat">新建 {0}</s>
    <!--  -->
    <s id="Design.DesignerScript.NoFlightProgramForPartFormat">无法为该部件{0}找到飞行程序</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.DesignerScript.OverwriteConfirm">已存在同名飞行器。确定要覆盖吗?</s>
+   <s id="Design.DesignerScript.OverwriteConfirm">已存在同名载具。确定要覆盖吗?</s>
    <!--  -->
    <s id="Design.DesignerScript.PartManipulationModeFormat">部件操作模式: {0}</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4430,22 +4430,22 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.DesignerScript.UndoingLastStep">正在撤销上一步……</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.DialogSave.MessageText">保存飞行器</s>
+   <s id="Design.DialogSave.MessageText">保存载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.DialogSave.NamePlaceholder">飞行器名称</s>
+   <s id="Design.DialogSave.NamePlaceholder">载具名称</s>
    <!-- Toast ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Download.Error.GenericFormat">下载飞行器失败。\n{0}</s>
+   <s id="Design.Download.Error.GenericFormat">下载载具失败。\n{0}</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Download.Error.LoadFailed">飞行器加载失败。</s>
+   <s id="Design.Download.Error.LoadFailed">载具加载失败。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Download.Error.NotFoundFormat">找不到 ID 为 {0} 的飞行器。</s>
+   <s id="Design.Download.Error.NotFoundFormat">找不到 ID 为 {0} 的载具。</s>
    <!-- Rec:22 Max:30 Font:Primary ; status text -->
-   <s id="Design.Download.Status.DownloadingCraft">正在下载飞行器...</s>
+   <s id="Design.Download.Status.DownloadingCraft">正在下载载具...</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Download.Status.DownloadingProgressFormat">正在下载飞行器:{0}%</s>
+   <s id="Design.Download.Status.DownloadingProgressFormat">正在下载载具:{0}%</s>
    <!-- Rec:20 Max:28 Font:Primary ; status text -->
-   <s id="Design.Download.Status.LoadingCraft">正在加载飞行器...</s>
+   <s id="Design.Download.Status.LoadingCraft">正在加载载具...</s>
    <!-- Font:Primary -->
    <s id="Design.FuselageTool.LengthFormat">长度:{0:n2}米</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4453,9 +4453,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.GenericPartProperties.UpgradeFormat">升级到 {0} 以解锁这些设置。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.GizmosScript.NoCompatibleForThrust">推力中心显示无法启用,因为飞行器中没有兼容部件。</s>
+   <s id="Design.GizmosScript.NoCompatibleForThrust">推力中心显示无法启用,因为载具中没有兼容部件。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.GizmosScript.NoWingsForLift">升力中心显示无法启用,因为飞行器中没有机翼。</s>
+   <s id="Design.GizmosScript.NoWingsForLift">升力中心显示无法启用,因为载具中没有机翼。</s>
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Group.CannotGroupSingle">无法从单个部件创建组。</s>
@@ -4468,15 +4468,15 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Group.Ungrouped">已取消 {0} 个部件的分组。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Launch.IssuesDialog.CannotLaunchMessage">该飞行器存在一个或多个问题,当前无法发射。请在修正问题后再尝试发射。</s>
+   <s id="Design.Launch.IssuesDialog.CannotLaunchMessage">该载具存在一个或多个问题,当前无法发射。请在修正问题后再尝试发射。</s>
    <!-- Font:Primary -->
-   <s id="Design.LoadCraftPanel.DeleteConfirmFormat">请确认要删除该飞行器:&#10;‘{0}’</s>
+   <s id="Design.LoadCraftPanel.DeleteConfirmFormat">请确认要删除该载具:&#10;‘{0}’</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.LoadCraftPanel.DeletedFormat">已删除飞行器 ‘{0}’</s>
+   <s id="Design.LoadCraftPanel.DeletedFormat">已删除载具 ‘{0}’</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.LoadCraftPanel.LoadedFormat">已加载飞行器 ‘{0}’</s>
+   <s id="Design.LoadCraftPanel.LoadedFormat">已加载载具 ‘{0}’</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.LoadCraftPanel.LoadFailed">飞行器加载失败。</s>
+   <s id="Design.LoadCraftPanel.LoadFailed">载具加载失败。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.LoadCraftPanel.Loading">正在加载……</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4780,7 +4780,7 @@
    <s id="Design.StylePart.Texture">材质</s>
    <!-- Rec:20 Max:28 ; button label -->
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.MultipleAttachpoints">所选部件通过多于一个连接点连接到飞行器,请确保只通过一个连接点连接才能应用对称。</s>
+   <s id="Design.Symmetry.MultipleAttachpoints">所选部件通过多于一个连接点连接到载具,请确保只通过一个连接点连接才能应用对称。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Design.Symmetry.NotAvailableHere">部件对称在该位置不可用。它只对连接到燃料箱侧面的部件可用。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -4820,7 +4820,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Camera1.xml -->
    <s id="DesignerParts.Camera1.Camera.Name">相机</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Camera1.Camera.Description">连接到你的飞行器上,在飞行过程中添加可以切换的新视角。</s>
+   <s id="DesignerParts.Camera1.Camera.Description">连接到你的载具上,在飞行过程中添加可以切换的新视角。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CargoBay1.xml -->
    <s id="DesignerParts.CargoBay1.CargoBay.Name">货舱</s>
    <!-- Font:Primary -->
@@ -4840,15 +4840,15 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandChip1.xml -->
   <s id="DesignerParts.CommandChip1.CommandChip.Name">指令芯片</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.CommandChip1.CommandChip.Description">紧凑轻量的太空舱替代品,用于控制飞行器。</s>
+  <s id="DesignerParts.CommandChip1.CommandChip.Description">紧凑轻量的太空舱替代品,用于控制载具。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandDisc1.xml -->
    <s id="DesignerParts.CommandDisc1.CommandDisc.Name">指令圆盘</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.CommandDisc1.CommandDisc.Description">将指令芯片与电池和陀螺仪空间结合在一起的组合件,在单一且可配置性更高的部件中提供控制飞行器所需的一切。</s>
+   <s id="DesignerParts.CommandDisc1.CommandDisc.Description">将指令芯片与电池和陀螺仪空间结合在一起的组合件,在单一且可配置性更高的部件中提供控制载具所需的一切。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod1.xml -->
   <s id="DesignerParts.CommandPod1.CommandPod.Name">指令舱</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.CommandPod1.CommandPod.Description">控制飞行器。每个火箭必须至少有一个指令舱。此指令舱内置姿态控制陀螺仪,并包含电池。</s>
+  <s id="DesignerParts.CommandPod1.CommandPod.Description">控制载具。每个火箭必须至少有一个指令舱。此指令舱内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod2.xml -->
   <s id="DesignerParts.CommandPod2.KomodoCommandPod.Name">科莫多 指令舱</s>
   <!-- Font:Primary -->
@@ -4860,11 +4860,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod4.xml -->
    <s id="DesignerParts.CommandPod4.SpaceCapsule.Name">太空舱</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.CommandPod4.SpaceCapsule.Description">控制飞行器。每个火箭必须至少有一个太空舱或指令芯片。内置姿态控制陀螺仪,并包含电池。</s>
+   <s id="DesignerParts.CommandPod4.SpaceCapsule.Description">控制载具。每个火箭必须至少有一个太空舱或指令芯片。内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod5.xml -->
   <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Name">弗洛兹 太空舱</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Description">控制飞行器。每个火箭必须至少有一个太空舱或指令芯片。此太空舱内置姿态控制陀螺仪,并包含电池。</s>
+  <s id="DesignerParts.CommandPod5.VrozSpaceCapsule.Description">控制载具。每个火箭必须至少有一个太空舱或指令芯片。此太空舱内置姿态控制陀螺仪,并包含电池。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CommandPod6.xml -->
    <s id="DesignerParts.CommandPod6.VrozOrbitalModule.Name">弗洛兹 轨道舱</s>
    <!-- Font:Primary -->
@@ -4872,7 +4872,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from CrewCompartment.xml -->
    <s id="DesignerParts.CrewCompartment.SpaceHabitat.Name">太空舱室</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.CrewCompartment.SpaceHabitat.Description">可容纳船员的机身,但密度非常低。非常适合大型飞行器,如宇宙飞船,空间站等。</s>
+   <s id="DesignerParts.CrewCompartment.SpaceHabitat.Description">可容纳船员的机身,但密度非常低。非常适合大型载具,如宇宙飞船,空间站等。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.CrewCompartment.CrewCompartment.Name">普通乘员舱</s>
    <!-- Font:Primary -->
@@ -4880,7 +4880,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Detacher1.xml -->
    <s id="DesignerParts.Detacher1.Interstage.Name">级间段</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Detacher1.Interstage.Description">用这个来将你的飞行器分离成多个分级。</s>
+   <s id="DesignerParts.Detacher1.Interstage.Description">用这个来将你的载具分离成多个分级。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from DetacherSide1.xml -->
   <s id="DesignerParts.DetacherSide1.SideInterstage.Name">侧面级间段</s>
   <!-- Font:Primary -->
@@ -4888,7 +4888,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from DockingPort1.xml -->
   <s id="DesignerParts.DockingPort1.DockingPort.Name">对接口</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.DockingPort1.DockingPort.Description">允许在飞行中连接两个飞行器,使它们成为朋友并转移燃料。</s>
+  <s id="DesignerParts.DockingPort1.DockingPort.Description">允许在飞行中连接两个载具,使它们成为朋友并转移燃料。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from ElectricMotor1.xml -->
    <s id="DesignerParts.ElectricMotor1.ElectricMotorold.Name">电动机(旧)</s>
    <!-- Font:Primary -->
@@ -4916,7 +4916,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Eva.xml -->
   <s id="DesignerParts.Eva.Drood.Name">Drood</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱还不耐摔,但在探索和驾驶方面很出色。把他们放进航天舱,飞船或驾驶舱中,即使没有电力也能控制你的飞行器,或者在飞行中让他们出去散步。</s>
+  <s id="DesignerParts.Eva.Drood.Description">一种类似地球人的神秘生物。可能有点脆弱还不耐摔,但在探索和驾驶方面很出色。把他们放进航天舱,飞船或驾驶舱中,即使没有电力也能控制你的载具,或者在飞行中让他们出去散步。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from EvaChair1.xml -->
    <s id="DesignerParts.EvaChair1.Chair.Name">椅子</s>
    <!-- Font:Primary -->
@@ -4928,7 +4928,7 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from FairingBase1.xml -->
   <s id="DesignerParts.FairingBase1.FairingBase.Name">整流罩底座</s>
   <!-- Font:Primary -->
-  <s id="DesignerParts.FairingBase1.FairingBase.Description">整流罩的底座。使用整流罩时,这必须是你连接到飞行器的第一个部件。</s>
+  <s id="DesignerParts.FairingBase1.FairingBase.Description">整流罩的底座。使用整流罩时,这必须是你连接到载具的第一个部件。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from FairingNoseCone1.xml -->
    <s id="DesignerParts.FairingNoseCone1.FairingNoseCone.Name">整流罩鼻锥</s>
    <!-- Font:Primary -->
@@ -5076,11 +5076,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from PropellerAssembly1.xml -->
    <s id="DesignerParts.PropellerAssembly1.SkylineProp.Name">天际线 螺旋桨</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.PropellerAssembly1.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期飞行器。</s>
+   <s id="DesignerParts.PropellerAssembly1.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期载具。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from PropellerBundles.xml -->
    <s id="DesignerParts.PropellerBundles.SkylineProp.Name">天际线 螺旋桨</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.PropellerBundles.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期飞行器。</s>
+   <s id="DesignerParts.PropellerBundles.SkylineProp.Description">经典的民用小型飞机螺旋桨,适合需要以便宜的价格获得全面性能的早期载具。</s>
    <!-- Rec:22 Max:26 Font:Primary ; part name -->
    <s id="DesignerParts.PropellerBundles.InterceptorProp.Name">拦截者 螺旋桨</s>
    <!-- Font:Primary -->
@@ -5190,11 +5190,11 @@
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Strut1.xml -->
    <s id="DesignerParts.Strut1.Strut.Name">撑杆</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.Strut1.Strut.Description">可调整大小的撑杆,可以帮助加固你的飞行器。</s>
+   <s id="DesignerParts.Strut1.Strut.Description">可调整大小的撑杆,可以帮助加固你的载具。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from TestPilot.xml -->
    <s id="DesignerParts.TestPilot.TestDummy.Name">测试假人</s>
    <!-- Font:Primary -->
-   <s id="DesignerParts.TestPilot.TestDummy.Description">可用于监测飞行器安全性的类人设备。</s>
+   <s id="DesignerParts.TestPilot.TestDummy.Description">可用于监测载具安全性的类人设备。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from ToggleSwitch1.xml -->
    <s id="DesignerParts.ToggleSwitch1.ToggleSwitch.Name">拨动开关</s>
    <!-- Font:Primary -->
@@ -5240,15 +5240,15 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.CraftRecovery.FailNoLocationsFormat">{0} 上没有可用的回收位置。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.CraftRecovery.FailNotEnoughParts">该飞行器没有任何部件可供回收。</s>
+   <s id="Flight.CraftRecovery.FailNotEnoughParts">该载具没有任何部件可供回收。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.CraftRecovery.FailNotGrounded">飞行器无法被回收,因为它不在地面上。</s>
+   <s id="Flight.CraftRecovery.FailNotGrounded">载具无法被回收,因为它不在地面上。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.CraftRecovery.FailTooFast">飞行器无法回收,因为它移动速度太快。</s>
+   <s id="Flight.CraftRecovery.FailTooFast">载具无法回收,因为它移动速度太快。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.CraftRecovery.RecoveryDestroyPromptFormat">{0}\n\n是否要销毁这架飞行器?</s>
+   <s id="Flight.CraftRecovery.RecoveryDestroyPromptFormat">{0}\n\n是否要销毁这架载具?</s>
    <!-- Toast Font:Primary ; header at the top of the recover-craft confirmation dialog -->
-   <s id="Flight.CraftRecovery.HeaderFormat">&lt;size=125%&gt;回收飞行器&lt;/size&gt;</s>
+   <s id="Flight.CraftRecovery.HeaderFormat">&lt;size=125%&gt;回收载具&lt;/size&gt;</s>
    <!-- Toast Font:Primary ; first sentence of the recover-craft confirmation dialog with the closest location and distance; {0} is location name, {1} is the distance phrase (either VeryClose or DistanceAwayFormat) -->
    <s id="Flight.CraftRecovery.ClosestLocationFormat">最近的回收地点是 {0},距离为 {1}</s>
    <!-- Toast Font:Primary ; closeness phrase used in ClosestLocationFormat when the craft is within 10m of the recovery location -->
@@ -5256,21 +5256,21 @@
    <!-- Toast Font:Primary ; distance phrase used in ClosestLocationFormat when the craft is further away; {0} is the formatted distance string (e.g. "12 m" or "1.2 km") -->
    <s id="Flight.CraftRecovery.DistanceAwayFormat">距离 {0}。</s>
    <!-- Toast Font:Primary ; recovery body when the player will recoup money; {0} is the part count, {1} is the formatted money string with color tags -->
-   <s id="Flight.CraftRecovery.BodyRecoupSingularFormat">你可以从该飞行器回收 {0} 个部件并收回 {1}。</s>
+   <s id="Flight.CraftRecovery.BodyRecoupSingularFormat">你可以从该载具回收 {0} 个部件并收回 {1}。</s>
    <!-- Toast Font:Primary ; recovery body when the player will recoup money; {0} is the part count, {1} is the formatted money string with color tags -->
-   <s id="Flight.CraftRecovery.BodyRecoupPluralFormat">你可以从该飞行器回收 {0} 个部件并收回 {1}。</s>
+   <s id="Flight.CraftRecovery.BodyRecoupPluralFormat">你可以从该载具回收 {0} 个部件并收回 {1}。</s>
    <!-- Toast Font:Primary ; recovery body when the player will owe money; {0} is the part count, {1} is the formatted money string with color tags -->
-   <s id="Flight.CraftRecovery.BodyPaySingularFormat">你可以从该飞行器回收 {0} 个部件,但需要支付 {1}。</s>
+   <s id="Flight.CraftRecovery.BodyPaySingularFormat">你可以从该载具回收 {0} 个部件,但需要支付 {1}。</s>
    <!-- Toast Font:Primary ; recovery body when the player will owe money; {0} is the part count, {1} is the formatted money string with color tags -->
-   <s id="Flight.CraftRecovery.BodyPayPluralFormat">你可以从该飞行器回收 {0} 个部件,但需要支付 {1}。</s>
+   <s id="Flight.CraftRecovery.BodyPayPluralFormat">你可以从该载具回收 {0} 个部件,但需要支付 {1}。</s>
    <!-- Toast Font:Primary ; recommendation appended when the recovery costs money and there are no astronauts on board -->
-   <s id="Flight.CraftRecovery.RecommendDestroy">我们建议你改为销毁这架飞行器。</s>
+   <s id="Flight.CraftRecovery.RecommendDestroy">我们建议你改为销毁这架载具。</s>
    <!-- Toast Font:Primary ; recommendation appended when the recovery costs money and there is exactly one astronaut on board -->
-   <s id="Flight.CraftRecovery.RecommendRecoverSingular">船上有航天员,建议回收此飞行器。</s>
+   <s id="Flight.CraftRecovery.RecommendRecoverSingular">船上有航天员,建议回收此载具。</s>
    <!-- Toast Font:Primary ; recommendation appended when the recovery costs money and there are multiple astronauts on board -->
-   <s id="Flight.CraftRecovery.RecommendRecoverPlural">船上有航天员,建议回收此飞行器。</s>
+   <s id="Flight.CraftRecovery.RecommendRecoverPlural">船上有航天员,建议回收此载具。</s>
    <!-- Toast Font:Primary ; final confirmation line in the recovery dialog -->
-   <s id="Flight.CraftRecovery.ConfirmPrompt">是否要回收这架飞行器?</s>
+   <s id="Flight.CraftRecovery.ConfirmPrompt">是否要回收这架载具?</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.CrewCompartment.MoveCannotFormat">无法从乘员{0}#{1}移动乘员, 因为 {2}</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5284,9 +5284,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.CrewCompartment.TransferReason.FromOtherFormat">你正在从 {0} 转移乘员</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.FlightLog.CraftCrushed">你的飞行器被天体压碎了。</s>
+   <s id="Flight.FlightLog.CraftCrushed">你的载具被天体压碎了。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.FlightLog.CraftExploded">你的飞行器在撞击时爆炸了</s>
+   <s id="Flight.FlightLog.CraftExploded">你的载具在撞击时爆炸了</s>
    <!-- Font:Primary -->
    <s id="Flight.Inspector.DeltaV.AntiNormal">反法向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5323,7 +5323,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.ManeuverNode.SensitivityTooltip">调整速度增量调整控件的灵敏度。较低的灵敏度在与计划轨道机动控件交互时会产生较小的速度增量 变化。</s>
    <!-- Font:Primary -->
-   <s id="Flight.MapItem.PlayerCraftFallback">玩家飞行器</s>
+   <s id="Flight.MapItem.PlayerCraftFallback">玩家载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapItem.SelectFormat">选择 {0}</s>
    <!-- Tooltip ; no length limit -->
@@ -5366,7 +5366,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.MapView.Inspector.DeleteCraftConfirmationFormat">确定要销毁 '{0}' 吗?</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Inspector.DeletedCraftFormat">已销毁飞行器:{0}</s>
+   <s id="Flight.MapView.Inspector.DeletedCraftFormat">已销毁载具:{0}</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.MapView.Inspector.DeletedPlannedBurn">已删除计划机动。</s>
    <!-- Rec:8 Max:12 ; map item type label -->
@@ -5375,7 +5375,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.MapView.Inspector.DockingStatus.PortFormat">对接口 {0}</s>
    <!-- Font:Primary -->
-   <s id="Flight.MapView.Inspector.ItemType.Craft">飞行器</s>
+   <s id="Flight.MapView.Inspector.ItemType.Craft">载具</s>
    <!-- Rec:8 Max:12 Font:Primary ; map item type label -->
    <s id="Flight.MapView.Inspector.ItemType.Planet">星球</s>
    <!-- Rec:10 Max:14 Font:Primary ; chain node name -->
@@ -5385,7 +5385,7 @@
    <!-- Rec:14 Max:20 Font:Primary ; chain node name -->
    <s id="Flight.MapView.Inspector.NodeType.PlannedBurn">计划轨道机动</s>
    <!-- Rec:16 Max:24 Font:Primary ; prefix in node name -->
-   <s id="Flight.MapView.Inspector.PlayerCraftPrefix">玩家飞行器 - </s>
+   <s id="Flight.MapView.Inspector.PlayerCraftPrefix">玩家载具 - </s>
    <!-- Font:Primary -->
    <s id="Flight.MapView.NotUnlocked">你还没有解锁地图视图。你可以在科技树中解锁它。</s>
    <!-- Rec:14 Max:20 ; label -->
@@ -5430,7 +5430,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.OrbitChain.BurnNode">轨道机动节点</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.OrbitChain.Craft">飞行器</s>
+   <s id="Flight.OrbitChain.Craft">载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.OrbitChain.Day">日</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5563,7 +5563,7 @@
    <!-- Font:Primary -->
    <s id="Menu.ActiveCrafts.NotAllowedFormat">不允许从此菜单控制 {0}。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.ActiveCrafts.ResumeFailed">无法恢复飞行器,因为无法加载。</s>
+   <s id="Menu.ActiveCrafts.ResumeFailed">无法恢复载具,因为无法加载。</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
    <s id="Menu.CareerSelector.Title">生涯模式</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
@@ -5663,7 +5663,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Menu.Contracts.RejectDialog.Message">确定要拒绝此合同吗?被拒绝的合同不会再次显示,但你随时可以打开右上角的菜单并切换"显示已拒绝"过滤器来取消拒绝。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Menu.Contracts.ResetDialog.Message">确定要重置此合同吗?你将失去所有进度。\n\n你通常不需要重置合同,但这可以帮助解决合同绑定到错误飞行器的情况。</s>
+   <s id="Menu.Contracts.ResetDialog.Message">确定要重置此合同吗?你将失去所有进度。\n\n你通常不需要重置合同,但这可以帮助解决合同绑定到错误载具的情况。</s>
    <!-- Rec:14 Max:20 Font:Header ; list view title -->
    <s id="Menu.Contracts.Title">合同</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5730,7 +5730,7 @@
    <!-- Font:Primary -->
    <s id="Menu.OutdatedGameState">此游戏状态已过时,不再受支持。请从主菜单开始新游戏。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.PreviousCrashDialog.Message">检测到上次运行可能发生了崩溃,可能是你的设备在加载飞行器和/或星球时内存不足所致。&#10;&#10;为防止进一步崩溃,将跳过所选飞行器和发射位置的加载。建议在继续之前选择不同的飞行器或行星系统,清空飞行中的飞行器,或降低画质设置以减少内存占用。</s>
+   <s id="Menu.PreviousCrashDialog.Message">检测到上次运行可能发生了崩溃,可能是你的设备在加载载具和/或星球时内存不足所致。&#10;&#10;为防止进一步崩溃,将跳过所选载具和发射位置的加载。建议在继续之前选择不同的载具或行星系统,清空飞行中的载具,或降低画质设置以减少内存占用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.Tutorial.CloseConfirm">是否要关闭该教程?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5766,7 +5766,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Crew.Assignment.InsufficientFunds">你没有足够的资金来招募新的宇航员。你目前有 {0},招募一名新宇航员需要 {1}。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
-   <s id="Crew.Assignment.InThisCraft">此飞行器乘员</s>
+   <s id="Crew.Assignment.InThisCraft">此载具乘员</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Crew.State.Available">可用</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -5850,11 +5850,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.CraftParts.ToggleVisibility.Tooltip">调整部件可视性</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.CraftParts.Tooltip">搜索当前飞行器部件</s>
+   <s id="Design.CraftParts.Tooltip">搜索当前载具部件</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.CreateSubassembly.Text">创建子部件</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Crew.Tooltip">查看并为该飞行器分配乘员</s>
+   <s id="Design.Crew.Tooltip">查看并为该载具分配乘员</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.CrewCompartmentPartProperties.AdjustExitPosition.Label">调整乘员的出舱位置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5868,9 +5868,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.CrewCompartmentPartProperties.RemoveCrew.Tooltip">移除成员</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.CurrentCraftMassTooltip">飞行器的当前质量。</s>
+   <s id="Design.CurrentCraftMassTooltip">载具的当前质量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.CurrentCraftPriceTooltip">飞行器的当前价格</s>
+   <s id="Design.CurrentCraftPriceTooltip">载具的当前价格</s>
    <!--  -->
    <s id="Design.DesignerScript.CameraMovementModeFormat">摄像机模式: {0}</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -5894,11 +5894,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.LaunchLocation.Tooltip">更改当前的发射位置。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.LaunchTooltip">发射此飞行器</s>
+   <s id="Design.LaunchTooltip">发射此载具</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Design.Level.ExitLevel">推出关卡</s>
    <!-- Rec:20 Max:24 Font:Header ; section header -->
-   <s id="Design.LoadCraft.Title">加载飞行器</s>
+   <s id="Design.LoadCraft.Title">加载载具</s>
    <!-- Rec:14 Max:18 Font:Primary ; design/flight menu button label -->
    <s id="Design.Menu.Career.Text">生涯</s>
    <!-- Rec:14 Max:18 Font:Header ; main menu career button label (header font) -->
@@ -6102,7 +6102,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Performance.BurnTime">分级工作时间</s>
    <!-- Rec:20 Max:24 Font:Primary ; design info inspector header -->
-   <s id="Design.Performance.CraftDetails">飞行器细节</s>
+   <s id="Design.Performance.CraftDetails">载具细节</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Performance.DeltaV">速度增量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6158,9 +6158,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Preflight.ActivationGroups.Tooltip">激活组</s>
    <!-- Rec:17 Max:22 Font:Header ; section header (preflight tab title) -->
-   <s id="Design.Preflight.CraftValidation.Title">飞行器验证</s>
+   <s id="Design.Preflight.CraftValidation.Title">载具验证</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Preflight.CraftValidation.Tooltip">飞行器验证</s>
+   <s id="Design.Preflight.CraftValidation.Tooltip">载具验证</s>
    <!-- Rec:24 Max:28 Font:Header ; section header -->
    <s id="Design.Preflight.Title">发射前配置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6186,7 +6186,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.StageDeltaV.Tooltip">该级的速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Staging.TotalDeltaV.Tooltip">飞行器的总速度增量。</s>
+   <s id="Design.Staging.TotalDeltaV.Tooltip">载具的总速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Staging.TWR.Tooltip">该级的推重比。</s>
    <!-- Rec:17 Max:22 Font:Header ; section header (preflight tab title) -->
@@ -6206,7 +6206,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.InfoText">选择根部件以定义对称平面。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.MessageDisconnected">该部件必须连接到主飞行器某个部件的表面。</s>
+   <s id="Design.Symmetry.MessageDisconnected">该部件必须连接到主载具某个部件的表面。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.MessageInheriting">该部件正从所连接的部件继承对称。只能在对称链的根部进行修改。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6214,9 +6214,9 @@
    <!-- Rec:12 Max:16 Font:Primary ; medium button label -->
    <s id="Design.Symmetry.Mirror.Text">镜像</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Symmetry.MirrorCraft.Text">镜像飞行器</s>
+   <s id="Design.Symmetry.MirrorCraft.Text">镜像载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.MirrorCraft.Tooltip">镜像整个飞行器。</s>
+   <s id="Design.Symmetry.MirrorCraft.Tooltip">镜像整个载具。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.MirrorMode.Tooltip">切换到镜像对称模式。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6450,7 +6450,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Trash.Text">拖动以删除</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
-   <s id="Design.Tutorial.BackupCraft.Text">备份飞行器</s>
+   <s id="Design.Tutorial.BackupCraft.Text">备份载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Tutorial.Close.Tooltip">关闭教程面板。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -6460,17 +6460,17 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Tutorial.Skip.Tooltip">跳过此教程步骤。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.UploadCraft.Tooltip">将此飞行器上传到网站,与其它玩家分享。</s>
+   <s id="Design.UploadCraft.Tooltip">将此载具上传到网站,与其它玩家分享。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Validation.AutoFix.Confirm">自动修复可能会改变飞行器的行为,确定要执行吗?</s>
+   <s id="Design.Validation.AutoFix.Confirm">自动修复可能会改变载具的行为,确定要执行吗?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.AutoFix.Text">尝试自动修复</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Validation.ResumeFlight.Redirect">点击确定跳转到 "恢复飞行" 视图。在那里你可以选择一个飞行器并将其从飞行中移除。</s>
+   <s id="Design.Validation.ResumeFlight.Redirect">点击确定跳转到 "恢复飞行" 视图。在那里你可以选择一个载具并将其从飞行中移除。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.Status.ErrorsAndWarnings">{0} 个错误,{1} 个警告。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Design.Validation.Status.Ready">飞行器看起来不错,可以发射了!</s>
+   <s id="Design.Validation.Status.Ready">载具看起来不错,可以发射了!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Validation.Status.ShowingFirst"> 显示前 {0}。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -6518,7 +6518,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.ViewOptions.Tooltip">显示选项</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.XmlEdit.Apply.Tooltip">将 XML 修改应用到飞行器。</s>
+   <s id="Design.XmlEdit.Apply.Tooltip">将 XML 修改应用到载具。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.XmlEdit.Reset.Text">重置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6574,9 +6574,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.InterruptedFormat">自动轨道机动被 {0} 命令中断。请取消暂停并重新启用自动轨道机动以继续。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.AutoBurn.NoControls">无控制的飞行器无法执行自动轨道机动</s>
+   <s id="Flight.AutoBurn.NoControls">无控制的载具无法执行自动轨道机动</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.AutoBurn.NoThrust">警告:飞行器当前分级无法产生推力。</s>
+   <s id="Flight.AutoBurn.NoThrust">警告:载具当前分级无法产生推力。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.AutoBurn.UnpauseToBeginWarp">取消暂停游戏以开始时间加速。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -6708,7 +6708,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.EndFlight.MoneyAwarded">获得资金</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.EndFlight.RecoverCraft.Tooltip">查看回收此飞行器的选项。如果它距离回收地点足够近,你可以将其部件回收换取资金。</s>
+   <s id="Flight.EndFlight.RecoverCraft.Tooltip">查看回收此载具的选项。如果它距离回收地点足够近,你可以将其部件回收换取资金。</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Flight.EndFlight.RetryUndo">重试/撤销</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6716,7 +6716,7 @@
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Flight.EndFlight.SaveFlight">保存飞行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.EndFlight.SaveFlight.Tooltip">退出飞行场景并保留为活动飞行器,以便以后继续控制。</s>
+   <s id="Flight.EndFlight.SaveFlight.Tooltip">退出飞行场景并保留为活动载具,以便以后继续控制。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.EndFlight.TechPointsAwarded">获得科技点</s>
    <!-- Rec:13 Max:16 Font:Primary ; medium button label -->
@@ -6762,13 +6762,13 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.GodMode.InfiniteFuelEnabled">哦,感觉真好。</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.GodMode.GroundCloudsEnabled">我们的飞行器刀枪不入。</s>
+   <s id="Flight.GodMode.GroundCloudsEnabled">我们的载具刀枪不入。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.GodMode.GroundCloudsDisabled">河流张开了她的嘴。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.GodMode.LessRobust">你的飞行器突然感觉不那么坚固了。</s>
+   <s id="Flight.GodMode.LessRobust">你的载具突然感觉不那么坚固了。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.GodMode.MoreRobust">你的飞行器突然感觉更加坚固了。</s>
+   <s id="Flight.GodMode.MoreRobust">你的载具突然感觉更加坚固了。</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.InputSlider.AddSlider">添加滑块</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6830,15 +6830,15 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.CommandPod.PowerUsage.Label">功率</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.CommandPod.ReplicateAG.Tooltip">将此指令舱的激活组激活同步到飞行器上的其他指令舱。</s>
+   <s id="Flight.Inspector.CommandPod.ReplicateAG.Tooltip">将此指令舱的激活组激活同步到载具上的其他指令舱。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.CommandPod.ReplicateCommands.Tooltip">将此指令舱的飞行命令同步到飞行器上的其他指令舱。</s>
+   <s id="Flight.Inspector.CommandPod.ReplicateCommands.Tooltip">将此指令舱的飞行命令同步到载具上的其他指令舱。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.CommandPod.ReplicateStageAct.Label">同步激活分级</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.Inspector.CommandPod.ReplicateStageAct.Tooltip">将此指令舱的分级状态同步到飞行器上的其他指令舱。</s>
+   <s id="Flight.Inspector.CommandPod.ReplicateStageAct.Tooltip">将此指令舱的分级状态同步到载具上的其他指令舱。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.CraftMass">飞行器质量</s>
+   <s id="Flight.Inspector.CraftMass">载具质量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Derivative">微分控制</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -6914,7 +6914,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Orbital">轨道速度</s>
    <!--  -->
-   <s id="Flight.Inspector.OverrideHeading.Tooltip">将此部件的方向作为飞行器的前进控制方向。</s>
+   <s id="Flight.Inspector.OverrideHeading.Tooltip">将此部件的方向作为载具的前进控制方向。</s>
    <!--  -->
    <s id="Flight.Inspector.OverrideHeading.Message">控制方向已更新</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -7052,7 +7052,7 @@
    <!-- Tooltip Font:Primary ; nav-sphere mode toggle -->
    <s id="Flight.MapButton.SwitchToMap.Tooltip">切换到地图模式。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.CraftName">飞行器名称</s>
+   <s id="Flight.MapView.CraftName">载具名称</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.MapView.GizmoAlignmentType.NewOrbit">新轨道</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -7136,7 +7136,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Flight.MapView.OrbitUiVerbosity.Minimal">最低</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.RenameCraft">重命名飞行器</s>
+   <s id="Flight.MapView.RenameCraft">重命名载具</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.MapView.Details.Atmosphere">大气层</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7172,7 +7172,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.ArrivalTime">到达时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.AutoBurn">切换以让玩家飞行器在接近轨道机动节点时自动执行轨道机动。</s>
+   <s id="Flight.MapView.Selected.AutoBurn">切换以让玩家载具在接近轨道机动节点时自动执行轨道机动。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.DeleteItem">移除此项目</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7182,35 +7182,35 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.File">文件</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.LockNode">锁定节点可防止它因飞行器速度的变化而被更新,应在执行轨道机动前启用。</s>
+   <s id="Flight.MapView.Selected.LockNode">锁定节点可防止它因载具速度的变化而被更新,应在执行轨道机动前启用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.PlanetAlreadyExists">所选星球已存在于该行星系统中。当前不支持重复。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.PlayerDestroyed">玩家控制的飞行器已被销毁。请接管另一飞行器以继续。</s>
+   <s id="Flight.MapView.Selected.PlayerDestroyed">玩家控制的载具已被销毁。请接管另一载具以继续。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.RenameCraft">更改此飞行器的名称</s>
+   <s id="Flight.MapView.Selected.RenameCraft">更改此载具的名称</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.ReplacePlanet">替换此行星</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.SelectPlayer">选中当前飞行器</s>
+   <s id="Flight.MapView.Selected.SelectPlayer">选中当前载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.SetTarget">设为当前目标</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.SwitchedToCraft">已切换到飞行器 ‘{0}’</s>
+   <s id="Flight.MapView.Selected.SwitchedToCraft">已切换到载具 ‘{0}’</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.SyncCamera">切换将摄像机焦点同步到所选项的选项。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.TakeControl">接管此飞行器</s>
+   <s id="Flight.MapView.Selected.TakeControl">接管此载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.TakeControlConfirm">确定要接管名为 ‘{0}’ 的飞行器吗?</s>
+   <s id="Flight.MapView.Selected.TakeControlConfirm">确定要接管名为 ‘{0}’ 的载具吗?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.MapView.Selected.Type">类型</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.MapView.Selected.WarpToNode">将玩家飞行器跳转到下一个节点</s>
+   <s id="Flight.MapView.Selected.WarpToNode">将玩家载具跳转到下一个节点</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.Visibility.CraftIcons">飞行器图标</s>
+   <s id="Flight.MapView.Visibility.CraftIcons">载具图标</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.MapView.Visibility.CraftOrbits">飞行器轨道</s>
+   <s id="Flight.MapView.Visibility.CraftOrbits">载具轨道</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.MapView.Visibility.Default">默认</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7366,23 +7366,23 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.AstronautsOnboard">航天器上的宇航员</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.BestToDestroy">回收这架飞行器要花钱,所以最好直接销毁它。</s>
+   <s id="Flight.RecoverCraft.BestToDestroy">回收这架载具要花钱,所以最好直接销毁它。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.CannotRecover">这架飞行器已被销毁,无法回收。是否要保存此次飞行并退出?</s>
+   <s id="Flight.RecoverCraft.CannotRecover">这架载具已被销毁,无法回收。是否要保存此次飞行并退出?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.Destroy">摧毁</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.DestroyCraft">摧毁飞行器</s>
+   <s id="Flight.RecoverCraft.DestroyCraft">摧毁载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.RecoverCraft.DestroyCraft.Tooltip">如果你不再需要这架飞行器,推荐使用此选项;但如果飞行器上有乘员,不推荐!</s>
+   <s id="Flight.RecoverCraft.DestroyCraft.Tooltip">如果你不再需要这架载具,推荐使用此选项;但如果载具上有乘员,不推荐!</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
-   <s id="Flight.RecoverCraft.Header">回收飞行器</s>
+   <s id="Flight.RecoverCraft.Header">回收载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.Recover">回收</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.RecoverableParts">可回收部件数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.RecoverCraft.RecoverCraft.Tooltip">回收这架飞行器部件的资金。除非会亏钱,否则推荐使用;但如果飞行器上有宇航员,始终推荐。</s>
+   <s id="Flight.RecoverCraft.RecoverCraft.Tooltip">回收这架载具部件的资金。除非会亏钱,否则推荐使用;但如果载具上有宇航员,始终推荐。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.RecoverCraft.RecoveryBonus">回收奖励</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7398,9 +7398,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.RecoverCraft.RetryUndo.Tooltip">再试一次不会有惩罚。如果你没有完成任何合同或里程碑,这是推荐选项。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.WouldYouLikeToRecover">是否要回收这架飞行器?</s>
+   <s id="Flight.RecoverCraft.WouldYouLikeToRecover">是否要回收这架载具?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.RecoverCraft.WouldYouLikeToRecoverCost">是否要回收这架飞行器?虽然要花钱,但飞行器上有宇航员!</s>
+   <s id="Flight.RecoverCraft.WouldYouLikeToRecoverCost">是否要回收这架载具?虽然要花钱,但载具上有宇航员!</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="Flight.RelaunchButton.Text">重新发射</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
@@ -7416,7 +7416,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.SaveAndExit">保存并退出</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.SaveFlight.CollisionWarning">&#10;&#10;你的飞行器正与行星相撞,如果不处理就会坠毁。确定要保存并退出吗?</s>
+   <s id="Flight.SaveFlight.CollisionWarning">&#10;&#10;你的载具正与行星相撞,如果不处理就会坠毁。确定要保存并退出吗?</s>
    <!-- Tooltip Font:Primary ; no length limit -->
   <s id="Flight.SaveFlight.Message">保存此次飞行,你可以从主菜单中继续飞行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7432,7 +7432,7 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Scene.EnabledFormat">{0} 启用</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Flight.SetSpeed.Message">设置当前飞行器的表面速度&lt;br&gt;单位是 m/s.</s>
+   <s id="Flight.SetSpeed.Message">设置当前载具的表面速度&lt;br&gt;单位是 m/s.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Staging.ActivateStage.Tooltip">激活此分级</s>
    <!-- Rec:6 Max:8 Font:Primary ; HUD current-stage label -->
@@ -7454,9 +7454,9 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.SwitchCraft.Button">切换</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Flight.SwitchCraft.ButtonText">切换飞行器</s>
+   <s id="Flight.SwitchCraft.ButtonText">切换载具</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
-   <s id="Flight.SwitchCraft.Title">切换飞行器</s>
+   <s id="Flight.SwitchCraft.Title">切换载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.SwitchLocation.Button">切换</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
@@ -7468,13 +7468,13 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Targeting.TargetingFormat">目标设置为 {0}</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Flight.Teleport.AnotherPlanet">无法直接传送到另一行星上的其他飞行器.</s>
+   <s id="Flight.Teleport.AnotherPlanet">无法直接传送到另一行星上的其他载具.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Teleport.DockingPort">传送至对接口前.&lt;br&gt;你想距离对接口多远?</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Teleport.InvalidCoords">无效输入,必须是'经度, 纬度, 离地高度'的格式.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Teleport.ToCraft">传送至目标飞行器.&lt;br&gt;你想传送到相对它多高?</s>
+   <s id="Flight.Teleport.ToCraft">传送至目标载具.&lt;br&gt;你想传送到相对它多高?</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Teleport.ToPlanet">传送至 {0}.&lt;br&gt;请按照'经度, 纬度, 离地高度'的格式输入</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7486,13 +7486,13 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimeManager.SlowMo">慢动作</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.TimeManager.WarpFailAtmosphere">只能在飞行器接地或在大气层外时启动时间加速.</s>
+   <s id="Flight.TimeManager.WarpFailAtmosphere">只能在载具接地或在大气层外时启动时间加速.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.TimeManager.WarpFailAtmosphereEntry">时间加速倍率受限:飞行器正进入大气层.</s>
+   <s id="Flight.TimeManager.WarpFailAtmosphereEntry">时间加速倍率受限:载具正进入大气层.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimeManager.WarpFailEngines">无法在非离子引擎启动时进入时间加速.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.TimeManager.WarpFailImpact">时间加速倍率受限:飞行器即将撞击行星。</s>
+   <s id="Flight.TimeManager.WarpFailImpact">时间加速倍率受限:载具即将撞击行星。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.TimePanel.DecreaseWarpSpeed">减少时间加速倍率</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7566,7 +7566,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.ViewPanel.RecenterView">重新以目标为中心视图</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.ViewPanel.SearchPlanetsAndCrafts">搜索行星和飞行器</s>
+   <s id="Flight.ViewPanel.SearchPlanetsAndCrafts">搜索行星和载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.ViewPanel.ToggleMapView">切换地图视角</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7576,7 +7576,7 @@
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Ar.Name">氩气</s>
    <!--  -->
-   <s id="Fuel.Battery.Description">电池用于为飞行器的许多部件供电,与有些不可再生燃料不同,电量可以再生</s>
+   <s id="Fuel.Battery.Description">电池用于为载具的许多部件供电,与有些不可再生燃料不同,电量可以再生</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Battery.Name">电池</s>
    <!--  -->
@@ -7596,7 +7596,7 @@
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.H2O2.Name">过氧化氢</s>
    <!--  -->
-   <s id="Fuel.Jet.Description">专为喷气航空发动机使用的特种煤油。注意：喷气发动机无需直接与装有喷气燃料的油箱相连。只要你的飞行器有燃料,它们就能正常工作。.</s>
+   <s id="Fuel.Jet.Description">专为喷气航空发动机使用的特种煤油。注意：喷气发动机无需直接与装有喷气燃料的油箱相连。只要你的载具有燃料,它们就能正常工作。.</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.Jet.Name">航空煤油</s>
    <!--  -->
@@ -7820,7 +7820,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.TutorialVerticalShot.Name">垂直发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.ActiveCrafts.DeleteConfirmation.Message">确认你要删除当前正在操控的飞行器 '{0}'</s>
+   <s id="Menu.ActiveCrafts.DeleteConfirmation.Message">确认你要删除当前正在操控的载具 '{0}'</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.ActiveCrafts.Details.Altitude">高度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7850,7 +7850,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.ActiveCrafts.Details.Velocity">速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Menu.ActiveCrafts.ErrorLoadingCraftMessage">尝试加载飞行器时出现了错误 '{0}'.</s>
+   <s id="Menu.ActiveCrafts.ErrorLoadingCraftMessage">尝试加载载具时出现了错误 '{0}'.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.ActiveCrafts.NotResumable.Message">{0}因为未搭载指令舱无法被控制.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7858,7 +7858,7 @@
    <!-- Rec:12 Max:14 Font:Primary ; active crafts row button -->
    <s id="Menu.ActiveCrafts.NotResumableButtonText">无法操控</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.ActiveCrafts.RemoveAllDebris.ConfirmationMessage">一共有 {0} 个无法操控的飞行器,请确认你要移除它们</s>
+   <s id="Menu.ActiveCrafts.RemoveAllDebris.ConfirmationMessage">一共有 {0} 个无法操控的载具,请确认你要移除它们</s>
    <!-- Rec:16 Max:20 Font:Primary ; context button -->
    <s id="Menu.ActiveCrafts.RemoveAllDebris.ContextButtonText">移除所有残骸</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7870,7 +7870,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.BuildCraft.Description">通过将部件拼合在一起来构建一个工艺品。你可以建造火箭,漫游车,飞机,或者任何你想要的东西。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Menu.BuildCraft.Name">建造飞行器</s>
+   <s id="Menu.BuildCraft.Name">建造载具</s>
    <!-- Rec:9 Max:11 Font:Header ; main menu small button -->
    <s id="Menu.BuildText">建造</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7902,21 +7902,21 @@
    <!-- Rec:12 Max:14 Font:Primary ; medium button label -->
    <s id="Menu.CraftDesigns.PrimaryButtonText">读取</s>
    <!-- Rec:15 Max:17 Font:Primary ; large button label -->
-   <s id="Menu.CraftDesigns.ShowStockCrafts.Label">显示自带飞行器</s>
+   <s id="Menu.CraftDesigns.ShowStockCrafts.Label">显示自带载具</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
-   <s id="Menu.CraftDesigns.Title">加载飞行器</s>
+   <s id="Menu.CraftDesigns.Title">加载载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Menu.CraftsInFlightFormat">{0} 个飞行器飞行中</s>
+   <s id="Menu.CraftsInFlightFormat">{0} 个载具飞行中</s>
    <!-- Rec:12 Max:14 Font:Header ; main menu button -->
    <s id="Menu.Credits">制作人员</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Menu.CurrentCraftInfoFormat">飞行器名称 {0}&#10;发射价格: {1}</s>
+   <s id="Menu.CurrentCraftInfoFormat">载具名称 {0}&#10;发射价格: {1}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.CurrentLaunchLocationFormat">从{0}发射&#10;位于 {1}</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Menu.DownloadCrafts">下载飞行器</s>
+   <s id="Menu.DownloadCrafts">下载载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.DownloadCraftsTooltip">打开网页浏览器,前往飞行器下载页面。</s>
+   <s id="Menu.DownloadCraftsTooltip">打开网页浏览器,前往载具下载页面。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.EnterCompanyName.Text">输入公司名</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
@@ -7932,7 +7932,7 @@
    <!-- Font:Primary -->
    <s id="Menu.InputDialog.PlaceholderText">点击输入文本...</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘飞行器起个名,然后点击"发射"!</s>
+   <s id="Menu.LaunchCraft.Description">准备好发射了吗?给这艘载具起个名,然后点击"发射"!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.LaunchCraft.Name">发射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -7964,11 +7964,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.ListView.Size">尺寸</s>
    <!-- Rec:14 Max:18 Font:Primary ; long button label (tightened) -->
-   <s id="Menu.LoadCraft.Title">加载飞行器</s>
+   <s id="Menu.LoadCraft.Title">加载载具</s>
    <!-- Font:Primary -->
-   <s id="Menu.LoadCraft.Tooltip">加载一个不同的飞行器</s>
+   <s id="Menu.LoadCraft.Tooltip">加载一个不同的载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.LoadCraftTooltip">从硬盘中加载一个已有的飞行器.</s>
+   <s id="Menu.LoadCraftTooltip">从硬盘中加载一个已有的载具.</s>
    <!-- Rec:12 Max:14 Font:Header ; main menu button -->
    <s id="Menu.LoadGame">加载存档</s>
    <!-- Tooltip Font:Primary ; list-item status tooltip -->
@@ -7976,7 +7976,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.LoadGame.Details.CompanyFunds">公司资金</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
-   <s id="Menu.LoadGame.Details.CraftsInFlight">飞行中的飞行器</s>
+   <s id="Menu.LoadGame.Details.CraftsInFlight">飞行中的载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
    <s id="Menu.LoadGame.Details.Created">创建时间</s>
    <!-- Rec:20 Max:22 Font:Primary ; list view detail field -->
@@ -8072,9 +8072,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.Mods.WarningsTooltip">此模组已启用,但在加载时出现了一些警告。</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Menu.NewCraft">新建飞行器</s>
+   <s id="Menu.NewCraft">新建载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.NewCraftTooltip">新建一个飞行器.</s>
+   <s id="Menu.NewCraftTooltip">新建一个载具.</s>
    <!-- Rec:12 Max:14 Font:Header ; main menu button -->
    <s id="Menu.NewGame">新存档</s>
    <!-- Rec:20 Max:27 Font:Header ; section header -->
@@ -8120,9 +8120,9 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Menu.ResumeFlight">继续&#10;飞行</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Menu.SaveCraft">保存飞行器</s>
+   <s id="Menu.SaveCraft">保存载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Menu.SaveCraftTooltip">将此飞行器保存至你的硬盘</s>
+   <s id="Menu.SaveCraftTooltip">将此载具保存至你的硬盘</s>
    <!-- Rec:12 Max:14 Font:Header ; main menu button -->
    <s id="Menu.Settings">设置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -8136,7 +8136,7 @@
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
    <s id="Menu.Tutorials">教程</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="MenuUi.ActiveCrafts.Label">运行中的飞行器</s>
+   <s id="MenuUi.ActiveCrafts.Label">运行中的载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="MenuUi.ActiveJobs.Label">进行中的合同</s>
    <!-- Rec:10 Max:12 Font:Primary ; main menu craft stat label -->
@@ -8144,7 +8144,7 @@
    <!-- Rec:10 Max:12 Font:Primary ; main menu craft stat label -->
    <s id="MenuUi.Craft.Price.Label">价格</s>
    <!-- Rec:7 Max:9 Font:Header ; main menu small button -->
-   <s id="MenuUi.Crafts.Button">飞行器</s>
+   <s id="MenuUi.Crafts.Button">载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="MenuUi.CurrentMoney.Label">当前资金</s>
    <!-- Rec:4 Max:6 Font:Header ; main menu small button opening the menu Map View -->
@@ -9707,19 +9707,19 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CommandPodData.AutoPilot.Derivative.Label">微分控制</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
-   <s id="Parts.CommandPodData.AutoPilot.DescriptionLabel">以微调自动驾驶仪控制飞行器的方式调整这些设置</s>
+   <s id="Parts.CommandPodData.AutoPilot.DescriptionLabel">以微调自动驾驶仪控制载具的方式调整这些设置</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.CommandPodData.AutoPilot.Header">自动驾驶</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CommandPodData.AutoPilot.Integral.Label">积分控制</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.AutoPilot.Pid.Tooltip">自动驾驶仪使用一个包含三个部分的&quot;PID&quot;控制器:比例,积分和微分。在飞行中调整它们以找到最优值(视图面板-&gt;自动驾驶仪),然后在此处设置它们以与飞行器一起保存。&#10;PID调谐的难点在于当飞行器接近目标位置时,如何控制振荡。参数值应足够大,以便在各种空速范围内产生所需的响应速率,同时不引入振荡。任何过高的值都可能导致振荡。&#10;&#10;在飞行中开始调谐:将积分和微分设置为零。提高比例,直到达到所需的响应速率且振荡最小(可能无法完全消除振荡)。提高微分,直到过冲/振荡最小化。增加积分以修正任何持续存在的误差,同时保持振荡较低。提示:显示输入滑块以监控输入中的振荡。</s>
+   <s id="Parts.CommandPodData.AutoPilot.Pid.Tooltip">自动驾驶仪使用一个包含三个部分的&quot;PID&quot;控制器:比例,积分和微分。在飞行中调整它们以找到最优值(视图面板-&gt;自动驾驶仪),然后在此处设置它们以与载具一起保存。&#10;PID调谐的难点在于当载具接近目标位置时,如何控制振荡。参数值应足够大,以便在各种空速范围内产生所需的响应速率,同时不引入振荡。任何过高的值都可能导致振荡。&#10;&#10;在飞行中开始调谐:将积分和微分设置为零。提高比例,直到达到所需的响应速率且振荡最小(可能无法完全消除振荡)。提高微分,直到过冲/振荡最小化。增加积分以修正任何持续存在的误差,同时保持振荡较低。提示:显示输入滑块以监控输入中的振荡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.AutoPilot.PidDerivative.Tooltip">用于减少过冲/振荡,但过量使用会导致振荡。高度灵活的飞行器在无任何微分的情况下也无法承受过多,否则会引起振荡。</s>
+   <s id="Parts.CommandPodData.AutoPilot.PidDerivative.Tooltip">用于减少过冲/振荡,但过量使用会导致振荡。高度灵活的载具在无任何微分的情况下也无法承受过多,否则会引起振荡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.CommandPodData.AutoPilot.PidIntegral.Tooltip">尝试在比例不足以维持目标的情况下进行补偿。通常不建议用于滚转输入.</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.AutoPilot.PidProportional.Tooltip">决定自动驾驶系统对误差反应强度的主要参数。对于控制滞后较大的飞行器,需要将比例大大降低至最大变化率以下,才能使振荡降至可接受水平。</s>
+   <s id="Parts.CommandPodData.AutoPilot.PidProportional.Tooltip">决定自动驾驶系统对误差反应强度的主要参数。对于控制滞后较大的载具,需要将比例大大降低至最大变化率以下,才能使振荡降至可接受水平。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CommandPodData.AutoPilot.PidRange.Label">范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9745,7 +9745,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.CommandPodData.CraftConfigType.Rocket">火箭</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.CraftConfigType.Tooltip">更改飞行器的配置,这将驱动各种功能,如飞行员定向,某些部件取出时的旋转以及一些默认部件设置。</s>
+   <s id="Parts.CommandPodData.CraftConfigType.Tooltip">更改载具的配置,这将驱动各种功能,如飞行员定向,某些部件取出时的旋转以及一些默认部件设置。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.CommandPodData.Header">指令舱</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -9755,7 +9755,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.CommandPodData.ReorientCraftOnConfigChange.Label">飞行配置变更时重新确定朝向</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.CommandPodData.ReorientCraftOnConfigChange.Tooltip">如果启用此选项,当飞行配置类型(飞机/火箭)改变时,设计器中的飞行器将会旋转。如果飞行器已经正确朝向,但需要更改其配置类型,请禁用此选项。此选项不会影响飞行操作。</s>
+   <s id="Parts.CommandPodData.ReorientCraftOnConfigChange.Tooltip">如果启用此选项,当飞行配置类型(飞机/火箭)改变时,设计器中的载具将会旋转。如果载具已经正确朝向,但需要更改其配置类型,请禁用此选项。此选项不会影响飞行操作。</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.CommandPodData.ReplicateActivationGroups.All">所有激活组</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -9805,7 +9805,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ConfigData.DragScale.Label">阻力大小</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ConfigData.DragScale.Tooltip">改变该部件对飞行器整体阻力的贡献。</s>
+   <s id="Parts.ConfigData.DragScale.Tooltip">改变该部件对载具整体阻力的贡献。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ConfigData.Explosiveness.Label">爆炸力度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9879,7 +9879,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ConfigData.PreventDebris.Label">防止产生残骸</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.ConfigData.PreventDebris.Tooltip">防止此部件(及其连接部件)在与玩家飞行器分离时被自动移除。</s>
+   <s id="Parts.ConfigData.PreventDebris.Tooltip">防止此部件(及其连接部件)在与玩家载具分离时被自动移除。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ConfigData.PriceScale.Label">价格大小</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9933,7 +9933,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ConfigData.XmlEditButton.Tooltip">打开一个窗口,显示部件中不同属性中的所有参数及其所有可用参数。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Parts.ControlSurfaceData.Axes.Label">飞行器轴线</s>
+   <s id="Parts.ControlSurfaceData.Axes.Label">载具轴线</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.ControlSurfaceData.DeflectionSpeed.Label">响应速度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10179,7 +10179,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.EngineData.GimbalRange.Label">矢量范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.EngineData.GimbalRange.Tooltip">发动机可旋转以辅助控制飞行器姿态的最大允许范围。设为0将禁用矢量摆动。</s>
+   <s id="Parts.EngineData.GimbalRange.Tooltip">发动机可旋转以辅助控制载具姿态的最大允许范围。设为0将禁用矢量摆动。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.EngineData.Header">发动机</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10297,7 +10297,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.FairingData.JettisonVelocity.Label">抛离速度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.FairingData.JettisonVelocity.Tooltip">整流罩抛离时远离飞行器的速度。</s>
+   <s id="Parts.FairingData.JettisonVelocity.Tooltip">整流罩抛离时远离载具的速度。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Parts.FlightProgramData.EditFlightProgramButton.Label">编辑飞行程序</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10363,7 +10363,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.FuselageData.DeadWeightPercentage.Label">配重</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.FuselageData.DeadWeightPercentage.Tooltip">向此零件添加的配重,会占用其燃料箱容量。便于调整飞行器的质心或提高零件的抗冲击能力。</s>
+   <s id="Parts.FuselageData.DeadWeightPercentage.Tooltip">向此零件添加的配重,会占用其燃料箱容量。便于调整载具的质心或提高零件的抗冲击能力。</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.FuselageData.FlattenNormals.Both">两端</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -10705,7 +10705,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.Twr">推重比</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.InspectorModel.Twr.Tooltip">推重比,即发动机推力相对于飞行器重量的比值。</s>
+   <s id="Parts.InspectorModel.Twr.Tooltip">推重比,即发动机推力相对于载具重量的比值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.JetEngine.AfterburnerLocked">你尚未解锁加力燃烧室。可在科技树中解锁。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -10731,7 +10731,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.JetEngineData.HasReverseThrust.Label">反推装置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.JetEngineData.HasReverseThrust.Tooltip">允许发动机向前喷气以减速飞行器。</s>
+   <s id="Parts.JetEngineData.HasReverseThrust.Tooltip">允许发动机向前喷气以减速载具。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.JetEngineData.Header">喷气发动机</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -11185,13 +11185,13 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PayloadData.Contract.Tooltip">通常自动即可,但若尝试用同类型载荷同时完成多个合同,则可能需要手动将特定合同与特定载荷关联。</s>
    <!-- Rec:40 Max:50 Font:Primary ; inline warning label -->
-   <s id="Parts.PayloadData.NotConnected.Label">此载荷未连接到飞行器。</s>
+   <s id="Parts.PayloadData.NotConnected.Label">此载荷未连接到载具。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PayloadData.NotConnected.Tooltip">未连接的零件不计入合同要求。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.PayloadData.PayloadCount.Label">载荷数量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.PayloadData.PayloadCount.Tooltip">已明确分配给此合同的,连接到飞行器的载荷数量。</s>
+   <s id="Parts.PayloadData.PayloadCount.Tooltip">已明确分配给此合同的,连接到载具的载荷数量。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Parts.Piston.EditMessageExtending">当零件连接到活塞活动端时,无法改变方向和尺寸。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -11449,7 +11449,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.RocketEngineData.GimbalRange.Label">矢量范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.RocketEngineData.GimbalRange.Tooltip">发动机可旋转以辅助控制飞行器姿态的最大允许范围。</s>
+   <s id="Parts.RocketEngineData.GimbalRange.Tooltip">发动机可旋转以辅助控制载具姿态的最大允许范围。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.RocketEngineData.Header">火箭发动机</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -13392,7 +13392,7 @@
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Purchase.SandboxBundle.Video.CommunitySystems">社区星系</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
-   <s id="Purchase.SandboxBundle.Video.FlyUnlimited">无限飞行器数量</s>
+   <s id="Purchase.SandboxBundle.Video.FlyUnlimited">无限载具数量</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
    <s id="Purchase.SandboxBundle.Video.FullSandbox">完整星系</s>
    <!-- Rec:20 Max:22 Font:Header ; property label -->
@@ -14910,9 +14910,9 @@
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.NormalMapQuality.BlendedFast">中</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Water.ReflectionQuality.CraftAndTerrain">飞行器和地形</s>
+   <s id="Settings.Water.ReflectionQuality.CraftAndTerrain">载具和地形</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Water.ReflectionQuality.CraftOnly">仅飞行器</s>
+   <s id="Settings.Water.ReflectionQuality.CraftOnly">仅载具</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.ReflectionQuality.None">无</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -15054,7 +15054,7 @@
    <!-- Rec:21 Max:21 Font:Primary -->
    <s id="Systems.JunoSystem.Name">Juno系</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Tools.CraftPositioner.PauseFirst">在定位飞行器之前暂停游戏……飞行器可能会爆炸。</s>
+   <s id="Tools.CraftPositioner.PauseFirst">在定位载具之前暂停游戏……载具可能会爆炸。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Tools.JointStability.UnstableFormat">检测到物体#{0}的关节不稳定。尝试增加惯性张量/质量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15106,7 +15106,7 @@
    <!-- Toast Font:Primary ; AddPartStep instruction when the right part is on the craft but in the wrong location -->
    <s id="Tutorial.AddPart.RightPartWrongPlace">你有了正确的部件,但位置不对。尝试将它移动到我指示的位置。</s>
    <!-- Toast Font:Primary ; AddPartStep instruction prompting the user to attach the right part type to the craft -->
-   <s id="Tutorial.AddPart.DragToCraft">现在将此部件拖动到我指示的飞行器位置。</s>
+   <s id="Tutorial.AddPart.DragToCraft">现在将此部件拖动到我指示的载具位置。</s>
    <!-- Toast Font:Primary ; AddPartStep instruction when the user added the wrong part type -->
    <s id="Tutorial.AddPart.WrongPart">看起来你用了错误的部件。你可以将它拖到右上角的垃圾桶中删除。</s>
    <!-- Rec:6 Max:10 Font:Primary ; fuselage tutorial word for a single arrow control handle -->
@@ -15282,7 +15282,7 @@
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user back to the Contracts tab -->
    <s id="Tutorial.MenuTutorial.GoBackToContracts">让我们回到合同并接受一个合同。是时候开始你的生涯了!</s>
    <!-- Toast Font:Primary ; MenuTutorial step 0 explanation shown when the Contracts tab is open -->
-   <s id="Tutorial.MenuTutorial.ContractsIntro">这是你查找合同的地方。完成它们可以赚取发射新飞行器和解锁更好发射地点所需的资金。你的可用资金显示在屏幕顶部。</s>
+   <s id="Tutorial.MenuTutorial.ContractsIntro">这是你查找合同的地方。完成它们可以赚取发射新载具和解锁更好发射地点所需的资金。你的可用资金显示在屏幕顶部。</s>
    <!-- Toast Font:Primary ; MenuTutorial prompt directing the user to click the Contracts tab -->
    <s id="Tutorial.MenuTutorial.ClickContractsTab">点击合同标签。</s>
    <!-- Toast Font:Primary ; MenuTutorial step 1 explanation shown when the Milestones tab is open -->
@@ -15298,9 +15298,9 @@
    <!-- Format Font:Primary ; MenuTutorial step 3 prompt asking user to select a specific contract; {0} is the contract name -->
    <s id="Tutorial.MenuTutorial.SelectContractFormat">选择{0}合同,然后点击开始教程以接受此合同并开始设计器教程。</s>
    <!-- Toast Font:Primary ; MenuTutorial final step 3 message shown after a contract is accepted -->
-   <s id="Tutorial.MenuTutorial.ContractAcceptedFantastic">太棒了!我强烈建议做这个合同的教程。否则,点击左下角的建造按钮进入设计器并开始建造你的飞行器。点击确定并开始吧!祝你好运!</s>
+   <s id="Tutorial.MenuTutorial.ContractAcceptedFantastic">太棒了!我强烈建议做这个合同的教程。否则,点击左下角的建造按钮进入设计器并开始建造你的载具。点击确定并开始吧!祝你好运!</s>
    <!-- Toast Font:Primary ; DesignerTutorial intro confirmation prompt for backing up the user's craft -->
-   <s id="Tutorial.Designer.Intro.BackupCraftPrompt">在开始教程之前,你是否要备份当前的飞行器?</s>
+   <s id="Tutorial.Designer.Intro.BackupCraftPrompt">在开始教程之前,你是否要备份当前的载具?</s>
    <!-- Toast Font:Primary ; DesignerTutorial welcome message; reused for rotate/pan camera intro steps -->
    <s id="Tutorial.Designer.Intro.WelcomeToDesigner">欢迎来到设计器!首先,让我向你展示如何移动视图。</s>
    <!-- Toast Font:Primary ; DesignerTutorial command pod explanation -->
@@ -15310,13 +15310,13 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 1: intro info step -->
    <s id="Tutorial.FirstFlight.Step1">我从教程中的汽车开始,但做了一些调整以便为机翼腾出空间。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 2: add main wing -->
-   <s id="Tutorial.FirstFlight.Step2">首先,我们需要添加主翼,它们将提供升力使这个美丽的飞行器离开地面。</s>
+   <s id="Tutorial.FirstFlight.Step2">首先,我们需要添加主翼,它们将提供升力使这个美丽的载具离开地面。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 3: add control surface to main wing -->
-   <s id="Tutorial.FirstFlight.Step3">现在,为这个机翼添加一个控制面,这样飞行器在空中飞行时能够滚转和转弯。</s>
+   <s id="Tutorial.FirstFlight.Step3">现在,为这个机翼添加一个控制面,这样载具在空中飞行时能够滚转和转弯。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 4: main wing symmetry -->
    <s id="Tutorial.FirstFlight.Step4">使用对称工具,将我们的工作复制到另一侧。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 5: add elevator -->
-<s id="Tutorial.FirstFlight.Step5">现在添加升降舵,它允许飞行器向上和向下俯仰以改变高度。对于飞机来说,这非常重要。</s>
+<s id="Tutorial.FirstFlight.Step5">现在添加升降舵,它允许载具向上和向下俯仰以改变高度。对于飞机来说,这非常重要。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 6: elevator control surface -->
    <s id="Tutorial.FirstFlight.Step6">升降舵的控制面应该响应俯仰输入,顺便一提:车轮也设置为俯仰,所以我们稍后会更改它们。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 7: elevator symmetry (same English as Step4 but separate key for translator flexibility) -->
@@ -15330,17 +15330,17 @@
    <!-- Toast Font:Primary ; FirstFlightTutorial step 11: center indicators intro -->
    <s id="Tutorial.FirstFlight.Step11">设计飞机时,质心(CoM)与升力中心(CoL)之间的关系非常重要。我们可以使用视图面板来可视化它们的位置。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 12: CoM/CoL explanation -->
-   <s id="Tutorial.FirstFlight.Step12">如你所见,红色质心略微位于蓝色升力中心前方,因此该飞行器在空气动力学上应该是稳定的。质心越靠前于升力中心,稳定性越强,但会失去一些机动性和俯仰响应。&#10;&#10;它们越接近,飞行器越具有特技飞行能力,但太接近可能会变得不稳定。质心位于升力中心后方就像试图倒射一支箭,羽毛在前。&#10;&#10;简单来说:红球在蓝球前面,所以这个飞行器可以起飞了。</s>
+   <s id="Tutorial.FirstFlight.Step12">如你所见,红色质心略微位于蓝色升力中心前方,因此该载具在空气动力学上应该是稳定的。质心越靠前于升力中心,稳定性越强,但会失去一些机动性和俯仰响应。&#10;&#10;它们越接近,载具越具有特技飞行能力,但太接近可能会变得不稳定。质心位于升力中心后方就像试图倒射一支箭,羽毛在前。&#10;&#10;简单来说:红球在蓝球前面,所以这个载具可以起飞了。</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13: launch step main -->
    <s id="Tutorial.FirstFlight.Step13">干得好!连莱特兄弟都会为你骄傲!</s>
    <!-- Toast Font:Primary ; FirstFlightTutorial step 13 instruction text -->
    <s id="Tutorial.FirstFlight.Step13Instruction">现在从Juno村跑道发射这个宏伟的杰作。让我们看看这东西能不能飞!</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 1: intro -->
-   <s id="Tutorial.FirstOrbit.Step1">我们为你准备了一艘飞行器,但它的引擎需要一些调整以提高性能,使其能够进入轨道。</s>
+   <s id="Tutorial.FirstOrbit.Step1">我们为你准备了一艘载具,但它的引擎需要一些调整以提高性能,使其能够进入轨道。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2: open Design Info panel -->
    <s id="Tutorial.FirstOrbit.Step2">打开设计信息面板。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 2 DeltaV all-stages metric text -->
-   <s id="Tutorial.FirstOrbit.Step2Metric">这是飞行器的总速度增量,即速度的变化量。理论上,它是在没有重力和阻力的完美环境中飞行器能达到的速度。</s>
+   <s id="Tutorial.FirstOrbit.Step2Metric">这是载具的总速度增量,即速度的变化量。理论上,它是在没有重力和阻力的完美环境中载具能达到的速度。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3: explanation about DeltaV requirement -->
    <s id="Tutorial.FirstOrbit.Step3">实际上,我们需要至少4500m/s才能进入Droo周围的低轨道。看起来我们绰绰有余,但请记住,引擎性能会受到大气压强的影响,而大气压强随高度变化。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 3 metric text after DeltaV at sea level -->
@@ -15350,9 +15350,9 @@
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 4 stage 1 DeltaV metric text -->
    <s id="Tutorial.FirstOrbit.Step4Metric">这一分级的速度增量看起来还可以。我们只想让它在启动更高效的引擎之前获得一些高度,这些引擎需要更稀薄的大气才能工作。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 5 stage 1 Starting TWR metric text -->
-   <s id="Tutorial.FirstOrbit.Step5Metric">另一个重要指标是推重比(TWR)。如果它小于1,飞行器在起飞时无法克服重力。这一分级有足够的推重比用于发射。</s>
+   <s id="Tutorial.FirstOrbit.Step5Metric">另一个重要指标是推重比(TWR)。如果它小于1,载具在起飞时无法克服重力。这一分级有足够的推重比用于发射。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 6 stage 1 Ending TWR metric text -->
-   <s id="Tutorial.FirstOrbit.Step6Metric">注意结束推重比高于起始推重比。这是因为引擎在整个分级中燃烧燃料质量,所以飞行器质量减少。这意味着火箭的加速度在整个分级中实际上在增加。</s>
+   <s id="Tutorial.FirstOrbit.Step6Metric">注意结束推重比高于起始推重比。这是因为引擎在整个分级中燃烧燃料质量,所以载具质量减少。这意味着火箭的加速度在整个分级中实际上在增加。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 7 stage 1 Isp metric text -->
    <s id="Tutorial.FirstOrbit.Step7Metric">最后一点:比冲(Isp)。它有点像火箭引擎的油耗,越高越好。这些固体火箭发动机效率不高,但它们便宜且能完成任务。</s>
    <!-- Toast Font:Primary ; FirstOrbitTutorial step 8: stage 2 intro stepText -->
@@ -15408,7 +15408,7 @@
    <!-- Toast Font:Primary ; FirstRaceTutorial step 3 instruction text -->
    <s id="Tutorial.FirstRace.Step3Instruction">从Juno村跑道发射。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 1: command pod configuration step -->
-   <s id="Tutorial.TheJump.Step1">由于我们正在建造一个主要水平移动的飞行器,我们需要将指令盘从火箭配置更改为飞机配置。</s>
+   <s id="Tutorial.TheJump.Step1">由于我们正在建造一个主要水平移动的载具,我们需要将指令盘从火箭配置更改为飞机配置。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 1 battery sub-step text -->
    <s id="Tutorial.TheJump.Step1Battery">让我们也增加电池容量,这将增加这辆车的行驶里程。</s>
    <!-- Toast Font:Primary ; TheJumpTutorial step 2: add fuel tank body -->
@@ -15498,13 +15498,13 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked -->
    <s id="Tutorial.FlightTutorial.WaitForDockingPorts">太好了!现在只需等待对接口连接。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked mobile -->
-   <s id="Tutorial.FlightTutorial.DockingControlsMobile">使用左模拟摇杆前后移动。右摇杆使飞行器上下左右移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsMobile">使用左模拟摇杆前后移动。右摇杆使载具上下左右移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked controller, only Yaw is bound -->
-   <s id="Tutorial.FlightTutorial.DockingControlsYawBound">按"|Pitch;+|",|Pitch;-|",|Yaw;-|",|Yaw;+|"使飞行器上下左右移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Yaw;+|"和"|Yaw;-|"使飞行器前后移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsYawBound">按"|Pitch;+|",|Pitch;-|",|Yaw;-|",|Yaw;+|"使载具上下左右移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Yaw;+|"和"|Yaw;-|"使载具前后移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked controller, only Roll is bound -->
-   <s id="Tutorial.FlightTutorial.DockingControlsRollBound">按"|Roll;+|"和"|Roll;-|"使飞行器前后移动,"|Pitch;+|"和"|Pitch;-|"使其上下移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Roll;-|"和"|Roll;+|"使其左右移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsRollBound">按"|Roll;+|"和"|Roll;-|"使载具前后移动,"|Pitch;+|"和"|Pitch;-|"使其上下移动。按"|SwapRollYaw;+|"交换滚转和偏航输入,然后"|Roll;-|"和"|Roll;+|"使其左右移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureDocked default controls -->
-   <s id="Tutorial.FlightTutorial.DockingControlsDefault">按"|Roll;+|"和"|Roll;-|"使飞行器前后移动。按"|Yaw;-|",|Yaw;+|",|Pitch;+|"和"|Pitch;-|"使飞行器左右上下移动。</s>
+   <s id="Tutorial.FlightTutorial.DockingControlsDefault">按"|Roll;+|"和"|Roll;-|"使载具前后移动。按"|Yaw;-|",|Yaw;+|",|Pitch;+|"和"|Pitch;-|"使载具左右上下移动。</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureFastForward -->
    <s id="Tutorial.FlightTutorial.SelectFastForward">选择快进(在右上角)以加速进程</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureGravityTurn when not reducing throttle -->
@@ -15530,7 +15530,7 @@
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureMapViewZoom -->
    <s id="Tutorial.FlightTutorial.ZoomOut">再缩小一点</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureMapViewZoom -->
-   <s id="Tutorial.FlightTutorial.ZoomIn">放大到更靠近你的飞行器</s>
+   <s id="Tutorial.FlightTutorial.ZoomIn">放大到更靠近你的载具</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureMapViewZoom -->
    <s id="Tutorial.FlightTutorial.SelectPlayer">点击选择玩家按钮以聚焦玩家</s>
    <!-- Toast Font:Primary ; FlightTutorialState.EnsureMapViewZoom -->
@@ -15618,9 +15618,9 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial.GetPersistentMessage - persistent banner title -->
    <s id="Tutorial.FlightTutorial.PersistentTitle">飞行教程</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 intro -->
-   <s id="Tutorial.FlightTutorial.Step0.Intro">让我来展示如何将这个飞行器送入轨道。我可能会周期性地暂停游戏,以便你有时间调整控制。</s>
+   <s id="Tutorial.FlightTutorial.Step0.Intro">让我来展示如何将这个载具送入轨道。我可能会周期性地暂停游戏,以便你有时间调整控制。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 -->
-   <s id="Tutorial.FlightTutorial.Step0.NavSphereExplanation">导航球控制飞行器的航向。启用航向锁定后,飞行器始终尝试朝向蓝色三角形。白色圆锥是飞行器当前指向的方向。</s>
+   <s id="Tutorial.FlightTutorial.Step0.NavSphereExplanation">导航球控制载具的航向。启用航向锁定后,载具始终尝试朝向蓝色三角形。白色圆锥是载具当前指向的方向。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 -->
    <s id="Tutorial.FlightTutorial.Step0.PrepareForBlastOff">准备发射。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 0 -->
@@ -15654,9 +15654,9 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
    <s id="Tutorial.FlightTutorial.Step6.LookAtMapView">现在,让我们看看地图视图。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
-   <s id="Tutorial.FlightTutorial.Step6.MapViewIntro">这就是地图视图。首先,让我们放大到你的飞行器。</s>
+   <s id="Tutorial.FlightTutorial.Step6.MapViewIntro">这就是地图视图。首先,让我们放大到你的载具。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 6 -->
-   <s id="Tutorial.FlightTutorial.Step6.ApoapsisExplanation">蓝色圆锥是你的飞行器,蓝线是你的预测轨迹/轨道。绿色箭头是你的"轨道远点",即轨道上最高的点。</s>
+   <s id="Tutorial.FlightTutorial.Step6.ApoapsisExplanation">蓝色圆锥是你的载具,蓝线是你的预测轨迹/轨道。绿色箭头是你的"轨道远点",即轨道上最高的点。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
    <s id="Tutorial.FlightTutorial.Step7.KillEnginesAndWait">太棒了!现在我们需要关闭引擎并等待。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
@@ -15664,7 +15664,7 @@
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 7 -->
    <s id="Tutorial.FlightTutorial.Step7.ThanksForPlaying">在等待的同时,我想说感谢你玩我们的游戏。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 8 -->
-   <s id="Tutorial.FlightTutorial.Step8.LockOnPrograde">现在我们需要航向锁定"顺行方向"。顺行方向就是飞行器运动的方向。这确保我们在到达轨道最高点时高效地燃烧。</s>
+   <s id="Tutorial.FlightTutorial.Step8.LockOnPrograde">现在我们需要航向锁定"顺行方向"。顺行方向就是载具运动的方向。这确保我们在到达轨道最高点时高效地燃烧。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 8 -->
    <s id="Tutorial.FlightTutorial.Step8.ContinueUntilFuelOut">继续这样飞行,直到引擎耗尽燃料。</s>
    <!-- Toast Font:Primary ; LevelFlightTutorial Step 9 EnsureStage - %ActivateInstruction% placeholder replaced at runtime -->
@@ -15724,7 +15724,7 @@
    <!--  -->
    <s id="Ui.FpsCounter.Fps">帧数: </s>
    <!--  -->
-   <s id="Ui.FpsCounter.Crafts">飞行器数量: </s>
+   <s id="Ui.FpsCounter.Crafts">载具数量: </s>
    <!--  -->
    <s id="Ui.FpsCounter.Cpu">处理器: </s>
    <!--  -->
@@ -15803,13 +15803,13 @@
    <s id="Upload.Craft.Account.Label">账户</s>
    <!-- Rec:20 Max:22 ; property label -->
    <!-- Rec:18 Max:26 Font:Primary ; upload-craft dialog description label -->
-   <s id="Upload.Craft.DefaultDescriptionLabel">飞行器描述</s>
+   <s id="Upload.Craft.DefaultDescriptionLabel">载具描述</s>
    <!-- Rec:12 Max:20 Font:Primary ; upload-craft dialog name label -->
-   <s id="Upload.Craft.DefaultNameLabel">飞行器名称</s>
+   <s id="Upload.Craft.DefaultNameLabel">载具名称</s>
    <!-- Rec:14 Max:22 Font:Primary ; upload-craft dialog title -->
-   <s id="Upload.Craft.DefaultTitle">上传飞行器</s>
+   <s id="Upload.Craft.DefaultTitle">上传载具</s>
    <!-- Font:Primary -->
-   <s id="Upload.Craft.DescriptionPlaceholder">飞行器描述</s>
+   <s id="Upload.Craft.DescriptionPlaceholder">载具描述</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Upload.Craft.Screenshots.Title">截图</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -15934,7 +15934,7 @@
    <!-- Rec:16 Max:22 Font:Primary ; download resource type -->
    <s id="Url.Download.ResourceType.CelestialBody">天体</s>
    <!-- Rec:8 Max:12 Font:Primary ; download resource type -->
-   <s id="Url.Download.ResourceType.Craft">飞行器</s>
+   <s id="Url.Download.ResourceType.Craft">载具</s>
    <!-- Rec:18 Max:26 Font:Primary ; download resource type -->
    <s id="Url.Download.ResourceType.PlanetarySystem">行星系统</s>
    <!-- Rec:10 Max:14 Font:Primary ; download resource type -->
@@ -15942,7 +15942,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; download resource type -->
    <s id="Url.Download.ResourceType.Sandbox">沙盒</s>
    <!-- Toast Font:Primary ; no length limit -->
-   <s id="Url.NoUrlInClipboard">剪贴板文本中找不到有效的飞行器或沙盒URL。请确保剪贴板中包含完整的URL。</s>
+   <s id="Url.NoUrlInClipboard">剪贴板文本中找不到有效的载具或沙盒URL。请确保剪贴板中包含完整的URL。</s>
    <!-- Font:Primary -->
    <s id="Utilities.RelativeDate.AMinuteAgo">一分钟前</s>
    <!-- Font:Primary -->
@@ -16304,7 +16304,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Misc.Stage">当前分级</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Name.Craft">飞行器</s>
+   <s id="Vizzy.CraftProperty.Name.Craft">载具</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Nav.AngleOfAttack">迎角</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16314,13 +16314,13 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Nav.BankAngle">倾斜角</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Nav.CraftDirection">飞行器滚转轴</s>
+   <s id="Vizzy.CraftProperty.Nav.CraftDirection">载具滚转轴</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Nav.CraftHeading">航向</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Nav.CraftRight">飞行器俯仰轴</s>
+   <s id="Vizzy.CraftProperty.Nav.CraftRight">载具俯仰轴</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Nav.CraftUp">飞行器偏航轴</s>
+   <s id="Vizzy.CraftProperty.Nav.CraftUp">载具偏航轴</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Nav.East">东</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
@@ -16436,21 +16436,21 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Time.WarpAmount">加速倍数</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Altitude.AGL">飞行器当前海拔高度(高于地面),单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Altitude.AGL">载具当前海拔高度(高于地面),单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Altitude.ASF">飞行器当前海拔高度(高于海底),单位为米。不在水面上时与海拔高度相同。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Altitude.ASF">载具当前海拔高度(高于海底),单位为米。不在水面上时与海拔高度相同。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Altitude.ASL">飞行器当前海拔高度(高于海平面),单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Altitude.ASL">载具当前海拔高度(高于海平面),单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.AirDensity">飞行器当前位置的大气密度,单位为千克/立方米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.AirDensity">载具当前位置的大气密度,单位为千克/立方米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.AirPressure">飞行器当前位置的大气压强,单位为帕斯卡。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.AirPressure">载具当前位置的大气压强,单位为帕斯卡。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.SpeedOfSound">飞行器当前位置的声速,单位为m/s。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.SpeedOfSound">载具当前位置的声速,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Temperature">飞行器当前位置的温度,单位为开尔文。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Temperature">载具当前位置的温度,单位为开尔文。</s>
    <!--  -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Altitude">飞行器相对当前海平面以上的高度(单位：米)。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Altitude">载具相对当前海平面以上的高度(单位：米)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Vizzy.CraftProperty.Tooltip.Atmosphere.Composition">当前行星大气成分的质量分数。与"大气元素"逐一对应。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -16458,63 +16458,63 @@
     <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.Apoapsis">表示轨道远点位置的向量,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.ApoapsisTime">飞行器到达轨道远点所剩余的时间,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.ApoapsisTime">载具到达轨道远点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.BoundMax">包围盒最大角到质心的距离。这是一个性能开销较大的操作,请谨慎使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.BoundMin">包围盒最小角到质心的距离。这是一个性能开销较大的操作,请谨慎使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Destroyed">若飞行器已损毁或不存在则为真。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Destroyed">若载具已损毁或不存在则为真。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Eccentricity">飞行器轨道的偏心率。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Eccentricity">载具轨道的偏心率。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Grounded">若飞行器当前与行星接触则为真。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Grounded">若载具当前与行星接触则为真。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.IDToName">指定编号飞行器的名称。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.IDToName">指定编号载具的名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Inclination">飞行器轨道的倾角。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Inclination">载具轨道的倾角。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.IsPlayer">若为玩家飞行器则为真。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.IsPlayer">若为玩家载具则为真。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Mass">飞行器的质量,单位为千克。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Mass">载具的质量,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.MeanAnomaly">飞行器轨道的平近点角。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.MeanAnomaly">载具轨道的平近点角。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.MeanMotion">飞行器轨道的平均角速度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.MeanMotion">载具轨道的平均角速度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.NameToID">找到的第一个指定名称飞行器的编号,若未找到则为-1。若未提供名称,则返回玩家飞行器的编号。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.NameToID">找到的第一个指定名称载具的编号,若未找到则为-1。若未提供名称,则返回玩家载具的编号。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.PartCount">飞行器中的部件数量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.PartCount">载具中的部件数量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Craft.Periapsis">表示轨道近点位置的向量,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.PeriapsisArgument">飞行器轨道的轨道近点幅角。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.PeriapsisArgument">载具轨道的轨道近点幅角。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.PeriapsisTime">飞行器到达轨道近点所剩余的时间,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.PeriapsisTime">载具到达轨道近点所剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Period">飞行器轨道周期,单位为秒。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Period">载具轨道周期,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Planet">飞行器当前环绕的行星名称。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Planet">载具当前环绕的行星名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Position">飞行器相对于其母行星中心的当前位置,单位为米(当前行星惯性坐标系)。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Position">载具相对于其母行星中心的当前位置,单位为米(当前行星惯性坐标系)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.RightAscension">飞行器轨道的升交点赤经。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.RightAscension">载具轨道的升交点赤经。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.SemiMajorAxis">飞行器轨道半长轴的长度,单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.SemiMajorAxis">载具轨道半长轴的长度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.SemiMinorAxis">飞行器轨道半短轴的长度,单位为米。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.SemiMinorAxis">载具轨道半短轴的长度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.TrueAnomaly">飞行器轨道的真近点角。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.TrueAnomaly">载具轨道的真近点角。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Craft.Velocity">飞行器在当前行星惯性坐标系中的当前速度,单位为m/s。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Craft.Velocity">载具在当前行星惯性坐标系中的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Fuel.AllStages">整个飞行器剩余燃料的百分比。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Fuel.AllStages">整个载具剩余燃料的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Fuel.Battery">整个飞行器剩余电池电量的百分比。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Fuel.Battery">整个载具剩余电池电量的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Fuel.FuelInStage">当前活动引擎剩余燃料的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Fuel.Mono">整个飞行器剩余单元燃料的百分比。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Fuel.Mono">整个载具剩余单元燃料的百分比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Input.Brake">当前的制动输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16654,9 +16654,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.Heading">地图上显示为向上的航向。需要开启手动模式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.ManualMode">若设为真,地图将不跟踪飞行器,但会响应此块上其他属性更改的输入。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.ManualMode">若设为真,地图将不跟踪载具,但会响应此块上其他属性更改的输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.NorthUp">设置地图是指向北还是跟踪飞行器的航向。手动模式下此设置无效。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.NorthUp">设置地图是指向北还是跟踪载具的航向。手动模式下此设置无效。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Mfd.Map.PlanetName">设置要显示地图的行星名称。需要开启手动模式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16760,45 +16760,45 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.CameraUp">玩家相机的向上指向方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.Grounded">1表示飞行器当前接触地面,0表示未接触。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.Grounded">1表示载具当前接触地面,0表示未接触。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.NumStages">飞行器活动指令舱的分级数量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.NumStages">载具活动指令舱的分级数量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.PidPitch">俯仰轴的PID值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Misc.PidRoll">滚转轴的PID值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.SolarRadiation">飞行器当前接收到的太阳辐射量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.SolarRadiation">载具当前接收到的太阳辐射量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Misc.Stage">飞行器活动指令舱的当前分级。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Misc.Stage">载具活动指令舱的当前分级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Name.Craft">飞行器的名称。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Name.Craft">载具的名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.AngleOfAttack">飞行器当前的攻角,单位为度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.AngleOfAttack">载具当前的攻角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Nav.AutopilotHeading">自动驾驶目标航向,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Nav.AutopilotPitch">自动驾驶目标俯仰角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.BankAngle">飞行器当前的倾斜角,单位为度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.BankAngle">载具当前的倾斜角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftDirection">飞行器滚转轴在当前行星惯性坐标系中的单位向量。这是飞行器当前指向的方向。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftDirection">载具滚转轴在当前行星惯性坐标系中的单位向量。这是载具当前指向的方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftHeading">飞行器当前的航向,单位为度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftHeading">载具当前的航向,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftRight">飞行器俯仰轴在当前行星惯性坐标系中的单位向量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftRight">载具俯仰轴在当前行星惯性坐标系中的单位向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftUp">飞行器偏航轴在当前行星惯性坐标系中的单位向量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.CraftUp">载具偏航轴在当前行星惯性坐标系中的单位向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.East">飞行器当前位置正东方向在当前行星惯性坐标系中的单位向量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.East">载具当前位置正东方向在当前行星惯性坐标系中的单位向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.North">飞行器当前位置正北方向在当前行星惯性坐标系中的单位向量。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.North">载具当前位置正北方向在当前行星惯性坐标系中的单位向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.Pitch">飞行器当前的俯仰角,单位为度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.Pitch">载具当前的俯仰角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.Position">飞行器质心相对于当前行星中心的当前位置,单位为米(当前行星惯性坐标系)。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.Position">载具质心相对于当前行星中心的当前位置,单位为米(当前行星惯性坐标系)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Nav.SideSlip">飞行器当前的侧滑角,单位为度。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Nav.SideSlip">载具当前的侧滑角,单位为度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Apoapsis">轨道远点高于行星半径的高度,单位为米。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16810,7 +16810,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.Period">轨道周期,单位为秒。</s>
    <!--  -->
-   <s id="Vizzy.CraftProperty.Tooltip.Orbit.Planet">飞行器当前正在环绕的行星名称。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Orbit.Planet">载具当前正在环绕的行星名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Orbit.TimeToApoapsis">到达轨道远点剩余的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16826,19 +16826,19 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.IDToName">指定编号部件的名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Part.LocalToPci">将向量从部件局部空间旋转至当前行星惯性坐标系。若未指定部件,则从飞行器局部空间转换至当前行星惯性坐标系。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Part.LocalToPci">将向量从部件局部空间旋转至当前行星惯性坐标系。若未指定部件,则从载具局部空间转换至当前行星惯性坐标系。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.Mass">部件的质量,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Part.MaxID">获取飞行器中所有部件的最大编号。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Part.MaxID">获取载具中所有部件的最大编号。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Part.MinID">获取飞行器中所有部件的最小编号。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Part.MinID">获取载具中所有部件的最小编号。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.NameToID">找到的第一个指定名称部件的编号,若未找到则为-1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.PartType">指定编号部件的类型。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Part.PciToLocal">将向量从当前行星惯性坐标系旋转至部件局部空间。若未指定部件,则从当前行星惯性坐标系转换至飞行器局部空间。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Part.PciToLocal">将向量从当前行星惯性坐标系旋转至部件局部空间。若未指定部件,则从当前行星惯性坐标系转换至载具局部空间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Part.Position">部件相对于当前行星中心的当前位置,单位为米(当前行星惯性坐标系)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16862,19 +16862,19 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.CurrentEngineThrust">所有活动引擎产生的当前推力,单位为牛顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.CurrentIsp">当前飞行器的比冲,单位为秒(s)</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.CurrentIsp">当前载具的比冲,单位为秒(s)</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.DryMass">飞行器的当前干重,单位为千克。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.DryMass">载具的当前干重,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.FuelMass">飞行器的当前燃料质量,单位为千克。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.FuelMass">载具的当前燃料质量,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.Mass">飞行器的当前质量,单位为千克。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.Mass">载具的当前质量,单位为千克。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.MaxActiveEngineThrust">如果所有活动引擎都处于100%节流阀时所能产生的推力,单位为牛顿。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Performance.StageDeltaV">当前分级剩余的速度增量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Performance.TWR">飞行器的推重比。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Performance.TWR">载具的推重比。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Raycast">从给定位置沿给定方向投射一条射线,并返回射线击中某物的位置,如果在100公里半径内未击中任何物体,则返回零向量。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16898,15 +16898,15 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Time.RealTime">自游戏开始以来,现实生活中经过的时间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Time.TimeSinceLaunch">自该飞行器发射以来经过的时间(以秒为单位)。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Time.TimeSinceLaunch">自该载具发射以来经过的时间(以秒为单位)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Time.TotalTime">自沙盒创建以来经过的时间(以秒为单位)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Time.WarpAmount">时间加速所应用的时间倍数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.Acceleration">飞行器的当前加速度,单位为m/s²。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.Acceleration">载具的当前加速度,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.AngularVelocity">飞行器的当前角速度,单位为弧度/秒(俯仰速率,偏航速率,滚转速率)。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.AngularVelocity">载具的当前角速度,单位为弧度/秒(俯仰速率,偏航速率,滚转速率)。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.Drag">当前行星惯性坐标系中的阻力,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -16916,7 +16916,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.MachNumber">当前马赫数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.SurfaceVelocity">飞行器相对于行星表面的当前速度,单位为m/s。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.SurfaceVelocity">载具相对于行星表面的当前速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Vizzy.CraftProperty.Tooltip.Vel.OrbitVelocity">轨道速度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -16988,10 +16988,10 @@
     <s id="Vizzy.EventVariable.Data">数据</s>
    
     <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
-    <s id="Vizzy.EventVariable.CraftB">飞行器A</s>
+    <s id="Vizzy.EventVariable.CraftB">载具A</s>
    
     <!-- Rec:20 Max:30 Font:Primary ; Vizzy event variable name -->
-    <s id="Vizzy.EventVariable.CraftA">飞行器B</s>
+    <s id="Vizzy.EventVariable.CraftA">载具B</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.atmosphereComposition">大气成分</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17003,9 +17003,9 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.childPlanets">子行星</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.craftids">飞行器编号</s>
+   <s id="Vizzy.Expression.Planet.craftids">载具编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Expression.Planet.crafts">飞行器</s>
+   <s id="Vizzy.Expression.Planet.crafts">载具</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Expression.Planet.day">自传周期</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17041,9 +17041,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.childPlanets">行星子天体的名称列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Expression.Planet.Tooltip.craftids">位于行星引力影响范围内的飞行器编号列表。</s>
+   <s id="Vizzy.Expression.Planet.Tooltip.craftids">位于行星引力影响范围内的载具编号列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Expression.Planet.Tooltip.crafts">位于行星引力影响范围内的飞行器名称列表。</s>
+   <s id="Vizzy.Expression.Planet.Tooltip.crafts">位于行星引力影响范围内的载具名称列表。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Expression.Planet.Tooltip.day">行星自转一周所需的时间,单位为秒。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17119,7 +17119,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CameraProperty.Tooltip.rotationY">使相机左右旋转。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CameraProperty.Tooltip.targetOffset">在飞行器坐标系中偏移相机目标的位置。</s>
+   <s id="Vizzy.Instruction.CameraProperty.Tooltip.targetOffset">在载具坐标系中偏移相机目标的位置。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CameraProperty.Tooltip.tilt">绕相机视线轴旋转相机。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17151,31 +17151,31 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CraftInput.Throttle">节流阀</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.brake">设置飞行器的制动输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.brake">设置载具的制动输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.pitch">设置飞行器的俯仰输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.pitch">设置载具的俯仰输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.roll">设置飞行器的滚转输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.roll">设置载具的滚转输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-<s id="Vizzy.Instruction.CraftInput.Tooltip.slider1">设置飞行器的滑块1输入。</s>
+<s id="Vizzy.Instruction.CraftInput.Tooltip.slider1">设置载具的滑块1输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider2">设置飞行器的滑块2输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider2">设置载具的滑块2输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider3">设置飞行器的滑块3输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider3">设置载具的滑块3输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider4">设置飞行器的滑块4输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.slider4">设置载具的滑块4输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.throttle">设置飞行器的节流阀输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.throttle">设置载具的节流阀输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateForward">设置飞行器的前向平移输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateForward">设置载具的前向平移输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateRight">设置飞行器的右向平移输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateRight">设置载具的右向平移输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateUp">设置飞行器的向上平移输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.translateUp">设置载具的向上平移输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.CraftInput.Tooltip.translationMode">设为零时禁用平移模式,非零时启用平移模式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.CraftInput.Tooltip.yaw">设置飞行器的偏航输入。</s>
+   <s id="Vizzy.Instruction.CraftInput.Tooltip.yaw">设置载具的偏航输入。</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.CraftInput.TranslateForward">前向平移</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17205,7 +17205,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.LockNavSphere.Current">当前方向</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Instruction.LockNavSphere.Error.NonPlayer">该航向锁定方法不支持非玩家飞行器。</s>
+   <s id="Vizzy.Instruction.LockNavSphere.Error.NonPlayer">该航向锁定方法不支持非玩家载具。</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.LockNavSphere.None">无</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17217,7 +17217,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.LockNavSphere.Tooltip.BurnNode">锁定航向至当前执行节点所需方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Instruction.LockNavSphere.Tooltip.Current">锁定航向至飞行器当前方向。</s>
+   <s id="Vizzy.Instruction.LockNavSphere.Tooltip.Current">锁定航向至载具当前方向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.LockNavSphere.Tooltip.None">解除当前航向锁定。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17233,9 +17233,9 @@
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.SetList">设置列表</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
-   <s id="Vizzy.Instruction.SetCraftProperty">设置飞行器属性</s>
+   <s id="Vizzy.Instruction.SetCraftProperty">设置载具属性</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
-   <s id="Vizzy.Instruction.SetCraftInput">设置飞行器输入</s>
+   <s id="Vizzy.Instruction.SetCraftInput">设置载具输入</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.SetCameraProperty">设置摄像机属性</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
@@ -17253,7 +17253,7 @@
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.LogFlight">记录飞行日志</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Instruction.SetTargetHeading.Error.NonPlayer">无法锁定导航球,因为这不是玩家飞行器。</s>
+   <s id="Vizzy.Instruction.SetTargetHeading.Error.NonPlayer">无法锁定导航球,因为这不是玩家载具。</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Instruction.SetTargetHeading.Heading">航向</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17271,7 +17271,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Instruction.SetTargetHeading.Tooltip.Pitch">设置导航球的目标俯仰角,单位为度。</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
-   <s id="Vizzy.Instruction.SwitchCraft">切换飞行器</s>
+   <s id="Vizzy.Instruction.SwitchCraft">切换载具</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
    <s id="Vizzy.Instruction.Speak">语音输出</s>
    <!-- Rec:20 Max:25 Font:Primary ; Vizzy instruction name -->
@@ -17526,9 +17526,9 @@
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Vizzy.TextInput.MustBeZeroToOne">输入必须是介于0和1之间的数字。</s>
    <!-- Rec:20 Max:22 Font:Primary ; Vizzy toolbox category -->
-   <s id="Vizzy.Toolbox.Category.CraftInformation">飞行器信息</s>
+   <s id="Vizzy.Toolbox.Category.CraftInformation">载具信息</s>
    <!-- Rec:20 Max:22 Font:Primary ; Vizzy toolbox category -->
-   <s id="Vizzy.Toolbox.Category.CraftInstructions">飞行器指令</s>
+   <s id="Vizzy.Toolbox.Category.CraftInstructions">载具指令</s>
    <!-- Rec:18 Max:20 Font:Primary ; Vizzy toolbox category -->
    <s id="Vizzy.Toolbox.Category.CustomExpressions">自定义表达式</s>
    <!-- Rec:18 Max:20 Font:Primary ; Vizzy toolbox category -->
@@ -17548,7 +17548,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Default.CommentText">注释文本</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Default.CraftName">飞行器名称</s>
+   <s id="Vizzy.Toolbox.Default.CraftName">载具名称</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Default.Item">项目</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17570,9 +17570,9 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.broadcast-msg">广播 (0) 携带数据 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.broadcast-msg-all-crafts">向附近飞行器广播 (0) 携带数据 (1)</s>
+   <s id="Vizzy.Toolbox.Format.broadcast-msg-all-crafts">向附近载具广播 (0) 携带数据 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.broadcast-msg-craft">向飞行器广播 (0) 携带数据 (1)</s>
+   <s id="Vizzy.Toolbox.Format.broadcast-msg-craft">向载具广播 (0) 携带数据 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
     <s id="Vizzy.Toolbox.Format.change-soi">当进入 |Vizzy.EventVariable.Planet| 引力影响范围时</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17584,11 +17584,11 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.contains">(0) 是否包含 (1)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.craft">飞行器 (0:零个或多个) [x]</s>
+   <s id="Vizzy.Toolbox.Format.craft">载具 (0:零个或多个) [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
     <s id="Vizzy.Toolbox.Format.craft-docked">当 |Vizzy.EventVariable.CraftA| 与 |Vizzy.EventVariable.CraftB| 对接时</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.craft-id">(0) 的飞行器编号</s>
+   <s id="Vizzy.Toolbox.Format.craft-id">(0) 的载具编号</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.create-mfd-widget">创建名为 (0) 的 [x] 控件</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17766,7 +17766,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.set-camera">将相机 [x] 设为 (0)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.set-heading">将飞行器 [x] 设为 (0)</s>
+   <s id="Vizzy.Toolbox.Format.set-heading">将载具 [x] 设为 (0)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.set-input">将 [x] 设为 (0:负一到一)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17818,7 +17818,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.substring">(2) 的第 (0:零个或多个) 到 (1:零个或多个) 个字符</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
-   <s id="Vizzy.Toolbox.Format.switch-craft">切换到飞行器 (0:零个或多个)</s>
+   <s id="Vizzy.Toolbox.Format.switch-craft">切换到载具 (0:零个或多个)</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.terrain-query">获取纬度/经度 (0) 处的地形 [x]</s>
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
@@ -17840,7 +17840,7 @@
    <!-- Rec:20 Max:30 Font:Primary ; Vizzy block label -->
    <s id="Vizzy.Toolbox.Format.while">当 {0} 时</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.activate-stage">激活飞行器中的下一级。</s>
+   <s id="Vizzy.Toolbox.Tooltip.activate-stage">激活载具中的下一级。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.activation-group">返回激活组的状态,True表示此激活组处于激活状态。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17848,11 +17848,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.broadcast-msg">将带有指定数据的消息发送到此程序中所有匹配的接受信息事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.broadcast-msg-all-crafts">将带有指定数据的消息发送至所有附近飞行器中所有匹配的接受信息事件,消耗的能量取决于消息大小。</s>
+   <s id="Vizzy.Toolbox.Tooltip.broadcast-msg-all-crafts">将带有指定数据的消息发送至所有附近载具中所有匹配的接受信息事件,消耗的能量取决于消息大小。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.broadcast-msg-craft">将带有指定数据的消息发送到此飞行器中所有匹配的接受信息事件。</s>
+   <s id="Vizzy.Toolbox.Tooltip.broadcast-msg-craft">将带有指定数据的消息发送到此载具中所有匹配的接受信息事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.change-soi">当飞行器进入某颗行星的SOI时触发此事件。</s>
+   <s id="Vizzy.Toolbox.Tooltip.change-soi">当载具进入某颗行星的SOI时触发此事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.change-variable">按指定量更改数字变量的值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17864,11 +17864,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.contains">如果左侧文本包含右侧文本,则返回true。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.craft">获取具有指定ID的飞行器的属性。</s>
+   <s id="Vizzy.Toolbox.Tooltip.craft">获取具有指定ID的载具的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.craft-docked">当此飞行器与另一飞行器对接时触发此事件。注意:对接后部件ID可能会改变。</s>
+   <s id="Vizzy.Toolbox.Tooltip.craft-docked">当此载具与另一载具对接时触发此事件。注意:对接后部件ID可能会改变。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.craft-id">查找具有指定名称的第一个飞行器的ID,如未找到则返回-1。如果未提供名称,则返回运行此程序的飞行器的ID。</s>
+   <s id="Vizzy.Toolbox.Tooltip.craft-id">查找具有指定名称的第一个载具的ID,如未找到则返回-1。如果未提供名称,则返回运行此程序的载具的ID。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.create-mfd-widget">创建具有指定类型和名称的MFD widget。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17886,7 +17886,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.false">false的常量值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.flight-start">当飞行器首次进入飞行场景时触发此事件。</s>
+   <s id="Vizzy.Toolbox.Tooltip.flight-start">当载具首次进入飞行场景时触发此事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.flightlog">将消息记录到飞行日志。如果第二个参数为true,则覆盖消息；为false时,每次都会写入新消息。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17980,9 +17980,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.part">获取具有指定ID的部件的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.part-collision">当飞行器中的某一部件与其他物体发生碰撞时触发此事件。</s>
+   <s id="Vizzy.Toolbox.Tooltip.part-collision">当载具中的某一部件与其他物体发生碰撞时触发此事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.part-explode">当飞行器中的某一部件爆炸时触发此事件。</s>
+   <s id="Vizzy.Toolbox.Tooltip.part-explode">当载具中的某一部件爆炸时触发此事件。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.part-id">查找具有指定名称的第一个部件的ID,如未找到则返回-1。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18008,7 +18008,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-fuel">返回剩余燃料。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-input">返回飞行器当前指定输入的值。返回的值在-1到1之间。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-input">返回载具当前指定输入的值。返回的值在-1到1之间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-mfd-event">获取当widget收到输入时要广播的消息名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18030,11 +18030,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-name">返回所选项的当前名称。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-nav">返回飞行器的指定导航属性。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-nav">返回载具的指定导航属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-orbit">返回轨道参数。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.prop-performance">返回飞行器的性能。</s>
+   <s id="Vizzy.Toolbox.Tooltip.prop-performance">返回载具的性能。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.prop-time">以秒为单位返回指定时间。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18048,9 +18048,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-camera">设置摄像机上的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-heading">设置飞行器应瞄准的俯仰角或航向。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-heading">设置载具应瞄准的俯仰角或航向。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-input">将选定的飞行器输入设为指定数值。数值必须在-1到1之间。例如,要将节流阀设为65%,请将其设为0.65。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-input">将选定的载具输入设为指定数值。数值必须在-1到1之间。例如,要将节流阀设为65%,请将其设为0.65。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-mfd-alignment">设置label文字的对齐方式。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18084,7 +18084,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-part">设置具有指定ID的部件的属性。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.set-target">设置飞行器当前的目标行星或飞行器。</s>
+   <s id="Vizzy.Toolbox.Tooltip.set-target">设置载具当前的目标行星或载具。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.set-time-mode">设置游戏当前的时间模式</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18094,7 +18094,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.substring">返回文本在起始和结束位置之间的字母。如果起始/结束指定为0,则使用文本的开头/结尾。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.Toolbox.Tooltip.switch-craft">切换到具有指定ID的飞行器。如果飞行器距离较远,此程序可能会停止执行。</s>
+   <s id="Vizzy.Toolbox.Tooltip.switch-craft">切换到具有指定ID的载具。如果载具距离较远,此程序可能会停止执行。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.Toolbox.Tooltip.terrain-query">获取指定(纬度,经度,0)向量处当前行星地形的信息。向量的z分量不使用。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -18202,7 +18202,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.UI.ProgramLoaded.Message">已加载程序</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.UI.ProgramSaved.Message">程序已保存到飞行器。</s>
+   <s id="Vizzy.UI.ProgramSaved.Message">程序已保存到载具。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.UI.ReadOnly.Message">Vizzy当前为只读模式,无法修改程序。&#10;升级至{0}以完全解锁Vizzy。</s>
    <!-- Rec:6 Max:8 Font:Primary ; vizzy ui button label -->
@@ -18222,9 +18222,9 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.UI.SaveProgram.Tooltip">将此程序保存到硬盘。</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
-   <s id="Vizzy.UI.SaveToCraft.Label">保存到飞行器</s>
+   <s id="Vizzy.UI.SaveToCraft.Label">保存到载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.UI.SaveToCraft.Tooltip">将更改保存到飞行器的飞行程序。</s>
+   <s id="Vizzy.UI.SaveToCraft.Tooltip">将更改保存到载具的飞行程序。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.UI.SelectionCannotBeDeleted.Prefix">无法删除所选内容:&#10;</s>
    <!-- Rec:6 Max:8 Font:Primary ; vizzy ui button label -->
