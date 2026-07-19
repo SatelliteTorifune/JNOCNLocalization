@@ -10839,7 +10839,7 @@
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.LandingGearData.BrakeTorque.Header">车轮设置</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.Common.BrakeTorque.Tooltip">刹车时施加在车轮上的扭矩。</s>
+   <s id="Parts.Common.BrakeTorque.Tooltip">制动时施加在车轮上的扭矩。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.LandingGearData.DamperScale.Label">悬挂阻尼</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -13541,7 +13541,7 @@
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.ActivationGroup9">激活组9</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Controls.Action.Brake">刹车</s>
+   <s id="Settings.Controls.Action.Brake">制动</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Controls.Action.CameraLookLeftRight">左右查看</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -16040,15 +16040,15 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Craft.Velocity">速度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Fuel.AllStages">所有级</s>
+   <s id="Vizzy.CraftProperty.Fuel.AllStages">所有分级</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Fuel.Battery">电池</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Fuel.FuelInStage">级</s>
+   <s id="Vizzy.CraftProperty.Fuel.FuelInStage">当前分级</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Fuel.Mono">单推进剂</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Input.Brake">刹车</s>
+   <s id="Vizzy.CraftProperty.Input.Brake">制动</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Input.Pitch">俯仰</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
