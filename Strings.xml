@@ -4055,11 +4055,11 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="CategoryNode.Payloads">有效载荷</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
-  <s id="CelestialBodyDesigner.AGL">AGL</s>
+  <s id="CelestialBodyDesigner.AGL">离地高度</s>
   <!-- Tooltip Font:Primary ; no length limit -->
-  <s id="CelestialBodyDesigner.AGLTooltip">海拔高度</s>
+  <s id="CelestialBodyDesigner.AGLTooltip">离地高度</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
-  <s id="CelestialBodyDesigner.ASL">ASL</s>
+  <s id="CelestialBodyDesigner.ASL">海拔</s>
   <!-- Tooltip Font:Primary ; no length limit -->
   <s id="CelestialBodyDesigner.ASLTooltip">海拔高度(海平面)</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -4071,7 +4071,7 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
   <s id="CelestialBodyDesigner.CameraRotateSpeed">摄像机 &#10;旋转速度</s>
   <!-- Tooltip Font:Primary ; no length limit -->
-  <s id="CelestialBodyDesigner.CameraRotateSpeedTooltip">调整摄像机和/或天体旋转移动的速度。</s>
+  <s id="CelestialBodyDesigner.CameraRotateSpeedTooltip">调整摄像机/或天体旋转移动的速度。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="CelestialBodyDesigner.CopyPositionTooltip">将当前摄像机位置的精确纬度和经度复制到剪贴板。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
