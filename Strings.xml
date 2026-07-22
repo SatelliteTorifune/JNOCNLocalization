@@ -6838,7 +6838,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.CommandPod.ReplicateStageAct.Tooltip">将此指令舱的分级状态同步到载具上的其他指令舱。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.Craft">载具</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.CraftMass">载具质量</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.Damage">损伤程度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Derivative">微分控制</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -6851,6 +6855,8 @@
    <s id="Flight.Inspector.DragScale">阻力大小</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.EngineThrust">发动机推力</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.EstDragForce">预计阻力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.EvaFollowCamera">出舱时跟随相机</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6896,6 +6902,8 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.HeatDamage">热损伤大小</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.HeatShield">隔热涂层</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.InfiniteFuel">无限燃料</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Integral">积分控制</s>
@@ -6906,6 +6914,8 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.MachNumber">马赫数</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.Mass">质量</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Max">最大</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Mono">单组元推进剂</s>
@@ -6915,6 +6925,8 @@
    <s id="Flight.Inspector.Orbital">轨道速度</s>
    <!--  -->
    <s id="Flight.Inspector.OverrideHeading.Tooltip">将此部件的方向作为载具的前进控制方向。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.PartId">部件编号</s>
    <!--  -->
    <s id="Flight.Inspector.OverrideHeading.Message">控制方向已更新</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -6953,6 +6965,8 @@
    <s id="Flight.Inspector.Surface">地面速度</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Flight.Inspector.Teleport">传送</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.Temp">温度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.TimeToApo">到轨道远点的时间</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10104,6 +10118,10 @@
    <s id="Parts.DockingPort.Status.Undocking">分离</s>
    <!-- Rec:10 Max:14 Font:Primary ; status label -->
    <s id="Parts.DockingPort.Status.Welded">已焊接</s>
+   <!--  -->
+   <s id="Parts.DockingPortData.Camera.Tooltip">对接口上的内置摄像头。关闭该功能会完全移除摄像头,这样此部件的价格会略低。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.DockingPortData.Camera.Label">对接口摄像机</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.DockingPortData.Header">对接口</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -14851,9 +14869,13 @@
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.MenuSunQuality.Low">低</s>
    <!--  -->
-   <s id="Settings.VisualEffects.ReEntryPlasmaBias.Description">控制再入等离子应何时开始,并达到最大强度的马赫数阈值倍数。值越低,等离子体视觉效果触发越早；值越高,则触发越晚.</s>
+   <s id="Settings.VisualEffects.ReEntryExtraEffects.Description">附近非玩家载具和大型碎片的再入等离子体效果(为主载具效果的一半分辨率)的的最大数量,设置为零可禁用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
-   <s id="Settings.VisualEffects.ReEntryPlasmaBias">重入等离子体偏差</s>
+   <s id="Settings.VisualEffects.ReEntryExtraEffects">额外再入效果数量</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryPlasmaBias.Description">控制再入等离子效果应何时开始,并达到最大强度的马赫数阈值倍数。值越低,等离子体视觉效果触发越早；值越高,则触发越晚.</s>
+   <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
+   <s id="Settings.VisualEffects.ReEntryPlasmaBias">再入效果阈值</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Off">关闭</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
@@ -15734,7 +15756,7 @@
    <!-- Font:Primary -->
    <s id="Ui.HeaderFontPath">Sans-SC</s>
    <!-- Font:Primary -->
-   <s id="Ui.HeaderFontStyle">普通</s>
+    <s id="Ui.HeaderFontStyle">Normal</s>
    <!-- Font:Primary -->
    <s id="Ui.PrimaryFontPath">Sans-SC</s>
    <!-- Rec:20 Max:22 ; property label -->
@@ -15744,20 +15766,81 @@
    <s id="Units.Acceleration.Abbrev.MetersPerSecondSquared">m/s2</s>
    <!-- Rec:1 Max:3 Font:Primary ; angle unit symbol -->
    <s id="Units.Angle.Abbrev.Degree">°</s>
+   <!-- Rec:5 Max:7 Font:Primary ; angular velocity unit abbreviation -->
+   <s id="Units.AngularVelocity.Abbrev.DegreesPerSecond">deg/s</s>
+   <!-- Rec:5 Max:7 Font:Primary ; density unit abbreviation -->
+   
+   <!-- Rec:1 Max:3 Font:Primary ; west hemisphere letter -->
+   <s id="Units.Coordinates.West">西</s>
+   <!-- Rec:5 Max:7 Font:Primary ; density unit abbreviation -->
+   <s id="Units.Density.Abbrev.GramsPerCubicMeter">g/m3</s>
+   <!-- Rec:1 Max:3 Font:Primary ; south hemisphere letter -->
+   <s id="Units.Coordinates.South">南</s>
+   <!-- Rec:1 Max:3 Font:Primary ; north hemisphere letter -->
+   <s id="Units.Coordinates.North">北</s>
+   <!-- Rec:1 Max:3 Font:Primary ; east hemisphere letter -->
+   <s id="Units.Coordinates.East">东</s>
+   <!-- Rec:8 Max:12 Font:Primary ; coordinates altitude label -->
+   <s id="Units.Coordinates.Altitude">高度</s>
+   <!-- Rec:5 Max:7 Font:Primary ; angular velocity unit abbreviation -->
+  
    <!-- Rec:3 Max:5 Font:Primary ; distance unit abbreviation -->
-   <s id="Units.Distance.Abbrev.Foot">ft</s>
+   <s id="Units.Distance.Abbrev.Foot">英尺</s>
    <!-- Rec:3 Max:5 Font:Primary ; area unit abbreviation -->
-   <s id="Units.Distance.Abbrev.FootArea">ft2</s>
+   <s id="Units.Distance.Abbrev.FootArea">平方英尺</s>
    <!-- Rec:3 Max:5 Font:Primary ; distance unit abbreviation -->
    <s id="Units.Distance.Abbrev.Meter">m</s>
    <!-- Rec:3 Max:5 Font:Primary ; area unit abbreviation -->
    <s id="Units.Distance.Abbrev.MeterArea">m2</s>
+   <!-- Rec:3 Max:5 Font:Primary ; area unit abbreviation -->
+   
+   <!-- Rec:3 Max:5 Font:Primary ; force unit abbreviation -->
+   <s id="Units.Force.Abbrev.PoundForce">lbf</s>
    <!-- Rec:3 Max:5 Font:Primary ; mass unit abbreviation -->
    <s id="Units.Mass.Abbrev.Gram">g</s>
+   <!-- Rec:1 Max:3 Font:Primary ; force unit abbreviation -->
+  
+   <!-- Rec:3 Max:5 Font:Primary ; energy unit abbreviation -->
+  
+   <!-- Rec:6 Max:8 Font:Primary ; distance unit, capitalized -->
+   <s id="Units.Distance.MetersUpper">m</s>
+   <!-- Rec:1 Max:3 Font:Primary ; force unit abbreviation -->
+   <s id="Units.Force.Abbrev.Newton">N</s>
+   <!-- Rec:3 Max:5 Font:Primary ; energy unit abbreviation -->
+   <s id="Units.Energy.Abbrev.WattHour">Wh</s>
+   <!-- Rec:6 Max:8 Font:Primary ; distance unit, lower case -->
+   <s id="Units.Distance.Meters">m</s>
+   <!-- Rec:6 Max:8 Font:Primary ; distance unit, capitalized -->
+   <s id="Units.Distance.FeetUpper">英尺</s>
+   <!-- Rec:6 Max:8 Font:Primary ; distance unit, lower case -->
+   <s id="Units.Distance.Feet">feet</s>
+   <!-- Rec:3 Max:5 Font:Primary ; mass unit abbreviation -->
+  
    <!-- Rec:3 Max:5 Font:Primary ; mass unit abbreviation -->
    <s id="Units.Mass.Abbrev.Pound">lbs</s>
+   <!-- Rec:3 Max:5 Font:Primary ; mass flow rate unit abbreviation -->
+   <s id="Units.MassFlowRate.Abbrev.GramsPerSecond">g/s</s>
    <!-- Rec:3 Max:5 Font:Primary ; mass unit abbreviation -->
    <s id="Units.Mass.Abbrev.Tonne">t</s>
+   <!-- Rec:3 Max:5 Font:Primary ; mass unit abbreviation -->
+ 
+   <!-- Rec:1 Max:3 Font:Primary ; metric prefix (thousandths) -->
+   <s id="Units.MetricPrefix.Milli">m</s>
+   <!-- Rec:1 Max:3 Font:Primary ; metric prefix (millions) -->
+   <s id="Units.MetricPrefix.Mega">M</s>
+   <!-- Rec:1 Max:3 Font:Primary ; metric prefix (thousands) -->
+   <s id="Units.MetricPrefix.Kilo">k</s>
+   <!-- Rec:1 Max:3 Font:Primary ; metric prefix (billions) -->
+   <s id="Units.MetricPrefix.Giga">G</s>
+   <!-- Rec:1 Max:3 Font:Primary ; metric prefix (hundredths) -->
+   <s id="Units.MetricPrefix.Centi">c</s>
+   <!-- Rec:5 Max:7 Font:Primary ; memory size unit -->
+   <s id="Units.Memory.Abbrev.Bytes">字节</s>
+   <!-- Rec:1 Max:3 Font:Primary ; byte unit abbreviation, combined with the metric prefixes -->
+   <s id="Units.Memory.Abbrev.Byte">比特</s>
+   <!-- Rec:5 Max:7 Font:Primary ; mass flow rate unit abbreviation -->
+   <s id="Units.MassFlowRate.Abbrev.PoundsPerSecond">lbs/s</s>
+   <!-- Rec:3 Max:5 Font:Primary ; mass flow rate unit abbreviation -->
    <!-- Rec:1 Max:3 Font:Primary ; money magnitude abbreviation (billions) -->
    <s id="Units.Money.Abbrev.Billion">B</s>
    <!-- Rec:1 Max:3 Font:Primary ; money magnitude abbreviation (millions) -->
@@ -15766,6 +15849,18 @@
    <s id="Units.Money.Abbrev.Thousand">k</s>
    <!-- Rec:1 Max:3 Font:Primary ; currency symbol -->
    <s id="Units.Money.Symbol">$</s>
+   <!-- Rec:3 Max:5 Font:Primary ; temperature unit abbreviation -->
+   <s id="Units.Temperature.Abbrev.Fahrenheit">°F</s>
+   <!-- Rec:3 Max:5 Font:Primary ; temperature unit abbreviation -->
+   <s id="Units.Temperature.Abbrev.Celsius">°C</s>
+   <!-- Rec:1 Max:3 Font:Primary ; ratio multiplier suffix -->
+   <s id="Units.Ratio.Abbrev.Times">x</s>
+   <!-- Rec:3 Max:5 Font:Primary ; shown when a value is not available -->
+   <s id="Units.NotAvailable">无</s>
+   <!-- Rec:3 Max:5 Font:Primary ; pressure unit abbreviation -->
+   <s id="Units.Pressure.Abbrev.Pascal">Pa</s>
+   <!-- Rec:1 Max:3 Font:Primary ; power unit abbreviation -->
+   <s id="Units.Power.Abbrev.Watt">W</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
    <s id="Units.Time.Abbrev.Day">天</s>
    <!-- Rec:3 Max:5 Font:Primary ; time unit abbreviation -->
@@ -15784,10 +15879,18 @@
    <s id="Units.Time.Hours">小时</s>
    <!-- Rec:6 Max:8 Font:Primary ; time unit -->
    <s id="Units.Time.Years">年</s>
+   <!-- Rec:3 Max:5 Font:Primary ; torque unit abbreviation -->
+   <s id="Units.Torque.Abbrev.NewtonMeter">Nm</s>
+   <!-- Rec:3 Max:5 Font:Primary ; torque unit abbreviation -->
    <!-- Rec:3 Max:5 Font:Primary ; velocity unit abbreviation -->
    <s id="Units.Velocity.Abbrev.MetersPerSecond">m/s</s>
    <!-- Rec:3 Max:5 Font:Primary ; velocity unit abbreviation -->
    <s id="Units.Velocity.Abbrev.MilesPerHour">mph</s>
+   <!-- Rec:1 Max:3 Font:Primary ; volume unit abbreviation -->
+   <!-- Rec:3 Max:5 Font:Primary ; volume unit abbreviation -->
+   <s id="Units.Volume.Abbrev.Gallon">gal</s>
+   <!-- Rec:1 Max:3 Font:Primary ; volume unit abbreviation -->
+   <s id="Units.Volume.Abbrev.Liter">L</s>
    <!-- Rec:16 Max:22 Font:Primary ; account label fallback -->
    <s id="Upload.AccountLoginPrompt">登录 / 注册</s>
    <!-- Font:Primary -->
