@@ -2517,7 +2517,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Packages-mountain.Short">把一些补给送到营地。</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Packages-mountain.Long">我们需要把补给送到山顶的营地。开车也好,飞过去也好,我们不在乎方式,送到就行。小心别撞到帐篷,如今它们做得跟石头一样结实。&lt;br&gt;&lt;br&gt;这些货物可以放到你的载具上,但它们不会粘在上面,所以你得自己想办法既不让它们掉下来,又能在到达地点后放下。你可以凭白色的连接点来识别这些非粘性货物。</s>
+   <s id="Career.Contracts.Packages-mountain.Long">我们需要把补给送到山顶的营地。开车也好,飞过去也好,我们不在乎方式,送到就行。小心别撞到帐篷,如今它们做得跟石头一样结实。&lt;br&gt;&lt;br&gt;这些货物可以放到你的载具上,但它们不会粘在上面,所以你得自己想办法既不让它们掉下来,又能在到达地点后放下。你可以凭白色的连接点来识别这些没有连接点的货物。</s>
    <!-- Font:Primary -->
    <s id="Career.Contracts.Record-airspeed.Name">惊人的速度</s>
    <!-- Font:Primary -->
@@ -3925,7 +3925,7 @@
    <!-- Font:Primary -->
    <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.Description">确保经度为 39°E</s>
    <!-- Font:Primary -->
-   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.PartCount-Payload-Sat-4.Description">释放货物</s>
+   <s id="Career.Contracts.Observation.Req.TrackedLaunch.Planet-Droo.PartCount-Payload-Sat-4.Orbit.Orbit.Orbit.Expression.PartCount-Payload-Sat-4.Description">释放载荷</s>
    <!-- Contract 'First-flyby' requirements Font:Primary -->
    <s id="Career.Contracts.First-flyby.Req.TrackedLaunch.Planet-Droo.Description">从Droo出发</s>
    <!-- Font:Primary -->
