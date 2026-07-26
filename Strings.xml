@@ -5397,6 +5397,8 @@
    <s id="Flight.NavSphere.IndicatorType.Down">下</s>
    <!-- Rec:6 Max:10 Font:Primary ; nav sphere indicator name -->
    <s id="Flight.NavSphere.IndicatorType.East">东</s>
+   <!-- Rec:6 Max:10 Font:Primary ; nav sphere indicator name -->
+   <s id="Flight.NavSphere.IndicatorType.West">西</s>
    <!-- Rec:14 Max:20 Font:Primary ; nav sphere indicator name -->
    <s id="Flight.NavSphere.IndicatorType.ManeuverNode">机动节点</s>
    <!-- Rec:8 Max:12 Font:Primary ; nav sphere indicator name -->
@@ -6558,7 +6560,7 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Dialog.SearchPlaceholder">搜索……</s>
    <!-- Rec:12 Max:16 Font:Primary ; medium button label -->
-   <s id="Dialog.Select">搜索</s>
+   <s id="Dialog.Select">选择</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.ActivationPanel.NoGroups">无激活组</s>
    <!-- Rec:3 Max:5 Font:Primary ; HUD altitude-mode short label -->
