@@ -4197,7 +4197,7 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyProperties.AutoUpdateGravityLabel">自动更新重力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="CelestialBodyProperties.AutoUpdateGravityTooltip">当半径变化时自动更新表面重力。</s>
+   <s id="CelestialBodyProperties.AutoUpdateGravityTooltip">当半径变化时自动更新表面重力加速度。</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="CelestialBodyProperties.DeleteButton">删除</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -4255,11 +4255,11 @@
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyProperties.RadiusLabel">半径</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="CelestialBodyProperties.RadiusTooltip">天体的半径,单位为米。</s>
+   <s id="CelestialBodyProperties.RadiusTooltip">天体的半径,单位为m。</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyProperties.SurfaceGravityLabel">表面重力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="CelestialBodyProperties.SurfaceGravityTooltip">天体的表面重力,单位为米每二次方秒。</s>
+   <s id="CelestialBodyProperties.SurfaceGravityTooltip">天体的表面重力加速度,单位为m/s2</s>
    <!-- Rec:8 Max:10 Font:Primary ; planet studio inspector property label -->
    <s id="CelestialBodyProperties.TargetResolutionLabel">目标分辨率</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6896,11 +6896,11 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.FuelTank.TankSet.Order.Tooltip">获取该燃料箱在其燃料箱集合中的顺序。顺序最低的燃料箱会优先被使用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Grav">重力</s>
+   <s id="Flight.Inspector.Grav">重力加速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.Gravity">重力</s>
+   <s id="Flight.Inspector.Gravity">重力加速度</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
-   <s id="Flight.Inspector.GravityScale">重力大小</s>
+   <s id="Flight.Inspector.GravityScale">重力加速度大小</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.HeatDamage">热损伤大小</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -12547,7 +12547,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.Biomes.Part3">有些星球通过数值而非高度来定义子生物群系,这要求每个生物群系使用"子生物群系(基于数值)"星球属性。这可以更灵活,更容易在不改变子生物群系范围的情况下缩放星球地形特征,但设置更复杂,操作不够直观。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="PlanetStudio.Help.CelestialBodyDesigner">天体设计器是您构建自定义天体(即星球)的地方。多个弹出面板让您自定义星球的不同部分。&#10;&#10;属性弹出面板包含一般信息,如半径,重力,大气设置等。设置有详细的工具提示,请阅读以了解特定设置的详情。&#10;&#10;某些设置会立即生效,但其他设置需要"重建星球",通过屏幕右上角天体检查器面板中的重建按钮完成。当需要重建时,按钮会变蓝,如下所示。</s>
+   <s id="PlanetStudio.Help.CelestialBodyDesigner">天体设计器是您构建自定义天体(即星球)的地方。多个弹出面板让您自定义星球的不同部分。&#10;&#10;属性弹出面板包含一般信息,如半径,重力加速度,大气设置等。设置有详细的工具提示,请阅读以了解特定设置的详情。&#10;&#10;某些设置会立即生效,但其他设置需要"重建星球",通过屏幕右上角天体检查器面板中的重建按钮完成。当需要重建时,按钮会变蓝,如下所示。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetStudio.Help.DataFlow">一个星球属性可以通过将数据写入数据槽来传递给另一个属性。只有10个槽位,写入一个会覆盖其中的任何内容。&#10;&#10;在高级视图中,切换数据流面板以查看属性之间的数据流向。在下面的示例中,噪声属性写入槽位3；下一个属性,基础算术,从槽位3读取并将其输出写入槽位4。槽位3的数据保持不变,因为基础算术没有覆盖它。蓝色块是输出；U形块是输入。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17015,7 +17015,7 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.Drag">当前行星惯性坐标系中的阻力,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Vizzy.CraftProperty.Tooltip.Vel.Gravity">当前行星惯性坐标系中的重力,单位为m/s²。</s>
+   <s id="Vizzy.CraftProperty.Tooltip.Vel.Gravity">当前行星惯性坐标系中的重力加速度,单位为m/s²。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Vizzy.CraftProperty.Tooltip.Vel.LateralSurfaceVelocity">当前切于行星表面的横向速度,单位为m/s。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -17033,7 +17033,7 @@
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Vel.Drag">阻力</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
-   <s id="Vizzy.CraftProperty.Vel.Gravity">重力</s>
+   <s id="Vizzy.CraftProperty.Vel.Gravity">重力加速度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
    <s id="Vizzy.CraftProperty.Vel.LateralSurfaceVelocity">横向速度</s>
    <!-- Rec:24 Max:30 Font:Primary ; Vizzy craft property -->
