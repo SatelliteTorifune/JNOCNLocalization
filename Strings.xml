@@ -15837,9 +15837,9 @@
    <!-- Rec:1 Max:3 Font:Primary ; metric prefix (hundredths) -->
    <s id="Units.MetricPrefix.Centi">c</s>
    <!-- Rec:5 Max:7 Font:Primary ; memory size unit -->
-   <s id="Units.Memory.Abbrev.Bytes">字节</s>
+   <s id="Units.Memory.Abbrev.Bytes">B</s>
    <!-- Rec:1 Max:3 Font:Primary ; byte unit abbreviation, combined with the metric prefixes -->
-   <s id="Units.Memory.Abbrev.Byte">比特</s>
+   <s id="Units.Memory.Abbrev.Byte">bytes</s>
    <!-- Rec:5 Max:7 Font:Primary ; mass flow rate unit abbreviation -->
    <s id="Units.MassFlowRate.Abbrev.PoundsPerSecond">lbs/s</s>
    <!-- Rec:3 Max:5 Font:Primary ; mass flow rate unit abbreviation -->
