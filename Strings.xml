@@ -2059,7 +2059,7 @@
    <!-- Rec:25 Max:25 Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Name">截尖式气尖喷管</s>
    <!--  -->
-   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Description">虽然它也是一款气尖发动机,但我们不得不采取一些简化措施，虽然效率没那么高，但重量稍微轻一点。</s>
+   <s id="Career.TechTree.Items.RocketEngine.Nozzle.AerospikeTruncated.Description">虽然它也是一款气尖发动机,但我们不得不采取一些简化措施,虽然效率没那么高,但重量稍微轻一点。</s>
    <!-- Font:Primary -->
    <s id="Career.TechTree.Items.RocketEngine.Nozzle.Aerospike.Description">与钟形或锥形喷管相比,气尖喷管在各种高度范围内均表现出更优异的性能</s>
    <!-- Font:Primary -->
@@ -4379,6 +4379,16 @@
    <!-- Rec:8 Max:10 Font:Primary ; common short label -->
    <s id="Common.Yes">是</s>
    <!--  -->
+   <s id="Craft.LoadError.ModifierTypesFormat">部件属性类型:&amp;#10;{0}</s>
+   <!--  -->
+   <s id="Craft.LoadError.ModifierFailuresFormat">未能加载位于{1}种不同类型中的{0}个部件属性</s>
+   <!--  -->
+   <s id="Craft.LoadError.MissingPartTypesFormat">缺少的零件种类:&amp;#10;{0}</s>
+   <!--  -->
+   <s id="Craft.LoadError.MissingPartsFormat">未能加载由{1}种不同部件类型组成的{0}个部件。5215</s>
+   <!--  -->
+   <s id="Craft.LoadError.LoadFailed">尝试加载载具时出错。</s>
+   <!--  -->
    <s id="Craft.LoadNewerVersion.MessageFormat">此载具需要更新版本的游戏,否则可能无法正常加载。请检查您的应用商店并下载最新版本的{0}。您是否仍想尝试加载?</s>
    <!-- Rec:10 Max:14 Font:Primary ; medium button label -->
    <s id="Craft.LoadNewerVersion.LoadButton">加载载具</s>
@@ -5201,6 +5211,10 @@
    <s id="DesignerParts.ToggleSwitch1.ToggleSwitch.Description">拨动时切换状态。</s>
    <!-- Rec:22 Max:26 Font:Primary ; DesignerPart presets from Wing1.xml -->
    <s id="DesignerParts.Wing1.Wing.Name">机翼</s>
+   <!-- Rec:8 Max:10 Font:Primary ; common short label -->
+   <s id="DevConsole.ExecuteButton">执行</s>
+   <!-- Rec:8 Max:10 Font:Primary ; common short label -->
+   <s id="DevConsole.CloseButton">关闭</s>
    <!-- Font:Primary -->
    <s id="DesignerParts.Wing1.Wing.Description">为飞机设计的较大机翼段。</s>
    <!-- Font:Primary -->
@@ -5235,6 +5249,8 @@
    <s id="Download.ContentResult.CommunicationFailure">下载失败。请检查你的网络连接后再试。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="ErrorMonitoring.UnreportedErrorsPrompt">看起来之前发生了问题。愿意帮助改进游戏吗?点击确定向我们发送错误报告。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.ActivationPanel.DefaultGroupName">Activation Group</s>
    <!-- Font:Primary -->
    <s id="Flight.Benchmark.CommentPrompt">为基准测试输入注释。</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -5492,10 +5508,16 @@
    <s id="Levels.DockingPractice.Docked">对接成功!({0})</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.DockingPractice.DockingProgress">对接中 {0} ({1})</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.EnableTranslationMode">现在启用平移模式,这样你就可以直线移动你的载具,而不是旋转了。</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.EnableAnalogSticks">开启模拟摇杆以控制你的载具</s>
    <!-- Rec:22 Max:30 Font:Primary ; mission goal label -->
    <s id="Levels.DockingPractice.GoalDockWithSatellite">与卫星对接</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Levels.DockingPractice.GoalDockWithSatelliteTimed">与卫星对接 ({0})</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.LockHeading">现在将载具的朝向锁定为目标方向</s>
    <!-- Font:Primary -->
    <s id="Levels.EsaJuice.DeltaVUsedFormat">速度增量使用量:{0:F2} m/s</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -6218,8 +6240,6 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.MirrorCraft.Text">镜像载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Design.Symmetry.MirrorCraft.Tooltip">镜像整个载具。</s>
-   <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Design.Symmetry.MirrorMode.Tooltip">切换到镜像对称模式。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Design.Symmetry.MirrorPosition.Text">镜像位置n</s>
@@ -6805,6 +6825,10 @@
    <s id="Flight.InputSlider.YAW">偏航</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Acceleration">加速度</s>
+   <!--  -->
+   <s id="Flight.Inspector.Activate.Tooltip">激活此零件</s>
+   <!-- Rec:20 Max:27 Font:Primary ; section header -->
+   <s id="Flight.Inspector.Actions">动作</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.ActiveStage">当前分级</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6840,11 +6864,15 @@
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Flight.Inspector.CommandPod.ReplicateStageAct.Tooltip">将此指令舱的分级状态同步到载具上的其他指令舱。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Flight.Inspector.Contract">合同</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Craft">载具</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.CraftMass">载具质量</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Damage">损伤程度</s>
+   <!--  -->
+   <s id="Flight.Inspector.Deactivate.Tooltip">关闭此零件</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Derivative">微分控制</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -6861,8 +6889,12 @@
    <s id="Flight.Inspector.EstDragForce">预计阻力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.EvaFollowCamera">出舱时跟随相机</s>
+   <!--  -->
+   <s id="Flight.Inspector.Explode.Tooltip">引爆这个部件,请谨慎使用,或者干脆别用,总之你自己说了算.</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.FlightInfo">飞行数据</s>
+   <!--  -->
+   <s id="Flight.Inspector.FocusCamera.Tooltip">聚焦于此部件</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Flight.Inspector.Fuel">燃料</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -6953,6 +6985,8 @@
    <s id="Flight.Inspector.Roll">滚转</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.RollPid">滚转 Pid</s>
+   <!--  -->
+   <s id="Flight.Inspector.SelectCommandPod.Tooltip">选中控制此部件的指令舱.</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Flight.Inspector.SelectPort">选择对接口</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
@@ -6965,6 +6999,8 @@
    <s id="Flight.Inspector.StageIsp">分级比冲</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Flight.Inspector.Surface">地面速度</s>
+   <!--  -->
+   <s id="Flight.Inspector.TargetPart.Tooltip">设置此部件为目标</s>
    <!-- Rec:16 Max:20 Font:Primary ; large button label -->
    <s id="Flight.Inspector.Teleport">传送</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7479,8 +7515,16 @@
    <s id="Flight.SwitchLocation.ButtonText">切换地点</s>
    <!-- Rec:17 Max:17 Font:Header ; list view title -->
    <s id="Flight.SwitchLocation.Title">切换地点</s>
+   <!-- Rec:14 Max:20 Font:Primary ; map view encounter gizmo label -->
+   <s id="Flight.Targeting.ApproachInfo">目标交会信息</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Targeting.CannotSetTarget">无法设置目标.</s>
+   <!-- Rec:20 Max:28 Font:Primary ; context menu item -->
+   <s id="Flight.Targeting.ShowEncounterInfo">显示交会信息</s>
+   <!-- Rec:20 Max:28 Font:Primary ; context menu item -->
+   <s id="Flight.Targeting.HideEncounterInfo">隐藏交会信息</s>
+   <!-- Rec:22 Max:28 Font:Primary ; map view encounter gizmo label -->
+   <s id="Flight.Targeting.ClosestApproachInfo">最近交会距离</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Targeting.TargetingFormat">目标设置为 {0}</s>
    <!-- Toast Font:Primary ; no length limit -->
@@ -7537,6 +7581,10 @@
    <s id="Flight.TimePanel.WarpSpeed">时间加速</s>
    <!-- Rec:14 Max:18 Font:Primary ; menu flyout button label -->
    <s id="Flight.ToggleFPSButton.Text">显示FPS</s>
+   <!--  -->
+   <s id="Flight.TranslationMode.Enabled">平移模式已启用</s>
+   <!--  -->
+   <s id="Flight.TranslationMode.Disabled">平移模式已关闭</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Flight.Tutorial.AutoActivatedStage">我替你提前激活了那个分级。不用客气</s>
    <!-- Tutorial panel Font:Primary ; no length limit -->
@@ -7636,7 +7684,7 @@
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/LH2.Name">液氢液氧</s>
    <!--  -->
-   <s id="Fuel.LOX/RP1.Description">用于火箭发动机的液氧煤油。价格低廉,不算太低温,因此使用起来更安全、更方便。缺点是它的效率不如其他一些燃料高。</s>
+   <s id="Fuel.LOX/RP1.Description">用于火箭发动机的液氧煤油。价格低廉,不算太低温,因此使用起来更安全,更方便。缺点是它的效率不如其他一些燃料高。</s>
    <!-- Rec:18 Max:24 Font:Primary ; fuel name -->
    <s id="Fuel.LOX/RP1.Name">液氧煤油</s>
    <!--  -->
@@ -7727,10 +7775,16 @@
    <s id="Levels.DesignerTutorial.Description">我可以教你如何建造火箭。大约只需要10分钟,但这些知识会让你受益终身!会很有趣的!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.DesignerTutorial.Name">设计器教程</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.ApproachCraft">现在,小心接近目标载具,直到你的对接口与其对接口相接触。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.DockingPractice.Description">练习与卫星对接。只需缓缓向前,让对接口轻轻触碰卫星。一旦进入近距离,对接口会施加微小的磁力来帮助两个对接口对齐。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Levels.DockingPractice.Name">对接练习</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.SetAsTarget">现在我们将其设置为目标.</s>
+   <!--  -->
+   <s id="Levels.DockingPractice.SelectDockingPort">首先我们需要选中卫星的对接口</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Levels.EsaJuice.Description">欧洲航天局首次使用木星冰卫星探测器访问木星。&#10;&#10;为了纪念这一时刻,你能将 JUICE 带到 Tydos 吗?燃料有限,所以你可能需要一些引力辅助,请尽量降低速度增量 的使用量!</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -7981,8 +8035,6 @@
    <s id="Menu.ListView.Size">尺寸</s>
    <!-- Rec:14 Max:18 Font:Primary ; long button label (tightened) -->
    <s id="Menu.LoadCraft.Title">加载载具</s>
-   <!-- Font:Primary -->
-   <s id="Menu.LoadCraft.Tooltip">加载一个不同的载具</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Menu.LoadCraftTooltip">从硬盘中加载一个已有的载具.</s>
    <!-- Rec:12 Max:14 Font:Header ; main menu button -->
@@ -8409,6 +8461,26 @@
     <s id="Modifier.ColorBands.MaxInputValueTooltip">预期的最大输入值。与最小值一起使用时,这会设置输入数据值的预期范围,以便将其重新映射到0到1的范围。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.ColorBands.MinInputValueTooltip">预期的最小输入值。与最大值一起使用,以确定输入数据的预期范围并将其重新映射到0到1的范围。</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.Zero">零</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.SourceColor">源颜色</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.SourceAlpha">源Alpha</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.OneMinusSourceColor">一减源颜色</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.OneMinusSourceAlpha">一减源Alpha</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.OneMinusDestinationColor">一减目标颜色</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.OneMinusDestinationAlpha">一减目标Alpha</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.One">一</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.DestinationColor">目标颜色</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.ColorBlend.ColorBlendType.DestinationAlpha">目标Alpha</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.ColorBlend.ColorLabel">颜色</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8807,6 +8879,12 @@
     <s id="Modifier.GenerateHeight.DisplayName">生成高度</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.GenerateHeight.DisplayName.Header">生成高度</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.GenerateHeight.GenerateHeightTypeLabel">高度类型</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GenerateHeight.GenerateHeightType.LerpToFromZero">向/从零线性插值</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GenerateHeight.GenerateHeightType.LerpMinToMax">从最小值线性插值到最大值</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.GenerateHeight.GenerateHeightTypeTooltip">如何解释数据输入以生成高度输出。从最小到最大线性插值:高度根据输入值及其指定范围从最小值线性插值到最大值。插值到/从零点:如果输入为负,则从最小值线性插值到零；如果为正,则从零线性插值到最大值。如果最小和最大高度不跨越零,请勿使用此选项。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8829,6 +8907,8 @@
     <s id="Modifier.GetBiomeStrength.DisplayName">获取群系强度</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.GetBiomeStrength.DisplayName.Header">获取群系强度</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.GetCombinedBiomeStrength.BiomeIndexesLabel">群系指数</s>
     <!-- Font:Primary -->
     <s id="Modifier.GetCombinedBiomeStrength.DataIndexOutputDataSlotTooltip">存储组合群系强度(通常为0到1之间的值)的输出。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8875,6 +8955,14 @@
     <s id="Modifier.GetHeight.DisplayName">获取高度</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.GetHeight.DisplayName.Header">获取高度</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GetHeight.HeightType.Default">默认</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GetHeight.HeightType.CommonHeight">通用高度</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GetHeight.HeightType.CombinedHeight">组合高度</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.GetHeight.HeightType.BiomeHeight">群系高度</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.GetHeight.HeightTypeLabel">高度类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -8939,12 +9027,22 @@
     <s id="Modifier.Interpolate.PowerExponentLabel">幂指数</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.Interpolate.PowerExponentTooltip">插值值在根据最小/最大输入值重新映射到0到1范围后要取的指数。值为1给出线性插值。大于或小于1的值使插值在曲线上发生。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.LayeredBiomes.BiomeLayersLabel">群系层级</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.LayeredBiomes.BiomeInputsLabel">群系输入</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.LayeredBiomes.Description">定义水平分层排列的群系的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.LayeredBiomes.DisplayName">群系 (层级)</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.LayeredBiomes.DisplayName.Header">群系 (层级)</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.LayeredBiomes.InputType.SingleBiome">单个群系</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.LayeredBiomes.InputType.DualBiome_PositiveAndRemainder">双群系正和剩余</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Modifier.LayeredBiomes.InputType.DualBiome_NegativeAndPositive">双群系负和正</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.LayeredBiomes.InputTypeLabel">类型</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9021,10 +9119,14 @@
     <s id="Modifier.PolarCapMask.DisplayName">极冠遮罩</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.PolarCapMask.DisplayName.Header">极冠遮罩</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.PolarCapMask.NorthPoleLabel">北极点</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.PolarCapMask.NorthPoleNoiseInputDataSlotName">北极噪声输入</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.PolarCapMask.RotationLabel">旋转</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.PolarCapMask.SouthPoleLabel">南极点</s>
     <!-- Rec:20 Max:22 Font:Primary ; property label -->
     <s id="Modifier.PolarCapMask.SouthPoleNoiseInputDataSlotName">南极噪声输入</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9118,6 +9220,8 @@
     <s id="Modifier.SimpleBiomeRedistribution.DisplayName">群系重分配</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.SimpleBiomeRedistribution.DisplayName.Header">群系重分配</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.SimpleBiomes.BiomesLabel">群系</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.SimpleBiomes.DataIndexInputDataSlotTooltip">与群系范围值一起确定应分配的群系的数据输入值。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9160,6 +9264,8 @@
     <s id="Modifier.Terraces2.DisplayName">梯田</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.Terraces2.DisplayName.Header">梯田</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.Terraces2.TerracesLabel">梯田</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.TerracesSection.FlatnessLabel">平坦度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
@@ -9178,6 +9284,8 @@
     <s id="Modifier.TextureData.DisplayName">纹理数据 (立方体贴图面)</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.TextureData.DisplayName.Header">纹理数据 (立方体贴图面)</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.TextureData.TexturesLabel">材质纹理</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.TextureData2.Description">用于从纹理读取数据并使用经纬度坐标将其投影到星球表面的星球属性。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -9382,10 +9490,16 @@
     <s id="Modifier.VertexDataNoise.DataIndexDataSlotTooltip">此噪声属性的输出。许多噪声方法限制在-1到1之间,但并不总是如此。</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.Description">可用于生成各种噪声的高度可配置的星球属性。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.DisplacementLabel">位移</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.DisplayName">噪声</s>
     <!-- Rec:14 Max:17 Font:Header ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.DisplayName.Header">噪声</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.FractalAmplitudesLabel">分形振幅</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.DomainWarpingLabel">区域扭曲</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
     <s id="Modifier.VertexDataNoise.FractalAmplitudeType.Default">默认</s>
     <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
@@ -9452,6 +9566,8 @@
     <s id="Modifier.VertexDataNoise.Interpolation.Quintic">五次</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.InterpolationTooltip">噪声使用的插值方法。线性是最快且质量最低的。五次是最慢且质量最好的。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.LacunaritiesLabel">空隙度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.LacunarityTooltip">决定每个连续倍频频率增加速度的乘数。</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
@@ -9476,6 +9592,8 @@
     <s id="Modifier.VertexDataNoise.MapNoiseCombineLabel">地图噪声组合</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.MapNoiseCombineTooltip">如果启用且使用了立方体贴图,常规噪声将与立方体贴图噪声组合。如果为false,则只返回立方体贴图噪声值。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.MapNoiseOctaveSkipLabel">映射噪声八度跳跃</s>
     <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
     <s id="Modifier.VertexDataNoise.MapNoiseStrengthLabel">地图噪声强度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -9534,6 +9652,8 @@
     <s id="Modifier.VertexDataNoise.StrengthLabel">强度</s>
     <!-- Tooltip Font:Primary ; no length limit -->
     <s id="Modifier.VertexDataNoise.StrengthTooltip">噪声的振幅。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; planet modifier label -->
+   <s id="Modifier.VertexDataNoise.UseDistanceLabel">使用距离</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Mods.Required.AuthorFormat">作者: {0}</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -9959,6 +10079,8 @@
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
    <s id="Parts.ControlSurfaceData.Header">控制舵面</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.ControlSurfaceData.Input.Label">输入</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.Common.Invert.Label">反转</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ControlSurfaceData.Invert.Tooltip">如果启用,控制面的偏转角度将被反转。</s>
@@ -10166,6 +10288,8 @@
    <s id="Parts.ElectricMotorData.ThrottleGovernorEnabled.Label">节流阀调节器</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ElectricMotorData.ThrottleGovernorEnabled.Tooltip">如果启用,电机的节流阀输入将作为转速输入,通过调整节流阀来保持所需的转速(只要电机功率足够)。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.ElectricMotorData.Torque.Label">扭矩</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ElectricMotorData.Torque.Tooltip">改变电机施加的扭矩。</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -10623,6 +10747,8 @@
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.BladePitch">桨叶桨距</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.InspectorModel.BrakeTorque">制动力矩</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.CoreThrust">核心推力</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.InspectorModel.EffectiveAoA">有效迎角</s>
@@ -10778,6 +10904,8 @@
    <s id="Parts.JointRotatorData.Header">旋转关节</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.JointRotatorData.Range.FreeSpin">自由旋转</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.JointRotatorData.Range.Label">范围</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.JointRotatorData.Range.Tooltip">改变旋转范围。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10790,6 +10918,8 @@
    <s id="Parts.JointRotatorData.Speed.Disabled">已禁用</s>
    <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
    <s id="Parts.JointRotatorData.Speed.Floppy">松弛</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.JointRotatorData.Speed.Label">速度</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.JointRotatorData.Speed.Tooltip">改变零件的旋转速度。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
@@ -10798,6 +10928,8 @@
    <s id="Parts.JointRotatorScript.AngleOffset.Tooltip">偏移输入施加的旋转量。组合值会被限制在零件的行程范围内。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.JointRotatorScript.PowerConsumption.Tooltip">伺服电机的功耗。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.KomodoNoseConeData.Scale.Label">尺寸</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.LabelData.CurvatureAngle.Label">曲率</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11204,6 +11336,8 @@
    <s id="Parts.PayloadData.Contract.Label">合同</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PayloadData.Contract.Tooltip">通常自动即可,但若尝试用同类型载荷同时完成多个合同,则可能需要手动将特定合同与特定载荷关联。</s>
+   <!-- Rec:20 Max:27 Font:Primary ; section header -->
+   <s id="Parts.PayloadData.Header">载荷</s>
    <!-- Rec:40 Max:50 Font:Primary ; inline warning label -->
    <s id="Parts.PayloadData.NotConnected.Label">此载荷未连接到载具。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11216,6 +11350,8 @@
    <s id="Parts.Piston.EditMessageExtending">当零件连接到活塞活动端时,无法改变方向和尺寸。</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="Parts.Piston.EditMessageRetracting">当零件连接到正在收缩的活塞活动端时,无法改变行程,方向和尺寸。</s>
+   <!-- Rec:20 Max:22 Font:Primary ; property label -->
+   <s id="Parts.PistonData.Cycle.Label">循环</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PistonData.Cycle.Tooltip">启用后,活塞将在输入持续期间反复伸缩。</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
@@ -11274,10 +11410,14 @@
    <s id="Parts.PropellerAssemblyData.MaxPitch.Label">桨距</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.PropellerAssemblyData.MaxPitch.Tooltip">螺旋桨桨叶的桨距设定值,根据桨叶控制类型,用于确定固定桨距或最大桨距。</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.PropellerAssemblyData.PitchControlType.Fixed">固定</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
-   <s id="Parts.PropellerAssemblyData.PitchControlType.Label">桨叶控制</s>
+   <s id="Parts.PropellerAssemblyData.PitchControlType.Label">桨距控制</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.PropellerAssemblyData.PitchControlType.Manual">手动</s>
    <!-- Tooltip Font:Primary ; no length limit -->
-   <s id="Parts.PropellerAssemblyData.PitchControlType.Tooltip">桨叶桨距可以是固定的,也可以在飞行过程中通过输入控制器进行控制。</s>
+   <s id="Parts.PropellerAssemblyData.PitchControlType.Tooltip">桨距可以是固定的,也可以在飞行过程中通过输入控制器进行控制。</s>
    <!-- Rec:20 Max:22 Font:Primary ; property label -->
    <s id="Parts.PropellerAssemblyData.ReverseBladeDirection.Label">反转桨叶</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -11354,6 +11494,10 @@
    <s id="Parts.ResizableWheelData.DirectionReverse.Label">已反转</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Parts.ResizableWheelData.DirectionReverse.Tooltip">改变施加电机输入时车轮的旋转方向。</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.ResizableWheelData.EnableSuspension.Enabled">启用</s>
+   <!-- Rec:10 Max:14 Font:Primary ; spinner / dropdown value -->
+   <s id="Parts.ResizableWheelData.EnableSuspension.Disabled">禁用</s>
    <!-- Rec:11 Max:11 Font:Primary ; part modifier spinner property label -->
    <s id="Parts.ResizableWheelData.EnableSuspension.Label">悬挂</s>
    <!-- Rec:20 Max:27 Font:Primary ; section header -->
@@ -11956,6 +12100,8 @@
    <s id="PlanetModifier.ColorBands.BandLowerBlendTooltip">色带的下混合权重。这是用于向下方色带混合一半的权重值。</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="PlanetModifier.ColorBands.BandUpperBlendTooltip">色带的上混合权重。这是用于向上方色带混合一半的权重值。</s>
+   <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
+   <s id="PlanetModifier.ColorBands.ColorBandsLabel">色带</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
    <s id="PlanetModifier.ColorBands.GenerateColorBandsLabel">生成色带</s>
    <!-- Rec:14 Max:17 Font:Primary ; vertex-data flyout label -->
@@ -12625,6 +12771,12 @@
    <!-- Tooltip ; no length limit -->
    <!-- Toast Font:Primary ; no length limit -->
    <s id="PlanetStudio.Movement.CameraLookSwapped">相机视角左右查看与滚转已互换。</s>
+   <!--  -->
+   <s id="PlanetStudio.Movement.Mode.RotatePlanet">旋转行星</s>
+   <!--  -->
+   <s id="PlanetStudio.Movement.Mode.RotateCamera">旋转摄像机</s>
+   <!--  -->
+   <s id="PlanetStudio.Movement.Mode.MoveCamera">移动摄像机</s>
    <!-- Toast Font:Primary ; no length limit -->
    <s id="PlanetStudio.Movement.ModeChangedFormat">移动模式已更改:{0}</s>
    <!-- Rec:18 Max:26 Font:Primary ; inspector property label shared by Planet Studio noise feature flyouts -->
@@ -14113,18 +14265,32 @@
    <s id="Settings.ControlSettings.MobileFirstTimeMessage">Juno: New Origins 的移动版无需额外的键盘或控制器即可充分享受游戏。\n\n对于希望使用这些设备的玩家,此对话框可以配置这些控制。</s>
    <!-- Font:Primary -->
    <s id="Settings.Craft.CraftReflectionsQuality.None">无</s>
+   <!--  -->
+   <s id="Settings.Craft.CraftReflectionsQuality.None.Description">载具部件的表面不会反射任何光线。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.CraftReflectionsQuality.Realtime">实时</s>
+   <!--  -->
+   <s id="Settings.Craft.CraftReflectionsQuality.Realtime.Description">高反射度的载具部件会实时反射周围环境。启用此选项可能会对性能产生极大影响.</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.CraftReflectionsQuality.Static">静态</s>
+   <!--  -->
+   <s id="Settings.Craft.CraftReflectionsQuality.Static.Description">高反射度的载具部件会使用模糊的静态图像,给人一种部件反射周围环境的错觉,但实际上并不会反射。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.DetailTextureQuality.Disabled">禁用</s>
+   <!--  -->
+   <s id="Settings.Craft.DetailTextureQuality.Disabled.Description">细节纹理将不会用于载具部件.</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.DetailTextureQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Craft.DetailTextureQuality.High.Description">高分辨率纹理将用于载具部件的细节纹理处理</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.DetailTextureQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Craft.DetailTextureQuality.Low.Description">低分辨率纹理将用于载具部件的细节纹理处理</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.DetailTextureQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Craft.DetailTextureQuality.Medium.Description">中等分辨率纹理将用于载具部件的细节纹理处理</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Craft.DetailTextures">细节纹理</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14149,12 +14315,20 @@
    <s id="Settings.Craft.MaxCraftLights.Zero">0</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.NormalMapQuality.Disabled">禁用</s>
+   <!--  -->
+   <s id="Settings.Craft.NormalMapQuality.Disabled.Description">载具零件将不会使用法线贴图。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.NormalMapQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Craft.NormalMapQuality.High.Description">载具零件的法线贴图将使用高分辨率纹理。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.NormalMapQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Craft.NormalMapQuality.Low.Description">载具零件的法线贴图将使用低分辨率纹理。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Craft.NormalMapQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Craft.NormalMapQuality.Medium.Description">载具零件的法线贴图将使用中等分辨率纹理。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Craft.NormalMaps">法线贴图</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14196,14 +14370,24 @@
    <s id="Settings.Display.AntiAliasing.Description">抗锯齿有助于平滑像素化边缘。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Display.AntiAliasingType.FXAA">FXAA</s>
+   <!--  -->
+   <s id="Settings.Display.AntiAliasingType.FXAA.Description">将使用快速近似抗锯齿技术。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Display.AntiAliasingType.MSAA2">MSAA x2</s>
+   <!--  -->
+   <s id="Settings.Display.AntiAliasingType.MSAA2.Description">将使用2倍多采样抗锯齿技术。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Display.AntiAliasingType.MSAA4">MSAA x4</s>
+   <!--  -->
+   <s id="Settings.Display.AntiAliasingType.MSAA4.Description">将使用4倍多采样抗锯齿技术。.</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Display.AntiAliasingType.MSAA8">MSAA x8</s>
+   <!--  -->
+   <s id="Settings.Display.AntiAliasingType.MSAA8.Description">将使用8倍多采样抗锯齿技术。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Display.AntiAliasingType.None">无</s>
+   <!--  -->
+   <s id="Settings.Display.AntiAliasingType.None.Description">不使用抗锯齿技术。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Display.Fullscreen">全屏</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14244,9 +14428,13 @@
    <s id="Settings.Explosions.Colliders.Description">设置碎片物理碰撞体的质量。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.CollidersQuality.Off">关</s>
+   <!--  -->
+   <s id="Settings.Explosions.CollidersQuality.Off.Description">爆炸碎片的碰撞箱被禁用。它们会直接穿过物体,但性能会更好。</s>
    <s id="Settings.Explosions.CollidersQuality.Off">关闭</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.CollidersQuality.On">开启</s>
+   <!--  -->
+   <s id="Settings.Explosions.CollidersQuality.On.Description">爆炸碎片将包含一个物理碰撞箱。它不会穿过物体</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Explosions.DebrisLifeTime">碎片存活时间</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14257,24 +14445,40 @@
    <s id="Settings.Explosions.DebrisRetention.Description">我们将丢弃小于一定尺寸的碎片(由该设置决定)。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.DebrisRetentionQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Explosions.DebrisRetentionQuality.High.Description">只有较小的碎片才会被丢弃。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.DebrisRetentionQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Explosions.DebrisRetentionQuality.Low.Description">碎片被大量丢弃,包括中等大小和一些较大的碎片.</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.DebrisRetentionQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Explosions.DebrisRetentionQuality.Medium.Description">丢弃的大碎片较少,但仍会丢弃一些中等碎片。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.DebrisRetentionQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Explosions.DebrisRetentionQuality.Ultra.Description">与高设置类似,但某些原本不会产生碎片的部件现在也会产生碎片。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Explosions.PartFracturing">部件碎裂</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.Explosions.PartFracturing.Description">控制部件爆炸后碎片的尺寸和数量。碎片越大意味着数量越少,因此能提高性能。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.PartFracturingSizeQuality.Large">大</s>
+   <!--  -->
+   <s id="Settings.Explosions.PartFracturingSizeQuality.Large.Description">部件会碎裂成更少,更大的碎片。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.PartFracturingSizeQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Explosions.PartFracturingSizeQuality.Medium.Description">部件会碎裂成更多,更小的碎片。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.PartFracturingSizeQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.Explosions.PartFracturingSizeQuality.Off.Description">爆炸后的部件不会碎裂成更小的碎片。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.PartFracturingSizeQuality.Small">小</s>
+   <!--  -->
+   <s id="Settings.Explosions.PartFracturingSizeQuality.Small.Description">部件会碎裂成许多更小的碎片。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Explosions.ParticleEffect">粒子效果质量</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14293,8 +14497,12 @@
    <s id="Settings.Explosions.ParticleEffectLightFrequency.Warning">以小幅度增加灯光数量,观察您的系统能否处理。它对性能有很大影响,可能导致游戏无响应。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.ParticleEffectQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Explosions.ParticleEffectQuality.High.Description">更高质量的着色器,响应光照条件并具有体积效果。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Explosions.ParticleEffectQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Explosions.ParticleEffectQuality.Medium.Description">性能消耗较低的粒子效果着色器。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings category title -->
    <s id="Settings.Explosions.Title">爆炸</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -14365,12 +14573,20 @@
    <s id="Settings.General.Language.Description">语言</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.General.MobileFileLoggingType.Full">完整</s>
+   <!--  -->
+   <s id="Settings.General.MobileFileLoggingType.Full.Description">所有日志信息将在加载画面期间记录并写入文件。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.General.MobileFileLoggingType.Minimal">最小</s>
+   <!--  -->
+   <s id="Settings.General.MobileFileLoggingType.Minimal.Description">错误和警告将在加载画面期间记录并写入文件。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.General.MobileFileLoggingType.None">无</s>
+   <!--  -->
+   <s id="Settings.General.MobileFileLoggingType.None.Description">游戏初始化后将不会进行文件日志记录。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.General.MobileFileLoggingType.Realtime">实时</s>
+   <!--  -->
+   <s id="Settings.General.MobileFileLoggingType.Realtime.Description">所有日志信息将在收到时实时记录并写入文件。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.General.RunInBackground">后台运行</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14435,36 +14651,68 @@
    <s id="Settings.ImageEffects.Title">图像效果</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Alien">异星</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Alien.Description">瞎眼,几乎无法使用,但很有趣。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Blue">仅蓝色</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Blue.Description">灰度但带有一丝色彩。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Cartoon">卡通</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Cartoon.Description">鲜艳的色彩和蓝色草地,那美克星,我们来了！</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Dream">梦幻</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Dream.Description">褪色的粉色,让你感觉置身于梦幻流行音乐视频中。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Dystopian">反乌托邦</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Dystopian.Description">黑暗而阴森,孤独化作色彩。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Faded">褪色</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Faded.Description">所有颜色都褪去,像雨天一样悲伤。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Fantasy">幻想</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Fantasy.Description">鲜艳而温暖,准备好屠龙了。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Gray">灰度</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Gray.Description">以防你懒得直接调低饱和度。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Green">仅绿色</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Green.Description">灰度但带有一丝色彩。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.None">无</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.None.Description">默认色调映射。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.OldCamera">旧相机</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.OldCamera.Description">深绿色和蓝色,光是看着就觉得自己老了。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.OldPhoto">旧照片</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.OldPhoto.Description">类似老照片的棕褐色调。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.OldVideo">旧录像</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.OldVideo.Description">过饱和,明亮,高对比度,就像一台老式电视机。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Red">仅红色</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Red.Description">灰度但带有一丝色彩。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Retro">复古</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Retro.Description">类似于早期游戏主机,使用有限的颜色范围。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.ImageEffects.ToneMap.Western">西部</s>
+   <!--  -->
+   <s id="Settings.ImageEffects.ToneMap.Western.Description">准备好你的马和最棒的帽子吧。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.ImageEffects.Tonemapping">色调映射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14593,10 +14841,16 @@
    <s id="Settings.Physics.FpsSpikeReduction.Description">让物理模拟减慢而非降低帧率。启用后,在剧烈物理效果(如碰撞)期间,或加载了非常大的载具时,载具可能会出现减速现象。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.FramerateSpikeReductionQuality.Aggressive">激进</s>
+   <!--  -->
+   <s id="Settings.Physics.FramerateSpikeReductionQuality.Aggressive.Description">与默认设置相同,但减速会更早触发。在较快的电脑上可能获得更平滑的帧率,但在较慢的电脑上可能会过度减慢物理模拟速度。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.FramerateSpikeReductionQuality.Default">默认</s>
+   <!--  -->
+   <s id="Settings.Physics.FramerateSpikeReductionQuality.Default.Description">在极端卡顿期间,物理模拟速度将减慢,以使帧率恢复。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.FramerateSpikeReductionQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.Physics.FramerateSpikeReductionQuality.Off.Description">物理模拟不会减慢。因此,使用大型载具时可能会遇到极端帧率下降。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Physics.PartLiftForces">部件升力</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14607,20 +14861,32 @@
    <s id="Settings.Physics.PhysicsDistance.Description">其他载具物理效果启用的距离(以米为单位)。注意,在远离活动载具处加载的载具可能会抖动并变得不稳定。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.High.Description">默认更新频率。所有载具应按设计者预期运行。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Low.Description">最佳性能,但某些载具可能无法按设计者预期运行。载具可能出现结构问题,尤其是承重部件(如自定义起落架)。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
 <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Medium.Description">大多数载具应按设计者预期运行。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Physics.PhysicsUpdateFrequencyQuality.Ultra.Description">最高的更新频率,但CPU占用也最大。即使在较快的电脑上,大型载具也可能显著降低帧率。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Physics.RagdollPhysics">布娃娃物理</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.Physics.RagdollPhysics.Description">设置布娃娃物理模拟的质量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.RagdollPhysicsQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Physics.RagdollPhysicsQuality.High.Description">标准的布娃娃物理质量设置。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.RagdollPhysicsQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Physics.RagdollPhysicsQuality.Ultra.Description">与标准设置相同,但布娃娃动画与物理周期同步更新。防止在极端机动时布娃娃分离。多个布娃娃时非常消耗性能,不建议使用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings category title -->
    <s id="Settings.Physics.Title">物理</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -14633,10 +14899,16 @@
    <s id="Settings.Physics.WaterPhysics.Description">设置水体物理模拟的质量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.WaterPhysicsQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Physics.WaterPhysicsQuality.High.Description">进行更多的数值计算,使物体在水面静止时更加稳定。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.WaterPhysicsQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Physics.WaterPhysicsQuality.Low.Description">仅做最低限度的计算来使物体浮起。载具在水面可能更容易弹跳和摇晃,我们不会计算精确的浸没百分比。力按刚体施加。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Physics.WaterPhysicsQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Physics.WaterPhysicsQuality.Medium.Description">进行额外的处理来计算精确的浸没百分比。力按每个部件施加。</s>
    <!-- Rec:12 Max:16 Font:Primary ; medium button label -->
    <s id="Settings.Quality">画质</s>
    <!-- Tooltip ; no length limit -->
@@ -14668,12 +14940,20 @@
    <s id="Settings.Shadows.ShadowDistance.Description">调整绘制阴影的最大距离。这也会影响阴影的分辨率。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Shadows.ShadowDistanceQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Shadows.ShadowDistanceQuality.High.Description">高分辨率阴影,最大绘制距离较远。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Shadows.ShadowDistanceQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Shadows.ShadowDistanceQuality.Low.Description">低分辨率阴影,最大绘制距离较短。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Shadows.ShadowDistanceQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Shadows.ShadowDistanceQuality.Medium.Description">中等分辨率阴影,最大绘制距离适中。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Shadows.ShadowDistanceQuality.VeryHigh">很高</s>
+   <!--  -->
+   <s id="Settings.Shadows.ShadowDistanceQuality.VeryHigh.Description">与"高"设置的最大绘制距离相同,但如果GPU支持,则使用更高分辨率的阴影。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Shadows.TerrainReceivesShadows">地形接收阴影</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14684,12 +14964,20 @@
    <s id="Settings.TabMods">模组</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.CloudQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.CloudQuality.High.Description">所有云层合并到一个球体上，并在自身和地形上投射阴影。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.CloudQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.CloudQuality.Medium.Description">所有云层合并到一个球体上，不投射阴影。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.CloudQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.Terrain.CloudQuality.Off.Description">假云层不会被渲染。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.CloudQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Terrain.CloudQuality.Ultra.Description">每个云层在其独立的球体上渲染，并在自身和地形上投射阴影。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.Clouds">假云层</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14702,10 +14990,16 @@
    <s id="Settings.Terrain.GeometryDetail.Description">生成和渲染地形几何体时使用的细节级别。这可能对性能产生重大影响。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.GeometryDetailQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.GeometryDetailQuality.High.Description">根据地形的几何细节使用最高设置。这可能会大幅增加地形加载时间、内存消耗和渲染速度，具体取决于星球。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.GeometryDetailQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Terrain.GeometryDetailQuality.Low.Description">根据地形的几何细节使用最低设置。这有助于减少地形加载时间、内存消耗和渲染速度，但每个星球可能有所不同。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.GeometryDetailQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.GeometryDetailQuality.Medium.Description">根据地形的几何细节使用中等设置。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.LodDistance">LOD距离</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14716,18 +15010,32 @@
    <s id="Settings.Terrain.MaxParticles.Description">飞行场景中所有效果(引擎烟雾,地形尘埃,火花)同时存活的最大粒子数量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.High.Description">远处的星球和地图视图中的星球将使用低分辨率纹理和法线贴图。当前星球(飞行中和地图视图中)以及主菜单将使用更高分辨率的纹理。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.Low.Description">远处的星球、地图视图中的星球和主菜单中的星球将使用低分辨率纹理。不会使用法线贴图。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.Medium.Description">远处的星球、地图视图中的星球和主菜单中的星球将使用低分辨率纹理和法线贴图。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
-   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级机制ProMax</s>
+   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro">超级极致ProMax</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.MegaUltraPro.Description">这将使用8k纹理，你确定要这么做吗？生成它们需要一段时间，所以最好让它运行一整夜。确保你的GPU至少有6GB显存用于原版星系，更大星系需要更多，否则你会频繁崩溃。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.Ultra.Description">远处的星球和地图视图中的星球将使用低分辨率纹理(包括悬崖和法线贴图)。当前星球(飞行中和地图视图中)将使用2k分辨率纹理，主菜单中使用高分辨率纹理。这可能会非常慢，尤其是在低端设备上，需要数小时，并需要大量内存、显存和磁盘空间。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro">超级高</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.UltraPro.Description">远处的星球和地图视图中的星球将使用低分辨率纹理(包括悬崖和法线贴图)。当前星球(飞行中和地图视图中)将使用4k分辨率纹理，主菜单中使用高分辨率纹理。这可能会非常慢，尤其是在低端设备上，需要数小时，并需要大量内存、显存和磁盘空间。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.PlanetCubemapQuality.VeryHigh">很高</s>
+   <!--  -->
+   <s id="Settings.Terrain.PlanetCubemapQuality.VeryHigh.Description">远处的星球和地图视图中的星球将使用低分辨率纹理(包括悬崖和法线贴图)。当前星球(飞行中和地图视图中)将使用非常高分辨率纹理，主菜单中使用高分辨率纹理。这可能会非常慢，尤其是在低端设备上，需要数小时，并需要大量内存、显存和磁盘空间。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.PlanetCubemaps">星球立方体贴图</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14748,34 +15056,60 @@
    <s id="Settings.Terrain.StructureDetail.Description">加载地形上的建筑时使用的细节级别。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.StructureDetailQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.StructureDetailQuality.High.Description">建筑的所有组件都将被加载。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.StructureDetailQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Terrain.StructureDetailQuality.Low.Description">仅加载建筑的必要组件。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.StructureDetailQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.StructureDetailQuality.Medium.Description">加载建筑的大部分组件。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.StructureNormalMapQuality.Off">禁用</s>
+   <!--  -->
+   <s id="Settings.Terrain.StructureNormalMapQuality.Off.Description">地形相关建筑(如发射台、跑道和建筑物)将不会使用法线贴图。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.StructureNormalMapQuality.On">启用</s>
+   <!--  -->
+   <s id="Settings.Terrain.StructureNormalMapQuality.On.Description">地形相关建筑(如发射台、跑道和建筑物)将尽可能使用法线贴图。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.StructureNormalMaps">建筑法线贴图</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.Terrain.StructureNormalMaps.Description">启用或禁用与地形相关的建筑(如发射台,跑道和建筑物)上的法线贴图。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.TerrainParticleQuality.High.Description">每个生成器产生大量粒子。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.Terrain.TerrainParticleQuality.Low.Description">每个生成器产生少量粒子。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.TerrainParticleQuality.Medium.Description">每个生成器产生中等数量的粒子。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.Off">禁用</s>
+   <!--  -->
+   <s id="Settings.Terrain.TerrainParticleQuality.Off.Description">地形尘埃粒子被禁用。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TerrainParticleQuality.Ultra">极高</s>
+   <!--  -->
+   <s id="Settings.Terrain.TerrainParticleQuality.Ultra.Description">每个生成器产生最大数量的粒子。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TextureQuality.Blended">高</s>
+   <!--  -->
+   <s id="Settings.Terrain.TextureQuality.Blended.Description">应用于星球表面的纹理将使用高质量距离混合。这提供了最佳的表面细节，但可能比其他方法更慢。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TextureQuality.BlendedFast">中</s>
+   <!--  -->
+   <s id="Settings.Terrain.TextureQuality.BlendedFast.Description">距离混合将应用于星球表面的纹理。这种方法可能在混合层级之间产生一些视觉伪影。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Terrain.TextureQuality.Off">禁用</s>
+   <!--  -->
+   <s id="Settings.Terrain.TextureQuality.Off.Description">纹理将不会应用于星球表面。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Terrain.Textures">纹理</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14796,10 +15130,16 @@
    <s id="Settings.User.AnalyticsConsent.MoreInfo">更多信息</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.User.AnalyticsState.Disabled">已禁用</s>
+   <!--  -->
+   <s id="Settings.User.AnalyticsState.Disabled.Description">您已选择退出数据分析。在您重新选择加入之前，它们将保持禁用状态。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.User.AnalyticsState.DisabledPendingConsent">等待同意中已禁用</s>
+   <!--  -->
+   <s id="Settings.User.AnalyticsState.DisabledPendingConsent.Description">您尚未就数据分析做出选择。在您选择加入之前，它们将保持禁用状态。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.User.AnalyticsState.Enabled">已启用</s>
+   <!--  -->
+   <s id="Settings.User.AnalyticsState.Enabled.Description">您已选择加入数据分析。可能会收集匿名数据以改善游戏体验。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.User.PrivacyOptions">隐私选项</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14810,22 +15150,36 @@
    <s id="Settings.User.Title">用户</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AnisotropicFilteringMode.Disabled">禁用</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.AnisotropicFilteringMode.Disabled.Description">各向异性过滤将永远不会被使用。在陡峭视角下纹理可能会显得模糊。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AnisotropicFilteringMode.ForcedOn">始终</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AnisotropicFilteringMode.ForcedOn.Description">各向异性过滤将始终启用。这可以改善纹理在陡峭视角下的显示效果。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AnisotropicFilteringMode.PerTexture">启用</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AnisotropicFilteringMode.PerTexture.Description">各向异性过滤将用于部分纹理而非全部纹理。对于使用该效果的纹理，可以改善其在陡峭视角下的显示效果。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.Atmosphere">大气</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.VisualEffects.Atmosphere.Description">设置大气渲染的质量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AtmosphereQuality.High">高</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AtmosphereQuality.High.Description">应用高质量的大气渲染效果。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AtmosphereQuality.Low">低</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AtmosphereQuality.Low.Description">应用低质量的大气渲染效果。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AtmosphereQuality.Off">关闭</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AtmosphereQuality.Off.Description">不应用大气渲染效果。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.AtmosphereQuality.Ultra">极致</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.AtmosphereQuality.Ultra.Description">使用更加细分的网格，消除大气边缘的镶嵌处理。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.DesignerLightingPartThreshold">设计器灯光质量部件阈值</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14834,10 +15188,16 @@
    <s id="Settings.VisualEffects.DesignerLightingPartThreshold.NoLimit">无限制</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ExplosionQuality.High">高</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.ExplosionQuality.High.Description">爆炸将拥有全部视觉效果，包括点光源和冲击波。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ExplosionQuality.Low">低</s>
+    <!--  -->
+   <s id="Settings.VisualEffects.ExplosionQuality.Low.Description">爆炸将拥有最低限度的视觉效果。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ExplosionQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ExplosionQuality.Medium.Description">爆炸将拥有除最耗性能之外的大部分视觉效果。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.Explosions">爆炸效果</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14848,8 +15208,12 @@
    <s id="Settings.VisualEffects.HeatDistortion.Description">启用或禁用喷气引擎上的热浪效果。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.HeatDistortionQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.HeatDistortionQuality.Off.Description">热浪效果将被禁用。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.HeatDistortionQuality.On">开启</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.HeatDistortionQuality.On.Description">热浪效果将被启用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.LaunchSteam">发射蒸汽</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14860,16 +15224,24 @@
    <s id="Settings.VisualEffects.Lighting.Description">光照质量改变游戏中大多数表面光照应用的精确度。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.LightingQualitySettingType.High">高</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.LightingQualitySettingType.High.Description">高质量光照可以改善游戏的整体外观，但会增加图形负载，在较弱的GPU上可能会降低帧率。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.LightingQualitySettingType.Low">低</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.LightingQualitySettingType.Low.Description">低质量光照可降低图形负载，在较弱的GPU上可以提升帧率。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.MainMenuSun">主菜单太阳</s>
    <!-- Tooltip Font:Primary ; no length limit -->
    <s id="Settings.VisualEffects.MainMenuSun.Description">设置主菜单中太阳的视觉效果质量。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.MenuSunQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.MenuSunQuality.High.Description">主菜单中的太阳将呈现我们所能达到的最精致效果。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.MenuSunQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.MenuSunQuality.Low.Description">主菜单中的太阳效果将不会很精致。</s>
    <!--  -->
    <s id="Settings.VisualEffects.ReEntryExtraEffects.Description">附近非玩家载具和大型碎片的再入等离子体效果(为主载具效果的一半分辨率)的的最大数量,设置为零可禁用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
@@ -14880,16 +15252,28 @@
    <s id="Settings.VisualEffects.ReEntryPlasmaBias">再入效果阈值</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.Off.Description">再入和蒸汽尾迹效果将被禁用。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Legacy">旧版</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.Legacy.Description">旧版屏幕空间遮罩管线。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.Low.Description">低分辨率的气流管线。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.Medium.Description">中等分辨率的气流管线。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.High.Description">高分辨率的气流管线。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.ReEntryQuality.Ultra">极致</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.ReEntryQuality.Ultra.Description">极致网格密度的气流管线(PC)。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.ReEntryVaporTrails">再入/蒸汽尾迹</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14900,18 +15284,32 @@
    <s id="Settings.VisualEffects.Skybox.Description">设置天空盒的分辨率。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.SkyboxQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.SkyboxQuality.High.Description">适合那些希望降低视野或在大屏幕上游戏的玩家，采用8k分辨率。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.SkyboxQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.SkyboxQuality.Medium.Description">4k天空盒，在低视野或大屏幕上会有些许像素化，但星星不再呈方块状。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.SkyboxQuality.Ultra">极致</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.SkyboxQuality.Ultra.Description">16k分辨率，适合在4k显示器上游玩的玩家或制作望远镜的玩家。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.TireTrackQuality.High">高</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.TireTrackQuality.High.Description">最大轮胎痕迹长度。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.TireTrackQuality.Low">低</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.TireTrackQuality.Low.Description">较短的轮胎痕迹长度。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.TireTrackQuality.Medium">中</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.TireTrackQuality.Medium.Description">中等轮胎痕迹长度。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.VisualEffects.TireTrackQuality.Off">关闭</s>
+   <!--  -->
+   <s id="Settings.VisualEffects.TireTrackQuality.Off.Description">轮胎痕迹将被禁用。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.VisualEffects.TireTracks">胎痕</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -14929,16 +15327,28 @@
    <s id="Settings.Warning.StandardPerformance">此设置不适用于你的设备,不受官方支持。游戏性能可能会受到严重影响,或者可能完全无法运行。请自行承担风险。</s>
    <!-- Font:Primary -->
    <s id="Settings.Water.NormalMapQuality.Basic">低</s>
+   <!--  -->
+   <s id="Settings.Water.NormalMapQuality.Basic.Description">水面将使用非常基础的法线贴图。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.NormalMapQuality.Blended">高</s>
+   <!--  -->
+   <s id="Settings.Water.NormalMapQuality.Blended.Description">水面的法线贴图将使用高质量距离混合。这为水面提供了最佳的表面细节。</s>
    <!-- Rec:10 Max:12 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.NormalMapQuality.BlendedFast">中</s>
+   <!--  -->
+   <s id="Settings.Water.NormalMapQuality.BlendedFast.Description">水面的法线贴图将使用距离混合。这与高质量选项采用相同的方法，但在水面可能会产生一些视觉伪影。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.ReflectionQuality.CraftAndTerrain">载具和地形</s>
+   <!--  -->
+   <s id="Settings.Water.ReflectionQuality.CraftAndTerrain.Description">水面将反射载具、粒子效果和周围地形。这可能会对性能产生显著影响。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.ReflectionQuality.CraftOnly">仅载具</s>
+   <!--  -->
+   <s id="Settings.Water.ReflectionQuality.CraftOnly.Description">水面将仅反射载具和粒子效果。</s>
    <!-- Rec:10 Max:14 Font:Primary ; settings spinner / dropdown value -->
    <s id="Settings.Water.ReflectionQuality.None">无</s>
+   <!--  -->
+   <s id="Settings.Water.ReflectionQuality.None.Description">水面不会反射任何内容。</s>
    <!-- Rec:20 Max:22 Font:Primary ; settings property label -->
    <s id="Settings.Water.Reflections">反射</s>
    <!-- Tooltip Font:Primary ; no length limit -->
@@ -15099,6 +15509,10 @@
    <s id="Tutorial.MouseClick.LeftLower">左</s>
    <!-- Rec:6 Max:10 Font:Primary ; lowercase mouse-button name used in tutorial instruction text -->
    <s id="Tutorial.MouseClick.RightLower">右</s>
+   <!--  -->
+   <s id="Tutorial.PartProperties.ClosePanel">很棒！现在点击左上角的X来关闭面板。</s>
+   <!--  -->
+   <s id="Tutorial.PartProperties.ClickPartProperties">点击左侧的部件属性按钮。</s>
    <!-- Rec:6 Max:10 Font:Primary ; uppercase mouse-button name used in tutorial instructions; substituted via .ToUpper() in code -->
    <s id="Tutorial.MouseClick.Left">左</s>
    <!-- Rec:6 Max:10 Font:Primary ; uppercase mouse-button name used in tutorial instructions -->
@@ -18349,3 +18763,4 @@
    <!--  -->
    <s id="Wing.CustomDragCoefficientsDisabled">此生涯模式不允许使用自定义阻力系数。</s>
 </Strings>
+
