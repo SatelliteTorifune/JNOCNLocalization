@@ -1465,6 +1465,7 @@
    <s id="Career.Contracts.SPE-Structure.Name">Esperanza空间港</s>
    <s id="Career.Contracts.SPE-Structure.FlairText">空间站</s>
    <s id="Career.Contracts.SPE-Structure.Short">扩展Esperanza空间港。</s>
+   <s id="Career.Contracts.SPE-Structure.Subtitle">@Name</s>
    <s id="Career.Contracts.SPE-Structure.Long">把 @Name 对接到Esperanza空间港。&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果能避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <s id="Career.Contracts.SPE-Fuel-Core.Name">Esperanza空间港</s>
    <s id="Career.Contracts.SPE-Fuel-Core.Subtitle">燃料库舱段</s>
@@ -1474,6 +1475,7 @@
    <s id="Career.Contracts.SPE-Fuel-Ballz.Name">Esperanza空间港</s>
    <s id="Career.Contracts.SPE-Fuel-Ballz.FlairText">空间站</s>
    <s id="Career.Contracts.SPE-Fuel-Ballz.Short">扩展Esperanza空间港。</s>
+   <s id="Career.Contracts.SPE-Fuel-Ballz.Subtitle">@Name 燃料球</s>
    <s id="Career.Contracts.SPE-Fuel-Ballz.Long">把 @Name 燃料球对接到燃料库核心。这些燃料球有独特的对接口,所以请确保对接到燃料库核心上!&lt;br&gt;&lt;br&gt;我们不喜欢在Droo周围留下碎片,如果可以避免的话。确保安全地把你的尾段分级离轨处理掉!</s>
    <s id="Career.Contracts.Race-Air-2.Name">Cutting Corners 空中竞赛</s>
    <s id="Career.Contracts.Race-Air-2.Subtitle">第 @TitleNumber轮</s>
