@@ -2188,10 +2188,10 @@
    <s id="Common.Unlimited">无限</s>
    <s id="Common.Yes">是</s>
    <s id="Craft.LoadError.LoadFailed">尝试加载载具时出错。</s>
-   <s id="Craft.LoadError.MissingPartTypesFormat">缺少的零件种类:&amp;#10;{0}</s>
+   <s id="Craft.LoadError.MissingPartTypesFormat">缺少的零件种类:&#10;{0}</s>
    <s id="Craft.LoadError.MissingPartsFormat">未能加载由{1}种不同部件类型组成的{0}个部件。</s>
    <s id="Craft.LoadError.ModifierFailuresFormat">未能加载位于{1}种不同类型中的{0}个部件属性.</s>
-   <s id="Craft.LoadError.ModifierTypesFormat">部件属性类型:&amp;#10;{0}</s>
+   <s id="Craft.LoadError.ModifierTypesFormat">部件属性类型:&#10;{0}</s>
    <s id="Craft.LoadNewerVersion.LoadButton">加载载具</s>
    <s id="Craft.LoadNewerVersion.MessageFormat">此载具需要更新版本的游戏,否则可能无法正常加载。请检查您的应用商店并下载最新版本的{0}。您是否仍想尝试加载?</s>
    <s id="Crew.Assignment.CrewFull">你的乘员已经达到最大上限。可以在科技树中解锁更多乘员。</s>
