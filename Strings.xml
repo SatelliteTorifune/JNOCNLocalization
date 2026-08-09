@@ -9045,7 +9045,7 @@
    <s id="Vizzy.Toolbox.Format.op-eq">(0:Number) = (1:Number)</s>
    <s id="Vizzy.Toolbox.Format.op-exp">(0:Number) ^ (1:Number)</s>
    <s id="Vizzy.Toolbox.Format.op-gt">(0:Number) &gt; (1:Number)</s>
-   <s id="Vizzy.Toolbox.Format.op-gte">(0:Number) &gt; (1:Number)</s>
+   <s id="Vizzy.Toolbox.Format.op-gte">(0:Number) &gt;= (1:Number)</s>
    <s id="Vizzy.Toolbox.Format.op-lt">(0:Number) &lt; (1:Number)</s>
    <s id="Vizzy.Toolbox.Format.op-lte">(0:Number) &lt;= (1:Number)</s>
    <s id="Vizzy.Toolbox.Format.op-math">(0:Number)的[x]</s>
