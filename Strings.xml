@@ -2663,10 +2663,10 @@
    <s id="Design.ToolPanel.FuselageShape.AddSection.Text">增加段</s>
    <s id="Design.ToolPanel.FuselageShape.ChangePartSelection.Tooltip">更换所选零件</s>
    <s id="Design.ToolPanel.FuselageShape.ChangeSelection.Tooltip">更换所选</s>
-   <s id="Design.ToolPanel.FuselageShape.Clamp1.Text">Clamp 1</s>
-   <s id="Design.ToolPanel.FuselageShape.Clamp2.Text">Clamp 2</s>
-   <s id="Design.ToolPanel.FuselageShape.Clamp3.Text">Clamp 3</s>
-   <s id="Design.ToolPanel.FuselageShape.Clamp4.Text">Clamp 4</s>
+   <s id="Design.ToolPanel.FuselageShape.Clamp1.Text">切边 1</s>
+   <s id="Design.ToolPanel.FuselageShape.Clamp2.Text">切边 2</s>
+   <s id="Design.ToolPanel.FuselageShape.Clamp3.Text">切边 3</s>
+   <s id="Design.ToolPanel.FuselageShape.Clamp4.Text">切边 4</s>
    <s id="Design.ToolPanel.FuselageShape.Corner1.Text">角 1</s>
    <s id="Design.ToolPanel.FuselageShape.Corner2.Text">角 2</s>
    <s id="Design.ToolPanel.FuselageShape.Corner3.Text">角 3</s>
