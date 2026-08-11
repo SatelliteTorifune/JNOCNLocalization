@@ -8081,8 +8081,8 @@
    <s id="Units.Mass.Abbrev.Tonne">t</s>
    <s id="Units.MassFlowRate.Abbrev.GramsPerSecond">g/s</s>
    <s id="Units.MassFlowRate.Abbrev.PoundsPerSecond">lbs/s</s>
-   <s id="Units.Memory.Abbrev.Byte">bytes</s>
-   <s id="Units.Memory.Abbrev.Bytes">B</s>
+   <s id="Units.Memory.Abbrev.Byte">B</s>
+   <s id="Units.Memory.Abbrev.Bytes">bytes</s>
    <s id="Units.MetricPrefix.Centi">c</s>
    <s id="Units.MetricPrefix.Giga">G</s>
    <s id="Units.MetricPrefix.Kilo">k</s>
